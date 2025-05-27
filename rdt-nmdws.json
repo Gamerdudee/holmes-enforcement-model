@@ -1,0 +1,14 @@
+{
+  "name": "Royalty Debt Token - NMDWS Default",
+  "description": "Autonomous default record under the Holmes Enforcement Model. Issued to NMDWS for nonpayment of $75,000. Triggered June 12, 2025.",
+  "image": "ipfs://REPLACE_WITH_IMAGE_CID",
+  "external_url": "https://github.com/Gamerdudee/holmes-enforcement-model",
+  "attributes": [
+    { "trait_type": "Debtor", "value": "NMDWS" },
+    { "trait_type": "Amount", "value": "$75,000" },
+    { "trait_type": "Trigger Date", "value": "2025-06-12" },
+    { "trait_type": "Status", "value": "Default Triggered" },
+    { "trait_type": "Clause Violated", "value": "CU-1 (Royalty Enforcement)" },
+    { "trait_type": "Record Link", "value": "https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md" }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "clause": "CU-1",
+    "triggers": ["royalty enforcement", "silent use", "licensing breach"],
+    "amount": 75000
+  },
+  {
+    "clause": "TU-3",
+    "triggers": ["token mint", "NFT debt", "RDT issuance"],
+    "amount": 50000
+  }
+]

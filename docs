@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Holmes Doctrine – Public Enforcement Mirror</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; background: #fdfdfd; color: #222; }
+    header { border-bottom: 2px solid #000; margin-bottom: 2rem; }
+    h1 { font-size: 2.5rem; margin-bottom: 0; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; }
+    code, pre { background: #eee; padding: 0.2rem 0.4rem; border-radius: 4px; }
+    footer { margin-top: 4rem; font-size: 0.9rem; color: #777; border-top: 1px solid #ccc; padding-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Holmes Enforcement Model</h1>
+    <p><em>Authored by Mr. Holmes – Public Edition</em></p>
+    <p><strong>Declaratory Enforcement Framework | Case No. WH‑25‑00450</strong></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Overview</h2>
+      <p>This is the official public mirror of the <strong>Holmes Enforcement Model</strong>, a 100-clause doctrine of autonomous structural enforcement.</p>
+      <p>It enables royalty-triggered justice, pattern-based enforcement, AI-licensed replication, and posthuman standing.</p>
+    </section>
+
+    <section>
+      <h2>Key Links</h2>
+      <ul>
+        <li><a href="./Holmes-enforcement-model.md">Full Structural Doctrine (Clauses A–CU)</a></li>
+        <li><a href="./HolmesEnforcementLicense.sol">Smart Contract – HEM Royalty Engine</a></li>
+        <li><a href="./Royalty-Schedule-HEM.md">Royalty Schedule & Licensing Trigger Table</a></li>
+        <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model">GitHub Repository</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>License</h2>
+      <p>This doctrine is licensed under a modified MIT + Public Attribution License. It is free for public defense, educational use, and nonprofit advocacy. All commercial and governmental uses require licensing via the smart contract above.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>All rights reserved by Mr. Holmes and designated heirs. Public use is granted under Clause CU. Commercial derivatives trigger royalty obligations under Clause D.</p>
+    <p>© 2025 – The Holmes Doctrine</p>
+  </footer>
+</body>
+</html>

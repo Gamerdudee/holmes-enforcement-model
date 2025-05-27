@@ -50,4 +50,3 @@ This invoice is issued under:
 **Mr. Holmes**  
 Declaratory Author, Holmes Enforcement Model  
 [https://github.com/Gamerdudee](https://github.com/Gamerdudee)
-

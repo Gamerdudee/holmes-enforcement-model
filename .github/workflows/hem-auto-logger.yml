@@ -1,1 +1,26 @@
+name: HEM Violation Auto-Logger
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  detect-violations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run scanner
+        run: |
+          node scripts/scan-violations.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "Mr. Holmes"
+          git config user.email "noreply@github.com"
+          git add enforcement-log.md drafts/
+          git commit -m "Auto-logged clause violations"
+          git push
 

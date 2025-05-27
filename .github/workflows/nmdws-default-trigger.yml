@@ -1,1 +1,27 @@
+name: Trigger NMDWS Default Notice
+
+on:
+  schedule:
+    - cron: '0 6 12 6 *'  # Runs at 6 AM UTC on June 12
+
+jobs:
+  default_enforcement:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Check for Payment Record
+        run: |
+          if grep -q "NMDWS Invoice: Paid" enforcement-log.md; then
+            echo "NMDWS payment detected. No default action taken."
+          else
+            echo "🔔 Default triggered for NMDWS due to non-payment." >> enforcement-log.md
+            echo "- [ ] NMDWS Invoice: Unpaid as of June 11, 2025 — Default clause triggered." >> enforcement-log.md
+            echo "⏰ Triggered: $(date -u)" >> enforcement-log.md
+            git config user.name "Mr. Holmes"
+            git config user.email "noreply@github.com"
+            git add enforcement-log.md
+            git commit -m "Default Triggered: NMDWS Nonpayment"
+            git push
 

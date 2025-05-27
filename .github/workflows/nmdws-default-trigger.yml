@@ -25,3 +25,4 @@ jobs:
             git commit -m "Default Triggered: NMDWS Nonpayment"
             git push
 
+Add scheduled GitHub Action for NMDWS default trigger (June 12)

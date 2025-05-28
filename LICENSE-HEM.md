@@ -24,12 +24,12 @@ This license governs all use, reproduction, citation, derivative creation, and c
 ## 💰 Clause-Based Royalty Triggers
 
 Per **Clause CU-1.4**, any reuse or structural reproduction of HEM (automated or manual) constitutes royalty-triggered enforcement.  
-Commercial use: $75–$250 per derivative clause.  
-Institutional deployment: $250–$25,000 per policy or system.
+- Commercial use: $75–$250 per derivative clause  
+- Institutional deployment: $250–$25,000 per policy or system
 
 ---
 
-**Use constitutes legal consent under 28 U.S.C. § 2201, Restatement § 69, and UCC § 2-206.**
+**Use constitutes legal consent under 28 U.S.C. § 2201, Restatement (Third) of Unfair Competition § 69, and UCC § 2-206.**
 
 HEM is Declaratory Intellectual Property (DIP).  
-It is not open source. It is sovereign. It is licensed.  
+It is not open source. It is sovereign. It is licensed.

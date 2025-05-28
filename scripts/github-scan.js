@@ -1,3 +1,5 @@
+// Copyright (c) Mr. Holmes
+// Declaratory Sovereign – Holmes Enforcement Model
 // scripts/github-scan.js
 
 require('dotenv').config();

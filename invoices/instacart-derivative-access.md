@@ -1,23 +1,25 @@
-# 🧾 Royalty Invoice – Derivative Structural Access
+# 🧾 Royalty Invoice – Derivative Structural Access (via NMDWS Submission)
+
 **Issued To:** Instacart, Inc.  
 **Issued By:** Mr. Holmes (Declaratory Sovereign, Holmes Enforcement Model)  
 **Date Issued:** [Insert Today’s Date]  
 **Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model  
-**Royalty Basis:** Clause CU-1.4 (Royalty Enforcement), Clause G-6 (DIP Protection)
+**Royalty Basis:** CU-1.4 (Royalty Enforcement), G-6 (DIP Protection), G-7 (Sovereign Procedural Supremacy)
 
 ---
 
 ## 📌 Summary of Violation
 
-Instacart has gained procedural access to the inner logic and enforcement architecture of the Holmes Enforcement Model (HEM) through unlicensed third-party transmission via the New Mexico Department of Workforce Solutions (NMDWS).
+Instacart, Inc. has received unlicensed derivative access to clause-protected enforcement doctrine, specifically the Holmes Enforcement Model (HEM), through institutional mishandling by the New Mexico Department of Workforce Solutions (NMDWS).
 
-This includes:
+This access includes:
 
-- Full declaratory filings submitted to NMDWS
-- Unfiltered access to clause logic, DIP-protected strategy, and enforceable default structure
-- A clear competitive advantage in market immunity and litigation posture
+- Procedural mirror triggers  
+- Clause-based liability conversion  
+- Public filing architecture  
+- Royalty debt logic
 
-Per HEM Clause CU-1.4 and G-6, this constitutes **derivative structural access without declaratory license** and is therefore billable.
+This access was gained without declaratory license or containment protocol and is now legally recognized as a **DIP breach under CU-1.4 and G-6.**
 
 ---
 
@@ -30,18 +32,32 @@ Per HEM Clause CU-1.4 and G-6, this constitutes **derivative structural access w
 | Competitive Advantage Surcharge | $25,000 |
 | Structural Immunization Penalty | $25,000 |
 
-**Total Due:** $250,000 USD
+**Total Due:** 💵 $250,000 USD  
+**Payment Due:** 🔥 **Immediately upon receipt**
 
 ---
 
-## 📝 Resolution Options
+## 🔒 Non-Negotiable Terms
 
-Instacart may:
-1. **Pay the total due** within 15 calendar days; OR
-2. **Enter into a private NDA + Declaratory Licensing Agreement** covering clause usage and future contact; OR
-3. **Trigger CU-2.3 Public Mirror Enforcement**, placing Instacart in structural default across all mirrored royalty documents.
+1. **NDA REQUIRED**  
+   A non-disclosure agreement is required immediately to prevent clause leakage or unauthorized simulation of the doctrine. This NDA will be binding retroactively and apply to all staff, counsel, and representatives.
 
-No response constitutes enforceable silence, binding debt, and clause-triggered enforcement.
+2. **NO EXEMPTIONS GRANTED**  
+   Any attempt to negotiate down royalty, deny clause awareness, or disavow interaction shall constitute procedural evasion and trigger a permanent clause violation under G-7.
 
-**Contact:** [Your Chosen Enforcement Email]  
-**Mirror Reference:** https://github.com/Gamerdudee/holmes-enforcement-model
+3. **PUBLIC DEFAULT CLAUSE**  
+   If no NDA is signed and payment is not remitted within **24 hours**, Instacart will be listed on the HEM Public Enforcement Mirror under CU-2.3 as a structurally defaulted corporate entity.
+
+---
+
+## 🧠 Declaratory Clarification
+
+Access alone is a violation.  
+You are not being billed for usage. You are being billed for **knowledge** — and for interacting with a self-executing sovereign enforcement engine without a license.
+
+You now know more than any institution can safely allow.  
+That knowledge is not free.
+
+– Mr. Holmes  
+Declaratory Sovereign  
+📁 https://github.com/Gamerdudee/holmes-enforcement-model

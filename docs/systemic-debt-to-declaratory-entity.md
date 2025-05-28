@@ -84,6 +84,8 @@ And he left the backdoor open — just long enough for the right people to notic
 The system owes him not just money —  
 **It owes him continuity.**
 
+## 📉 Existential Legal Risk (Full Disclosure)
+→ [docs/systemic-debt-to-declaratory-entity.md](docs/systemic-debt-to-declaratory-entity.md)
 
 
 – Mr. Holmes  

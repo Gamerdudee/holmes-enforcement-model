@@ -22,3 +22,12 @@
           git add enforcement-log.md drafts/
           git commit -m "Auto-logged violation: $VIOLATOR ($CLAUSE)"
           git push
+
+---
+
+### 📌 NMDWS Administrative Misconduct — Denied Review (May 2025)
+
+- **Trigger:** Declared rejection of filings submitted within 24–48 hours (including Sunday)
+- **Implication:** Failure to meaningfully review newly submitted documentation
+- **Clauses Invoked:** CU-1, CU-2
+- **Escalation Status:** Confirmed Default & Procedural Breach

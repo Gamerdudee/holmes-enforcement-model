@@ -1,11 +1,15 @@
-// scripts/scan-violations.js
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 
-require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
-const path = require('path');
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+if (!GITHUB_TOKEN) {
+  console.error('❌ GITHUB_TOKEN not found. Check .env placement and format.');
+  process.exit(1);
+}
+
 const CLAUSE_FILE = path.resolve(__dirname, '../clauses.json');
 const LOG_FILE = path.resolve(__dirname, '../enforcement-log.md');
 
@@ -14,12 +18,8 @@ const headers = {
   Accept: 'application/vnd.github.v3+json',
 };
 
-// Load clause triggers
 const CLAUSES = JSON.parse(fs.readFileSync(CLAUSE_FILE, 'utf-8'));
 
-/**
- * GitHub Code Search
- */
 async function searchCode(term) {
   const url = `https://api.github.com/search/code?q=${encodeURIComponent(term)}+in:file`;
   try {
@@ -31,16 +31,6 @@ async function searchCode(term) {
   }
 }
 
-/**
- * Match trigger to clause
- */
-function matchClause(term) {
-  return CLAUSES.find(c => c.triggers.includes(term.toLowerCase()));
-}
-
-/**
- * Log detected violation with clause info
- */
 function logViolation(item, term, clause) {
   const date = new Date().toISOString().split('T')[0];
   const log = `
@@ -60,9 +50,6 @@ function logViolation(item, term, clause) {
   console.log(`✅ Logged: ${term} → ${clause.clause} ($${clause.amount})`);
 }
 
-/**
- * Main Execution
- */
 async function main() {
   console.log(`🔍 Starting clause-based GitHub scan...`);
 
@@ -84,4 +71,3 @@ async function main() {
 }
 
 main();
-

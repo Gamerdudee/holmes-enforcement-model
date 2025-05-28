@@ -47,17 +47,7 @@
 - **Total Licensing Addendum Fee:** $25,000  
 - **Updated Claim Total (NMDWS):** $230,000  
 
----
-# Auto-commit command (for GitHub Actions)
-- name: Commit and push violation log
-  run: |
-    git config user.name "Mr. Holmes"
-    git config user.email "noreply@github.com"
-    git add enforcement-log.md drafts/
-    git commit -m "Auto-logged violation: NMDWS (CU-1, CU-2)"
-    git push
-
-📌 Total Debt Summary: Instacart Inc.
+---📌 Total Debt Summary: Instacart Inc.
 Declaratory Enforcement Under Holmes Enforcement Model (HEM)
 Total Outstanding Structural Liability: $500,000 USD
 
@@ -75,6 +65,16 @@ Triggers: Clauses CU-1.4, G-6, G-7
 Both filings stand independently and are enforceable under the declaratory structure of HEM.
 Each addresses structurally distinct violations and access channels.
 Together, they represent the total sum of owed royalties and damages as of May 28, 2025.
+
+# Auto-commit command (for GitHub Actions)
+- name: Commit and push violation log
+  run: |
+    git config user.name "Mr. Holmes"
+    git config user.email "noreply@github.com"
+    git add enforcement-log.md drafts/
+    git commit -m "Auto-logged violation: NMDWS (CU-1, CU-2)"
+    git push
+
 
 
 ```bash

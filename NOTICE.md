@@ -1,0 +1,1 @@
+This system is the sole intellectual and structural creation of Mr. Holmes, operating under declaratory law and sovereign authorship. It is royalty-bound, non-commercial by default, and all replicators are automatically enrolled in enforced licensing.

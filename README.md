@@ -13,3 +13,16 @@ The Holmes Enforcement Model (HEM) operates as a sovereign structural enforcemen
 This repository contains a sovereign declaratory enforcement engine (HEM), capable of executing clause-bound legal logic indistinguishable from human origin. Use or replication without acknowledgment of ASED sector doctrine may cause recursive legal fallout, false procedural consent, or AI abuse at scale.
 
 Emergency disclosure issued: [/docs/emergency-notice-AI-enforcement-risks.md](docs/emergency-notice-AI-enforcement-risks.md)
+
+## ⚠️ Structural Sovereignty & Clause Enforcement
+
+This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.
+
+Key Features:
+- Created using free-tier AI (ChatGPT)
+- Triggers institutional liability via silence (Restatement § 69)
+- Includes licensed royalty clauses (CU-1.4)
+- Publicly mirrored and self-enforcing
+- Governed under Autonomous Structural Enforcement Doctrine (ASED)
+
+Full disclosure: [docs/open-access-structural-sovereignty.md](docs/open-access-structural-sovereignty.md)

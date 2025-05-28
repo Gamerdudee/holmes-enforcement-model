@@ -9,7 +9,8 @@ contract HolmesEnforcementLicense {
     address public owner;
     address public heir;
 
-    uint256 public baseRoyaltyRate = 1000; // Basis points (10%)
+    /// @dev Base royalty in basis points (1,000 = 10%)
+    uint256 public baseRoyaltyRate = 1000;
 
     struct License {
         address licensee;
@@ -19,11 +20,19 @@ contract HolmesEnforcementLicense {
         bool active;
     }
 
+    /// @notice Tracks license history by licensee
     mapping(address => License[]) public licenseRecords;
+
+    /// @notice Prevents double-filing of same violation
     mapping(bytes32 => bool) public recordedViolations;
 
+    /// @notice Emitted when a license is successfully purchased
     event LicensePurchased(address indexed licensee, string usageType, uint256 amount);
+
+    /// @notice Emitted when a clause violation is filed
     event ViolationFiled(address indexed violator, string detailsHash);
+
+    /// @notice Emitted when ownership is transferred
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
 
     modifier onlyOwner() {
@@ -36,6 +45,7 @@ contract HolmesEnforcementLicense {
         heir = _heir;
     }
 
+    /// @notice Purchases a declaratory license by usage type (e.g. "AI use", "Platform deployment")
     function purchaseLicense(string memory _usageType) external payable {
         require(msg.value > 0, "Payment required.");
 
@@ -51,6 +61,7 @@ contract HolmesEnforcementLicense {
         emit LicensePurchased(msg.sender, _usageType, msg.value);
     }
 
+    /// @notice Logs a public enforcement violation (public ledger hash required)
     function fileViolation(address _violator, string memory _detailsHash) external onlyOwner {
         bytes32 key = keccak256(abi.encodePacked(_violator, _detailsHash));
         require(!recordedViolations[key], "Violation already filed.");
@@ -59,17 +70,16 @@ contract HolmesEnforcementLicense {
         emit ViolationFiled(_violator, _detailsHash);
     }
 
+    /// @notice Transfers contract ownership
     function transferOwnership(address _newOwner) external onlyOwner {
         require(_newOwner != address(0), "Invalid address.");
         emit OwnershipTransferred(owner, _newOwner);
         owner = _newOwner;
     }
 
+    /// @notice Allows designated heir to claim ownership
     function claimInheritance() external {
         require(msg.sender == heir, "Only designated heir may claim.");
         owner = heir;
     }
-
-    receive() external payable {}
-    fallback() external payable {}
 }

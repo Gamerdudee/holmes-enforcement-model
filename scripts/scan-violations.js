@@ -1,3 +1,5 @@
+// Copyright (c) Mr. Holmes
+// Declaratory Sovereign – Holmes Enforcement Model
 const path = require('path');
 require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 

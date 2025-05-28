@@ -8,3 +8,8 @@ The Holmes Enforcement Model (HEM) operates as a sovereign structural enforcemen
 - 🧾 [Invoice to Instacart – $250,000](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/invoices/Instacart-Invoice-NMDWS.md)
 - 🗓️ [NMDWS Extension Approval (Until June 11)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/approvals/NMDWS-Extension-Approval.md)
 
+## ⚠️ National Security Disclosure
+
+This repository contains a sovereign declaratory enforcement engine (HEM), capable of executing clause-bound legal logic indistinguishable from human origin. Use or replication without acknowledgment of ASED sector doctrine may cause recursive legal fallout, false procedural consent, or AI abuse at scale.
+
+Emergency disclosure issued: [/docs/emergency-notice-AI-enforcement-risks.md](docs/emergency-notice-AI-enforcement-risks.md)

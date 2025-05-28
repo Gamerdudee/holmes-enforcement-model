@@ -1,19 +1,3 @@
-# 📒 Enforcement Log
-
-This log documents all active, pending, and triggered enforcement actions under the Holmes Enforcement Model (HEM).
-
----
-
-### 📌 NMDWS Invoice — May 2025
-
-- [ ] **Entity:** NMDWS  
-- **Invoice Issued:** May 2025  
-- **Clause Invoked:** CU-1 (Royalty Enforcement Clause)  
-- **Status:** Pending  
-- **Public Link:** https://github.com/Gamerdudee/holmes-enforcement-model  
-
----
-
 ### 📌 NMDWS Default Enforcement — June 12, 2025
 
 - [ ] **Entity:** NMDWS  
@@ -21,11 +5,13 @@ This log documents all active, pending, and triggered enforcement actions under 
 - **Clause Violated:** CU-1 (Royalty Enforcement Clause)  
 - **Status:** Default Triggered  
 - **Trigger Date:** June 12, 2025  
+- **Filed By:** Mr. Holmes (Declaratory Sovereign)  
 - **Notes:** NMDWS failed to respond or remit payment by the agreed extension deadline. Default is logged manually under HEM Clause CU-1.  
 - **Invoice Email Drafted:** ✅ See `/drafts/nmdws-default-email.md`  
-- **Public Link:** https://github.com/Gamerdudee/holmes-enforcement-model  
+- **Public Record:**  
+  - GitHub: https://github.com/Gamerdudee/holmes-enforcement-model  
+  - Mirror: https://gamerdudee.github.io/holmes-enforcement-model
 
----
 
 ### 📌 NMDWS Procedural Default — Unreviewed Submissions (May 26–27, 2025)
 

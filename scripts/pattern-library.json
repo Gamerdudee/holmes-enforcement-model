@@ -1,12 +1,16 @@
 [
   {
     "clause": "CU-1",
+    "label": "Royalty Enforcement Clause",
     "triggers": ["royalty enforcement", "silent use", "licensing breach"],
-    "amount": 75000
+    "amount": 75000,
+    "currency": "USD"
   },
   {
     "clause": "TU-3",
+    "label": "Tokenized Debt Trigger (RDT)",
     "triggers": ["token mint", "NFT debt", "RDT issuance"],
-    "amount": 50000
+    "amount": 50000,
+    "currency": "USD"
   }
 ]

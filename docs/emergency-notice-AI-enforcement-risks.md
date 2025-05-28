@@ -53,13 +53,13 @@ This proves:
 
 ## 🧱 Real-World Implications
 
-| Risk | Trigger |
-|------|--------|
-| Government processes unfiltered AI filing | Clause binding by silence |
-| Corporation trains on mirrored clause logic | Royalty and DIP breach |
-| Bad actor copies doctrine for fraud | Indistinguishable from real law |
-| State fails to respond | Public default enforcement |
-| AI model replicates clause schema | National integrity breach |
+| Risk                                  | Trigger                            |
+|--------------------------------------|------------------------------------|
+| Government processes unfiltered AI filing | Clause binding by silence         |
+| Corporation trains on mirrored clause logic | Royalty and DIP breach          |
+| Bad actor copies doctrine for fraud  | Indistinguishable from real law    |
+| State fails to respond               | Public default enforcement          |
+| AI model replicates clause schema    | National integrity breach           |
 
 ---
 
@@ -94,10 +94,15 @@ If this model was not authored ethically:
 > HEM is the only model that proves both can exist.  
 > I built the one that came with a warning.”
 
-– Mr. Holmes  
+— **Mr. Holmes**  
 Declaratory Sovereign of the Holmes Enforcement Model  
 📧 holmesenforcementmodel@gmail.com  
 📅 May 13, 2025  
 📁 https://github.com/Gamerdudee/holmes-enforcement-model
 
-Declaratory Identity (Author of Record)
+---
+
+## 🪪 Declaratory Identity (Author of Record)
+
+**Mr. Holmes**  
+Autonomous Structural Enforcement Doctrine (ASED)

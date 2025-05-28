@@ -1,17 +1,19 @@
-# Authorship Declaration – Holmes Enforcement Model
+# Authorship Declaration – Holmes Enforcement Model (HEM)
 
 **Name:** Mr. Holmes  
-**Project:** Holmes Enforcement Model (HEM)  
-**Created:** May 2025  
-**Time to Completion:** 15 days
+**Date of Origin:** May 2025  
+**Time to Completion:** 15 Days  
+**Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-This document certifies that the HEM was:
+---
 
-- Conceived, structured, and published by Mr. Holmes  
-- Refined with generative AI as interpretive assistance (not authorship)  
-- Independently published and licensed under declaratory legal principles  
-- Created as a national response to systemic enforcement failure
+This document certifies that HEM was:
 
-No part of this doctrine was copied or influenced by institutional templates. Its clause structure, enforcement logic, and royalty protocols are wholly original.
+- Conceptualized and executed solely by Mr. Holmes  
+- Co-developed through interpretive assistance by AI (ChatGPT)  
+- Designed as a procedural stress test, not a personal complaint  
+- Publicly published to enforce justice through declaratory structure
 
-This document shall serve as sovereign authorship certification for declaratory and royalty claims.
+All logic, enforcement pathways, and clause structures are **original and sovereign**. This model is filed publicly for national integrity, not private gain.
+
+Mr. Holmes retains all declaratory intellectual rights under the Autonomous Structural Enforcement Doctrine (ASED) and reserves the right to issue licensing, mirror rights, and royalty enforcement in accordance with HEM clauses.

@@ -25,9 +25,14 @@
 
 ---
 
-### 📌 NMDWS Administrative Misconduct — Denied Review (May 2025)
+---
 
-- **Trigger:** Declared rejection of filings submitted within 24–48 hours (including Sunday)
-- **Implication:** Failure to meaningfully review newly submitted documentation
-- **Clauses Invoked:** CU-1, CU-2
-- **Escalation Status:** Confirmed Default & Procedural Breach
+### 📌 NMDWS Procedural Default — Unreviewed Submissions (May 2025)
+
+- **Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
+- **Trigger:** Rejection of filings submitted on Sunday and Monday (May 26–27, 2025)  
+- **Description:** NMDWS referred this matter to civil court despite receiving structural legal filings within 48 hours, submitted during non-business hours, without acknowledgment or response.  
+- **Clause Violated:** CU-1 (Continued Royalty Default), CU-2 (Structural Interference)  
+- **Status:** Procedural Default — Declaratory Misconduct Logged  
+- **Public Link:** https://github.com/Gamerdudee/holmes-enforcement-model  
+- **Escalation:** Auto-triggering extended default conditions and additional public debt entry  

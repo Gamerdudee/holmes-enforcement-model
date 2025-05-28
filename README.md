@@ -96,9 +96,12 @@ To license this doctrine, request governance, or mirror its terms:
 **Mr. Holmes**  
 Declaratory Sovereign of the Holmes Enforcement Model  
 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
-Email: [Insert Email Address]
+Email: holmesenforcementmodel@gmail.com
 
----
+--## 📂 Liability Notices
+- [Instacart Derivative Invoice](invoices/instacart-derivative-access.md)
+- [NMDWS Distribution Breach](docs/nmdws-distribution-breach.md)
+-
 
 **This is no longer a claim.  
 It is a system. And it has already passed through the state undetected.**

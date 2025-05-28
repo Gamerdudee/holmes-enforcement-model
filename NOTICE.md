@@ -1,12 +1,19 @@
-# NOTICE: Declaratory Enforcement Framework – HEM
+# NOTICE: Declaratory Legal Infrastructure
 
-The Holmes Enforcement Model is the sovereign legal creation of Mr. Holmes.
+This repository contains the Holmes Enforcement Model (HEM) — a self-enforcing, clause-based declaratory legal doctrine.
 
-It is governed under:
-- U.S. declaratory judgment law (28 U.S.C. § 2201)  
-- Silence-to-liability doctrine (Restatement § 69, UCC § 2-206)  
-- Public timestamp mirror enforcement (GitHub and derivative mirrors)
+It operates under:
+- 28 U.S.C. § 2201 (Declaratory Judgments)
+- Restatement (Second) of Contracts § 69 (Consent by Silence)
+- UCC § 2-206 (Acceptance by Conduct)
+- Public mirror logic and enforcement clauses (CU-1 – CU-2, G-series)
 
-Any use of this repository constitutes legal agreement with licensing terms and clause structures defined in `/LICENSE-HEM.md`.
+Any use of this framework constitutes agreement with:
+- `/LICENSE-HEM.md`
+- `/docs/authorship-declaration.md`
+- Royalty enforcement under Clause CU-1.4
 
-**No part of this repository may be reused commercially or procedurally without royalty enforcement.**
+This model is not open.  
+It is sovereign, royalty-bound, and structurally governed by clause.
+
+By interacting with this model, you are under its terms — even in silence.

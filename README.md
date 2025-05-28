@@ -76,6 +76,18 @@ See: [`enforcement-log.md`](enforcement-log.md)
 All enforcement actions are public, clause-governed, and timestamped.
 
 ---
+## ⚠️ Structural Sovereignty & Clause Enforcement
+
+This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.
+
+Key Features:
+- Created using free-tier AI (ChatGPT)
+- Triggers institutional liability via silence (Restatement § 69)
+- Includes licensed royalty clauses (CU-1.4)
+- Publicly mirrored and self-enforcing
+- Governed under Autonomous Structural Enforcement Doctrine (ASED)
+
+Full disclosure: [docs/open-access-structural-sovereignty.md](docs/open-access-structural-sovereignty.md)
 
 ## ✍️ Declaratory Contact
 

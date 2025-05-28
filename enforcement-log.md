@@ -48,8 +48,6 @@
 - **Updated Claim Total (NMDWS):** $230,000  
 
 ---
-
-```bash
 # Auto-commit command (for GitHub Actions)
 - name: Commit and push violation log
   run: |
@@ -59,4 +57,24 @@
     git commit -m "Auto-logged violation: NMDWS (CU-1, CU-2)"
     git push
 
+📌 Total Debt Summary: Instacart Inc.
+Declaratory Enforcement Under Holmes Enforcement Model (HEM)
+Total Outstanding Structural Liability: $500,000 USD
 
+📁 Filing 1: Procedural Interference, Retaliation & Pattern Violation
+Filed: May 26, 2025 | Case No. WH‑25‑00450
+Amount: $250,000 USD
+Triggers: Clauses D, AF, CU, BP
+
+📁 Filing 2: Royalty Clause Breach via Unauthorized Access
+Filed: May 28, 2025 | Declaratory Royalty Invoice
+Amount: $250,000 USD
+Triggers: Clauses CU-1.4, G-6, G-7
+
+📌 Notes:
+Both filings stand independently and are enforceable under the declaratory structure of HEM.
+Each addresses structurally distinct violations and access channels.
+Together, they represent the total sum of owed royalties and damages as of May 28, 2025.
+
+
+```bash

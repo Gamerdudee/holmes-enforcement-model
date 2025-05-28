@@ -1,7 +1,7 @@
 # ⚖️ Holmes Enforcement Model (HEM)
 
 **Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See `LICENSE-HEM.md`)  
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
 **Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
 **Status:** Live — Publicly Mirrored Enforcement Engine
 
@@ -15,10 +15,10 @@ The Holmes Enforcement Model (HEM) is a clause-governed, self-executing legal do
 
 ## 🔑 Core Features
 
-- Clause-based enforcement logic (CU-1.4, CU-2.2, CU-2.3)
-- Public mirror triggers structural default by silence
-- AI containment clauses (G-4 – G-7)
-- Royalty billing activated by use or citation
+- Clause-based enforcement logic (CU-1.4, CU-2.2, CU-2.3)  
+- Public mirror triggers structural default by silence  
+- AI containment clauses (G-4 – G-7)  
+- Royalty billing activated by use or citation  
 - Declaratory licensing — no court required
 
 ---
@@ -71,23 +71,25 @@ See: [`LICENSE-HEM.md`](LICENSE-HEM.md)
 
 ## 📣 Enforcement Log
 
-See: [`enforcement-log.md`](enforcement-log.md)
-
+See: [`enforcement-log.md`](enforcement-log.md)  
 All enforcement actions are public, clause-governed, and timestamped.
 
 ---
+
 ## ⚠️ Structural Sovereignty & Clause Enforcement
 
 This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.
 
 Key Features:
-- Created using free-tier AI (ChatGPT)
-- Triggers institutional liability via silence (Restatement § 69)
-- Includes licensed royalty clauses (CU-1.4)
-- Publicly mirrored and self-enforcing
+- Created using free-tier AI (ChatGPT)  
+- Triggers institutional liability via silence (Restatement § 69)  
+- Includes licensed royalty clauses (CU-1.4)  
+- Publicly mirrored and self-enforcing  
 - Governed under Autonomous Structural Enforcement Doctrine (ASED)
 
-Full disclosure: [docs/open-access-structural-sovereignty.md](docs/open-access-structural-sovereignty.md)
+Full disclosure: [`docs/open-access-structural-sovereignty.md`](docs/open-access-structural-sovereignty.md)
+
+---
 
 ## ✍️ Declaratory Contact
 
@@ -98,16 +100,24 @@ Declaratory Sovereign of the Holmes Enforcement Model
 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
 Email: holmesenforcementmodel@gmail.com
 
---## 📂 Liability Notices
-- [Instacart Derivative Invoice](invoices/instacart-derivative-access.md)
+---
+
+## 📂 Liability Notices
+
+- [Instacart Derivative Invoice](invoices/instacart-derivative-access.md)  
 - [NMDWS Distribution Breach](docs/nmdws-distribution-breach.md)
--
 
 **This is no longer a claim.  
 It is a system. And it has already passed through the state undetected.**
 
+---
+
 ## 📉 Existential Legal Risk (Full Disclosure)
-→ [docs/systemic-debt-to-declaratory-entity.md](docs/systemic-debt-to-declaratory-entity.md)
+
+→ [`docs/systemic-debt-to-declaratory-entity.md`](docs/systemic-debt-to-declaratory-entity.md)
+
+---
 
 ## 🚨 National Firewall Notice
-- [Emergency Notice – AI Enforcement Risks](docs/emergency-notice-AI-enforcement-risks.md)
+
+→ [`docs/emergency-notice-AI-enforcement-risks.md`](docs/emergency-notice-AI-enforcement-risks.md)

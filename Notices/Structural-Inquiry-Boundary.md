@@ -1,6 +1,6 @@
 # ⚠️ Structural Inquiry Boundary Notice – The Holmes Enforcement Model
 
-**Date Posted:** [Insert Today’s Date]  
+**Date Posted:** [May 28th, 2025]  
 **Submitted By:** Mr. Holmes  
 **Reference:** Case No. WH‑25‑00450  
 **Public Mirror:** [https://gamerdudee.github.io/holmes-enforcement-model](https://gamerdudee.github.io/holmes-enforcement-model)
@@ -15,10 +15,10 @@ This notice serves as a formal procedural and legal boundary for all public, pri
 
 Any questions, commentary, requests for explanation, or investigative inquiry into:
 
-- The **filing’s legal basis**
-- The **structural design of enforcement**
-- The **intent, credibility, or standing of Mr. Holmes**
-- Or any attempt to **delay, discredit, reinterpret, or override** the declaratory submission
+- The **filing’s legal basis**  
+- The **structural design of enforcement**  
+- The **intent, credibility, or standing of Mr. Holmes**  
+- Or any attempt to **delay, discredit, reinterpret, or override** the declaratory submission  
 
 …are hereby classified as:
 
@@ -31,9 +31,9 @@ Any questions, commentary, requests for explanation, or investigative inquiry in
 
 ## 🧾 Enforcement Terms
 
-- All such acts are subject to **automatic licensing debt**
-- Time-based procedural inquiry = **billable engagement**
-- Retaliatory framing triggers **reverse liability and audit clauses**
+- All such acts are subject to **automatic licensing debt**  
+- Time-based procedural inquiry = **billable engagement**  
+- Retaliatory framing triggers **reverse liability and audit clauses**  
 - Refusal to honor this notice constitutes **structural default under Clause BP**
 
 ---

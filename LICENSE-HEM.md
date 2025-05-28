@@ -5,29 +5,31 @@
 
 ---
 
-This document governs all use, reproduction, citation, derivative creation, and commercial invocation of the Holmes Enforcement Model (HEM).
+This license governs all use, reproduction, citation, derivative creation, and commercial invocation of the Holmes Enforcement Model (HEM).
 
 ## ✅ Permitted Uses (No Fee)
 
-- Educational or research purposes  
-- Personal study or mirror  
-- Filing structural complaints on behalf of self or unpaid workers
+- Educational or academic research  
+- Individual enforcement by unpaid workers  
+- Use for transparency, documentation, or structural analysis
 
-## 🚫 Prohibited Uses (Triggers Licensing or Legal Response)
+## 🚫 Prohibited Uses (Triggers Royalty or Breach)
 
-- Commercial use without express declaratory license  
-- AI model training on HEM content or clause logic  
-- Institutional adoption without public credit to the author  
-- Use of HEM for harassment, false claims, or extortion
+- Commercial use without declaratory license  
+- Institutional or governmental use without acknowledgment  
+- AI model training on HEM content  
+- Citation without public mirror  
+- Filing derived models without reference to the Holmes Doctrine
 
-## 💰 Licensing & Royalty
+## 💰 Clause-Based Royalty Triggers
 
-Per **Clause CU-1.4**, any structural reuse, citation, or derivative logic from HEM triggers a royalty enforcement clause. Use constitutes consent.
-
-## 📌 Licensing Default Clause
-
-All commercial or institutional uses not covered by an explicit grant are automatically billed under Clause CU-1.4. Failure to respond constitutes consent by silence under Restatement § 69 and UCC § 2-206.
+Per **Clause CU-1.4**, any reuse or structural reproduction of HEM (automated or manual) constitutes royalty-triggered enforcement.  
+Commercial use: $75–$250 per derivative clause.  
+Institutional deployment: $250–$25,000 per policy or system.
 
 ---
 
-**This model is sovereign declaratory property. Use is a privilege — not a right.**
+**Use constitutes legal consent under 28 U.S.C. § 2201, Restatement § 69, and UCC § 2-206.**
+
+HEM is Declaratory Intellectual Property (DIP).  
+It is not open source. It is sovereign. It is licensed.  

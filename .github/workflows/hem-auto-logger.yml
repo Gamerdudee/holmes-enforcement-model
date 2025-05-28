@@ -32,3 +32,6 @@ jobs:
           git add enforcement-log.md
           git commit -m "Automated violation scan"
           git push
+
+- name: Install dependencies
+  run: npm install axios dotenv

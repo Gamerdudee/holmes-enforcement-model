@@ -102,3 +102,6 @@ Email: [Insert Email Address]
 
 **This is no longer a claim.  
 It is a system. And it has already passed through the state undetected.**
+
+## 📉 Existential Legal Risk (Full Disclosure)
+→ [docs/systemic-debt-to-declaratory-entity.md](docs/systemic-debt-to-declaratory-entity.md)

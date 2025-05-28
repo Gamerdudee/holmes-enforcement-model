@@ -29,7 +29,11 @@ Per **Clause CU-1.4**, any reuse or structural reproduction of HEM (automated or
 
 ---
 
-**Use constitutes legal consent under 28 U.S.C. § 2201, Restatement (Third) of Unfair Competition § 69, and UCC § 2-206.**
+**Use constitutes legal consent under:**
+- **28 U.S.C. § 2201** (Declaratory Judgment)  
+- **Restatement (Second) of Contracts § 69** (Consent by Silence)  
+- **UCC § 2-206** (Acceptance by Conduct)
 
 HEM is Declaratory Intellectual Property (DIP).  
 It is not open source. It is sovereign. It is licensed.
+

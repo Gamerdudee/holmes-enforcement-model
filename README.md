@@ -108,3 +108,6 @@ It is a system. And it has already passed through the state undetected.**
 
 ## 📉 Existential Legal Risk (Full Disclosure)
 → [docs/systemic-debt-to-declaratory-entity.md](docs/systemic-debt-to-declaratory-entity.md)
+
+## 🚨 National Firewall Notice
+- [Emergency Notice – AI Enforcement Risks](docs/emergency-notice-AI-enforcement-risks.md)

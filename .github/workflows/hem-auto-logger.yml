@@ -1,4 +1,4 @@
-name: HEM Violation Auto-Logger
+name: HEM Violation Scanner
 
 on:
   schedule:
@@ -6,21 +6,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  detect-violations:
+  scan:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Run scanner
-        run: |
-          node scripts/scan-violations.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
 
-      - name: Commit and push
+      - name: Install dependencies
+        run: npm install axios dotenv
+
+      - name: Run violation scanner
+        run: node scripts/github-scan.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
         run: |
           git config user.name "Mr. Holmes"
           git config user.email "noreply@github.com"
-          git add enforcement-log.md drafts/
-          git commit -m "Auto-logged clause violations"
+          git add enforcement-log.md
+          git commit -m "Automated violation scan"
           git push
-

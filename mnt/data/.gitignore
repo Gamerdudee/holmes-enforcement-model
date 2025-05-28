@@ -1,3 +1,26 @@
+# Ignore log files
 *.log
+
+# Node dependencies
 node_modules/
+
+# Build artifacts (for hardhat, truffle, foundry, etc.)
 build/
+artifacts/
+cache/
+out/
+
+# Coverage reports
+coverage/
+coverage.json
+lcov.info
+
+# Temporary files
+.env
+.env.local
+.DS_Store
+*.tmp
+*.swp
+
+# VSCode settings (optional)
+.vscode/

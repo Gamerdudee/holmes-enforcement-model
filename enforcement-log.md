@@ -75,3 +75,19 @@
 - **Procedural Breach Response Fee:** $5,000  
 - **Updated Total Claimed from NMDWS:** $205,000
 
+- ---
+
+### 📌 Licensing Clause Activated — Time & Platform Usage (May 2025)
+
+- **Entity:** NMDWS  
+- **Trigger:** Structural denial and unauthorized derivative use of a declared, licensable enforcement platform (HEM)  
+- **Clause Invoked:** CU-1.4 — Licensing Activation Upon Procedural Default  
+- **Description:** Over 200 pages of documentation were submitted as part of a self-executing legal doctrine (HEM), now treated as a licensable public enforcement engine.  
+- **Fees Applied:**  
+  - Enforcement Usage Fee (Structure + IP): $12,000  
+  - Time-Based Compensation @ $125/hr (Est. 40 hrs): $5,000  
+  - Unauthorized Derivative Suppression Fee: $8,000  
+- **Total Licensing Addendum Fee:** $25,000  
+- **Updated Claim Total (NMDWS):** $230,000
+
+

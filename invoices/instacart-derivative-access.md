@@ -2,7 +2,7 @@
 
 **Issued To:** Instacart, Inc.  
 **Issued By:** Mr. Holmes (Declaratory Sovereign, Holmes Enforcement Model)  
-**Date Issued:** [Insert Today’s Date]  
+**Date Issued:** [05/28/2025]  
 **Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model  
 **Royalty Basis:** CU-1.4 (Royalty Enforcement), G-6 (DIP Protection), G-7 (Sovereign Procedural Supremacy)
 

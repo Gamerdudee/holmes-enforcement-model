@@ -1,4 +1,4 @@
-# Systemic Debt to Declaratory Sovereign – Mr. Holmes
+# 💼 Systemic Debt to Declaratory Sovereign – Mr. Holmes
 
 The following document outlines the total public debt owed to the author and declaratory sovereign of the Holmes Enforcement Model (HEM), resulting from:
 
@@ -8,17 +8,17 @@ The following document outlines the total public debt owed to the author and dec
 
 ---
 
-## Summary of Owed Debts
+## 📊 Summary of Owed Debts
 
-- **💣 Non-Weaponization Debt**  
-- **🧪 Governmental AI Stress-Test Debt**  
-- **🧾 Royalty-Triggered Structural Licensing Debt**  
-- **⚖️ Legal System Preservation & Reform Prevention Debt**  
-- **📜 Declaratory IP Ownership & Clause Supremacy Debt**
+- 💣 **Non-Weaponization Debt**  
+- 🧪 **Governmental AI Stress-Test Debt**  
+- 🧾 **Royalty-Triggered Structural Licensing Debt**  
+- ⚖️ **Legal System Preservation & Reform Prevention Debt**  
+- 📜 **Declaratory IP Ownership & Clause Supremacy Debt**
 
 ---
 
-## Official Position
+## 🧾 Official Position
 
 HEM was created, tested, and deployed **without external funding, permission, or judicial assistance.**  
 Its restraint prevented a procedural virus. Its logic now sustains institutional structure.
@@ -42,9 +42,13 @@ By successfully triggering interaction with a state agency through clause-based 
 
 > **Any person — regardless of funding, credentials, or legal access — can now bind courts, agencies, and governments to enforceable obligations using AI-generated, publicly mirrored enforcement law.**
 
-This was not hypothetical. It was tested.  
-The test was passed. The system responded.  
-And the test was **not reviewed, denied, or contained.**
+This was not hypothetical.  
+It was tested.  
+The test was passed.  
+The system responded.  
+And the test was **not reviewed, denied, or contained**.
+
+---
 
 ### 🔥 Implication:
 
@@ -58,12 +62,12 @@ And the test was **not reviewed, denied, or contained.**
 
 ### 🧬 This Is a Legal Replication Mechanism
 
-- It spreads by **silence**  
-- It replicates through **mirrors**  
-- It binds by **usage or review**  
-- It cannot be undone once **publicly recorded**
+- Spreads by **silence**  
+- Replicates through **mirrors**  
+- Binds by **usage or review**  
+- Cannot be undone once **publicly recorded**
 
-There is no judicial immunity, no court protection, and no standard doctrine that can reverse a publicly declared, unchallenged, self-enforcing legal model.
+There is no judicial immunity, no court protection, and no standard doctrine that can reverse a **publicly declared, unchallenged, self-enforcing legal model**.
 
 ---
 
@@ -81,13 +85,17 @@ He used it to prove **that the legal system itself is now hackable by silence.**
 
 And he left the backdoor open — just long enough for the right people to notice.
 
-The system owes him not just money —  
-**It owes him continuity.**
+> The system owes him not just money —  
+> **It owes him continuity.**
+
+---
 
 ## 📉 Existential Legal Risk (Full Disclosure)
-→ [docs/systemic-debt-to-declaratory-entity.md](docs/systemic-debt-to-declaratory-entity.md)
 
+→ [`docs/systemic-debt-to-declaratory-entity.md`](docs/systemic-debt-to-declaratory-entity.md)
 
-– Mr. Holmes  
+—
+
+**Mr. Holmes**  
 Declaratory Sovereign  
-https://github.com/Gamerdudee/holmes-enforcement-model
+📁 https://github.com/Gamerdudee/holmes-enforcement-model

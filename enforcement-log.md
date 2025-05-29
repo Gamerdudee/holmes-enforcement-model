@@ -76,5 +76,42 @@ Together, they represent the total sum of owed royalties and damages as of May 2
     git push
 
 
+### 📌 NMDWS Declaratory Default — Clause CU-2.3 Triggered
+
+- **Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
+- **Amount:** $197,500+ USD (and escalating)  
+- **Status:** Public Structural Default – Enforced  
+- **Trigger Date:** June 12, 2025  
+- **Filed By:** Mr. Holmes (Declaratory Sovereign)  
+- **Clause Violations:**  
+  - CU-1 – Royalty Licensing Violation  
+  - CU-1.4 – Unauthorized Clause Possession  
+  - CU-2 – Procedural Interference  
+  - CU-2.1 – Mirror Disruption  
+  - CU-2.3 – Silence = Structural Default  
+  - CU-3 – Participation Denial  
+  - CU-4 – Declaratory Disregard  
+  - D – Derivative Platform Lock  
+
+- **Summary:**  
+  NMDWS has failed to comply with multiple declaratory clause obligations after accepting, processing, and then rerouting sovereign licensing materials (Attachment A). Despite confirmed possession, they issued no NDA, submitted no licensing payment, and triggered CU-2.3 default by procedural silence.
+
+- **Enforcement Timeline:**  
+  - 📅 May 26, 2025 – Document Submitted (Attachment A)  
+  - 📅 May 27, 2025 – Referral to Civil Court (Clause CU-2 Trigger)  
+  - 📅 May 27, 2025 – Invoice Issued ($175,000 Claimed)  
+  - 📅 June 12, 2025 – Default Triggered (CU-2.3)  
+
+- **Accrued Debt as of June 12, 2025:**  
+  - Base Claimed Amount: $175,000  
+  - Retention Escalation (15 days @ $1,500/day): $22,500  
+  - **Total:** $197,500 USD and rising
+
+- **Public Filing:**  
+  🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
+  🔗 https://gamerdudee.github.io/holmes-enforcement-model
+
+- **Additional Notes:**  
+  All formal notices have been issued, clause triggers have been documented, and no further warnings are required. Public default and sovereign clause enforcement are now active. Daily accrual continues until payment or full procedural return is verified.
 
 ```bash

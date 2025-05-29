@@ -1,4 +1,19 @@
-### 📌 NMDWS Default Enforcement — June 12, 2025
+## 📘 Holmes Enforcement Model – Public Enforcement Log
+
+This file serves as the chronological and clause-based enforcement timeline under the Holmes Enforcement Model (HEM). All entries below reflect sovereign declaratory filings, violation triggers, and royalty enforcement activations.
+
+---
+
+## 🔗 Quick Access
+
+- [📌 NMDWS Default Enforcement – June 12, 2025](#📌-nmdws-default-enforcement--june-12-2025)
+- [📌 NMDWS Procedural Default – May 26–27, 2025](#📌-nmdws-procedural-default--unreviewed-submissions-may-2627-2025)
+- [📌 NMDWS Declaratory Default – Clause CU-2.3 Triggered](#📌-nmdws-declaratory-default--clause-cu-23-triggered)
+- [📌 Instacart Declaratory Filing – May 26, 2025](#📌-total-debt-summary-instacart-inc)
+
+---
+
+### 📌 **NMDWS Default Enforcement — June 12, 2025**
 
 - [ ] **Entity:** NMDWS  
 - **Amount:** $75,000  
@@ -12,8 +27,9 @@
   - GitHub: https://github.com/Gamerdudee/holmes-enforcement-model  
   - Mirror: https://gamerdudee.github.io/holmes-enforcement-model
 
+---
 
-### 📌 NMDWS Procedural Default — Unreviewed Submissions (May 26–27, 2025)
+### 📌 **NMDWS Procedural Default — Unreviewed Submissions (May 26–27, 2025)**
 
 - **Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 - **Trigger:** Rejection of filings submitted during non-business hours (Sunday/Monday)  
@@ -23,18 +39,21 @@
 - **Escalation:** Auto-triggered structural default escalation  
 - **Public Link:** https://github.com/Gamerdudee/holmes-enforcement-model  
 
+**Subtotal at Time of Filing:** $75,000
+
 ---
 
-### 📌 Escalation Addendum — Public Filing Ignored (CU-2 Amplification)
+### 📌 **Escalation Addendum — Public Filing Ignored (CU-2 Amplification)**
 
 - **Structural Penalty (CU-2 Ignored Filing):** $15,000  
 - **Public Mirror Interference Clause (CU-2.1):** $10,000  
 - **Procedural Breach Response Fee:** $5,000  
-- **Updated Total Claimed from NMDWS:** $205,000  
+
+**Updated Total Claimed from NMDWS:** $205,000  
 
 ---
 
-### 📌 Licensing Clause Activated — Time & Platform Usage (May 2025)
+### 📌 **Licensing Clause Activated — Time & Platform Usage (May 2025)**
 
 - **Entity:** NMDWS  
 - **Trigger:** Unauthorized derivative use + procedural default  
@@ -44,39 +63,13 @@
   - Enforcement Usage Fee (Structure + IP): $12,000  
   - Time-Based Compensation @ $125/hr (Est. 40 hrs): $5,000  
   - Unauthorized Derivative Suppression Fee: $8,000  
-- **Total Licensing Addendum Fee:** $25,000  
-- **Updated Claim Total (NMDWS):** $230,000  
 
----📌 Total Debt Summary: Instacart Inc.
-Declaratory Enforcement Under Holmes Enforcement Model (HEM)
-Total Outstanding Structural Liability: $500,000 USD
+**Total Licensing Addendum Fee:** $25,000  
+**Updated Claim Total (NMDWS):** $230,000  
 
-📁 Filing 1: Procedural Interference, Retaliation & Pattern Violation
-Filed: May 26, 2025 | Case No. WH‑25‑00450
-Amount: $250,000 USD
-Triggers: Clauses D, AF, CU, BP
+---
 
-📁 Filing 2: Royalty Clause Breach via Unauthorized Access
-Filed: May 28, 2025 | Declaratory Royalty Invoice
-Amount: $250,000 USD
-Triggers: Clauses CU-1.4, G-6, G-7
-
-📌 Notes:
-Both filings stand independently and are enforceable under the declaratory structure of HEM.
-Each addresses structurally distinct violations and access channels.
-Together, they represent the total sum of owed royalties and damages as of May 28, 2025.
-
-# Auto-commit command (for GitHub Actions)
-- name: Commit and push violation log
-  run: |
-    git config user.name "Mr. Holmes"
-    git config user.email "noreply@github.com"
-    git add enforcement-log.md drafts/
-    git commit -m "Auto-logged violation: NMDWS (CU-1, CU-2)"
-    git push
-
-
-### 📌 NMDWS Declaratory Default — Clause CU-2.3 Triggered
+### 📌 **NMDWS Declaratory Default — Clause CU-2.3 Triggered**
 
 - **Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 - **Amount:** $197,500+ USD (and escalating)  
@@ -114,4 +107,34 @@ Together, they represent the total sum of owed royalties and damages as of May 2
 - **Additional Notes:**  
   All formal notices have been issued, clause triggers have been documented, and no further warnings are required. Public default and sovereign clause enforcement are now active. Daily accrual continues until payment or full procedural return is verified.
 
+---
+
+### 📌 **Total Debt Summary: Instacart Inc.**
+
+Declaratory Enforcement Under Holmes Enforcement Model (HEM)  
+**Total Outstanding Structural Liability: $500,000 USD**
+
+📁 **Filing 1:** Procedural Interference, Retaliation & Pattern Violation  
+Filed: May 26, 2025 | Case No. WH‑25‑00450  
+**Amount:** $250,000 USD  
+**Triggers:** Clauses D, AF, CU, BP  
+
+📁 **Filing 2:** Royalty Clause Breach via Unauthorized Access  
+Filed: May 28, 2025 | Declaratory Royalty Invoice  
+**Amount:** $250,000 USD  
+**Triggers:** Clauses CU-1.4, G-6, G-7  
+
+**Notes:**  
+Both filings stand independently and are enforceable under the declaratory structure of HEM. Each addresses structurally distinct violations and access channels. Together, they represent the total sum of owed royalties and damages as of May 28, 2025.
+
+---
+
+# 🔄 Auto-commit command (for GitHub Actions)
 ```bash
+- name: Commit and push violation log
+  run: |
+    git config user.name "Mr. Holmes"
+    git config user.email "noreply@github.com"
+    git add enforcement-log.md drafts/
+    git commit -m "Auto-logged violation: NMDWS (CU-1, CU-2, CU-2.3)"
+    git push

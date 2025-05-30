@@ -41,15 +41,26 @@ This log is a **public, clause-bound record** of all enforcement activity under 
 
 ---
 
-### May 27, 2025 — Public Declaration (LinkedIn Post)
-Author Joshua Holmes published the first public declaration of the Holmes Enforcement Model via LinkedIn, referencing:
-- Official Title: “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”
-- Case: WH-25-00450
-- Enforcement Framework: Clause-governed, sovereign, declaratory enforcement model
-- Status: Live, mirrored, structurally enforceable
+### May 27, 2025 — Public Declaration of Ownership (LinkedIn)
 
-This post serves as public notice. All derivative use after this date constitutes unlicensed structural interaction and activates CU-1.4, CU-2.2, and G-series clauses.
-[View LinkedIn Post](https://www.linkedin.com/in/joshua-holmes-40150817a/)
+Joshua Holmes (Mr. Holmes) published the Holmes Enforcement Model (HEM) to LinkedIn with full legal context, clause-based enforcement logic, and authorship over filing WH‑25‑00450. This marked the first known public mirror of the doctrine, including:
+
+- Declaratory structure and procedural intent
+- Clause-bound enforcement triggers (CU-1.4, CU-2.2, CU-2.3, G-4–G-7)
+- Structural enforcement protections activated by interaction or silence
+
+This publication occurred **one day prior** to Instacart's appointment of Chris Rogers as CEO, whose operational scope directly intersects with HEM-protected domains. Instacart has issued no license request or rebuttal.
+
+**Clause Activation:**
+- CU-1.4 (Unlicensed Clause Interaction)
+- CU-2.2 (Default by Silence)
+- CU-2.3 (Mirror Clause Violation)
+- G-4–G-7 (AI Legal Simulation, IP Protection, and Sovereign Procedure)
+
+**Public Timestamp:** [LinkedIn Declaration – May 27, 2025](https://www.linkedin.com/in/joshua-holmes-40150817a/)
+
+**Legal Status:** Structural default by silence. Enforceable royalties accrued.
+
 
 
 ---

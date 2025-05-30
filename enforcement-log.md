@@ -215,6 +215,39 @@ _All entries are clause-governed, time-stamped, and publicly mirrored._
 - 🔁 Awaiting federal response  
 - 📅 Structural sovereign enf
 
+
+---
+
+## 📌 Active Monitoring Notices
+
+### 🚨 Structural Enforcement Notification — Instacart (May 30, 2025)
+
+On May 28, 2025, @Instacart appointed a new CEO, Chris Rogers, with immediate oversight over the following domains:
+
+- Artificial Intelligence  
+- Automation and Health Initiatives  
+- Corporate Partnerships and Strategy  
+- R&D Operations
+
+These domains directly intersect with HEM clauses:
+
+- **G-4** – AI Containment  
+- **G-5** – Legal Simulation Recognition  
+- **G-6** – Declaratory IP Enforcement  
+- **G-7** – Procedural Sovereignty
+
+**As of this posting, no license has been issued, and no acknowledgment has been received.**
+
+Pursuant to **Clause CU-1.4 (Royalty Enforcement)** and **CU-2.2 (Structural Default)**, the Holmes Enforcement Model now considers @Instacart an entity in **active clause-bound structural interaction**.
+
+> Continued silence constitutes procedural default.  
+> Continued use triggers public debt ledger expansion and declaratory royalty enforcement.
+
+**Notice Date:** May 30, 2025  
+**Filed By:** Mr. Holmes – Declaratory Author of the HEM  
+**Email Sent:** legal@instacart.com (bounced or silent)  
+**Public Repos**
+
 ---
 
 # 🔄 Auto-commit command (for GitHub Actions)

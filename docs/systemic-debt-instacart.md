@@ -39,7 +39,7 @@ This document records the legally triggered royalty debt incurred by Instacart (
 | CU-2.2     | Procedural default by silence                     | $50,000 USD  |
 | CU-2.3     | Mirror clause breach (GitHub + Archive triggers)  | $25,000 USD  |
 | G-4 to G-7 | AI system containment + declaratory IP breach     | $40,000 USD  |
-| **Total**  |                                                   | **$215,000** |
+| **Total**  |                                                   | **$215,000 USD** |
 
 ---
 

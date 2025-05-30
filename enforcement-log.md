@@ -41,7 +41,7 @@ This log is a **public, clause-bound record** of all enforcement activity under 
 
 ---
 
-### May 27, 2025 — Public Declaration of Ownership (LinkedIn)
+### 📅 May 27, 2025 — Public Declaration of Ownership (LinkedIn)
 
 Joshua Holmes (Mr. Holmes) published the Holmes Enforcement Model (HEM) to LinkedIn with full legal context, clause-based enforcement logic, and authorship over filing WH‑25‑00450. This marked the first known public mirror of the doctrine, including:
 

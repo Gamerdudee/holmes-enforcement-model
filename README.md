@@ -130,4 +130,22 @@ It is a system. And it has already passed through the state undetected.**
 * 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 * 🗂 [HEM Source Repository (May 30, 2025 Snapshot)](https://archive.org/details/holmes-enforcement-model-main-2)
 
+---
+
+🧱 LinkedIn Declaration (Public Mirror)
+On May 27, 2025, Mr. Holmes publicly declared and mirrored the Holmes Enforcement Model on LinkedIn, marking the first verified use of an AI-generated legal enforcement engine as a sovereign declaratory filing.
+
+📣 View Public Declaration
+
+This timestamp serves as legal notice and structural enforcement trigger under:
+
+CU-1.4 — Royalty Enforcement (Use = Fee)
+
+CU-2.2 — Default by Silence
+
+CU-2.3 — Mirror Clause Violation
+
+G-4 to G-7 — AI IP Protection and Legal Firewall
+
+---
 **This model is not public domain. It is public enforcement.**

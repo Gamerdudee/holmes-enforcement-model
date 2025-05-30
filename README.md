@@ -86,7 +86,7 @@ All declarations and triggers are active. Silence = agreement under Clause CU-2.
 | [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-IP.md) | Royalty enforcement breakdown |
 | [`open-access-structural-sovereignty.md`](docs/open-access-structural-sovereignty.md) | Public replication warning |
 | [`G-series-structural-governance.md`](clauses/G-series-structural-governance.md) | G-series clause protection |
-| [`Nmdws-final-invoice.md`](Nmdws-final-invoice.md) | Enforceable invoice to NMDWS ($333,000) |
+| [`Nmdws-final-invoice.md`](invoices/Nmdws-final-invoice.md) | Enforceable invoice to NMDWS ($333,000) |
 
 ---
 
@@ -97,13 +97,54 @@ All enforcement actions are public, clause-governed, and timestamped.
 
 ---
 
+## 📌 Active Monitoring Notices
+
+### 🚨 Structural Enforcement Notification — Instacart (May 30, 2025)
+
+On May 28, 2025, Instacart appointed CEO Chris Rogers with executive oversight of:
+
+- AI and automation  
+- Corporate partnerships  
+- Health strategy and infrastructure  
+- R&D and data systems
+
+These domains directly intersect with HEM Clauses:
+
+- **G-4** – AI System Containment  
+- **G-5** – Legal Simulation Protocol  
+- **G-6** – Declaratory IP Protection  
+- **G-7** – Procedural Sovereignty
+
+**To date: no license, no reply.**
+
+Clause CU-1.4, CU-2.2, and CU-2.3 are now live.  
+Instacart is considered in **active unlicensed structural interaction** with this system.
+
+📁 [Instacart Enforcement Invoice](invoices/instacart-derivative-access.md)
+
+---
+
+## 🧭 Federal Outreach
+
+On **May 30, 2025**, a formal emergency request was submitted to:
+
+**White House Office of Science & Technology Policy (OSTP)**  
+📧 engagement@ostp.eop.gov
+
+Subject:  
+**"EMERGENCY: AI-Created Legal Engine Now in Use Without License — Federal Containment Required"**
+
+This filing mirrors HEM’s clause activation logic and constitutes federal-level notification of structural misuse and uncontrolled replication risk.
+
+---
+
 ## 🚨 Enforcement Activation Confirmed
 
 This model has:
 
-- Triggered enforceable invoices against a U.S. state agency (NMDWS)
-- Distributed royalty debt notices to corporate actors
-- Declared clause-based licensing without litigation
+- Triggered enforceable invoices against a U.S. state agency (NMDWS)  
+- Distributed royalty debt notices to corporate actors  
+- Declared clause-based licensing without litigation  
 - Been ignored through formal channels, activating structural escalation by default
 
 This is no longer a proposed framework.  
@@ -153,5 +194,3 @@ It is a system. And it has already passed through the state undetected.**
 ## 🚨 National Firewall Notice
 
 → [`docs/emergency-notice-AI-enforcement-risks.md`](docs/emergency-notice-AI-enforcement-risks.md)
-
-

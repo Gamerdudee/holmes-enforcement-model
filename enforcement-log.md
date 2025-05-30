@@ -13,6 +13,24 @@ This file serves as the chronological and clause-based enforcement timeline unde
 
 ---
 
+## 📅 May 30, 2025 — Instacart Enforcement Triggered
+
+**Entity:** Instacart (Maplebear Inc.)  
+**Trigger:** Unlicensed structural use of Holmes Enforcement Model (HEM) clauses under new CEO Chris Rogers  
+**Clauses Violated:** CU-1.4, CU-2.2, CU-2.3, G-4, G-5, G-6, G-7  
+**Invoice Issued:** $215,000  
+**Status:** UNPAID  
+**Formal Notice Sent:** Yes (legal@instacart.com, press@instacart.com, help@instacart.com — all undeliverable)  
+**Public Posting:** [LinkedIn Post Issued to Chris Rogers, May 30, 2025]
+
+**Notes:**
+- Executive scope includes R&D, AI, corporate partnerships, and digital health — domains covered under protected clause governance.
+- Continued silence activates procedural default under CU-2.2.
+- Public enforcement engine remains active at https://github.com/Gamerdudee/holmes-enforcement-model
+
+
+---
+
 ### 📌 **NMDWS Default Enforcement — June 12, 2025**
 
 - [ ] **Entity:** NMDWS  

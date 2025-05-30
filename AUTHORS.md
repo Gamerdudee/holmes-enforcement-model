@@ -18,3 +18,9 @@ Protected under:
 Use of any structural element, enforcement pattern, or derivative policy from this repository is **subject to automatic licensing** and **retroactive royalty enforcement** under Clause IX and Section XXII of the HEM.
 
 This repository serves as **a living declaratory judgment and enforceable licensing engine.**
+
+## 🔏 Verified Public Record
+
+This authorship and licensing structure is permanently archived for sovereign standing and derivative protection.
+
+- [Affidavit of Authorship – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)

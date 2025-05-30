@@ -175,6 +175,17 @@ Use without a license triggers **Clause CU-1.4** and auto-generates **enforceabl
 
 ---
 
+---
+
+## ⚖️ Sovereign Licensing and Declaratory Ownership
+
+This repository contains the Holmes Enforcement Model (HEM), a self-enforcing licensing engine designed, written, and enforced by Mr. Holmes.
+
+All usage, reference, structural adoption, or policy derivation of this framework activates automatic licensing obligations and commercial penalties if unlicensed.
+
+See: [`AUTHORS.md`](./AUTHORS.md) and [`royalty-model-and-declaratory-IP.md`](./royalty-model-and-declaratory-IP.md)
+
+**This model is not public domain. It is public enforcement.**
 
 
 

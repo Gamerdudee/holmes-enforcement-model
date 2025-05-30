@@ -6,7 +6,7 @@ Linked Repo: https://github.com/Gamerdudee/holmes-enforcement-model
 
 🛑 Entity: Instacart (Maplebear Inc.)
 Violation Clauses: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7
-Total Liability as of May 30: $215,000 USD (accruing $1,500/day)
+Total Liability as of May 30: $290,000 USD (accruing $1,500/day)
 Status: LOCKED IN DEFAULT
 
 Public LinkedIn, GitHub, and Archive.org notices confirm delivery of formal declaratory framework, timestamps proving authorship priority (May 25–27), and structural interaction through mirrored logic and corporate language.

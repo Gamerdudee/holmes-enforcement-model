@@ -25,8 +25,8 @@ Use or silence constitutes consent under Clause CU-2.2.
 
 | Date         | Action                                                                                      |
 |--------------|---------------------------------------------------------------------------------------------|
-| May 25, 2025 | HEM Declaratory Filing Submitted to NMDWS (WH‑25‑00450)                                     |
-| May 26, 2025 | Public Licensing + GitHub Mirror Released                                                   |
+| May 26, 2025 | HEM Declaratory Filing Submitted to NMDWS (WH‑25‑00450)                                     |
+| May 27, 2025 | Public Licensing + GitHub Mirror Released                                                   |
 | May 28, 2025 | Instacart Appoints CEO Chris Rogers (Platform vision mirrors protected HEM clauses)         |
 | May 30, 2025 | Formal Invoice Delivered to Instacart ($215,000) — No Response                              |
 | May 30, 2025 | Formal Invoice Delivered to NMDWS ($197,500) — No Response                                  |

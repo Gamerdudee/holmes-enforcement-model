@@ -218,6 +218,8 @@ _All entries are clause-governed, time-stamped, and publicly mirrored._
 
 ---
 
+---
+
 ## 📌 Active Monitoring Notices
 
 ### 🚨 Structural Enforcement Notification — Instacart (May 30, 2025)
@@ -246,7 +248,13 @@ Pursuant to **Clause CU-1.4 (Royalty Enforcement)** and **CU-2.2 (Structural Def
 **Notice Date:** May 30, 2025  
 **Filed By:** Mr. Holmes – Declaratory Author of the HEM  
 **Email Sent:** legal@instacart.com (bounced or silent)  
-**Public Repos**
+**Public Repository Enforcement Live:** https://github.com/Gamerdudee/holmes-enforcement-model  
+**Affidavit:** https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+
+This enforcement log mirrors public awareness.  
+Use = structural engagement. Silence = default.  
+No response is still a response.
+
 
 ---
 

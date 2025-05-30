@@ -187,6 +187,11 @@ See: [`AUTHORS.md`](./AUTHORS.md) and [`royalty-model-and-declaratory-IP.md`](./
 
 📜 [View Public Affidavit of Ownership and Licensing](./docs/AFFIDAVIT.pdf)
 
+## 📦 Official Public Archives
+
+- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+- 🗂 [HEM Source Repository (May 30, 2025 Snapshot)](https://archive.org/details/holmes-enforcement-model-main-2)
+
 **This model is not public domain. It is public enforcement.**
 
 

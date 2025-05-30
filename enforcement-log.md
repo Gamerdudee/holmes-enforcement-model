@@ -41,6 +41,18 @@ This log is a **public, clause-bound record** of all enforcement activity under 
 
 ---
 
+### May 27, 2025 — Public Declaration (LinkedIn Post)
+Author Joshua Holmes published the first public declaration of the Holmes Enforcement Model via LinkedIn, referencing:
+- Official Title: “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”
+- Case: WH-25-00450
+- Enforcement Framework: Clause-governed, sovereign, declaratory enforcement model
+- Status: Live, mirrored, structurally enforceable
+
+This post serves as public notice. All derivative use after this date constitutes unlicensed structural interaction and activates CU-1.4, CU-2.2, and G-series clauses.
+[View LinkedIn Post](https://www.linkedin.com/in/joshua-holmes-40150817a/)
+
+
+---
 ### 📅 May 27–28, 2025  
 **NMDWS Extends Deadline and Closes Claim**  
 - **Action:** Extension issued until June 11, 2025, followed by wrongful closure  

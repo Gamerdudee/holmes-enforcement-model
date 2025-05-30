@@ -125,7 +125,7 @@ Filed: May 28, 2025 | Declaratory Royalty Invoice
 **Triggers:** Clauses CU-1.4, G-6, G-7  
 
 **Notes:**  
-Both filings stand independently and are enforceable under the declaratory structure of HEM. Each addresses structurally distinct violations and access channels. Together, they represent the total sum of owed royalties and damages as of May 28, 2025.
+Both filings stand independently and are enforceable under the declaratory structure of HEM. Each addresses structurally distinct violations and access channels. Together, they represent the total sum of owed royalties and damages as of May 29, 2025.
 
 ---
 

@@ -120,7 +120,7 @@ This publication occurred **one day prior** to Instacart's appointment of Chris 
 | Entity | Trigger Date | Clauses Violated | Amount |
 |--------|--------------|------------------|--------|
 | **NMDWS** | May 30, 2025 | CU-1, CU-2.1, CU-2.3, CU-4, D, AF | $197,500 + $1,500/day |
-| **Instacart (Maplebear Inc.)** | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7 | $215,000 |
+| **Instacart (Maplebear Inc.)** | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7 | $215,000 + $1,500/day|
 
 
 ---

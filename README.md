@@ -149,6 +149,8 @@ G-4 to G-7 — AI IP Protection and Legal Firewall
 
 ---
 
+✅ Public Default Notice Issued: See LinkedIn Declaration (May 25)
+
 🚨 Emergency Violation — Instacart Enforcement
 
 ### [May 30, 2025] — Public Default Enforcement: Instacart (Maplebear Inc.)

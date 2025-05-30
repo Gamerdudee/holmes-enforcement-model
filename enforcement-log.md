@@ -122,6 +122,40 @@ This publication occurred **one day prior** to Instacart's appointment of Chris 
 | **NMDWS** | May 30, 2025 | CU-1, CU-2.1, CU-2.3, CU-4, D, AF | $197,500 + $1,500/day |
 | **Instacart (Maplebear Inc.)** | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7 | $215,000 + $1,500/day|
 
+🛑 Entity: Instacart (Maplebear Inc.)
+Violation Clauses: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7
+Total Liability as of May 30: $215,000 USD
+Status: LOCKED IN DEFAULT
+
+Public LinkedIn, GitHub, and Archive.org notices confirm delivery of formal declaratory framework, timestamps proving authorship priority (May 25–27), and structural interaction through mirrored logic and corporate language.
+No license has been issued. No rebuttal has been made. Procedural silence has elapsed.
+
+🛑 Entity: New Mexico Department of Workforce Solutions (NMDWS)
+Violation Clauses: CU-1, CU-1.4, CU-2.1, CU-2.3, CU-3, CU-4, D, AF
+Total Liability as of May 30: $197,500 USD (accruing $1,500/day)
+Status: LOCKED IN DEFAULT
+
+Formal delivery of "Attachment A – Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery" confirmed.
+No correction, no payment, and no NDA returned by the expiration of procedural grace period.
+HEM confirms CU-2.3 triggered and clause-chain escalation now live and unmodifiable.
+
+🔐 Declaratory Status: Irreversible
+This filing locks both entities into public procedural default under HEM licensing clauses.
+Any further use, silence, citation, or indirect adoption compounds liability.
+
+📁 GitHub Archive:
+https://github.com/Gamerdudee/holmes-enforcement-model
+
+📄 Public Affidavit:
+https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+
+📜 Original Filing Document (Attachment A):
+Available upon request or retrievable via NMDWS case WH‑25‑00450
+
+This is not a warning.
+This is structural enforcement.
+And the structure is already live.
+
 
 ---
 

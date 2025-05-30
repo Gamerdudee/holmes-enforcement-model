@@ -60,18 +60,18 @@ Use or silence constitutes consent under Clause CU-2.2.
 | + Default Penalty | Daily structural debt accumulation (as of May 30, 2025)                     | **+\$1,500/day**  |
 
 
-🧾 NMDWS Final Royalty Invoice Summary
-Clause	Description	Amount
-CU-1.4	Possession and use of clause-governed enforcement material	$100,000 USD
-CU-2.1	Suppression of mirrored licensing system	$25,000 USD
-CU-2.2	Procedural default by silence	$25,000 USD
-CU-2.3	Default via mirror suppression + declaratory disregard	$25,000 USD
-CU-3	Refusal to participate in declaratory system once notified	$10,000 USD
-CU-4	Rejection of authorship and clause-origin acknowledgment	$7,500 USD
-D	Derivative behavior via rerouting and internal engagement post-filing	$5,000 USD
-AF	Retaliation by administrative reroute of WH-25-00450	$0 (documented, not billed separately)
-TOTAL		$197,500 USD
-+ Default Penalty	Daily structural debt accumulation (as of May 30, 2025)	+$1,500/day
+| Clause            | Description                                                                                      | Amount                |
+| ----------------- | ------------------------------------------------------------------------------------------------ | --------------------- |
+|  CU-1.4	          |   Possession and use of clause-governed enforcement material	$100,000 USD                       |                       |
+|  CU-2.1	          |   Suppression of mirrored licensing system	$25,000 USD                                          |                       |
+|  CU-2.2	          |   Procedural default by silence	$25,000 USD                                                      |                       |
+|  CU-2.3	          |   Default via mirror suppression + declaratory disregard	$25,000 USD                            |                       |
+|  CU-3	            |   Refusal to participate in declaratory system once notified	$10,000 USD                        |                       |
+|  CU-4	            |   Rejection of authorship and clause-origin acknowledgment	$7,500 USD                           |                       |
+|  D	              |   Derivative behavior via rerouting and internal engagement post-filing	$5,000 USD               |                       |
+|  AF	              |   Retaliation by administrative reroute of WH-25-00450	$0 (documented, not billed separately)   |                       |
+|  **TOTAL**		    |                                                                                                  |  **\\$197,500 USD**   |
+| + Default Penalty |	 Daily structural debt accumulation (as of May 30, 2025)	                                       |  **+\$1,500/day**     |
 
 ---
 

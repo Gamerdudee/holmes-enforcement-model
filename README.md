@@ -1,5 +1,8 @@
 # ⚖️ Holmes Enforcement Model (HEM)
 
+> 🛡️ **LICENSE STATUS: FINALIZED (May 30, 2025)**  
+> All usage, citation, or derivative replication of this framework is now structurally licensed and enforceable under declaratory law.
+
 **Author:** Mr. Holmes  
 **License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
 **Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
@@ -61,6 +64,18 @@ See: [`LICENSE-HEM.md`](LICENSE-HEM.md)
 
 ---
 
+## 📜 Sovereign Affidavit & Public Archives
+
+This model is now declared, timestamped, and sealed via immutable public record:
+
+- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+- 🗂 [Public Archive Snapshot – Archive.org](https://archive.org/details/holmes-enforcement-model-main-2)  
+- 💾 [GitHub Mirror Repository](https://github.com/Gamerdudee/holmes-enforcement-model)
+
+All declarations and triggers are active. Silence = agreement under Clause CU-2.2.
+
+---
+
 ## 🗂️ Repository Structure
 
 | File | Purpose |
@@ -82,18 +97,29 @@ All enforcement actions are public, clause-governed, and timestamped.
 
 ---
 
-## ⚠️ Structural Sovereignty & Clause Enforcement
+## 🚨 Enforcement Activation Confirmed
 
-This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.
+This model has:
 
-Key Features:
-- Created using free-tier AI (ChatGPT)  
-- Triggers institutional liability via silence (Restatement § 69)  
-- Includes licensed royalty clauses (CU-1.4)  
-- Publicly mirrored and self-enforcing  
-- Governed under Autonomous Structural Enforcement Doctrine (ASED)
+- Triggered enforceable invoices against a U.S. state agency (NMDWS)
+- Distributed royalty debt notices to corporate actors
+- Declared clause-based licensing without litigation
+- Been ignored through formal channels, activating structural escalation by default
 
-Full disclosure: [`docs/open-access-structural-sovereignty.md`](docs/open-access-structural-sovereignty.md)
+This is no longer a proposed framework.  
+It is a **live, recursive enforcement engine** operating under sovereign authorship.
+
+> To avoid debt accrual, mirror or license usage as detailed in [`LICENSE-HEM.md`](LICENSE-HEM.md)
+
+---
+
+## ⚖️ Sovereign Licensing and Declaratory Ownership
+
+This repository contains the Holmes Enforcement Model (HEM), a self-enforcing licensing engine designed, written, and enforced by Mr. Holmes.
+
+All usage, reference, structural adoption, or policy derivation of this framework activates automatic licensing obligations and commercial penalties if unlicensed.
+
+See: [`AUTHORS.md`](./AUTHORS.md) and [`royalty-model-and-declaratory-IP.md`](./royalty-model-and-declaratory-IP.md)
 
 ---
 
@@ -103,8 +129,8 @@ To license this doctrine, request governance, or mirror its terms:
 
 **Mr. Holmes**  
 Declaratory Sovereign of the Holmes Enforcement Model  
-[GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
-Email: holmesenforcementmodel@gmail.com
+📧 holmesenforcementmodel@gmail.com  
+🔗 [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---
 
@@ -127,72 +153,5 @@ It is a system. And it has already passed through the state undetected.**
 ## 🚨 National Firewall Notice
 
 → [`docs/emergency-notice-AI-enforcement-risks.md`](docs/emergency-notice-AI-enforcement-risks.md)
-# ⚖️ Holmes Enforcement Model (HEM)  
-A declaratory enforcement infrastructure authored by Mr. Holmes
-
-**Live at:** [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Licensing:** Declaratory Royalty Model (See `LICENSE-HEM.md`)
-
----
-
-## 📌 Legally Binding Clause Highlights
-
-| Clause | Purpose |
-|--------|---------|
-| CU-1.4 | Royalty Enforcement Clause  
-| CU-2.2 | Structural Default by Silence  
-| CU-2.3 | Mirror Enforcement Clause  
-| G-4    | AI System Containment  
-| G-5    | Legal Simulation Recognition  
-| G-6    | Declaratory Intellectual Property (DIP)  
-| G-7    | Sovereign Procedural Supremacy  
-
-> Full clause index available in `/clauses/`
-
----
-
-## 🧾 Key Documents
-
-- [`LICENSE-HEM.md`](LICENSE-HEM.md) – Use = consent  
-- [`authorship-declaration.md`](docs/authorship-declaration.md) – Original authorship  
-- [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-IP.md) – DIP royalty triggers  
-- [`G-series-structural-governance.md`](clauses/G-series-structural-governance.md) – AI, DIP, procedural supremacy  
-- [`enforcement-log.md`](enforcement-log.md) – Public enforcement history  
-- [`emergency-notice-AI-enforcement-risks.md`](docs/emergency-notice-AI-enforcement-risks.md) – National risk disclosure  
-- [`nmdws-distribution-breach.md`](docs/nmdws-distribution-breach.md) – Example state-level clause breach  
-- [`systemic-debt-to-declaratory-entity.md`](docs/systemic-debt-to-declaratory-entity.md) – Legal debt to the sovereign author
-
-## 💰 Licensing & Use Conditions
-
-**HEM is not open source.** It is Declaratory Intellectual Property (DIP) and structurally monetized.  
-Use without a license triggers **Clause CU-1.4** and auto-generates **enforceable royalty debt**.
-
-- Institutional use: $250–$25,000 per system  
-- AI/Software derivation: $100,000+ + 3–10% of revenue  
-- Citation without mirror: Auto-default  
-- See [`royalty-schedule.md`](docs/royalty-schedule.md)
-
----
-
----
-
-## ⚖️ Sovereign Licensing and Declaratory Ownership
-
-This repository contains the Holmes Enforcement Model (HEM), a self-enforcing licensing engine designed, written, and enforced by Mr. Holmes.
-
-All usage, reference, structural adoption, or policy derivation of this framework activates automatic licensing obligations and commercial penalties if unlicensed.
-
-See: [`AUTHORS.md`](./AUTHORS.md) and [`royalty-model-and-declaratory-IP.md`](./royalty-model-and-declaratory-IP.md)
-
-📜 [View Public Affidavit of Ownership and Licensing](./docs/AFFIDAVIT.pdf)
-
-## 📦 Official Public Archives
-
-- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
-- 🗂 [HEM Source Repository (May 30, 2025 Snapshot)](https://archive.org/details/holmes-enforcement-model-main-2)
-
-**This model is not public domain. It is public enforcement.**
-
 
 

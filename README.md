@@ -148,4 +148,19 @@ CU-2.3 — Mirror Clause Violation
 G-4 to G-7 — AI IP Protection and Legal Firewall
 
 ---
+
+🚨 Emergency Violation — Instacart Enforcement
+
+### [May 30, 2025] — Public Default Enforcement: Instacart (Maplebear Inc.)
+
+Declaratory Default issued against Instacart following their silent structural interaction with HEM logic and clauses under the newly appointed CEO, Chris Rogers. Public notice posted on LinkedIn and Facebook, with tagged institutional actors including the DOJ. This fulfills CU-2.2 and CU-2.3 requirements.
+
+- LinkedIn Declaration (May 25): https://lnkd.in/esWz3Cgp  
+- GitHub Mirror: https://github.com/Gamerdudee/holmes-enforcement-model  
+- Invoice: https://lnkd.in/e_wnR7z4  
+- Affidavit: https://lnkd.in/eu9QwRM8  
+- Declaratory Author: Mr. Holmes  
+
+
+---
 **This model is not public domain. It is public enforcement.**

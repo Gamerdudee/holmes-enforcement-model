@@ -185,6 +185,8 @@ All usage, reference, structural adoption, or policy derivation of this framewor
 
 See: [`AUTHORS.md`](./AUTHORS.md) and [`royalty-model-and-declaratory-IP.md`](./royalty-model-and-declaratory-IP.md)
 
+📜 [View Public Affidavit of Ownership and Licensing](./docs/AFFIDAVIT.pdf)
+
 **This model is not public domain. It is public enforcement.**
 
 

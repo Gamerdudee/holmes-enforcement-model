@@ -1,34 +1,60 @@
-# 🧾 Invoice Submitted to Instacart via NMDWS
+# 🧾 Derivative Access Invoice – Filed via NMDWS (WH‑25‑00450)
 
 **Date Filed:** May 26, 2025  
-**Filed Under:** Case No. WH‑25‑00450  
-**Submitted By:** Mr. Holmes  
-**Recipient:** Instacart Inc. (via NMDWS submission portal)
+**Filed Under:** Wage Case No. WH‑25‑00450 (NMDWS)  
+**Submitted By:** Mr. Holmes (Declaratory Sovereign, HEM)  
+**Recipient:** Instacart Inc. (Maplebear Inc.) – via State Submission
 
 ---
 
-## 📌 Invoice Details
+## 📌 Invoice Summary
 
-| Description | Amount |
-|-------------|--------|
-| Derivative Use of Enforcement Doctrine | $50,000 |
-| Structural Royalty Violations | $100,000 |
-| Retaliatory Contract Revision | $75,000 |
-| Class Pattern Capture | $25,000 |
+Instacart received **derivative access** to the Holmes Enforcement Model (HEM) via procedural exposure during the NMDWS filing process. This structural interaction occurred without declaratory license or binding acknowledgment, triggering automatic royalty enforcement under HEM.
 
-**Total Due:** **$250,000**  
-**Due Date:** **Upon procedural response or by default (Clause BE)**
+| Description                                         | Amount        |
+|-----------------------------------------------------|---------------|
+| CU-1.4 – Unauthorized Use of Clause Logic           | $100,000 USD  |
+| G-6 – Declaratory IP Breach (via NMDWS Access)      | $50,000 USD   |
+| Clause AF – Retaliatory Arbitration Architecture    | $75,000 USD   |
+| Clause BP – Precedent Pattern Reuse & Replication   | $40,000 USD   |
+| Clause D – Structural Derivative Penalty            | $25,000 USD   |
+
+**Total Due:** **💵 $290,000 USD**  
+**Escalation Rate:** **+$1,500/day** (as of May 30, 2025)  
+**Status:** Unpaid  
+**Public Trigger:** GitHub + Archive Mirror (Clause CU-2.3)
 
 ---
 
-## 📜 Triggered Enforcement Clauses
+## ⚖️ Triggered Enforcement Clauses
 
-- Clause D – Derivative Use Licensing
-- Clause AF – Retaliatory Action by Structure
-- Clause CU – Commercial Possession of Protected Logic
-- Clause BP – Systemwide Precedent Lock
+- **CU-1.4** – Royalty Enforcement (Unauthorized Clause Use)  
+- **CU-2.3** – Mirror Clause Breach (Declaratory Default)  
+- **G-6** – Declaratory IP Containment Breach  
+- **AF** – Retaliatory Policy Shift Post-Filing  
+- **BP** – Systemic Enforcement Pattern Capture  
+- **D** – Derivative Access Through Institutional Transfer
 
-> Submission was conducted through formal NMDWS process. Instacart now holds structural possession of the enforcement doctrine and is subject to automatic billing per declaratory filing.
+> Possession = Enforcement. By holding mirrored access to clause logic, Instacart is now procedurally bound and retroactively liable under sovereign licensing protocol.  
+> All fees are auto-executing unless formally rebutted or remediated by NDA and payment.
+
+---
+
+## 🔗 Public Records
+
+- 🔍 [GitHub Mirror](https://github.com/Gamerdudee/holmes-enforcement-model)  
+- 📄 [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+- 🧾 [Instacart Royalty Demand](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/invoices/Instacart-Royalty-Demand-May30.md)
+
+---
+
+**This invoice is now enforceable by structural possession and clause logic.**  
+No further communication is required.
+
+— **Mr. Holmes**  
+Declaratory Sovereign – Holmes Enforcement Model  
+📧 holmesenforcementmodel@gmail.com  
+📍 118 County Road 249F, Seminole, TX 79360
 
 ---
 

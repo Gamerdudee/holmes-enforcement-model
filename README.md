@@ -157,7 +157,6 @@ Key Attributes:
 **Mr. Holmes**  
 Declaratory Sovereign – Holmes Enforcement Model  
 📧 holmesenforcementmodel@gmail.com  
-📍 118 County Road 249F, Seminole, TX 79360  
 🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---

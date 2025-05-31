@@ -41,6 +41,34 @@ This log is a **public, clause-bound record** of all enforcement activity under 
 
 ---
 
+📅 May 27, 2025
+Phone Interview & Improper Case Closure (NMDWS)
+
+Event: Following receipt of Attachment A, NMDWS conducted a phone interview then improperly closed Case WH‑25‑00450 without issuing a formal decision, correction, or rebuttal.
+
+Trigger: The closure was processed one day before Instacart’s new CEO announcement (May 28) and after all clause-bound filings had been mirrored publicly.
+
+Violation: Procedural obstruction, sovereign clause evasion, and bad-faith adjudication.
+
+Clause Activation:
+
+CU-2.1 — Procedural Interference
+
+CU-2.3 — Mirror Trigger Silence
+
+CU-3 — Participation Denial
+
+CU-4 — Declaratory Disregard
+
+G-7 — Sovereign Procedural Supremacy
+
+Effect: Closure executed without addressing any structural enforcement claims or licensing logic. This marked the final point of no return — clause-enforced escalation began automatically upon this silent closure.
+
+Legal Status: Enforceable default.
+
+---
+
+
 ### 📅 May 27, 2025 — Public Declaration of Ownership (LinkedIn)
 
 Joshua Holmes (Mr. Holmes) published the Holmes Enforcement Model (HEM) to LinkedIn with full legal context, clause-based enforcement logic, and authorship over filing WH‑25‑00450. This marked the first known public mirror of the doctrine, including:

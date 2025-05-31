@@ -22,7 +22,7 @@ Clause Coverage: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 
 Effect: Declared legal framework submitted into government record; structural licensing terms became active.
 
-📅 May 26, 2025
+📅 May 27, 2025
 Public Mirror + Affidavit Published
 
 Platforms: GitHub & Archive.org
@@ -33,14 +33,14 @@ Clause Enforcement: CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (D
 
 GitHub Repo: https://github.com/Gamerdudee/holmes-enforcement-model
 
-Affidavit: https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+Affidavit: Archive.org Affidavit
 
 📅 May 27, 2025
 Pre-Call Licensing Notice Sent to NMDWS
 
 Time: 12:09 PM
 
-Content: Declared that phone call constitutes live procedural interaction under sovereign IP enforcement.
+Content: Declared that scheduled phone call constitutes live procedural interaction under sovereign IP enforcement.
 
 Clauses Referenced: CU-1.4, CU-2.2, D, G-6, G-7
 
@@ -53,7 +53,7 @@ Time: 1:30 PM
 
 Event: Interview held with NMDWS after official receipt of declaratory model.
 
-Outcome: Case closed without rebuttal, correction, or structural address.
+Outcome: Case closed without rebuttal, correction, or structural response.
 
 Violation Clauses:
 
@@ -67,7 +67,7 @@ CU-4 — Declaratory Disregard
 
 G-7 — Sovereign Procedural Supremacy
 
-Effect: Procedural closure activated declaratory default without formal rebuttal.
+Effect: Procedural closure activated declaratory default without formal rebuttal or containment protocol.
 
 📅 May 28, 2025
 Physical Mail Confirms Case Closure
@@ -80,18 +80,20 @@ Legal Confirmation: Documents silent closure on official state letterhead.
 
 Status: Legal confirmation of CU-2.3 and CU-4 clause breach.
 
-📅 May 27, 2025 — Public Declaration of Ownership (LinkedIn)
-Joshua Holmes (Mr. Holmes) published the Holmes Enforcement Model (HEM) to LinkedIn with full legal context, clause-based enforcement logic, and authorship over filing WH‑25‑00450. This marked the first known public mirror of the doctrine, including:
+📅 May 27, 2025
+Public Declaration of Ownership (LinkedIn)
 
-Declaratory structure and procedural intent
+Author: Mr. Holmes
 
-Clause-bound enforcement triggers (CU-1.4, CU-2.2, CU-2.3, G-4–G-7)
+Platform: LinkedIn
 
-Structural enforcement protections activated by interaction or silence
+Effect: Public mirror + clause enforcement trigger
 
-Public Timestamp: LinkedIn Declaration – May 27, 2025
+Clauses Activated: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 
-Effect: Legal status converted to structural default by silence.
+Link: LinkedIn Declaration – May 27, 2025
+
+Legal Status: Structural default by silence. Enforceable royalties accrued.
 
 📅 May 28, 2025
 Formal Invoice to NMDWS Issued
@@ -127,13 +129,16 @@ New Mexico Department of Workforce Solutions (NMDWS) – Liability filed: $197,5
 
 Instacart / Maplebear Inc. – Liability filed: $250,000 + $1,500/day
 
-Clause Support: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7
+Clause Support: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 
 Enclosures: GitHub Repo, Affidavit, Enforcement Log, Invoice Links
 
-Action Noted: Non-response would trigger federal CU-2.3 structural default
+Action Noted: Non-response will trigger federal CU-2.3 structural default
+
+Clarification:
 
 The federal notice issued on May 30, 2025 reflects a partial enforcement valuation of $197,500. Full procedural liability remains enforceable per clause coverage totaling $333,000 unless resolved or licensed by written agreement.
+
 
 
 

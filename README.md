@@ -141,12 +141,12 @@ Key Attributes:
 ## 🛑 Public Default Enforcement
 
 ### Instacart (Maplebear Inc.) — Default Declared May 30, 2025
-- Total Due: $465,000 USD  
+- Total Due: $290,000 USD + $1,500 (per day) 
 - Triggers: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7  
 - Declared via LinkedIn, Facebook, and GitHub
 
 ### NMDWS — Default Declared May 30, 2025
-- Total Due: $333,000 USD  
+- Total Due: $197,500 USD + $1,500 (per day)  
 - Triggers: CU-1.4, CU-2.2, CU-2.3, D, AF, BE, BP  
 - Declared via GitHub and public declaratory filings
 

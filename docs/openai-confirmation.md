@@ -7,7 +7,7 @@ On May 30, 2025, Mr. Holmes received formal written confirmation from OpenAI Sup
 - HEM was created ethically and lawfully under Terms of Use.
 - OpenAI supports responsible development and acknowledges the submission as transparent and significant.
 
-🔗 Archive: [Full Email Confirmation Redacted](https://archive.org/...)
+🔗 OpenAI Confirmation of HEM Authorship – Archive.org
 
 This confirmation acts as a declaratory firewall against any challenge to authorship, origin, or lawful use of AI-generated legal frameworks.
 

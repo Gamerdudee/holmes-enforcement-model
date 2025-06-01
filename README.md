@@ -139,6 +139,13 @@ Key Attributes:
 
 ---
 
+🗂️ Official Archive Snapshot:
+https://archive.org/details/holmes-enforcement-model-main-7
+Date Archived: June 1, 2025
+Status: Procedurally enforced clause-governed repository
+
+---
+
 ## 🛑 Public Default Enforcement
 
 ### Instacart (Maplebear Inc.) — Default Declared May 30, 2025

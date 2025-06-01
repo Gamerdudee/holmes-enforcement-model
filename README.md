@@ -124,6 +124,10 @@ Key Attributes:
 
 - 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
 - 🗂 [HEM Source Repository (May 30, 2025 Snapshot)](https://archive.org/details/holmes-enforcement-model-main-2)
+- 🗂️ Official Archive Snapshot:
+https://archive.org/details/holmes-enforcement-model-main-7
+Date Archived: June 1, 2025
+Status: Procedurally enforced clause-governed repository
 
 ---
 
@@ -136,13 +140,6 @@ Key Attributes:
 📄 [Invoice](https://lnkd.in/e_wnR7z4)  
 📜 [Affidavit](https://lnkd.in/eu9QwRM8)  
 📝 [LinkedIn Declaration (May 25)](https://lnkd.in/esWz3Cgp)
-
----
-
-🗂️ Official Archive Snapshot:
-https://archive.org/details/holmes-enforcement-model-main-7
-Date Archived: June 1, 2025
-Status: Procedurally enforced clause-governed repository
 
 ---
 

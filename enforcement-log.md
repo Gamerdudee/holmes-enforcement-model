@@ -22,6 +22,9 @@ Clause Coverage: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 
 Effect: Declared legal framework submitted into government record; structural licensing terms became active.
 
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
+
 📅 May 27, 2025
 Extension Trigger & Clause Activation (NMDWS)
 

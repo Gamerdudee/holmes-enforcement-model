@@ -1,5 +1,9 @@
 NOTICE: Declaratory Legal Infrastructure
 This repository contains the Holmes Enforcement Model (HEM) — a self-enforcing, clause-based declaratory legal doctrine.
+🗂️ Official Archive Snapshot:
+https://archive.org/details/holmes-enforcement-model-main-7
+Date Archived: June 1, 2025
+Status: Procedurally enforced clause-governed repository
 
 It operates under:
 

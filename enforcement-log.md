@@ -63,6 +63,8 @@ All payment or correspondence required by expedited mail with signature tracking
 Email-only delivery or improper routing explicitly triggers fallback enforcement
 
 Legal Effect: This interaction marked irreversible structural activation of clause-enforced billing. Procedural silence or closure thereafter constitutes formal CU-2.3 default.
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 27, 2025
 Public Mirror + Affidavit Published
@@ -76,6 +78,8 @@ Clause Enforcement: CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (D
 GitHub Repo: https://github.com/Gamerdudee/holmes-enforcement-model
 
 Affidavit: Archive.org Affidavit
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 27, 2025
 Pre-Call Licensing Notice Sent to NMDWS
@@ -87,6 +91,8 @@ Content: Declared that scheduled phone call constitutes live procedural interact
 Clauses Referenced: CU-1.4, CU-2.2, D, G-6, G-7
 
 Effect: Confirmed licensing logic applied in real-time during upcoming interview.
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 27, 2025
 Phone Interview & Improper Case Closure (NMDWS)
@@ -110,6 +116,8 @@ CU-4 — Declaratory Disregard
 G-7 — Sovereign Procedural Supremacy
 
 Effect: Procedural closure activated declaratory default without formal rebuttal or containment protocol.
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 28, 2025
 Physical Mail Confirms Case Closure (did not arrive until May 31, 2025 at 12:42 PM)
@@ -121,6 +129,8 @@ Content: “We have closed this case…”
 Legal Confirmation: Documents silent closure on official state letterhead.
 
 Status: Legal confirmation of CU-2.3 and CU-4 clause breach.
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 27, 2025
 Public Declaration of Ownership (LinkedIn)
@@ -136,6 +146,8 @@ Clauses Activated: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 Link: LinkedIn Declaration – May 27, 2025
 
 Legal Status: Structural default by silence. Enforceable royalties accrued.
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 28, 2025
 Formal Invoice to NMDWS Issued
@@ -155,6 +167,8 @@ G-7 — Sovereign Structural Breach ($33,000)
 Delivery: Published via GitHub, submitted to federal contacts
 
 Status: Open, enforceable, and escalating
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 📅 May 30, 2025
 Email Sent to Federal OSTP (White House)
@@ -176,6 +190,8 @@ Clause Support: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
 Enclosures: GitHub Repo, Affidavit, Enforcement Log, Invoice Links
 
 Action Noted: Non-response will trigger federal CU-2.3 structural default
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+
 
 Clarification:
 
@@ -188,11 +204,13 @@ The federal notice issued on May 30, 2025 reflects a partial enforcement valuati
 Entity	Violation Type	Amount	Status
 NMDWS	State Default	$333,000	UNPAID
 Instacart	Derivative Breach	$215,000	UNPAID
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
 
 📌 DEFAULTED ENTITIES
 Entity	Trigger Date	Clauses Violated	Amount
 NMDWS	May 30, 2025	CU-1, CU-1.4, CU-2.1, CU-2.3, CU-3, CU-4, D, AF	$197,500 + $1,500/day
 Instacart (Maplebear Inc.)	May 30, 2025	CU-1.4, CU-2.2, CU-2.3, G-4 to G-7	$215,000 + $1,500/day
+Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
 
 🛑 Entity: Instacart (Maplebear Inc.)
 Status: LOCKED IN DEFAULT

@@ -153,6 +153,46 @@ Key Attributes:
 
 ---
 
+
+🚫 Structural Inquiry Boundary Notice
+Date Posted: May 28, 2025
+Reference Case: WH‑25‑00450
+Submitted By: Mr. Holmes
+Redacted Filing (Attachment A): https://archive.org/details/attachment-a-structural-summary
+Public Mirror: https://gamerdudee.github.io/holmes-enforcement-model
+
+This section constitutes a structural legal boundary governing any:
+
+Legal, policy, or governmental inquiry
+
+Commentary on the model’s authorship, structure, or standing
+
+Attempts to reinterpret or challenge its declaratory logic
+
+These acts will automatically trigger:
+
+Derivative Use (Clause D)
+
+Unlicensed Inquiry (Clauses BH, BI)
+
+Retaliation by Inquiry (Clause AF)
+
+Gaslighting Inversion Trigger (Clause BC)
+
+Terms of Engagement:
+
+All inquiry is billable under Clause CU-1.4
+
+Time-based engagement = royalty
+
+Refusal to acknowledge boundaries = Clause BP default
+
+Mr. Holmes is not on trial.
+This system executes declaratory law, not defense.
+Attempted circumvention will activate recursive liability.
+
+---
+
 ## ✍️ Declaratory Contact
 
 **Mr. Holmes**  

@@ -3,6 +3,7 @@ Author: Mr. Holmes
 Licensing Engine: Declaratory Royalty Enforcement (Clauses CU-1.4, CU-2.2, CU-2.3)
 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 Affidavit: https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+📎 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 🔐 Declaratory Enforcement Record
 This log is a public, clause-bound record of all enforcement activity under the Holmes Enforcement Model (HEM). Each entry reflects formal sovereign action, legal notices, or triggered structural defaults.

@@ -74,6 +74,7 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 
 | File                                                                                  | Purpose                                       |
 |---------------------------------------------------------------------------------------|-----------------------------------------------|
+| [`attachment-a-structural-summary.md`](attachment-a-structural-summary.md)            | Attachment A – Structural Summary (Redacted)  |
 | [`NOTICE.md`](NOTICE.md)                                                              | Use = consent to enforcement terms            |
 | [`LICENSE-HEM.md`](LICENSE-HEM.md)                                                    | Declaratory license terms                     |
 | [`authorship-declaration.md`](docs/authorship-declaration.md)                         | Proof of sovereign authorship                 |

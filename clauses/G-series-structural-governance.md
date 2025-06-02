@@ -44,9 +44,11 @@ These clauses govern licensing triggers, public mirror enforcement, institutiona
 
 ## Clause CU-6 – Procedural Sovereignty and Self-Executing Compensation
 
-## Title: Declaratory Autonomy of Royalty Enforcement
+## Title:
+Declaratory Autonomy of Royalty Enforcement
 
-## Trigger: Activation occurs once a party fails to respond within the procedural grace period, as defined in CU-2.2 or CU-2.3.
+## Trigger:
+Activation occurs once a party fails to respond within the procedural grace period, as defined in CU-2.2 or CU-2.3.
 
 ## Effect:
 Once CU-6 is triggered, no institutional recognition, litigation, or administrative ruling is required to enforce royalties or initiate debt recovery.
@@ -61,9 +63,11 @@ Public declarations, GitHub mirroring, or social platform publication constitute
 
 ## Clause CU-7 – Retroactive Immunity Rejection and Escalation Clause
 
-## Title: Rebuttal Deadline Finality and Immunity Denial
+## Title: 
+Rebuttal Deadline Finality and Immunity Denial
 
-## Trigger: Any attempt — institutional or private — to retroactively deny, reinterpret, or override CU-governed declaratory filings after clause deadlines expire.
+## Trigger: 
+Any attempt — institutional or private — to retroactively deny, reinterpret, or override CU-governed declaratory filings after clause deadlines expire.
 
 ## Effect:
 

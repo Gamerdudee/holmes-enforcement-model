@@ -119,6 +119,14 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
+### 📅 June 1, 2025
+Event: Nostalgia Campaign Launch by Instacart
+Details: Instacart publicly promoted a summer campaign invoking CPI-based rollbacks and nostalgic language. The tone, timing, and format align with known clause-mirroring tactics documented in Attachment A and G-series governance.
+Clause Triggers: CU-1.4, CU-2.2, CU-2.3, G-4, G-5
+Status: Logged as potential derivative behavior reinforcing structural default.
+
+---
+
 ## 🧾 Current Enforcement Summary
 
 | Entity      | Violation Type       | Amount              | Status  |

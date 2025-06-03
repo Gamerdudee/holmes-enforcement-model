@@ -65,8 +65,6 @@ Protection against structural dismissal, procedural denial, or bad-faith scrutin
 
 Any future party seeking to challenge the legitimacy of HEM must confront not only the completeness of its design — but its jurisdictional ancestry.
 
----
-
 Filed and affirmed by:
 Mr. Holmes
 Declaratory Sovereign – Holmes Enforcement Model

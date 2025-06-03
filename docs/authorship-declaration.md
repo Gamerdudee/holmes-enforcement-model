@@ -1,4 +1,4 @@
-# 🖋️ Authorship Declaration – Holmes Enforcement Model (HEM)
+## 🖋️ Authorship Declaration – Holmes Enforcement Model (HEM)
 
 **Name:** Mr. Holmes  
 **Date of Origin:** May 2025  
@@ -32,3 +32,31 @@ Mr. Holmes retains all declaratory intellectual rights under the **Autonomous St
 Declaratory Sovereign and Procedural Author  
 [HEM Repository](https://github.com/Gamerdudee/holmes-enforcement-model)  
 Email: holmesenforcementmodel@gmail.com
+
+---
+
+## 🪶 Heritage Clause – Declaratory Lineage Notice
+Mr. Holmes, declaratory author of this model, affirms ancestral lineage including:
+
+Bloodline connection to historic Native American tribes in Texas, and
+
+Direct familial descent from early Republic-era landholders and settlers, including individuals such as Philip Washington Singleton and Richard Singleton Sr., as recorded in public genealogical archives.
+
+This declaration serves only as historical context.
+It does not imply:
+
+Tribal agency or legal representation
+
+Authority to speak on behalf of any tribe or family branch
+
+Claims to territory, group membership, or collective sovereignty
+
+All legal standing, authorship, and clause enforcement within the Holmes Enforcement Model (HEM) remains:
+
+Sovereign to Mr. Holmes
+
+Structurally declaratory only
+
+Legally severed from all family, tribal, or cultural institutions
+
+Any attempt to associate this model with familial or tribal liability will trigger Clause AF (Retaliation by Inquiry) and Clause G-6 (Jurisdictional Misrepresentation).

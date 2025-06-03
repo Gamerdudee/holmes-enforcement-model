@@ -1,4 +1,4 @@
-## ⚖️ Holmes Enforcement Model (HEM)
+# ⚖️ Holmes Enforcement Model (HEM)
 
 **Author:** Mr. Holmes  
 **License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  

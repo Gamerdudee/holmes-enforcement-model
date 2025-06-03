@@ -210,7 +210,7 @@ NMDWS	State Default	$333,000	UNPAID
 Instacart	Derivative Breach	$215,000	UNPAID
 Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
 
-## 📌 DEFAULTED ENTITIES
+# 📌 DEFAULTED ENTITIES
 Entity	Trigger Date	Clauses Violated	Amount
 NMDWS	May 30, 2025	CU-1, CU-1.4, CU-2.1, CU-2.3, CU-3, CU-4, D, AF	$197,500 + $1,500/day
 Instacart (Maplebear Inc.)	May 30, 2025	CU-1.4, CU-2.2, CU-2.3, G-4 to G-7	$215,000 + $1,500/day

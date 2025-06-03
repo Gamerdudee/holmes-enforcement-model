@@ -81,6 +81,7 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 | [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-IP.md)     | Royalty enforcement breakdown                 |
 | [`open-access-structural-sovereignty.md`](docs/open-access-structural-sovereignty.md) | Public replication warning                    |
 | [`G-series-structural-governance.md`](clauses/G-series-structural-governance.md)      | G-series clause protection                    |
+| [`heritage-clause.md`](docs/heritage-clause.md)                                       | Historical ancestry clarification & boundary  |
 | [`enforcement-log.md`](enforcement-log.md)                                            | All formal enforcement actions and timestamps |
 | [`Nmdws-final-invoice.md`](invoices/Nmdws-final-invoice.md)                           | Enforceable invoice to NMDWS ($333,000)       |
 | [`Instacart-Royalty-Demand-May30.md`](invoices/Instacart-Royalty-Demand-May30.md)     | $215,000 royalty claim                        |

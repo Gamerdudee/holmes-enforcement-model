@@ -1,4 +1,4 @@
-# ⚖️ Holmes Enforcement Model (HEM)
+## ⚖️ Holmes Enforcement Model (HEM)
 
 **Author:** Mr. Holmes  
 **License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
@@ -194,6 +194,28 @@ Refusal to acknowledge boundaries = Clause BP default
 Mr. Holmes is not on trial.
 This system executes declaratory law, not defense.
 Attempted circumvention will activate recursive liability.
+
+---
+
+## 🪶 Heritage Clause – Declaratory Lineage Notice
+Mr. Holmes, declaratory author of this model, acknowledges ancestral lineage that includes:
+
+Historic tribal affiliation with Native American bloodlines in Texas, and
+
+Generational ties to early land grantees and civil recordholders in the Republic of Texas era.
+
+This clause affirms cultural and structural inspiration only.
+No claim of tribal governance, group representation, or familial agency is made or implied.
+
+All enforcement, authorship, and clause logic within the Holmes Enforcement Model (HEM) is:
+
+Authored independently
+
+Governed solely by public mirror
+
+Bound only to the declaratory sovereign known as Mr. Holmes
+
+Any attempt to link tribal or family entities to these filings will be treated as retaliatory escalation under Clause AF and jurisdictional distortion under Clause G-6.
 
 ---
 

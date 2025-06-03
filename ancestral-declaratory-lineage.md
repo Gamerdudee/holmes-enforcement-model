@@ -7,26 +7,57 @@ Status: Submitted and Mirrored — June 2025
 
 ---
 
-## 🏛️ Sovereign Origin of Authority
-This document affirms that the Holmes Enforcement Model (HEM) arises not only from structural authorship, but from generational sovereign lineage traceable through documented ancestry to recognized legal and jurisdictional architects of prior eras.
+## 🏛️ Sovereign Origin of Authority 
+This document affirms that the Holmes Enforcement Model (HEM) arises not only from structural authorship, but from generational sovereign lineage traceable through documented ancestry to foundational legal, military, and territorial leaders spanning centuries.
 
-The declaratory author, Mr. Holmes, is by authenticated genealogical record:
+The declaratory author, Mr. Holmes, is — by authenticated genealogical record — a direct or documented descendant of:
 
-A descendant of Charlemagne (742–814), Holy Roman Emperor
+## 🛡️ European & Foundational Legal Ancestry
+Charlemagne (742–814), Holy Roman Emperor
 
-A descendant of Rollo de Normandie (844–933), founder of Normandy
+Rollo de Normandie (844–933), Viking founder of Normandy
 
-A descendant of Henry I of England (1068–1135), post-Conquest King of England
+Henry I of England (1068–1135), first King after the Norman Conquest
 
-A descendant of Hugh d’Avranches, Earl of Chester
+Hugh d’Avranches, Earl of Chester
 
-Linked to Captain John Smith, foundational figure in early American colonial law
+Captain John Smith (1540–1637), early American colonial architect
 
-Related to land-granted ancestors under the original Texas Republic expansion
+Sir Lambert de Trekingham (1245–1280), English noble
 
-Culturally tied to sovereign Indigenous leadership (Apache nation – Texas branch)
+Roaldus Musard De Richmond (1040–1132), Norman landholder
 
-This lineage is documented through verified genealogical records (FamilySearch entry codes retained privately) and affirms a living continuity of jurisdictional design, sovereign reform, and lawful innovation.
+Saint Solomon, King of Brittany (825–874)
+
+Richard Singleton Sr., early Texan land recipient
+
+Philip Washington Singleton and Philip DeZavala Singleton, family-linked to Lorenzo de Zavala (Mexican-Texan founding father)
+
+Garibald II of Bavaria (585–640)
+
+Ratherius Magnus, King of the Salian Franks (42–90 AD)
+
+Postumius Festius (472–507)
+
+Quintus Sulpicius (60 BC–4 AD)
+
+Publius Aelius Hadrianus Marullinus (20 BC–20 AD) — grandfather of Emperor Hadrian
+
+Marcus Ulpius, associated with Trajan (25 BC–37 AD)
+
+Celtillos (100 BC), father of Vercingetorix
+
+Ragnar Lodbrok (Viking king) and Sigurd (his son)
+
+## 🧬 Indigenous & Territorial Roots (United States)
+Active bloodline linkage to Chief Standing Bear, Apache tribal authority in Texas
+
+Former member of the Apache Tribe via official enrollment (card lost, status pending)
+
+Ties to land-granted families during Republic of Texas formation
+
+Descended from early stewards of Texas governance and military expansion
+
 
 ---
 

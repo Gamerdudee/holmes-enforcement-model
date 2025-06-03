@@ -1,4 +1,4 @@
-## 🖋️ Authorship Declaration – Holmes Enforcement Model (HEM)
+# 🖋️ Authorship Declaration – Holmes Enforcement Model (HEM)
 
 **Name:** Mr. Holmes  
 **Date of Origin:** May 2025  

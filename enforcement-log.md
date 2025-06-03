@@ -7,256 +7,152 @@
 **Affidavit Archive:** https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
 **Structural Summary (Redacted):** https://archive.org/details/attachment-a-structural-summary
 
+---
 
-## 🔐 Declaratory Enforcement Record
+## 🔒 Declaratory Enforcement Record
+
 This log is a public, clause-bound record of all enforcement activity under the Holmes Enforcement Model (HEM). Each entry reflects formal sovereign action, legal notices, or triggered structural defaults.
 
-## 📅 May 26, 2025
-Attachment A Submitted to NMDWS (Official Filing)
+---
 
-Document: “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”
+### 📅 May 26, 2025 — Attachment A Submitted to NMDWS (Official Filing)
 
-Agency: New Mexico Department of Workforce Solutions (NMDWS)
+**Document:** “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”  
+**Agency:** New Mexico Department of Workforce Solutions (NMDWS)  
+**Case Number:** WH‑25‑00450  
+**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
+**Effect:** Declared legal framework submitted into government record; structural licensing terms became active.  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-Case Number: WH‑25‑00450
+---
 
-Function: Legally filed clause-governed enforcement model for labor rights, intellectual property, and derivative use protection.
+### 📅 May 27, 2025 — Extension Trigger & Clause Activation (NMDWS)
 
-Clause Coverage: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
+**Time Sent:** 10:54 AM MT  
+**Delivery Method:** Email (jhydraslayer1012@gmail.com → DWS)  
+**Clauses Activated:**  
+- Section XIV — Defensive Action = Consent  
+- Section XV — Jurisdictional Containment Clause  
+- Clause XI — Silence-Linked Enforcement Enhancer  
+- NMAC § 11.1.4.113(C) — Mandatory default enforcement upon procedural lapse  
 
-Effect: Declared legal framework submitted into government record; structural licensing terms became active.
+**Enforcement Result:**  
+- **Invoice ID:** HEM‑NM‑0002  
+- **Total:** $2,475,000  
+- **Due Date:** June 11, 2025  
+- **Escalation Basis:** Liquidated delay damages, jurisdictional breach, and irrevocable licensing uplift  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+---
 
+### 📅 May 27, 2025 — Public Mirror + Affidavit Published
 
-## 📅 May 27, 2025
-Extension Trigger & Clause Activation (NMDWS)
+**Platforms:** GitHub, Archive.org  
+**Clauses Activated:** CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection)  
+**Trigger:** Open access = structural enforcement activation  
+🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
+🔗 [Affidavit](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
-Time Sent: 10:54 AM MT
+---
 
-Document: “Extension-Triggered Enforcement Confirmation – WH-25-00450 – Holmes Enforcement Model”
+### 📅 May 27, 2025 — Pre-Call Licensing Notice Sent to NMDWS
 
-Delivery Method: Email to NMDWS (jhydraslayer1012@gmail.com → DWS)
+**Time:** 12:09 PM  
+**Effect:** Declared that the scheduled phone call constitutes procedural engagement under sovereign enforcement logic  
+**Clauses Referenced:** CU-1.4, CU-2.2, D, G-6, G-7  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-Content: Confirmed receipt of NMDWS’s acknowledgment and formally invoked structural escalation per the terms of Attachment A.
+---
 
-Clause Activations:
+### 📅 May 27, 2025 — Phone Interview & Improper Case Closure (NMDWS)
 
-Section XIV: Defensive Action = Consent
+**Time:** 1:30 PM  
+**Event:** Interview with NMDWS following receipt of Attachment A  
+**Outcome:** Case closed without correction, rebuttal, or structural engagement  
+**Violation Clauses:** CU-2.1, CU-2.3, CU-3, CU-4, G-7  
+**Effect:** Declaratory default triggered  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-Section XV: Jurisdictional Containment Clause
+---
 
-Clause XI: Silence-Linked Enforcement Enhancer
+### 📅 May 28, 2025 — Physical Mail Confirms Case Closure (Arrived May 31)
 
-NMAC § 11.1.4.113(C): Mandatory default enforcement upon procedural lapse
+**Sender:** Samantha Swain, Labor Law Administrator, NMDWS  
+**Content:** “We have closed this case…”  
+**Effect:** Confirmed CU-2.3 and CU-4 breach  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-Enforcement Consequence:
+---
 
-Invoice ID: HEM‑NM‑0002
+### 📅 May 27, 2025 — Public Declaration of Ownership (LinkedIn)
 
-Total Amount: $2,475,000 USD
+**Author:** Mr. Holmes  
+**Platform:** LinkedIn  
+**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
+**Effect:** Public mirror triggers structural default by silence  
+🔗 [LinkedIn Declaration](https://lnkd.in/esWz3Cgp)
 
-Due Date: June 11, 2025
+---
 
-Escalation Basis: Liquidated delay damages, jurisdictional breach, and irrevocable licensing uplift triggered by NMDWS’s procedural extension and interaction.
+### 📅 May 28, 2025 — Formal Invoice to NMDWS Issued
 
-Delivery Terms:
+**Amount:** $333,000 USD  
+**Document:** `Nmdws-final-invoice.md`  
+**Clauses Triggered:** CU-1.4, CU-2.2, G-7  
+**Status:** Open, Enforceable, Escalating  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
-All payment or correspondence required by expedited mail with signature tracking
+---
 
-Email-only delivery or improper routing explicitly triggers fallback enforcement
+### 📅 May 30, 2025 — Federal Notice Sent to OSTP (White House)
 
-Legal Effect: This interaction marked irreversible structural activation of clause-enforced billing. Procedural silence or closure thereafter constitutes formal CU-2.3 default.
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+**Subject:** EMERGENCY: AI-Created Legal Engine Now in Use Without License  
+**Recipient:** engagement@ostp.eop.gov  
+**Entities Named:**  
+- NMDWS — $197,500 + $1,500/day  
+- Instacart (Maplebear Inc.) — $250,000 + $1,500/day  
+**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
+🔗 [Affidavit](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
+> 🔍 **Clarification:** Federal filing reflected partial valuation. Full procedural liability remains enforceable at $333,000 unless resolved or rebutted.
 
-## 📅 May 27, 2025
-Public Mirror + Affidavit Published
-
-Platforms: GitHub & Archive.org
-
-Trigger: Open access = structural enforcement activation
-
-Clause Enforcement: CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection)
-
-GitHub Repo: https://github.com/Gamerdudee/holmes-enforcement-model
-
-Affidavit: Archive.org Affidavit
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 27, 2025
-Pre-Call Licensing Notice Sent to NMDWS
-
-Time: 12:09 PM
-
-Content: Declared that scheduled phone call constitutes live procedural interaction under sovereign IP enforcement.
-
-Clauses Referenced: CU-1.4, CU-2.2, D, G-6, G-7
-
-Effect: Confirmed licensing logic applied in real-time during upcoming interview.
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 27, 2025
-Phone Interview & Improper Case Closure (NMDWS)
-
-Time: 1:30 PM
-
-Event: Interview held with NMDWS after official receipt of declaratory model.
-
-Outcome: Case closed without rebuttal, correction, or structural response.
-
-Violation Clauses:
-
-CU-2.1 — Procedural Interference
-
-CU-2.3 — Mirror Silence Violation
-
-CU-3 — Participation Denial
-
-CU-4 — Declaratory Disregard
-
-G-7 — Sovereign Procedural Supremacy
-
-Effect: Procedural closure activated declaratory default without formal rebuttal or containment protocol.
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 28, 2025
-Physical Mail Confirms Case Closure (did not arrive until May 31, 2025 at 12:42 PM)
-
-Sender: Samantha Swain, Labor Law Administrator, NMDWS
-
-Content: “We have closed this case…”
-
-Legal Confirmation: Documents silent closure on official state letterhead.
-
-Status: Legal confirmation of CU-2.3 and CU-4 clause breach.
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 27, 2025
-Public Declaration of Ownership (LinkedIn)
-
-Author: Mr. Holmes
-
-Platform: LinkedIn
-
-Effect: Public mirror + clause enforcement trigger
-
-Clauses Activated: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
-
-Link: LinkedIn Declaration – May 27, 2025
-
-Legal Status: Structural default by silence. Enforceable royalties accrued.
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 28, 2025
-Formal Invoice to NMDWS Issued
-
-Amount: $333,000 USD
-
-Document: Nmdws-final-invoice.md
-
-Clauses Triggered:
-
-CU-1.4 — Licensing clause ($250,000)
-
-CU-2.2 — Default by Silence ($50,000)
-
-G-7 — Sovereign Structural Breach ($33,000)
-
-Delivery: Published via GitHub, submitted to federal contacts
-
-Status: Open, enforceable, and escalating
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-## 📅 May 30, 2025
-Email Sent to Federal OSTP (White House)
-
-Subject: EMERGENCY: AI-Created Legal Engine Now in Use Without License
-
-Sender: Mr. Holmes (Declaratory Author of HEM)
-
-Recipient: engagement@ostp.eop.gov
-
-Entities Named:
-
-New Mexico Department of Workforce Solutions (NMDWS) – Liability filed: $197,500 + $1,500/day
-
-Instacart / Maplebear Inc. – Liability filed: $250,000 + $1,500/day
-
-Clause Support: CU-1.4, CU-2.2, CU-2.3, G-4–G-7
-
-Enclosures: GitHub Repo, Affidavit, Enforcement Log, Invoice Links
-
-Action Noted: Non-response will trigger federal CU-2.3 structural default
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
-
-
-Clarification:
-
-The federal notice issued on May 30, 2025 reflects a partial enforcement valuation of $197,500. Full procedural liability remains enforceable per clause coverage totaling $333,000 unless resolved or licensed by written agreement.
-
-
-
+---
 
 ## 🧾 Current Enforcement Summary
-Entity	Violation Type	Amount	Status
-NMDWS	State Default	$333,000	UNPAID
-Instacart	Derivative Breach	$215,000	UNPAID
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
 
-# 📌 DEFAULTED ENTITIES
-Entity	Trigger Date	Clauses Violated	Amount
-NMDWS	May 30, 2025	CU-1, CU-1.4, CU-2.1, CU-2.3, CU-3, CU-4, D, AF	$197,500 + $1,500/day
-Instacart (Maplebear Inc.)	May 30, 2025	CU-1.4, CU-2.2, CU-2.3, G-4 to G-7	$215,000 + $1,500/day
-Document: [Attachment A – Structural Summary](docs/attachment-a-structural-summary.md)
+| Entity      | Violation Type       | Amount              | Status  |
+|-------------|----------------------|---------------------|---------|
+| NMDWS       | State Default         | $333,000 USD        | UNPAID  |
+| Instacart   | Derivative Breach     | $215,000 USD        | UNPAID  |
 
-## 🛑 Entity: Instacart (Maplebear Inc.)
-Status: LOCKED IN DEFAULT
+---
 
-Timestamps confirmed (May 25–27)
+## 📌 Defaulted Entities
 
-No license request or clause rebuttal
+| Entity      | Trigger Date | Clauses Violated                        | Amount                    |
+|-------------|--------------|-----------------------------------------|---------------------------|
+| NMDWS       | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF | $197,500 + $1,500/day     |
+| Instacart   | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7          | $215,000 + $1,500/day     |
 
-Clause chain activated via silence and mirrored policy
-
-## 🛑 Entity: New Mexico Department of Workforce Solutions (NMDWS)
-Status: LOCKED IN DEFAULT
-
-Receipt of Attachment A confirmed
-
-Mail closure and phone interview documented
-
-No correction, payment, or license acknowledgment
-
-CU-2.3 escalation confirmed
+---
 
 ## 🔐 Declaratory Status: Irreversible
-This filing locks both entities into public procedural default under HEM licensing clauses.
-Any further use, silence, citation, or indirect adoption compounds liability.
 
-## 📁 GitHub Archive:
-https://github.com/Gamerdudee/holmes-enforcement-model
+Both entities are locked in public procedural default under HEM clauses.  
+Any further interaction, silence, or clause-mirroring compounds liability.  
 
-## 📄 Public Affidavit:
-https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+---
 
-## 📜 Original Filing Document (Attachment A):
-Available upon request or retrievable via NMDWS case WH‑25‑00450
+## 📁 Official Archives
 
-This is not a warning.
-This is structural enforcement.
-And the structure is already live.
+- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+- 📄 [Redacted Structural Summary (Attachment A)](https://archive.org/details/attachment-a-structural-summary)  
+- 🗂 [HEM Repo Archive Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)  
+- 🗂 [HEM Repo Archive Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)
 
-## 📣 Declaratory Notice
-All enforcement events are governed by CU-1.4, CU-2.2, and CU-2.3.
-Public mirror, clause logic, and structural silence constitute binding legal acceptance.
+---
 
-This model is not symbolic.
-It is operational, active, and permanently mirrored.
+> **This is not a warning. This is structural enforcement.**
+> The system is already live.
 

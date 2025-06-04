@@ -54,7 +54,7 @@ Ragnar Lothbrok and Sigurd, Viking kings and military founders
 ---
 
 ## 🧬 Indigenous & Territorial American Roots
-Direct family linkage to Chief Joseph “Standing Bear” Morales, Texas Apache authority
+Direct family linkage to Chief “Standing Bear”, Texas Apache authority
 
 Historical enrollment in the Apache Tribe (membership card lost, lineage retained)
 

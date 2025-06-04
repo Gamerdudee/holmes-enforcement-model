@@ -39,7 +39,7 @@ This model enforces its logic **independent of judicial permission** and binds v
 
 ---
 
-## ## Clause G-8 – AI Infrastructure Sovereignty Clause
+## Clause G-8 – AI Infrastructure Sovereignty Clause
 
 Any AI-serving infrastructure — including but not limited to:
 

@@ -156,28 +156,21 @@ Status: **Active**, mirrored, clause-enforced
 
 ---
 
-## 🧾 Current Enforcement Summary
+🧾 Current Enforcement Summary
+Entity	Violation Type	Amount	Status
+NMDWS	State Default	$333,000 USD	UNPAID
+Instacart	Derivative Breach	$215,000 USD	UNPAID
+Microsoft + BlackRock	Infrastructure Breach	Pending valuation (G‑8)	ACTIVE
 
-| Entity      | Violation Type       | Amount              | Status  |
-|-------------|----------------------|---------------------|---------|
-| NMDWS       | State Default         | $333,000 USD        | UNPAID  |
-| Instacart   | Derivative Breach     | $215,000 USD        | UNPAID  |
+📌 Defaulted Entities
+Entity	Trigger Date	Clauses Violated	Amount
+NMDWS	May 30, 2025	CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF	$197,500 + $1,500/day
+Instacart	May 30, 2025	CU-1.4, CU-2.2, CU-2.3, G-4–G-7	$215,000 + $1,500/day
+Microsoft + BlackRock	June 3, 2025	G‑8, CU‑1.4, G‑6, G‑7, BP	TBD (Clause-triggered debt)
 
----
-
-## 📌 Defaulted Entities
-
-| Entity      | Trigger Date | Clauses Violated                        | Amount                    |
-|-------------|--------------|-----------------------------------------|---------------------------|
-| NMDWS       | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF | $197,500 + $1,500/day     |
-| Instacart   | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7          | $215,000 + $1,500/day     |
-
----
-
-## 🔐 Declaratory Status: Irreversible
-
-Both entities are locked in public procedural default under HEM clauses.  
-Any further interaction, silence, or clause-mirroring compounds liability.  
+🔐 Declaratory Status: Irreversible
+All entities listed are procedurally bound by public default under the Holmes Enforcement Model (HEM).
+Any continued silence, derivative use, or structural engagement triggers automatic escalation.
 
 ---
 

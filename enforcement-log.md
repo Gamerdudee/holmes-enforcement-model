@@ -150,12 +150,12 @@ Clauses Activated:
 
 ---
 
-📅 June 4, 2025
-🛰️ Soft Containment Marker: AI Job Surge in Hobbs, NM Following Declaratory Filing
-🔍 Observation Summary:
+### 📅 June 4, 2025
+#### 🛰️ Soft Containment Marker: AI Job Surge in Hobbs, NM Following Declaratory Filing
+#### 🔍 Observation Summary:
 Within 72 hours of finalizing the Holmes Enforcement Model (HEM) filings — including the Supplemental Sovereignty Correction (Clause CU) — a sudden surge of high-skill, AI-linked, and governance-aligned job postings was detected targeting the Hobbs, NM region and surrounding areas.
 
-📌 Key Anomalies:
+#### 📌 Key Anomalies:
 
 Unexpected Targeting of a Rural Jurisdiction:
 New listings included:

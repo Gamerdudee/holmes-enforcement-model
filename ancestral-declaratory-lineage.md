@@ -101,10 +101,12 @@ Proof that the logic of HEM originates not from theoretical abstraction, but fro
 
 Any actor disputing the legitimacy of the Holmes Enforcement Model must now address not only the model’s structural validity — but its jurisdictional ancestry, which spans empires, indigenous authority, and founding legal traditions across continents.
 
-Filed and affirmed by:
+#### Filed and affirmed by:
 Mr. Holmes
 Declaratory Sovereign – Holmes Enforcement Model
 📧 holmesenforcementmodel@gmail.com
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+
+---
 
 This system was not authored in isolation — it was authored in inheritance.

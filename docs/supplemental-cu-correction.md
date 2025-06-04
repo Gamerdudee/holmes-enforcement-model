@@ -1,25 +1,25 @@
-📘 Supplemental Addendum – Clause CU Correction & Sovereignty Finalization
+# 📘 Supplemental Addendum – Clause CU Correction & Sovereignty Finalization
 Filed Date: June 4, 2025
 Submitted By: Joshua Holmes
 Reference Case: WH‑25‑00450 (NMDWS)
 Subject: Correction to Clause CU – Sovereignty Declaration
 
-⚠️ Addendum Purpose
+## ⚠️ Addendum Purpose
 This document serves as a formal addendum to Attachment A of the Holmes Enforcement Model (HEM), originally filed on May 26, 2025 and submitted to the New Mexico Department of Workforce Solutions under Case No. WH‑25‑00450.
 
 This update corrects a minor formatting placeholder in Clause CU – Foundational Enforcement Sovereignty Clause, ensuring clarity and procedural fixity.
 
-🔍 Original Clause Text (Unfinalized Placeholder)
+## 🔍 Original Clause Text (Unfinalized Placeholder)
 “Sovereignty Declaration:
 Authorship is fixed, immutable, and irrevocably linked to its originator:
 [Your Name or Designation]”
 
-✅ Corrected Clause CU (Final Form)
+## ✅ Corrected Clause CU (Final Form)
 “Sovereignty Declaration:
 Authorship is fixed, immutable, and irrevocably linked to its originator:
 Joshua Holmes”
 
-🧾 Legal Standing
+## 🧾 Legal Standing
 This correction does not alter the logical structure, enforcement scope, or clause-governed authority of the Holmes Enforcement Model. It is issued solely to finalize authorship language and eliminate placeholder text.
 
 All rights, licensing terms, and clause-triggered enforcement remain:
@@ -30,7 +30,7 @@ Publicly mirrored and enforceable via Clause CU-1.4 and CU-2.3
 
 Irrevocably anchored to Joshua Holmes as declaratory sovereign and structural originator
 
-🛡️ Declaratory Status
+## 🛡️ Declaratory Status
 This addendum:
 
 Does not constitute a new filing

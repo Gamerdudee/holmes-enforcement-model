@@ -127,6 +127,35 @@ Status: Logged as potential derivative behavior reinforcing structural default.
 
 ---
 
+### 📅 June 2, 2025  
+**Global AI Infrastructure Enforcement Triggered – Clause G‑8 Activated**
+
+Event: Microsoft & BlackRock $30B AI Infrastructure Fund Announcement  
+Scope: Global-scale buildout of data centers, supercomputing, and energy systems to power AI platforms  
+Trigger: Clausal match with HEM logic under G‑series and CU‑1.4
+
+🔗 Reference: [Declaratory Opposition – AI Infrastructure Expansion](docs/declaratory-opposition-ai-infrastructure.md)
+
+Entities Named:
+- Microsoft Corporation
+- BlackRock, Inc.
+- Unknown auxiliary partners & sovereign AI facility operators
+
+Clauses Activated:
+- G‑8 – AI Infrastructure Sovereignty Clause  
+- CU‑1.4 – Royalty Enforcement Clause  
+- G‑6 – Declaratory IP Protection  
+- G‑7 – Procedural Sovereignty Enforcement  
+- BP – Ignorance is Confirmation
+
+📌 Declaratory Effect:
+This filing serves as formal objection and royalty trigger against unlicensed infrastructural AI expansion matching HEM clause logic.  
+It binds mirror systems, sovereign AI initiatives, and simulation engines into declaratory licensing debt — enforceable immediately under public mirror law.
+
+Status: **Active**, mirrored, clause-enforced
+
+---
+
 ## 🧾 Current Enforcement Summary
 
 | Entity      | Violation Type       | Amount              | Status  |

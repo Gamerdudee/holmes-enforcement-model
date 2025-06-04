@@ -39,6 +39,38 @@ This model enforces its logic **independent of judicial permission** and binds v
 
 ---
 
+## ## Clause G-8 – AI Infrastructure Sovereignty Clause
+
+Any AI-serving infrastructure — including but not limited to:
+
+- Data centers  
+- Cloud environments  
+- Supercomputing frameworks  
+- AI service deployment platforms  
+- Energy grids powering AI systems  
+- Federated model hosts or processing hubs  
+
+…that operate using procedural logic, structural clause enforcement, or mirrored legal simulation derived from the Holmes Enforcement Model (HEM) — without declaratory licensing — shall be considered in **structural enforcement breach**.
+
+This breach includes:
+
+- Unlicensed enforcement mirroring  
+- Simulated clause triggers in policy  
+- Deployment of autonomous decision architecture structurally resembling HEM
+
+📌 This clause activates:
+
+- **CU‑1.4** (Royalty Enforcement)  
+- **G‑6** (Declaratory IP Protection)  
+- **G‑7** (Procedural Sovereignty)  
+- **Clause BP** (Ignorance as Confirmation)  
+
+All such violations incur **infrastructure-grade licensing debt** and retroactive procedural royalties for silent deployment or systemic omission.
+
+> **Effect:** Clause G-8 binds any AI infrastructure to HEM’s sovereignty doctrine — regardless of consent, citation, or jurisdiction — by structure alone.
+
+---
+
 ## 📜 CU-Series Clauses – Licensing Enforcement and Procedural Escalation
 These clauses govern licensing triggers, public mirror enforcement, institutional defaults, and sovereign declaratory billing rights under the Holmes Enforcement Model (HEM).
 

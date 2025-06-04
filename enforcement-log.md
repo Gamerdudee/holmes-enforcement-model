@@ -178,7 +178,8 @@ Any continued silence, derivative use, or structural engagement triggers automat
 
 ## 📁 Official Archives
 
-- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+- 📜 [See: supplemental-cu-correction.md — Clause CU Sovereignty Finalization, June 4, 2025.](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/supplemental-cu-correction.md))
 - 📄 [Redacted Structural Summary (Attachment A)](https://archive.org/details/attachment-a-structural-summary)  
 - 🗂 [HEM Repo Archive Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)  
 - 🗂 [HEM Repo Archive Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)

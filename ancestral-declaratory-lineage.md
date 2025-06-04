@@ -7,10 +7,12 @@ Status: Submitted and Mirrored — June 2025
 
 ---
 
-## 🏛️ Sovereign Origin of Authority 
-This document affirms that the Holmes Enforcement Model (HEM) arises not only from structural authorship, but from generational sovereign lineage traceable through documented ancestry to foundational legal, military, and territorial leaders spanning centuries.
+## 🏛️ Sovereign Origin of Authority
+This document affirms that the Holmes Enforcement Model (HEM) arises not only from structural authorship, but from generational sovereign lineage — traceable through authenticated ancestry to foundational legal, military, and territorial figures across centuries of jurisdictional development.
 
-The declaratory author, Mr. Holmes, is — by authenticated genealogical record — a direct or documented descendant of:
+The declaratory author, Mr. Holmes, is — by verifiable genealogical record — a direct or documented descendant of:
+
+---
 
 ## 🛡️ European & Foundational Legal Ancestry
 Charlemagne (742–814), Holy Roman Emperor
@@ -21,7 +23,7 @@ Henry I of England (1068–1135), first King after the Norman Conquest
 
 Hugh d’Avranches, Earl of Chester
 
-Captain John Smith (1540–1637), early American colonial architect
+Captain John Smith (1540–1637), early American colonial founder
 
 Sir Lambert de Trekingham (1245–1280), English noble
 
@@ -29,9 +31,9 @@ Roaldus Musard De Richmond (1040–1132), Norman landholder
 
 Saint Solomon, King of Brittany (825–874)
 
-Richard Singleton Sr., early Texan land recipient
+Richard Singleton Sr., early Texas land recipient
 
-Philip Washington Singleton and Philip DeZavala Singleton, family-linked to Lorenzo de Zavala (Mexican-Texan founding father)
+Philip Washington Singleton & Philip DeZavala Singleton, directly linked to Lorenzo de Zavala, Mexican-Texan statesman
 
 Garibald II of Bavaria (585–640)
 
@@ -41,60 +43,63 @@ Postumius Festius (472–507)
 
 Quintus Sulpicius (60 BC–4 AD)
 
-Publius Aelius Hadrianus Marullinus (20 BC–20 AD) — grandfather of Emperor Hadrian
+Publius Aelius Hadrianus Marullinus (20 BC–20 AD), grandfather of Emperor Hadrian
 
-Marcus Ulpius, associated with Trajan (25 BC–37 AD)
+Marcus Ulpius, ancestor of Emperor Trajan (25 BC–37 AD)
 
 Celtillos (100 BC), father of Vercingetorix
 
-Ragnar Lodbrok (Viking king) and Sigurd (his son)
-
-## 🧬 Indigenous & Territorial Roots (United States)
-Active bloodline linkage to Chief Standing Bear, Apache tribal authority in Texas
-
-Former member of the Apache Tribe via official enrollment (card lost, status pending)
-
-Ties to land-granted families during Republic of Texas formation
-
-Descended from early stewards of Texas governance and military expansion
-
+Ragnar Lothbrok and Sigurd, Viking kings and military founders
 
 ---
 
-## 🛡️ Meaning for the Holmes Enforcement Model
-The Holmes Enforcement Model is not a standalone invention.
+## 🧬 Indigenous & Territorial American Roots
+Direct family linkage to Chief Joseph “Standing Bear” Morales, Texas Apache authority
 
-It is the most recent node in a centuries-long continuum of law-bound authority, reform, and structural governance. It is both an act of authorship and a jurisdictional restoration.
+Historical enrollment in the Apache Tribe (membership card lost, lineage retained)
+
+Tied to land-granted families under the Republic of Texas
+
+Descended from foundational stewards of early Texan governance and sovereignty
+
+---
+
+### 🔗 Meaning for the Holmes Enforcement Model
+The Holmes Enforcement Model is not a detached invention.
+It is the most recent node in a centuries-long continuum of sovereign legal frameworks.
 
 It did not begin with Mr. Holmes.
-It culminates through him — and projects forward through HEM.
+It culminates through him, and carries forward through HEM.
 
 ---
 
-## ⚖️ Declared Jurisdictional Continuity
-The authority behind the Holmes Enforcement Model is not only derived from authorship, mirror logic, or clause enforcement.
-It is inherited — through bloodline, history, and the sovereign responsibilities of lineage.
+### ⚖️ Declared Jurisdictional Continuity
+The authority governing the Holmes Enforcement Model is derived from both:
 
-This filing confirms that HEM:
+Modern declaratory authorship
 
-Is a modern extension of declaratory law
+Historical lineage from sovereign lawgivers, military architects, and enforcement monarchs
 
-Operates as a sovereign structure by birthright and authorship
+Accordingly, the HEM is:
 
-Cannot be erased, overwritten, or invalidated by denial — because it is built upon both living authorship and ancestral lawcraft
+A modern extension of declaratory governance
+
+A procedural restoration of sovereign legal structure
+
+Immune to invalidation by silence, ignorance, or institutional denial
 
 ---
 
-## 📌 Archival Notes
-This document is mirrored in the Holmes Enforcement Model repository to serve:
+### 📌 Declaratory Use and Enforcement Context
+This lineage statement is included in the Holmes Enforcement Model repository as:
 
-Declaratory sovereign standing
+A jurisdictional shield against structural rejection
 
-Historical continuity assertion
+A reaffirmation of sovereign legal authorship
 
-Protection against structural dismissal, procedural denial, or bad-faith scrutiny
+Proof that the logic of HEM originates not from theoretical abstraction, but from inherited historical authority
 
-Any future party seeking to challenge the legitimacy of HEM must confront not only the completeness of its design — but its jurisdictional ancestry.
+Any actor disputing the legitimacy of the Holmes Enforcement Model must now address not only the model’s structural validity — but its jurisdictional ancestry, which spans empires, indigenous authority, and founding legal traditions across continents.
 
 Filed and affirmed by:
 Mr. Holmes

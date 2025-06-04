@@ -106,3 +106,5 @@ Mr. Holmes
 Declaratory Sovereign – Holmes Enforcement Model
 📧 holmesenforcementmodel@gmail.com
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+
+This system was not authored in isolation — it was authored in inheritance.

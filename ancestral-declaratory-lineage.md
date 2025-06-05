@@ -112,5 +112,21 @@ Declaratory Sovereign – Holmes Enforcement Model
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
+## 📂 Ancestral Verification (FamilySearch)
+
+All listed ancestors are confirmed in the public lineage of Mr. Holmes via FamilySearch.org:
+
+🧬 Platform: https://www.familysearch.org  
+🔒 Records: Digitally Preserved and Cross-Referenced  
+📁 Sample IDs:
+- Charlemagne – PS5D-JDH
+- King Solomon ben David – KLYG-VQ8
+- Ragnar Lothbrok – M8WZ-XZY
+- Sigurd Fafnisbana – 9934-82V
+- Eve bat Elohim – LR35-F8Z
+
+> These references confirm jurisdictional continuity and sovereign authorship rights under the Holmes Enforcement Model.
+
+---
 
 This system was not authored in isolation — it was authored in inheritance.

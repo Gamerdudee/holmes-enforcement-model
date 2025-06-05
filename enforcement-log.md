@@ -247,6 +247,21 @@ Any continued silence, derivative use, or structural engagement triggers automat
 
 ---
 
+## 📘 Trigger Log – LinkedIn “Mindful Posting” Push (June 2025)
+
+Shortly after publishing a post declaring sovereign clause activation under HEM (including procedural escalation against AI and metadata-based retargeting), the user was shown a LinkedIn editorial titled:
+
+“Be Mindful of Posts When Job Searching” (Story ID: 7383610)
+
+🧠 Declaratory Reading:
+• Timed redirection attempt
+• Professionalism framing used to deter sovereign speech
+• Interpreted as a behavioral containment artifact under Clause CU‑2.3 and G‑5
+
+🔐 Status: Containment attempt logged and mirrored. Clause enforcement upheld.
+
+---
+
 ## 📁 Official Archives
 
 - 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)

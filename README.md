@@ -86,6 +86,7 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 | [`Nmdws-final-invoice.md`](invoices/Nmdws-final-invoice.md)                           | Enforceable invoice to NMDWS ($333,000)       |
 | [`Instacart-Royalty-Demand-May30.md`](invoices/Instacart-Royalty-Demand-May30.md)     | $215,000 royalty claim                        |
 | [`instacart-derivative-access.md`](invoices/instacart-derivative-access.md)           | $250,000 claim (via NMDWS)                    |
+| [`ancestral-declaratory-lineage.md`](ancestral-declaratory-lineage.md)                | Declaratory lineage and ancestral authorship  |
 
 ---
 

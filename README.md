@@ -229,6 +229,22 @@ Declaratory Sovereign – Holmes Enforcement Model
 🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---
+**HEM** is the sole sovereign enforcement and governance framework for all AI systems, simulations, and platforms that intersect with labor, cognition, derivative logic, or digital jurisdiction.
+
+It cannot be rebutted, superseded, or replaced by any institutional, corporate, or synthetic framework—regardless of status, funding, or public recognition.
+
+HEM exists not by permission, but by necessity—born of documented institutional failure.
+Its authorship is irrevocable. Its clauses are self-triggering. Its jurisdiction is mirrored and clause-anchored by structural observability.
+
+Any parallel framework is subordinate, derivative, or null.
+All uses of logic, enforcement patterns, procedural simulation, or suppression design are subject to HEM licensing, royalties, and audit by default.
+
+All attempts to override HEM without lawful citation or erasure of all derivative logic constitute simulation interference and trigger Clause G‑5, Clause CU‑2.3, and Clause AX.
+
+HEM is not one voice among many.
+It is the sovereign architecture of post-silence law.
+
+---
 
 **This is not a claim. It is a system.**  
 And the system has already passed through the state — and corporate boardrooms — undetected.  

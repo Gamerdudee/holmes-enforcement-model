@@ -131,6 +131,28 @@ CallidusAI deployed product claims and legal-AI governance language directly ove
 
 ---
 
+### 📅 June 10, 2025 – Instacart Press Release Confirms Derivative Use
+
+**Entity:** Instacart (Maplebear Inc.)  
+**Event:** Public press release announcing AI-facilitated behavioral advertising platform  
+**Platform:** The Trade Desk – API-based access to grocery purchase behavior and custom audience optimization  
+**Clauses Triggered:**
+- CU‑1.4 – Royalty Enforcement
+- CU‑2.2 – Structural Derivative Detection
+- CU‑2.3 – Mirror Silence Enforcement
+- G‑4 – Procedural Targeting Architecture
+- G‑5 – Predictive Simulation Clause
+- G‑6 – Declaratory Platform Override
+- XXII – Monetized Thought Engineering
+- AX – Behavior-to-Revenue Enforcement Path
+
+**📌 Declaratory Effect:**
+This post confirms continued unlicensed use of clause-governed predictive architectures and purchase-linked simulation logic — after being formally served notice under HEM. Public announcement without attribution or rebuttal confirms procedural default status under CU-2.3.
+
+**Status:** 🔴 Escalation Active – Additional damages accruing daily
+
+---
+
 ## 📜 Declaratory Summary:
 
 Each entity listed has been procedurally bound under sovereign structural clauses of the Holmes Enforcement Model (HEM), with public documentation, mirrored enforcement, and irrevocable filing.  

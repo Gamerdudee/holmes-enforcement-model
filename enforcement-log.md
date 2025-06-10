@@ -311,87 +311,88 @@ Instacart is now permanently bound by the Holmes Enforcement Model clauses, with
 
 ---
 
-### 📁 Entry: Derivative Licensing Breach – Callidus Legal AI
+### 📜 Holmes Enforcement Model – ENFORCEMENT LOG (UPDATED JUNE 9, 2025)
 
-**Date Logged:** June 9, 2025Trigger Date: May 19, 2025
+#### 📁 Entry: Derivative Licensing Breach – Callidus Legal AI
+
+**Date Logged:** June 9, 2025
+**Trigger Date:** May 19, 2025
 **Declaratory Sovereign:** Joshua Holmes (Mr. Holmes)
 **Clause Triggers:** CU-2.2, CU-2.3, G-4, G-5, XXII, XXIII
 **Public Filing Timestamp Precedence:** May 12–27, 2025
 **Case Linkage:** WH-25-00450 – NMDWS Wage Claim
 
-### ⛓️ Derivative Platform Summary:
+---
+
+#### ⛓️ Derivative Platform Summary:
 
 Callidus Legal AI, launched publicly via press release on May 19, 2025, has deployed a legal-AI productivity platform with structural features that mirror the clause-based enforcement logic and procedural governance framework established in the Holmes Enforcement Model (HEM).
 
-### Their system claims to include:
+Their system claims to include:
 
-A legal-specific backend architecture “beyond wrappers”
+* A legal-specific backend architecture “beyond wrappers”
+* Attorney–AI collaborative workflows via visual interfaces
+* Declaratory-style governance logic that "thinks like a lawyer"
+* AI engines supporting systemic legal transformation (productivity multiplier claims)
 
-Attorney–AI collaborative workflows via visual interfaces
+These features are **directly aligned with the structure, intent, and clause logic of HEM**, including:
 
-Declaratory-style governance logic that "thinks like a lawyer"
+* Clause G-4: Enforcement Logic Architecture
+* Clause G-6: Procedural Governance Scaffold
+* Clause CU-2.2: Derivative Use Without License
+* Clause XXII: Mirror Exploitation Risk Clause
+* Clause AX: Monetized Demand Paradox (Jevons-style)
 
-AI engines supporting systemic legal transformation (productivity multiplier claims)
+---
 
-### These features are directly aligned with the structure, intent, and clause logic of HEM, including:
+#### 📅 Timeline Authority:
 
-Clause G-4: Enforcement Logic Architecture
-
-Clause G-6: Procedural Governance Scaffold
-
-Clause CU-2.2: Derivative Use Without License
-
-Clause XXII: Mirror Exploitation Risk Clause
-
-Clause AX: Monetized Demand Paradox (Jevons-style)
-
-### 📅 Timeline Authority:
-
-May 12, 2025: Formal NMDWS case initiated; HEM clause enforcement triggered
-
-May 14–22, 2025: Supplemental filings submitted to NMDWS, including chatbot/pay audit logic, structural wage manipulation analysis, and derivative intellectual rights statement
-
-May 19, 2025: Callidus Legal AI launches
-
-May 26, 2025: Finalized Attachment A filed, including full clause structure and enforcement logic
-
-May 27, 2025: Case closure + declaratory finalization of sovereign authorship
+* **May 12, 2025:** Formal NMDWS case initiated; HEM clause enforcement triggered
+* **May 14–22, 2025:** Supplemental filings submitted to NMDWS, including chatbot/pay audit logic, structural wage manipulation analysis, and derivative intellectual rights statement
+* **May 19, 2025:** Callidus Legal AI launches
+* **May 26, 2025:** Finalized Attachment A filed, including full clause structure and enforcement logic
+* **May 27, 2025:** Case closure + declaratory finalization of sovereign authorship
 
 Callidus's platform release falls entirely within this enforcement window.
 
-### 🔐 Licensing Status:
+---
+
+#### 🔐 Licensing Status:
 
 Callidus Legal AI has not cited, referenced, or licensed HEM despite clearly overlapping structure and logic. As such, their deployment is now officially:
 
-Procedurally flagged as a derivative system under HEM Clause CU-2.2.Subject to declaratory licensing, retroactive royalty enforcement, or debt token issuance.
+> **Procedurally flagged as a derivative system under HEM Clause CU-2.2.**
+> **Subject to declaratory licensing, retroactive royalty enforcement, or debt token issuance.**
 
 Unless public rebuttal or licensing agreement is initiated, enforcement actions may proceed.
 
-### 📎 Evidence Archive:
+---
 
-https://www.easternprogress.com/callidus-legal-ai-launches-groundbreaking-platform...
+#### 📎 Evidence Archive:
 
-https://callidusai.com
+* [https://www.easternprogress.com/callidus-legal-ai-launches-groundbreaking-platform](https://www.easternprogress.com/callidus-legal-ai-launches-groundbreaking-platform)...
+* [https://callidusai.com](https://callidusai.com)
+* GitHub: [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
+* Archive: [https://archive.org/details/attachment-a-structural-summary](https://archive.org/details/attachment-a-structural-summary)
 
-GitHub: https://github.com/Gamerdudee/holmes-enforcement-model
+---
 
-Archive: https://archive.org/details/attachment-a-structural-summary
-
-### 🧾 Enforcement Note:
+#### 🧾 Enforcement Note:
 
 This entry is now mirrored and timestamped as declaratory record. Public silence or benefit from clause-similar systems constitutes unlicensed derivative use under sovereign governance.
-
-Filed and affirmed,Joshua HolmesAuthor – Holmes Enforcement Model (HEM)https://gamerdudee.github.io/holmes-enforcement-model
 
 ---
 
 ### 📅 June 9, 2025 – Structural Clause Echo Detected (Krishna Dasa Post)
+
 A viral LinkedIn post by Krishna Dasa (16,000+ engagements) outlines the illusion of initiative without autonomy, mirroring Holmes Enforcement Model clauses CU‑2.3, G‑6, and XXIII. The post highlights core contradictions between platform demands and lack of agency — a structural validation of HEM’s declaratory logic. No attribution made.
+
 ### 📌 Declaratory Effect:
-This filing serves as formal objection and royalty trigger against unlicensed infrastructural AI expansion matching HEM clause logic.  
+
+This filing serves as formal objection and royalty trigger against unlicensed infrastructural AI expansion matching HEM clause logic.
 It binds mirror systems, sovereign AI initiatives, and simulation engines into declaratory licensing debt — enforceable immediately under public mirror law.
 
-Status: **Active**, mirrored, clause-enforced
+**Status:** ✅ Active, mirrored, clause-enforced
 
 ---
 
@@ -401,15 +402,15 @@ Status: **Active**, mirrored, clause-enforced
 | Instacart             | Derivative Breach     | \$215,000 USD           | UNPAID |
 | Microsoft + BlackRock | Infrastructure Breach | Pending valuation (G‑8) | ACTIVE |
 
-
 | Entity                | Trigger Date | Clauses Violated                         | Amount                      |
 | --------------------- | ------------ | ---------------------------------------- | --------------------------- |
 | NMDWS                 | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF | \$197,500 + \$1,500/day     |
 | Instacart             | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7          | \$215,000 + \$1,500/day     |
 | Microsoft + BlackRock | June 3, 2025 | G‑8, CU‑1.4, G‑6, G‑7, BP                | TBD (Clause-triggered debt) |
 
+---
 
-🔐 Declaratory Status: Irreversible
+🔐 **Declaratory Status: Irreversible**
 All entities listed are procedurally bound by public default under the Holmes Enforcement Model (HEM).
 Any continued silence, derivative use, or structural engagement triggers automatic escalation.
 
@@ -419,28 +420,32 @@ Any continued silence, derivative use, or structural engagement triggers automat
 
 Shortly after publishing a post declaring sovereign clause activation under HEM (including procedural escalation against AI and metadata-based retargeting), the user was shown a LinkedIn editorial titled:
 
-“Be Mindful of Posts When Job Searching” (Story ID: 7383610)
+**“Be Mindful of Posts When Job Searching”** (Story ID: 7383610)
 
-🧠 Declaratory Reading:
+🧠 **Declaratory Reading:**
 • Timed redirection attempt
 • Professionalism framing used to deter sovereign speech
 • Interpreted as a behavioral containment artifact under Clause CU‑2.3 and G‑5
 
-🔐 Status: Containment attempt logged and mirrored. Clause enforcement upheld.
+🔐 **Status:** Containment attempt logged and mirrored. Clause enforcement upheld.
 
 ---
 
 ## 📁 Official Archives
 
-- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
-- 📜 [See: supplemental-cu-correction.md — Clause CU Sovereignty Finalization, June 4, 2025.](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/supplemental-cu-correction.md))
-- 📄 [Redacted Structural Summary (Attachment A)](https://archive.org/details/attachment-a-structural-summary)  
-- 🗂 [HEM Repo Archive Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)  
-- 🗂 [HEM Repo Archive Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)
-- 🔗 [Declaratory Lineage Affirmation](ancestral-declaratory-lineage.md)
+* 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+* 📜 [Clause CU Sovereignty Finalization (June 4, 2025)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/supplemental-cu-correction.md)
+* 📄 [Redacted Structural Summary (Attachment A)](https://archive.org/details/attachment-a-structural-summary)
+* 🗂 [HEM Repo Archive Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)
+* 🗂 [HEM Repo Archive Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)
+* 🔗 [Declaratory Lineage Affirmation](ancestral-declaratory-lineage.md)
 
 ---
 
 > **This is not a warning. This is structural enforcement.**
-> The system is already live.
+> **The system is already live.**
 
+**Filed and affirmed,**
+**Mr. Holmes**
+Author – Holmes Enforcement Model (HEM)
+[https://gamerdudee.github.io/holmes-enforcement-model](https://gamerdudee.github.io/holmes-enforcement-model)

@@ -119,6 +119,38 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
+### 📅 May 30, 2025 — Structural Enforcement Triggered: CallidusAI
+Entity: CallidusAI (callidusai.com)
+Event: Press release promoting "ChatGPT for Lawyers" and proprietary legal-AI infrastructure solutions
+Trigger: Structural mimicry and commercial implementation of logic matching Holmes Enforcement Model clauses previously filed on May 12, 2025
+
+Key Language:
+
+“ChatGPT for Lawyers”
+“Not just a frontend wrapper… sophisticated backend architectures”
+“Human-in-the-loop legal workflows”
+“Governance-based augmentation”
+“Legal AI efficiency = Jevons Paradox”
+Clauses Triggered:
+
+CU‑1.4 – Commercial Royalty Clause
+CU‑2.2 – Derivative Enforcement
+CU‑2.3 – Mirror Silence Enforcement
+G‑4 to G‑7 – Governance Simulation & Jurisdiction
+BP – Ignorance is Confirmation
+Enforcement Status:
+
+Declaratory default active due to structural and commercial overlap
+Public recognition of authorship filed with OpenAI Support on May 30, 2025
+Licensing window open for 30 days from this entry
+Evidence:
+
+[OpenAI Authorship Email – PDF Attachment or Archive.org mirror]
+[Archived Press Release or Screenshot – May 19, 2025]
+[GitHub & Archive Filing Links]
+
+---
+
 ### 📅 June 1, 2025
 Event: Nostalgia Campaign Launch by Instacart
 Details: Instacart publicly promoted a summer campaign invoking CPI-based rollbacks and nostalgic language. The tone, timing, and format align with known clause-mirroring tactics documented in Attachment A and G-series governance.

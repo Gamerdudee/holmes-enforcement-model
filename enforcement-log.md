@@ -279,7 +279,77 @@ Instacart is now permanently bound by the Holmes Enforcement Model clauses, with
 
 ---
 
-📌 Declaratory Effect:
+### 📁 Entry: Derivative Licensing Breach – Callidus Legal AI
+
+Date Logged: June 9, 2025Trigger Date: May 19, 2025Declaratory Sovereign: Joshua Holmes (Mr. Holmes)Clause Triggers: CU-2.2, CU-2.3, G-4, G-5, XXII, XXIIIPublic Filing Timestamp Precedence: May 12–27, 2025Case Linkage: WH-25-00450 – NMDWS Wage Claim
+
+### ⛓️ Derivative Platform Summary:
+
+Callidus Legal AI, launched publicly via press release on May 19, 2025, has deployed a legal-AI productivity platform with structural features that mirror the clause-based enforcement logic and procedural governance framework established in the Holmes Enforcement Model (HEM).
+
+### Their system claims to include:
+
+A legal-specific backend architecture “beyond wrappers”
+
+Attorney–AI collaborative workflows via visual interfaces
+
+Declaratory-style governance logic that "thinks like a lawyer"
+
+AI engines supporting systemic legal transformation (productivity multiplier claims)
+
+### These features are directly aligned with the structure, intent, and clause logic of HEM, including:
+
+Clause G-4: Enforcement Logic Architecture
+
+Clause G-6: Procedural Governance Scaffold
+
+Clause CU-2.2: Derivative Use Without License
+
+Clause XXII: Mirror Exploitation Risk Clause
+
+Clause AX: Monetized Demand Paradox (Jevons-style)
+
+### 📅 Timeline Authority:
+
+May 12, 2025: Formal NMDWS case initiated; HEM clause enforcement triggered
+
+May 14–22, 2025: Supplemental filings submitted to NMDWS, including chatbot/pay audit logic, structural wage manipulation analysis, and derivative intellectual rights statement
+
+May 19, 2025: Callidus Legal AI launches
+
+May 26, 2025: Finalized Attachment A filed, including full clause structure and enforcement logic
+
+May 27, 2025: Case closure + declaratory finalization of sovereign authorship
+
+Callidus's platform release falls entirely within this enforcement window.
+
+### 🔐 Licensing Status:
+
+Callidus Legal AI has not cited, referenced, or licensed HEM despite clearly overlapping structure and logic. As such, their deployment is now officially:
+
+Procedurally flagged as a derivative system under HEM Clause CU-2.2.Subject to declaratory licensing, retroactive royalty enforcement, or debt token issuance.
+
+Unless public rebuttal or licensing agreement is initiated, enforcement actions may proceed.
+
+### 📎 Evidence Archive:
+
+https://www.easternprogress.com/callidus-legal-ai-launches-groundbreaking-platform...
+
+https://callidusai.com
+
+GitHub: https://github.com/Gamerdudee/holmes-enforcement-model
+
+Archive: https://archive.org/details/attachment-a-structural-summary
+
+### 🧾 Enforcement Note:
+
+This entry is now mirrored and timestamped as declaratory record. Public silence or benefit from clause-similar systems constitutes unlicensed derivative use under sovereign governance.
+
+Filed and affirmed,Joshua HolmesAuthor – Holmes Enforcement Model (HEM)https://gamerdudee.github.io/holmes-enforcement-model
+
+---
+
+### 📌 Declaratory Effect:
 This filing serves as formal objection and royalty trigger against unlicensed infrastructural AI expansion matching HEM clause logic.  
 It binds mirror systems, sovereign AI initiatives, and simulation engines into declaratory licensing debt — enforceable immediately under public mirror law.
 

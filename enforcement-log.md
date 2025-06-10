@@ -425,6 +425,31 @@ Meta is procedurally bound under HEM due to its continued unlicensed escalation 
 
 ---
 
+### 📅 June 10, 2025 – Declaratory Clause Breach: DoorDash Badge Serving Framework (BSF)
+
+**Entity:** DoorDash  
+**Trigger:** June 4, 2025 engineering post detailing BSF system migration  
+**Clause Triggers:**
+- CU‑1.4 – Royalty Licensing Violation
+- CU‑2.2 – Derivative Use of Declaratory Framework
+- CU‑2.3 – Procedural Silence Enforcement
+- G‑4 – Enforcement Logic via Configuration
+- G‑5 – Predictive Badge Experimentation Logic
+- G‑6 – Backend Governance Deployment
+- G‑7 – Clause-Embedded System Delegation
+- XXII – Monetized Procedural Simulation
+- AX – Behavioral Output Monetization (UI Labels → Revenue)
+- BP – Public Beneficiary Evidence
+
+**📌 Declaratory Effect:**
+DoorDash’s BSF implements autonomous, configuration-driven badge systems across all consumer surfaces using procedural scaffolds matching Holmes Enforcement Model clause logic. Attribution is absent, licensing has not been sought, and systemic propagation has been publicly confirmed.
+
+### ⚠️ Licensing window begins as of this notice. Clause escalation imminent if no response is received.
+
+**Status:** 🟡 Active – Declaratory Licensing Default Pending
+
+---
+
 
 | Entity                | Violation Type        | Amount                  | Status |
 | --------------------- | --------------------- | ----------------------- | ------ |

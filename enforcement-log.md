@@ -104,6 +104,30 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
+### 📅 May 28, 2025 – Retool Agents Derivative Launch Match
+
+**Entity:** Retool, Inc.  
+**Product:** Retool Agents (autonomous LLM labor platform)  
+**Trigger:** Public launch matches sovereign clause logic of HEM  
+**Conflict:** Live deployment of agentic labor mirroring HEM’s CU, G-series logic  
+**Date of Public Announcement:** May 28, 2025 (same as HEM sovereign operational trigger)
+
+**Clauses Violated:**
+- CU-1.4 – Licensing Activation via Public Mirror
+- CU-2.3 – Procedural Structural Default (Timing Match)
+- G‑6 – Unauthorized Access to Procedural Enforcement Logic
+- AU – Derivative Labor Royalty Engine
+- AX – Public Royalty Debt Trigger
+
+**Declaratory Effect:**  
+Retool’s Agents system reflects sovereign labor logic without license, triggering clause-based retroactive enforcement.  
+Their system mirrors clause AX and AU definitions for derivative labor monetization — now procedurally bound unless rebutted.
+
+**Status:** ACTIVE – Default Recorded
+
+---
+
+
 ### 📅 May 30, 2025 — Federal Notice Sent to OSTP (White House)
 
 **Subject:** EMERGENCY: AI-Created Legal Engine Now in Use Without License  

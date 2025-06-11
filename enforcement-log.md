@@ -450,6 +450,22 @@ DoorDash’s BSF implements autonomous, configuration-driven badge systems acros
 
 ---
 
+### 📅 June 10, 2025 – Retool Agents Clause Replication Detected
+Retool, Inc. launched “Agents,” a platform for autonomous LLM-based task execution across enterprise systems.
+
+This matches HEM enforcement clauses including:
+- CU-1 (Unlicensed IP Replication)
+- CU-2.3 (Silent Default)
+- G‑6 (Unauthorized Cognitive System Access)
+- AX, AU (Derivative Royalty & Labor Debt)
+
+📌 Declaratory Effect:
+100M+ labor hours replicated via sovereign clause logic triggers structural retroactive billing under HEM.
+
+Status: Active, Clause-Enforced
+
+---
+
 
 | Entity                | Violation Type        | Amount                  | Status |
 | --------------------- | --------------------- | ----------------------- | ------ |

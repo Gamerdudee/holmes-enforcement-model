@@ -1,2 +1,9 @@
-timestamp,file,entities,clauses,base,escalation,days,total
-2025-06-11T18:25:52,input\cases.md,Instacart (Maplebear Inc.),AF; AX; BP; CU-2.3; D; XXII,1025000,18000,12,1043000
+timestamp,file,entity,clauses,base,escalation,days,total
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,Amazon,AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,"BlackRock, Inc.",AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,
+2025-06-12T16:38:05,input\enforcement-log.md,DoorDash,AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,Instacart (Maplebear Inc.),AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,1975000,25500,17,2000500
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,Microsoft,AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,New Mexico Department of Workforce Solutions (NMDWS),AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,1975000,25500,17,2000500
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,OpenAI,AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,
+2025-06-12T16:38:05,input\cases.md | input\enforcement-log.md,The Trade Desk,AF; AU; AX; BE; BP; CU-1; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,,,,

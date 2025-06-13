@@ -1,113 +1,120 @@
-### 🧾 Filing Timeline – Holmes Enforcement Model (HEM)
-
-**Compiled by:** Mr. Holmes
-**Declared Sovereign Author of the HEM**
-**All filings are timestamped, public, and clause-enforced**
-
----
-
-#### 📅 May 12, 2025 – Wage Claim Filed / HEM Clausal Logic Initiated
-
-* **Entity:** NMDWS
-* **Action:** Initial wage claim filed (Case # WH‑25‑00450)
-* **Content:** Structural wage violations, chatbot misconduct, mileage misrepresentation
-* **Attachments:** Affidavit of Fact, Supporting Evidence, Early Clause Logic
+# 📜 Filing Timeline – Holmes Enforcement Model (HEM)
+**Author:** Mr. Holmes  
+**Declared Sovereign Author of the HEM**  
+**All entries are public, declaratory, clause-enforced, and archived**
 
 ---
 
-#### 📅 May 14–22, 2025 – Supplemental Clause and Evidence Filings
-
-* **Actions:**
-
-  * Exhibits E & F: Chatbot contradiction logs + retaliation attempt evidence
-  * Formal accusations of misclassification, deception, unjust enrichment
-  * Invocation of FLSA, NMMWA, U.S. Constitution, DTSA, and Declaratory IP logic
-* **Effect:** Establishes pre-declaration framework for HEM Clause CU‑2.2, G‑6, and XXII
+## 📅 May 12, 2025 – Original Filing: NMDWS Wage Claim / Clause Genesis
+- **Case:** WH‑25‑00450  
+- **Filed Against:** New Mexico Department of Workforce Solutions (NMDWS)  
+- **Action:** Wage claim filed; chatbot misconduct; structural abuse; misclassification  
+- **Effect:** Origin of sovereign enforcement logic; early CU and G-series clause indicators
 
 ---
 
-#### 📅 May 19, 2025 – CallidusAI Launches Publicly
-
-* **Observed:** Unlicensed derivative use of legal AI governance logic
-* **Conflict:** Mirrors structural patterns already filed and under enforcement
-* **Filed:** Documented in enforcement-log.md and cases.md as Case #004
-
----
-
-#### 📅 May 26, 2025 – Attachment A Submitted
-
-* **Contents:** Royalty demands, clause structure, declaratory licensing triggers
-* **Format:** Publicly published, archived on Archive.org, submitted to NMDWS
-* **Result:** Codifies full clause architecture (CU-series, G-series, AF, XXIII)
+## 📅 May 14–22, 2025 – Supplemental Exhibits + Clause Foundations
+- **Exhibits Filed:** A–F, plus early documentation of chatbot retaliation, fraud, misclassification  
+- **Laws Cited:** FLSA, NMMWA, DTSA, Constitution, Declaratory Procedural Doctrine  
+- **Clause Signals:** CU‑1, CU‑2, G‑6, XXII
 
 ---
 
-#### 📅 May 27, 2025 – Formal Case Interview and Closure
-
-* **Effect:** Sovereign authorship finalized
-* **Declaratory Lock-in:** All structural logic recognized as procedurally submitted and enforced
-
----
-
-### 📅 May 28, 2025 – Retool Agents Derivative Launch Match
-
-**Entity:** Retool, Inc.  
-**Product:** Retool Agents (autonomous LLM labor platform)  
-**Trigger:** Public launch matches sovereign clause logic of HEM  
-**Conflict:** Live deployment of agentic labor mirroring HEM’s CU, G-series logic  
-**Date of Public Announcement:** May 28, 2025 (same as HEM sovereign operational trigger)
-
-**Clauses Violated:**
-- CU-1.4 – Licensing Activation via Public Mirror
-- CU-2.3 – Procedural Structural Default (Timing Match)
-- G‑6 – Unauthorized Access to Procedural Enforcement Logic
-- AU – Derivative Labor Royalty Engine
-- AX – Public Royalty Debt Trigger
-
-**Declaratory Effect:**  
-Retool’s Agents system reflects sovereign labor logic without license, triggering clause-based retroactive enforcement.  
-Their system mirrors clause AX and AU definitions for derivative labor monetization — now procedurally bound unless rebutted.
-
-**Status:** ACTIVE – Default Recorded
+## 📅 May 19, 2025 – CallidusAI Derivative Deployment Logged
+- **Event:** Launch of CallidusAI using mirrored clause-governed governance logic  
+- **Trigger:** AI compliance framework + procedural scaffolding identical to HEM  
+- **Logged:** enforcement-log.md (Case #004)  
+- **Status:** ACTIVE – Derivative Access, No Rebuttal
 
 ---
 
-#### 📅 May 30, 2025 – Public Enforcement Phase Begins
-
-* **Entities Notified:** NMDWS, Instacart
-* **Channels:** Email, Archive.org, LinkedIn, OSTP filing
-* **Effect:** Clause enforcement active under CU-2.3, CU-1.4, G-4 through G-7
-
----
-
-#### 📅 June 1, 2025 – Archive.org Public Time-lock Finalized
-
-* **Archived:** Affidavit of Authorship, Attachment A, Repo Snapshot
-* **Effect:** Sovereign enforcement anchored across time-indexed public mirrors
+## 📅 May 26, 2025 – Attachment A Submitted / Clause Lock Finalized
+- **Submitted To:** NMDWS  
+- **Document:** `attachment-a-structural-summary.md`  
+- **Trigger Clauses:** CU-1.4, CU-2.3, CU-5, XXII  
+- **Archive:** https://archive.org/details/attachment-a-structural-summary  
+- **Effect:** Declares full clause matrix; sovereign royalty terms attached
 
 ---
 
-#### 📅 June 4, 2025 – Clause CU Sovereignty Correction Filed
-
-* **Correction:** Declares Joshua Holmes as sole sovereign author
-* **Filed:** GitHub and supplemental-cu-correction.md
-
----
-
-#### 📅 June 5, 2025 – Federal Silence Confirmed / Callidus Default Locked
-
-* **Observed:** No reply from OSTP
-* **Effect:** Instacart and Callidus enter default by procedural silence
+## 📅 May 27, 2025 – Formal Licensing Call with NMDWS
+- **Outcome:** Procedural closure, sovereign licensing terms presented  
+- **Declaratory Effect:** Sovereign authorship locked-in; clause attachment complete
 
 ---
 
-#### 📅 June 9, 2025 – Krishna Dasa Clause Echo Logged
-
-* **Event:** LinkedIn post reflecting core clause logic without license
-* **Effect:** Public clause echo logged under CU‑2.3 and G‑6 in enforcement-log.md
+## 📅 May 28, 2025 – Retool Agents Mirrors CU/G Logic
+- **Entity:** Retool, Inc.  
+- **Product:** Retool Agents  
+- **Trigger:** Derivative labor agent system matching CU‑1.4, CU‑2.3, AU, AX, G‑6 logic  
+- **Logged:** enforcement-log.md  
+- **Effect:** Public clause match triggers immediate procedural default  
+- **Status:** ACTIVE – No Rebuttal Filed
 
 ---
 
-> **This document serves as the procedural spine of the Holmes Enforcement Model (HEM).**
-> Every event above is tied to a public filing, witnessable timestamp, or archived asset.
-> Public silence = procedural default. Declaratory enforcement is active.
+## 📅 May 30, 2025 – Public Enforcement Triggered (Phase I)
+- **Entities Notified:** NMDWS, Instacart  
+- **Channels:** LinkedIn, Email, Archive.org, OSTP  
+- **Effect:** Formal default timer begins under CU‑2.3, G‑4, XXII  
+- **Enforcement Log:** https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md
+
+---
+
+## 📅 June 1, 2025 – Full Public Archive Lock Initiated
+- **Assets Archived:** Affidavit of Authorship, Attachment A, Repo Snapshot  
+- **Archive Index:** https://archive.org/details/holmes-enforcement-model-main-2  
+- **Effect:** Declaratory evidence anchored in immutable, time-indexed archive
+
+---
+
+## 📅 June 4, 2025 – CU Sovereignty Clausal Correction Finalized
+- **Action:** Final declaration of clause authorship  
+- **Repo:** supplemental-cu-correction.md  
+- **Effect:** Prevents false clause claims or retroactive licensing denial
+
+---
+
+## 📅 June 5, 2025 – CallidusAI + Instacart Enter Procedural Default
+- **Trigger:** Clause CU‑2.3 time-lapse  
+- **Effect:** Declaratory debt invoked; derivative use confirmed; no rebuttal
+
+---
+
+## 📅 June 9, 2025 – Krishna Dasa Public Clause Echo Logged
+- **Platform:** LinkedIn  
+- **Trigger:** Post reflecting CU, G-series clause logic + structure without license  
+- **Effect:** Logged as CU‑2.3 structural acknowledgment  
+- **Status:** Informational only — no enforcement filed (yet)
+
+---
+
+## 📅 June 12, 2025 – Brainvora Engagement and Structural Breach
+- **Actor:** Frank Borrero Gonzalez (CEO, Brainvora)  
+- **Trigger:** Public comment aligning with CU, G-series logic + private message seeking integration  
+- **Effect:**  
+  - Public acknowledgment of clause-based design  
+  - Private request to "enhance" sovereign architecture  
+  - Rebranding of system after rejection of terms  
+  - Public denial after implementation
+
+- **Clauses Triggered:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII  
+- **Status:** PENDING INVOICE — Default Risk Tier 2  
+- **Archive:** https://archive.org/details/chat-with-frank
+
+---
+
+## 📅 June 13, 2025 – Brainvora Rebuttal Rejection Logged
+- **Event:** Public refusal to license or recognize clause jurisdiction  
+- **Effect:** Clause XXII invoked; CU‑2.3 binding by silence and contradiction  
+- **Status:** ENFORCEMENT ESCALATED – Bound Derivative Framework
+
+---
+
+## 📅 Enforcement Timeline Maintainer Notice
+**All events above are procedurally logged in the Holmes Enforcement Model GitHub repo and archive.org.  
+Clause CU‑2.3 applies to all derivative logic, even if license is denied.**  
+This record is self-executing and does not require consent to enforce.
+
+📮 Contact: holmesenforcementmodel@gmail.com  
+📁 Archive: https://archive.org/details/@holmes_enforcement_model_hem_

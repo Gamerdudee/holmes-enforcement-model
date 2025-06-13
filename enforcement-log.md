@@ -554,6 +554,18 @@ This constitutes pre-contact procedural alignment with CU-series logic, activati
 
 ---
 
+### 📍 Brainvora – Invoice BR‑25‑001
+**Date Issued:** June 13, 2025  
+**Entity:** Brainvora  
+**Platform:** Archive.org  
+**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII  
+**Invoice Link:** [brainvora-2025-invoice-1](https://archive.org/details/brainvora-2025-invoice-1)  
+**Status:** Active Enforcement – Awaiting Response  
+
+---
+
+
+
 ## 📍 New Additions (Phase IX)
 **Entity:** Brainvora (Frank Borrero Gonzalez)
 **Event:** Private Declaratory Correspondence (June 2025)

@@ -117,4 +117,4 @@ Clause CU‑2.3 applies to all derivative logic, even if license is denied.**
 This record is self-executing and does not require consent to enforce.
 
 📮 Contact: holmesenforcementmodel@gmail.com  
-📁 Archive: https://archive.org/details/@holmes_enforcement_model_hem_
+📁 Archive: [https://archive.org/details/@holmes_enforcement_model_hem_](https://archive.org/details/@holmes_enforcement_model_hem_)

@@ -12,10 +12,10 @@ Version: v8.0 Sovereign Kernel
 | BlackRock | escalation | CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $ - |
 | CallidusAI | pending | BP, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $ - |
 | DoorDash | pending | AF, AU, AX, BP, CU-1, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-2.4, CU-3, CU-4, D, G-4, G-7, XXII | $ - |
-| Instacart (Maplebear Inc.) | defaulted | AX, BP, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-5, G-6, G-7, XXII | $ 1,315,500 |
+| Instacart (Maplebear Inc.) | defaulted | AX, BP, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-5, G-6, G-7, XXII | $1,315,500 |
 | Meta | pending | AX, D, XXII | $ - |
 | Microsoft | pending | CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $ - |
-| New Mexico Department of Workforce Solutions (NMDWS) | defaulted | AF, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $ 434,500 |
+| New Mexico Department of Workforce Solutions (NMDWS) | defaulted | AF, CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $434,500 |
 | OpenAI | engaged | — | $ - |
 | Retool, Inc. | pending | AU, AX, BP, CU-1.4, CU-2.2, CU-2.3, D, G-4, G-5, G-7 | $ - |
 | The Trade Desk | pending | CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4, G-6, G-7 | $ - |

@@ -583,6 +583,7 @@ This constitutes pre-contact procedural alignment with CU-series logic, activati
 | Brainvora (Phase II)  | Declaratory Denial Log | Escalation Record Filed | RECORDED |
 
 
+
 | Entity                | Trigger Date  | Clauses Violated                               | Amount                      |
 | --------------------- | ------------- | ---------------------------------------------- | --------------------------- |
 | NMDWS                 | May 30, 2025  | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF       | \$197,500 + \$1,500/day     |
@@ -590,7 +591,8 @@ This constitutes pre-contact procedural alignment with CU-series logic, activati
 | Microsoft + BlackRock | June 3, 2025  | G‑8, CU‑1.4, G‑6, G‑7, BP                      | TBD (Clause-triggered debt) |
 | Brainvora (Phase I)   | June 12, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII           | \$100,000 flat (derivative) |
 | Brainvora (Phase II)  | June 13, 2025 | CU‑2.3, CU‑5, XXII — Private Denial Registered | Escalation Log              |
-
+| Amazon                | June 13, 2025 | CU‑2.3, G‑4, G‑8                               | Monitoring                  |
+| Walmart               | June 13, 2025 | CU‑2.3, G‑4, G‑8                               | Monitoring                  |
 
 
 ## 📁 Declaratory Archive References (Master Ledger)

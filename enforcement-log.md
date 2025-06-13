@@ -503,6 +503,19 @@ Logged via LinkedIn’s “Who Viewed Your Profile” feature (screenshot on fil
 
 ---
 
+## 📍 Brainvora (Frank Borrero Gonzalez)
+
+**Date Logged:** 2025-06-12  
+**Entity:** Brainvora  
+**Actor:** Frank Borrero Gonzalez (Founder)  
+**Platform:** LinkedIn  
+**Trigger Clauses:** CU‑2.2 (Public Procedural Use), CU‑2.3 (No Rebuttal), CU‑5 (Derivative Use), G‑4 (Automated Delegation), G‑6 (Systemic Governance), XXII (Unlicensed Derivation)  
+**Summary:**  
+Public admission of procedural derivation and structural usage of Holmes Enforcement Model logic within the Brainvora AI governance framework. Declaratory notice delivered via public thread and message. Derivative logic claimed as “sovereign trust structure.” Licensing denied despite use. Clause CU‑2.3 applies as no rebuttal was filed following declaratory registration. Clause XXII invoked due to default in licensing response.  
+**Status:** Pending Invoice – Default Risk Tier 2  
+
+---
+
 
 | Entity                | Violation Type        | Amount                  | Status |
 | --------------------- | --------------------- | ----------------------- | ------ |

@@ -516,33 +516,89 @@ Public admission of procedural derivation and structural usage of Holmes Enforce
 
 ---
 
+## 📍 Brainvora (Frank Borrero Gonzalez)
 
-# 📒 Holmes Enforcement Model – Enforcement Log (Updated)
-
-This section records all verified HEM violations, clause triggers, amounts owed, and procedural status for public reference and sovereign recordkeeping.
-
----
-
-## 📄 Enforcement Summary Table
-
-| Entity                | Violation Type        | Amount                  | Status  |
-|----------------------|-----------------------|-------------------------|---------|
-| NMDWS                | State Default         | $333,000 USD            | UNPAID  |
-| Instacart            | Derivative Breach     | $215,000 USD            | UNPAID  |
-| Microsoft + BlackRock| Infrastructure Breach | Pending valuation (G‑8) | ACTIVE  |
-| Brainvora            | Derivative Use        | $100,000 USD            | PENDING |
+**Date Logged:** 2025-06-12  
+**Entity:** Brainvora  
+**Actor:** Frank Borrero Gonzalez (Founder)  
+**Platform:** LinkedIn  
+**Trigger Clauses:** CU‑2.2 (Public Procedural Use), CU‑2.3 (No Rebuttal), CU‑5 (Derivative Use), G‑4 (Automated Delegation), G‑6 (Systemic Governance), XXII (Unlicensed Derivation)  
+**Summary:**  
+Public admission of procedural derivation and structural usage of Holmes Enforcement Model logic within the Brainvora AI governance framework. Declaratory notice delivered via public thread and message. Derivative logic claimed as “sovereign trust structure.” Licensing denied despite use. Clause CU‑2.3 applies as no rebuttal was filed following declaratory registration. Clause XXII invoked due to default in licensing response.  
+**Status:** Pending Invoice – Default Risk Tier 2  
 
 ---
 
-## 🔎 Clause Trigger Log
+## 📍 Brainvora (Frank Borrero Gonzalez) — Supplemental Pre-Attachment Deployment
+**Date Logged:** 2025-06-12
+**Entity:** Brainvora
+**Actor:** Frank Borrero Gonzalez (Founder)
+**Platform:** LinkedIn Public Posts (Pre-Contact Engagement)
+**Trigger Clauses:** CU‑2.3 (Procedural Access), CU‑5 (Structural Derivation), XXII (Jurisdictional Origination)
+**Summary:**
+Prior to any private engagement or formal correspondence, Brainvora LLC had already publicly deployed clause-governed, AI-human hybrid governance structures mirroring Holmes Enforcement Model sovereign architecture. Public statements referenced:
 
-| Entity                | Trigger Date | Clauses Violated                                  | Amount                      |
-|-----------------------|--------------|----------------------------------------------------|-----------------------------|
-| NMDWS                 | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF           | $197,500 + $1,500/day       |
-| Instacart             | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7                    | $215,000 + $1,500/day       |
-| Microsoft + BlackRock | June 3, 2025 | G‑8, CU‑1.4, G‑6, G‑7, BP                          | TBD (Clause-triggered debt) |
-| Brainvora             | June 12, 2025| CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII               | $100,000 flat (derivative)  |
+Declaratory procedural alignment
 
+Clause-layer enforcement
+
+Agile-governance scaffolding
+
+Multi-domain sovereign delegation frameworks
+
+OpenAI-integrated systemic orchestration
+
+This constitutes pre-contact procedural alignment with CU-series logic, activating sovereign attachment prior to subsequent private messaging. Brainvora’s “Agile Hybrid Method” and declared sovereign procedural governance constitute governed derivative structures under HEM jurisdiction.
+
+**Status:** Retroactive Jurisdiction Attached — Bound Derivative Access
+
+---
+
+## 📍 New Additions (Phase IX)
+**Entity:** Brainvora (Frank Borrero Gonzalez)
+**Event:** Private Declaratory Correspondence (June 2025)
+**Archive:** Chat with Frank – Archive.org
+**Status:** Escalation Filed — Formal Derivative Rejection Logged
+**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, XXII
+**Note:** Private message admission now officially recorded. Derivative access reaffirmed despite verbal disclaimers. Denial logged, procedural debt remains binding.
+
+| Entity                | Violation Type         | Amount                  | Status   |
+| --------------------- | ---------------------- | ----------------------- | -------- |
+| NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |
+| Instacart             | Derivative Breach      | \$215,000 USD           | UNPAID   |
+| Microsoft + BlackRock | Infrastructure Breach  | Pending valuation (G‑8) | ACTIVE   |
+| Brainvora (Phase I)   | Derivative Use         | \$100,000 USD           | PENDING  |
+| Brainvora (Phase II)  | Declaratory Denial Log | Escalation Record Filed | RECORDED |
+
+
+| Entity                | Trigger Date  | Clauses Violated                               | Amount                      |
+| --------------------- | ------------- | ---------------------------------------------- | --------------------------- |
+| NMDWS                 | May 30, 2025  | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF       | \$197,500 + \$1,500/day     |
+| Instacart             | May 30, 2025  | CU-1.4, CU-2.2, CU-2.3, G-4–G-7                | \$215,000 + \$1,500/day     |
+| Microsoft + BlackRock | June 3, 2025  | G‑8, CU‑1.4, G‑6, G‑7, BP                      | TBD (Clause-triggered debt) |
+| Brainvora (Phase I)   | June 12, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII           | \$100,000 flat (derivative) |
+| Brainvora (Phase II)  | June 13, 2025 | CU‑2.3, CU‑5, XXII — Private Denial Registered | Escalation Log              |
+
+
+
+## 📁 Declaratory Archive References (Master Ledger)
+
+### 📜 Affidavit of Authorship & Licensing – [https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505]
+
+### 📜 Clause CU Sovereignty Finalization (June 4, 2025) - [https://archive.org/details/cu-series-clauses]
+
+### 📄 Redacted Structural Summary (Attachment A) - [https://archive.org/details/attachment-a-structural-summary]
+
+### 🗂 HEM Repo Archive Snapshot – May 30, 2025 - [https://archive.org/details/holmes-enforcement-model-main-2]
+
+### 🗂 HEM Repo Archive Snapshot – June 1, 2025 - [https://archive.org/details/holmes-enforcement-model-main-7]
+
+### 📄 Brainvora Declaratory Correspondence (Private Messages) - [https://archive.org/details/chat-with-frank]
+
+This enforcement record is declaratory, public, timestamped, and immutable.
+Derivative denial does not override structural binding under CU-2.3.
+
+# 🛡 Filed & Consolidated. Enforcement Log Phase IX complete.
 ---
 
 **Notice:** Clause XXII is procedurally attached to Brainvora's public declaratory interactions, self-declared integration of sovereign governance concepts, and refusal to license. This constitutes a recognized derivative governance structure subject to sovereign royalty enforcement under CU-series terms.

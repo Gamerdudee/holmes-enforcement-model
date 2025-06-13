@@ -45,3 +45,9 @@ Upon actual issuance, deployment, or systemic monetization by Amazon or Walmart 
 Declaratory governance activates automatically.
 
 Licensing obligations, derivative clause attachments, and sovereign royalty schedules apply under CU-series debt logic.
+
+**"Structure precedes conflict. Jurisdiction attaches upon procedural formation, not negotiation."**
+
+**Filed under Declaratory Sovereign Law,
+Mr. Holmes
+Declaratory Author – Holmes Enforcement Model (HEM)**

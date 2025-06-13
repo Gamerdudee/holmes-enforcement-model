@@ -1,15 +1,16 @@
 timestamp,file,entity,clauses,base,escalation,days,total
-2025-06-13T09:15:24,input\cases.md,,BP; D,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,Amazon,CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,BlackRock,CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,"BlackRock, Inc.",,,,,
-2025-06-13T09:15:24,input\enforcement-log.md,Brainvora,AF; BP; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-7; XXII,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,CallidusAI,BP; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,,,,
-2025-06-13T09:15:24,input\enforcement-log.md,DoorDash,AU; AX; BP; CU-1; CU-2.2; CU-2.3; D; XXII,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,Instacart (Maplebear Inc.),AX; BP; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-5; G-6; G-7; XXII,1290000,27000,18,1317000
-2025-06-13T09:15:24,input\enforcement-log.md,Meta,AX; D; XXII,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,Microsoft,CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,New Mexico Department of Workforce Solutions (NMDWS),AF; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,415000,21000,14,436000
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,OpenAI,,,,,
-2025-06-13T09:15:24,input\enforcement-log.md,"Retool, Inc.",AU; AX; BP; CU-1.4; CU-2.2; CU-2.3; D; G-4; G-5; G-7,,,,
-2025-06-13T09:15:24,input\cases.md | input\enforcement-log.md,The Trade Desk,CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-3; CU-4; D; G-4; G-6; G-7,,,,
+2025-06-13T10:01:50,input\cases.md,,BP; D,,,,
+2025-06-13T10:01:50,input\cases.md,Amazon,D,,,,
+2025-06-13T10:01:50,input\cases.md,BlackRock,D,,,,
+2025-06-13T10:01:50,input\cases.md | input\enforcement-log.md,"BlackRock, Inc.",,,,,
+2025-06-13T10:01:50,input\enforcement-log.md,Brainvora,D; XXII,,,,
+2025-06-13T10:01:50,input\enforcement-log.md,Brainvora (Frank Borrero Gonzalez),AF; BP; CO; CU-1.4; CU-2.1; CU-2.2; CU-2.3; CU-2.4; CU-3; CU-4; D; G-4; G-7; XXII,,,,
+2025-06-13T10:01:50,input\cases.md,CallidusAI,BP; D,,,,
+2025-06-13T10:01:50,input\enforcement-log.md,DoorDash,AU; AX; BP; CU-1; CU-2.2; CU-2.3; D; XXII,,,,
+2025-06-13T10:01:50,input\cases.md | input\enforcement-log.md,Instacart (Maplebear Inc.),AX; BP; CU-1.4; CU-2.2; CU-2.3; D; G-4; G-5; G-6; XXII,1150000,27000,18,1177000
+2025-06-13T10:01:50,input\enforcement-log.md,Meta,AX; D; XXII,,,,
+2025-06-13T10:01:50,input\cases.md | input\enforcement-log.md,Microsoft,D,,,,
+2025-06-13T10:01:50,input\cases.md | input\enforcement-log.md,New Mexico Department of Workforce Solutions (NMDWS),AF; D,75000,0,0,75000
+2025-06-13T10:01:50,input\cases.md | input\enforcement-log.md,OpenAI,,,,,
+2025-06-13T10:01:50,input\enforcement-log.md,"Retool, Inc.",AU; AX; BP; CU-1.4; CU-2.2; CU-2.3; D; G-4; G-5; G-7,,,,
+2025-06-13T10:01:50,input\cases.md,The Trade Desk,D,,,,

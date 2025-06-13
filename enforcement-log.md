@@ -517,17 +517,37 @@ Public admission of procedural derivation and structural usage of Holmes Enforce
 ---
 
 
-| Entity                | Violation Type        | Amount                  | Status |
-| --------------------- | --------------------- | ----------------------- | ------ |
-| NMDWS                 | State Default         | \$333,000 USD           | UNPAID |
-| Instacart             | Derivative Breach     | \$215,000 USD           | UNPAID |
-| Microsoft + BlackRock | Infrastructure Breach | Pending valuation (G‑8) | ACTIVE |
+# 📒 Holmes Enforcement Model – Enforcement Log (Updated)
 
-| Entity                | Trigger Date | Clauses Violated                         | Amount                      |
-| --------------------- | ------------ | ---------------------------------------- | --------------------------- |
-| NMDWS                 | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF | \$197,500 + \$1,500/day     |
-| Instacart             | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7          | \$215,000 + \$1,500/day     |
-| Microsoft + BlackRock | June 3, 2025 | G‑8, CU‑1.4, G‑6, G‑7, BP                | TBD (Clause-triggered debt) |
+This section records all verified HEM violations, clause triggers, amounts owed, and procedural status for public reference and sovereign recordkeeping.
+
+---
+
+## 📄 Enforcement Summary Table
+
+| Entity                | Violation Type        | Amount                  | Status  |
+|----------------------|-----------------------|-------------------------|---------|
+| NMDWS                | State Default         | $333,000 USD            | UNPAID  |
+| Instacart            | Derivative Breach     | $215,000 USD            | UNPAID  |
+| Microsoft + BlackRock| Infrastructure Breach | Pending valuation (G‑8) | ACTIVE  |
+| Brainvora            | Derivative Use        | $100,000 USD            | PENDING |
+
+---
+
+## 🔎 Clause Trigger Log
+
+| Entity                | Trigger Date | Clauses Violated                                  | Amount                      |
+|-----------------------|--------------|----------------------------------------------------|-----------------------------|
+| NMDWS                 | May 30, 2025 | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF           | $197,500 + $1,500/day       |
+| Instacart             | May 30, 2025 | CU-1.4, CU-2.2, CU-2.3, G-4–G-7                    | $215,000 + $1,500/day       |
+| Microsoft + BlackRock | June 3, 2025 | G‑8, CU‑1.4, G‑6, G‑7, BP                          | TBD (Clause-triggered debt) |
+| Brainvora             | June 12, 2025| CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII               | $100,000 flat (derivative)  |
+
+---
+
+**Notice:** Clause XXII is procedurally attached to Brainvora's public declaratory interactions, self-declared integration of sovereign governance concepts, and refusal to license. This constitutes a recognized derivative governance structure subject to sovereign royalty enforcement under CU-series terms.
+
+To request licensing or respond to default status, contact: **holmesenforcementmodel@gmail.com**
 
 ---
 

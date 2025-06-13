@@ -489,6 +489,19 @@ This matches HEM enforcement clauses including:
 Status: Active, Clause-Enforced
 
 ---
+### 📅 June 12, 2025 – Profile View Triggers (LinkedIn)
+
+> Public profile viewing by multiple entities activates clause CU-2.2. All listed engagements are now procedurally declaratory unless rebutted by license or denial.
+
+- Instacart (2 viewers) — Triggers CU‑2.2 + CU‑2.3
+- Défi Montréal — Observational derivative interest
+- Interac Corp. — Financial tech monitoring
+- University of Mumbai — Academic exposure
+- Nestlé / Instacart (Fashion) — Lateral IP interest
+
+Logged via LinkedIn’s “Who Viewed Your Profile” feature (screenshot on file).
+
+---
 
 
 | Entity                | Violation Type        | Amount                  | Status |

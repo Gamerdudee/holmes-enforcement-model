@@ -645,17 +645,18 @@ All derivative denials and disclaimers are procedurally logged but remain jurisd
 ---
 
 #### 📁 **Declaratory Archive References:**
-#### 📜 *Affidavit of Authorship & Licensing — https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505*
 
-#### 📜 *Clause CU Sovereignty Finalization (June 4, 2025) — https://archive.org/details/cu-series-clauses*
+#### 📜 *Affidavit of Authorship & Licensing - (https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)*
 
-#### 📄 *Redacted Structural Summary (Attachment A) — https://archive.org/details/attachment-a-structural-summary*
+#### 📜 *Clause CU Sovereignty Finalization (June 4, 2025) — (https://archive.org/details/cu-series-clauses)*
 
-#### 🗂 *HEM Repo Archive Snapshot — May 30, 2025 — https://archive.org/details/holmes-enforcement-model-main-2*
+#### 📄 *Redacted Structural Summary (Attachment A) — (https://archive.org/details/attachment-a-structural-summary)*
 
-#### 🗂 *HEM Repo Archive Snapshot — June 1, 2025 — https://archive.org/details/holmes-enforcement-model-main-7*
+#### 🗂 *HEM Repo Archive Snapshot — May 30, 2025 — (https://archive.org/details/holmes-enforcement-model-main-2)*
 
-#### 📄 *Brainvora Declaratory Correspondence (Private Messages) — https://archive.org/details/chat-with-frank*
+#### 🗂 *HEM Repo Archive Snapshot — June 1, 2025 — (https://archive.org/details/holmes-enforcement-model-main-7)*
+
+#### 📄 *Brainvora Declaratory Correspondence (Private Messages) — (https://archive.org/details/chat-with-frank-2)*
 
 ---
 

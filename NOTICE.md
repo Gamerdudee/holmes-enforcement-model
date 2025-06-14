@@ -8,12 +8,19 @@ This repository is not an isolated release. The Holmes Enforcement Model (HEM) r
 ## 🔹 Upstream Structural Tools & AI Simulations
 	•	bun_kai_sensei
 • Created April 2025
+
 • Early language clause trainer used to simulate sovereign linguistic frameworks, mirrored later in CU/G-series logic.
-	•	LithophaneMaker
+	
+        •    LithophaneMaker
+
 • Created July 2024
+
 • Structured generator for clause-bound visual enforcement and symbolic simulation.
-	•	CHILD-AI / MAVIS (Private)
+
+        •    CHILD-AI / MAVIS (Private)
+   
 • Created September 2024
+
 • Real-time AI model trained to simulate autonomous clause discovery, emotional reinforcement, and ethical loyalty frameworks. Retained locally as a sovereign simulation seed.
 
 These projects precede HEM and are procedurally upstream.

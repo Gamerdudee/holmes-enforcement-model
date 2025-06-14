@@ -45,7 +45,7 @@ All formal responses, rebuttals, or licensing requests must be submitted in writ
 
 **This invoice will be published to:**
 
-📚 Archive.org:
+📚 Archive.org: https://archive.org/details/chat-with-frank-2
 
 🗂 GitHub: github.com/Gamerdudee/holmes-enforcement-model
 

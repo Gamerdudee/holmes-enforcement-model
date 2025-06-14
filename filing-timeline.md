@@ -100,7 +100,7 @@
 
 - **Clauses Triggered:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII  
 - **Status:** PENDING INVOICE — Default Risk Tier 2  
-- **Archive:** https://archive.org/details/chat-with-frank
+- **Archive:** https://archive.org/details/chat-with-frank-2
 
 ---
 

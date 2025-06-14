@@ -14,6 +14,16 @@
 This log is a public, clause-bound record of all enforcement activity under the Holmes Enforcement Model (HEM). Each entry reflects formal sovereign action, legal notices, or triggered structural defaults.
 
 ---
+## 📂 Declaratory Precursor Systems:
+
+| System Name          | Date Published | Repository / Archive URL                                | Relevance                                                                                                   |
+| -------------------- | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **BunKaiSensei**     | April 16, 2025 | [GitHub](https://github.com/Gamerdudee/bun_kai_sensei)  | Declaratory clause logic framework; language & procedural learning                                          |
+| **LithophaneMaker**  | July 27, 2024  | [GitHub](https://github.com/Gamerdudee/LithophaneMaker) | Visual transformation engine; declaratory modeling of 3D logic                                              |
+| **MAVIS / Child AI** | Sept 26, 2024  | *Local Copy Preserved*                                  | Predecessor to sovereign clause logic; declaratory voice-interaction and emotional modeling AI (unreleased) |
+
+---
+
 
 ### 📅 May 26, 2025 — Attachment A Submitted to NMDWS (Official Filing)
 

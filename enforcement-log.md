@@ -785,6 +785,11 @@ Clause CU‑5 Noted – Derivative Naming Refusal
 
 ---
 
+> 📌 Contradiction Logged:
+Rodrigo L. S. claimed “months of research” in his original LinkedIn post (June 13, 2025), but later stated LELES began in August 2023. This contradiction undermines claims of anteriority and triggers Clause CU‑2.3 (false rebuttal) and Clause G‑6 (sovereign falsification conflict).
+
+---
+
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
 | NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |

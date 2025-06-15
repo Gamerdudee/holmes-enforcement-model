@@ -71,3 +71,6 @@ Sovereign Record: Holmes Enforcement Model (HEM)
 Declaratory Author: Mr. Holmes  
 🔗 [HEM GitHub](https://github.com/Gamerdudee/holmes-enforcement-model)  
 📜 [Archive.org](https://archive.org/details/holmes-enforcement-model-main-7)
+
+
+📁 Screenshot Archive: See `/evidence/leles-interaction/` for full public exchange, timestamps, and profile data.

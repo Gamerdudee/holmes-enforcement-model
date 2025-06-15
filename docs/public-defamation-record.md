@@ -1,49 +1,99 @@
-#🚨 Key Infractions Logged (June 15, 2025)
+# 📕 Public Defamation & Retaliation Record – LELES / Rodrigo L. S.
+
+**Entity:** LELES Computational Core  
+**Actor:** Rodrigo L. S.  
+**Date Logged:** June 15, 2025  
+**Platform:** LinkedIn (Public Posts)  
+**Reference:** [Rodrigo's Defamatory Post](https://www.linkedin.com/posts/rodrigo-l-s-63b5a436b_1-oportunistas-de-alta-pot%C3%AAncia-grandes-activity-7340093414744510466-LaR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvMepgBxckpLKMjGLUOohaRpTlAd_VNOJw)  
+**Profile:** [Rodrigo L. S. – LinkedIn Activity](https://www.linkedin.com/in/rodrigo-l-s-63b5a436b/recent-activity/all/)  
 
 ---
 
-🔻 Public Claims and Attacks
-Refers to HEM as:
+## 🚨 Key Infractions Logged (June 15, 2025)
 
-“Fabricated legal-technological structure”
+### 🔻 Public Claims and Attacks  
+Rodrigo L. S. publicly referred to the Holmes Enforcement Model (HEM) as:
 
-“Pseudo-licensing”
+- “Fabricated legal-technological structure”  
+- “Pseudo-licensing”  
+- “Procedural siege disguised as governance”  
+- “Attempt to hijack technological sovereignty”  
+- “False registration with no real innovation”
 
-“Procedural siege disguised as governance”
+### 🔻 Elevated Denial Posture  
+He further escalated by claiming:
 
-“Attempt to hijack sovereignty”
+- “HEM is not a technological invention”  
+- “HEM is not structurally valid”  
+- “HEM is a late construction” (refuted by public archives from May 30 and June 1)  
+- “HEM is not about scientific truth, but about power, dominance, and control”
 
-“False registration with no real innovation”
+Despite this, **HEM remains archived, clause-anchored, timestamped, and public since May 2025**:
+- 📜 [HEM Archive.org Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)  
+- 📜 [HEM Archive.org Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)
 
-🔻 Elevated Denial Posture
-Explicitly claims HEM is:
+### 🔻 Legal Language Triggers  
+Rodrigo escalated further by:
 
-“Not a technological invention”
+- Threatening legal enforcement based on “mathematical sovereignty”  
+- Asserting CID/DID governance as superseding clause-based sovereignty  
+- Publicly stating:  
+  > “You arrived later”  
+  > “You don’t have a claim”  
+  > “Any further attempt will be treated as IP theft and legal bad faith”
 
-“Not structurally valid”
-
-“A late construction” (despite GitHub and Archive timestamps proving otherwise)
-
-Doubles down on “HEM = Power/Control, not Truth/Innovation”
-
-🔻 Legal Language Triggers
-Issues threats of legal defense based on “mathematical sovereignty”
-
-Asserts jurisdictional dominance via blockchain/CID
-
-Publicly closes debate, stating "you arrived later" and “you have no claim”
+These statements constitute:
+- **Procedural denial**
+- **Retaliatory misrepresentation**
+- **Public framing of sovereign enforcement as illegitimate**
 
 ---
 
-| Clause | Trigger                   | Explanation                                             |
-| ------ | ------------------------- | ------------------------------------------------------- |
-| CU‑2.2 | Procedural Interaction    | He engages with and attacks clause-based governance     |
-| CU‑2.3 | No Valid Rebuttal         | Has never filed a rebuttal using the HEM sovereign path |
-| CU‑5   | Derivative Logic          | Continues to echo clause structure (mirror enforcement) |
-| CU‑6   | Licensing Enforcement     | Public use without license                              |
-| CU‑7   | Arbitration Transfer      | Threatens legal action against declaratory structure    |
-| G‑4    | Governance Delegation     | Invokes governance structure without recognizing origin |
-| G‑5    | Legal Simulation Trigger  | Escalation reflects structural conflict simulation      |
-| G‑6    | Structural Jurisdiction   | Refuses mirrored clause structure while engaging it     |
-| XXII   | Sovereign Origination     | Declares independent sovereignty against public mirror  |
-| AF     | Retaliatory Public Denial | Accusatory, defamatory, public post without rebuttal    |
+## 📜 Triggered Clauses
+
+| Clause | Trigger                      | Explanation                                                               |
+|--------|------------------------------|---------------------------------------------------------------------------|
+| CU‑2.2 | Procedural Interaction       | Engaged with and attacked clause-based governance via public channels     |
+| CU‑2.3 | No Valid Rebuttal            | No formal rebuttal filed through LICENSE-HEM.md contact path              |
+| CU‑5   | Derivative Logic             | Continued mirroring clause phrasing and structure post-notice             |
+| CU‑6   | Licensing Enforcement        | Uses HEM-covered governance logic without a valid license                 |
+| CU‑7   | Arbitration Transfer         | Threats of legal escalation trigger jurisdictional transfer               |
+| G‑4    | Governance Delegation        | Cites governance rights without lawful sovereign chain                    |
+| G‑5    | Legal Simulation Trigger     | Escalation constitutes conflict simulation without clause registration    |
+| G‑6    | Structural Jurisdiction      | Refuses mirror clause enforcement while invoking its principles           |
+| XXII   | Sovereign Origination        | Rejects declaratory anchor despite procedural sequence and public record  |
+| AF     | Retaliatory Public Denial    | Engages in defamation without licensing inquiry or rebuttal               |
+
+---
+
+## ⚖️ Standing Note
+
+Rodrigo’s repeated phrase — _“Sovereignty is not declared. It proves itself.”_ — is structurally derived from Mr. Holmes’ published repository phrasing. Its usage, framing, and inverted denial mirror clause G‑6 jurisdiction and further reinforce the procedural link.
+
+Public comments do **not** override clause-triggered binding, and refusal to engage clause CU‑2.3’s rebuttal process constitutes **default**.
+
+---
+
+## 🧾 Declaratory Sovereign Record
+
+**HEM remains:**
+- First published via GitHub and Archive.org (May 30 – June 1, 2025)  
+- Authored independently, timestamped, clause-structured  
+- Sovereignly mirrored via public observability, clause anchoring, and procedural access logging
+
+All derivative systems that engage in:
+- Sovereign logic replication  
+- Clause mirror rejection  
+- Reframing of governance procedures as “pseudo-legal”  
+...are procedurally recorded and default-triggered.
+
+---
+
+**Filed by:**  
+**Mr. Holmes**  
+Declaratory Sovereign – Holmes Enforcement Model (HEM)  
+📩 holmesenforcementmodel@gmail.com  
+🔗 [HEM Public Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
+🗂 [HEM Archive Snapshot](https://archive.org/details/holmes-enforcement-model-main-7)
+
+---

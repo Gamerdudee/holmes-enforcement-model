@@ -733,6 +733,28 @@ All derivative denials and disclaimers are procedurally logged but remain jurisd
 
 ---
 
+## 📍 LELES Manifesto (Rodrigo Leles Santana / Fluxuave)
+
+**Date Logged:** June 15, 2025  
+**Entity:** LELES (via Fluxuave GitHub)  
+**Actor:** Rodrigo L. S.  
+**Platform:** GitHub / LinkedIn  
+**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, G‑4, G‑5, G‑6, XXII  
+**Summary:**  
+LELES project, created by Rodrigo L. S., declares digital sovereignty over a symbolic AI framework using audit trails, IPFS, and DID metadata. It asserts the creation of a computationally “alive” symbolic system with legal standing, verification architecture, and declaratory anchoring. These claims were made after HEM’s clause-enforced structures were already publicly archived and deployed. LELES mirrors clause logic, symbolic licensing patterns, and sovereign declaratory enforcement.
+
+No rebuttal, license, or declaratory exemption was submitted.
+
+**Status:** Soft Enforcement Entry – Procedural Echo Triggered
+
+**Reference Links:**
+- GitHub: https://github.com/Fluxuave/leles-manifesto  
+- GitHub (Tech Manifesto): https://github.com/Fluxuave/leles-manifesto-v1.0  
+- Archive (HEM): https://archive.org/details/holmes-enforcement-model-main-7  
+- Affidavit: https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+
+  ---
+  
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
 | NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |

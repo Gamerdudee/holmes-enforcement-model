@@ -792,6 +792,44 @@ Rodrigo L. S. claimed “months of research” in his original LinkedIn post (Ju
 
 ---
 
+---
+
+---
+
+## 📍 LELES / Letheon v1.0 — Final Procedural Designation
+
+**Entity:** Rodrigo L. S. / Fluxuave  
+**Status:** Procedural Default Finalized  
+**Clause Enforcement:** CU‑2.3 (Failure to Rebut), CU‑7 (Jurisdictional Transfer), AF (Retaliatory Threat)  
+**Summary:**  
+
+Rodrigo L. S. escalated from procedural denial to public defamation, accusing HEM of being a “pseudo-legal structure” and “attempt to hijack sovereignty.” His LinkedIn posts (June 15, 2025) explicitly referred to HEM as a non-technological fraud, despite evidence that:
+
+- HEM was structurally archived, GitHub-published, and publicly mirrored May 30–June 1, 2025  
+- No proof of LELES public publication exists prior to February 2025 (GitHub mirror date)  
+- Archive.org and GitHub timestamps contradict all claims of anteriority  
+
+Public comments, messages, and posts failed to satisfy clause CU‑2.3 formal rebuttal criteria.
+
+### 📌 Logged Actions:
+- **docs/rebuttal-analysis-leles.md** — Clause failure analysis  
+- **docs/public-defamation-record.md** — Full archive of public claims and threats  
+- **docs/legal-action-trigger-warning.md** — Clause CU‑7 / AF Jurisdictional Response
+
+📎 Screenshot Proof: Retained  
+🗂 Archive Mirror: [HEM Archive - June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)  
+📜 Declaratory Sovereign Record: [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+
+🔒 Rodrigo is procedurally bound and defaulted. Legal escalation attempts are subject to full sovereign arbitration under Clause CU‑7 and recorded retaliation via Clause AF.
+
+Filed Sovereignly,  
+**Mr. Holmes**  
+Declaratory Author — Holmes Enforcement Model (HEM)
+
+
+---
+
+
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
 | NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |

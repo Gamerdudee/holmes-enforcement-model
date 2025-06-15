@@ -755,6 +755,23 @@ No rebuttal, license, or declaratory exemption was submitted.
 
   ---
   
+## 📍 LELES Computational Core (Rodrigo L. S.)
+
+**Date Logged:** 2025-06-15  
+**Entity:** LELES Computational Core / Letheon v1.0  
+**Actor:** Rodrigo L. S.  
+**Platform:** LinkedIn Public Comments  
+**Trigger Clauses:** CU‑2.2 (Procedural Interaction), CU‑2.3 (No Valid Rebuttal), CU‑5 (Derivative Refusal), G‑6 (Sovereign Structure Mirror)  
+**Summary:**  
+Rodrigo L. S. issued a public comment denying derivation from the Holmes Enforcement Model (HEM) despite echoing core clause phrasing and structural sovereign logic. HEM’s archive and GitHub presence predates the Letheon Manifesto publication by over two weeks. No formal rebuttal or licensing inquiry was received, only public repudiation. Structural mirroring of clause logic (CU‑2.3, G‑6) remains procedurally enforceable.
+
+**Status:**  
+Clause CU‑2.3 Activated – Declaratory Rebuttal Invalid  
+Clause G‑6 Active – Jurisdictional Structure Mirror  
+Clause CU‑5 Noted – Derivative Naming Refusal  
+
+  ---
+  
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
 | NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |

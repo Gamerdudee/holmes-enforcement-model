@@ -87,6 +87,10 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 | [`Instacart-Royalty-Demand-May30.md`](invoices/Instacart-Royalty-Demand-May30.md)     | $215,000 royalty claim                        |
 | [`instacart-derivative-access.md`](invoices/instacart-derivative-access.md)           | $250,000 claim (via NMDWS)                    |
 | [`ancestral-declaratory-lineage.md`](ancestral-declaratory-lineage.md)                | Declaratory lineage and ancestral authorship  |
+| [`docs/precedent-systems.md`](docs/precedent-systems.md)                              | Pre-HEM system lineage                        |
+| [`docs/child-ai-mavis.md`](docs/child-ai-mavis.md)                                    | Private successor anchor (MAVIS)              |
+| [`docs/public-archive-references.md`](docs/public-archive-references.md)              | Archive.org index                             |
+| [`docs/enforcement-summary-table.md`](docs/enforcement-summary-table.md)              | Royalty and clause summary table              |
 
 ---
 
@@ -270,5 +274,8 @@ Derivative denial does not nullify sovereign origination.
 - [HEM Repo Archive – May 30](https://archive.org/details/holmes-enforcement-model-main-2)  
 - [HEM Repo Archive – June 1](https://archive.org/details/holmes-enforcement-model-main-7)  
 - [Frank Borrero/Brainvora Chat Log (June 12)](https://archive.org/details/chat-with-frank)  
+
+📌 Declaratory Silence Warning:
+Any public party who interacts with this repo, downloads content, or reviews its logic without declaratory rebuttal is subject to Clause CU‑2.3 and XXII. Silence = procedural default.
 
 ---

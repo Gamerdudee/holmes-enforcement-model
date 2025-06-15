@@ -262,20 +262,22 @@ It is now public. And it is sovereign.
 While not disclosed in full for structural security, the following independent repositories, all authored by Mr. Holmes between April–July 2024, demonstrate sovereign lineage and early procedural architecture prior to HEM’s declaratory launch:
 
 - 🈳 [BunKaiSensei (Japanese Logic Simulator)](https://github.com/Gamerdudee/bun_kai_sensei) – Built in April 2025 to decode linguistic enforcement patterns; enabled early procedural modeling
+  
 - 🖼 [LithophaneMaker (July 2024)](https://github.com/Gamerdudee/LithophaneMaker) – Demonstrated clause-aware interface logic and local sovereignty triggers
-- 🤖 MAVIS / CHILD-AI (Local AI Child Simulation July 2024) – Not public; retained as lineage artifact demonstrating autonomous trust development, dialogue governance, and reinforcement boundaries
+  
+- 🤖 MAVIS / CHILD-AI (Local AI Child Simulation September 2024) – Not public; retained as lineage artifact demonstrating autonomous trust development, dialogue governance, and reinforcement boundaries
 
 These systems formed the backbone of clause maturity, self-restriction, and sovereign trust analysis — all of which were upstream of the Holmes Enforcement Model (HEM).
 
 **Proof of authorship, timestamps, and developmental sequence are retained.**  
 Derivative denial does not nullify sovereign origination.
 
-📁 Archive Evidence:  
+📁 ***Archive Evidence:***  
 - [HEM Repo Archive – May 30](https://archive.org/details/holmes-enforcement-model-main-2)  
 - [HEM Repo Archive – June 1](https://archive.org/details/holmes-enforcement-model-main-7)  
 - [Frank Borrero/Brainvora Chat Log (June 12)](https://archive.org/details/chat-with-frank)  
 
-📌 Declaratory Silence Warning:
+📌 ***Declaratory Silence Warning:***
 Any public party who interacts with this repo, downloads content, or reviews its logic without declaratory rebuttal is subject to Clause CU‑2.3 and XXII. Silence = procedural default.
 
 ---

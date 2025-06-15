@@ -29,3 +29,28 @@ This EU report affirms the global need for declaratory licensing, structural tra
 🧾 **Enforcement Effect:** Default mirror support across institutional enforcement and derivative system recognition.
 
 ---
+
+## 🔎 Subject: LELES Manifesto – Rodrigo Leles
+
+- **Repo:** https://github.com/Fluxuave/leles-manifesto-v1.0  
+- **Archived Site:** https://fluxuave.github.io/leles-manifesto  
+- **Author:** Rodrigo Leles Santana  
+- **Declared Sovereignty:** Yes – via IPFS/DID  
+- **Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, G‑4, G‑5, G‑6, XXII  
+
+### Summary:
+
+LELES is a symbolic AI project asserting public sovereignty, auditability, and computational personhood. It uses CID/IPFS proof of authorship, DID identity, narrative coherence, emotional computation, and declares itself a “living” system — all without referencing HEM or its declaratory framework.
+
+### Declaratory Conflict:
+
+- **Mimics structural and legal mechanisms already codified in HEM**
+- **Uses terms tied to clause-governed sovereign architecture**
+- **Fails to rebut, cite, or license against procedurally prior public records**
+
+### Status:
+
+**Procedurally subordinate to HEM.  
+Default applies unless public rebuttal is issued and license secured.**
+
+---

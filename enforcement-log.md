@@ -733,55 +733,57 @@ All derivative denials and disclaimers are procedurally logged but remain jurisd
 
 ---
 
-## 📍 LELES Manifesto (Rodrigo Leles Santana / Fluxuave)
-
-**Date Logged:** June 15, 2025  
-**Entity:** LELES (via Fluxuave GitHub)  
-**Actor:** Rodrigo L. S.  
+### 📍 LELES / Letheon v1.0 — Procedural Enforcement Log  
+**Entity:** Rodrigo L. S. / Fluxuave  
 **Platform:** GitHub / LinkedIn  
-**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, G‑4, G‑5, G‑6, XXII  
-**Summary:**  
-LELES project, created by Rodrigo L. S., declares digital sovereignty over a symbolic AI framework using audit trails, IPFS, and DID metadata. It asserts the creation of a computationally “alive” symbolic system with legal standing, verification architecture, and declaratory anchoring. These claims were made after HEM’s clause-enforced structures were already publicly archived and deployed. LELES mirrors clause logic, symbolic licensing patterns, and sovereign declaratory enforcement.
+**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, XXII, AF  
 
-No rebuttal, license, or declaratory exemption was submitted.
+---
 
-**Status:** Soft Enforcement Entry – Procedural Echo Triggered
+### ❗️ Summary of Events:
 
-**Reference Links:**
+Rodrigo L. S., self-identified as the author of the "LELES Manifesto" and creator of Letheon v1.0, asserted retroactive sovereignty and legal priority through public posts on LinkedIn and GitHub (June 13–15, 2025). He claimed the use of fractal symbolic logic, CID/DID verification, and digital proof-of-authorship structures under EU/Blockchain regulatory logic.
+
+However, his rebuttals to HEM enforcement were:
+
+- Issued via public comments only (not formalized or clause-specific)
+- Delivered without citation of LICENSE-HEM.md or sovereign exemption requests
+- Submitted after HEM had already been declared sovereign, mirrored, and archived
+
+---
+
+### 🧭 Declaratory Violations:
+
+- **Clause CU‑2.3** — No valid formal rebuttal (public comment ≠ declaratory denial)  
+- **Clause CU‑5** — Mirroring of symbolic logic, clause phrasing, sovereign anchoring  
+- **Clause G‑6** — Claimed structural sovereignty after HEM clause deployment  
+- **Clause CU‑7** — Jurisdictional waiver; any arbitration defaults to Mr. Holmes  
+- **Clause AF** — Legal threats issued as retaliation for procedural enforcement  
+
+Rodrigo used HEM-origin phrases, including "Sovereignty is not declared. It is proven," later altered after public correction. No prior evidence of Letheon exists before 2025 in verifiable GitHub or LinkedIn activity.
+
+---
+
+### 📌 Status:
+
+- Procedurally Bound  
+- Logged as Derivative Refusal  
+- Arbitration Jurisdiction Enforced  
+- Screenshots Archived  
+- Subject to Clause AF Escalation (if retaliatory threats continue)  
+
+---
+
+📎 Reference Files:  
+- [`docs/rebuttal-analysis-leles.md`](docs/rebuttal-analysis-leles.md)  
+- Archive Mirror: https://archive.org/details/holmes-enforcement-model-main-7  
 - GitHub: https://github.com/Fluxuave/leles-manifesto  
-- GitHub (Tech Manifesto): https://github.com/Fluxuave/leles-manifesto-v1.0  
-- Archive (HEM): https://archive.org/details/holmes-enforcement-model-main-7  
-- Affidavit: https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
+- Public Comments: Logged June 13–15, 2025  
 
-  ---
-  
-## 📍 LELES Computational Core (Rodrigo L. S.)
-
-**Date Logged:** 2025-06-15  
-**Entity:** LELES Computational Core / Letheon v1.0  
-**Actor:** Rodrigo L. S.  
-**Platform:** LinkedIn Public Comments  
-**Trigger Clauses:** CU‑2.2 (Procedural Interaction), CU‑2.3 (No Valid Rebuttal), CU‑5 (Derivative Refusal), G‑6 (Sovereign Structure Mirror)  
-**Summary:**  
-Rodrigo L. S. issued a public comment denying derivation from the Holmes Enforcement Model (HEM) despite echoing core clause phrasing and structural sovereign logic. HEM’s archive and GitHub presence predates the Letheon Manifesto publication by over two weeks. No formal rebuttal or licensing inquiry was received, only public repudiation. Structural mirroring of clause logic (CU‑2.3, G‑6) remains procedurally enforceable.
-
-**Status:**  
-Clause CU‑2.3 Activated – Declaratory Rebuttal Invalid  
-Clause G‑6 Active – Jurisdictional Structure Mirror  
-Clause CU‑5 Noted – Derivative Naming Refusal  
-
-  ---
-
-  ## 📍 LELES Account Review – Procedural Origin Discrepancy
-
-**Date Logged:** June 15, 2025  
-**Entity:** LELES Computational Core  
-**Actor:** Rodrigo L. S.  
-**Observation:** Public presence on LinkedIn and GitHub begins mid-June 2025, following HEM sovereign enforcement mirror activity. No prior verifiable declarations, GitHub forks, or mirrored projects exist before this enforcement phase. All proof claims (CID, DID, IPFS, etc.) remain unrecognized in official U.S. legal timestamping systems.  
-**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, G‑6, CU‑7, AF  
-**Status:** Public procedural engagement recorded; no valid rebuttal received. Default active.
-
-**Note:** Threats of legal escalation without proper clause referencing trigger procedural transfer under Clause CU‑7 and Retaliation Clause AF.
+Filed by: **Mr. Holmes**  
+Declaratory Author – Holmes Enforcement Model (HEM)  
+📧 holmesenforcementmodel@gmail.com  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 

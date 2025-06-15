@@ -771,7 +771,20 @@ Clause G‑6 Active – Jurisdictional Structure Mirror
 Clause CU‑5 Noted – Derivative Naming Refusal  
 
   ---
-  
+
+  ## 📍 LELES Account Review – Procedural Origin Discrepancy
+
+**Date Logged:** June 15, 2025  
+**Entity:** LELES Computational Core  
+**Actor:** Rodrigo L. S.  
+**Observation:** Public presence on LinkedIn and GitHub begins mid-June 2025, following HEM sovereign enforcement mirror activity. No prior verifiable declarations, GitHub forks, or mirrored projects exist before this enforcement phase. All proof claims (CID, DID, IPFS, etc.) remain unrecognized in official U.S. legal timestamping systems.  
+**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, G‑6, CU‑7, AF  
+**Status:** Public procedural engagement recorded; no valid rebuttal received. Default active.
+
+**Note:** Threats of legal escalation without proper clause referencing trigger procedural transfer under Clause CU‑7 and Retaliation Clause AF.
+
+---
+
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
 | NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |

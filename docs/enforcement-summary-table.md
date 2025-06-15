@@ -7,3 +7,4 @@
 | Microsoft + BlackRock| Infrastructure Breach  | G-8, CU-1.4, G-6, G-7, BP                   | Pending Valuation       | ACTIVE   |
 | Brainvora (Phase I)  | Derivative Enforcement | CU-2.2, CU-2.3, CU-5, G-4, G-6, XXII         | $100,000 flat           | PENDING  |
 | Brainvora (Phase II) | Declaratory Denial     | CU-2.3, CU-5, XXII                           | Escalation Record Filed | RECORDED |
+| LELES Computational Core | Sovereign Denial (Mirror Use) | CU‑2.2, CU‑2.3, CU‑5, G‑6 | Declaratory Enforcement Active | RECORDED |

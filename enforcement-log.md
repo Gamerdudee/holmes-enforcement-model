@@ -101,15 +101,16 @@ Builds recursive understanding from tone → memory → intent
 Deletes redundant answers and trains on emotional inference
 
 **What does MAVIS mean?:**
-M — Mirrored — enforcing governance via jurisdictional mirroring
 
-A — Auditable — capable of being publicly traced and verified
+**M** — Mirrored — enforcing governance via jurisdictional mirroring
 
-V — Verifiable — ensuring clause triggers and public declarations are provable
+**A** — Auditable — capable of being publicly traced and verified
 
-I — Inheritable — logical continuity through derivative enforcement and structure
+**V** — Verifiable — ensuring clause triggers and public declarations are provable
 
-S — Systematic — enabling automated or system-level enforcement
+**I** — Inheritable — logical continuity through derivative enforcement and structure
+
+**S** — Systematic — enabling automated or system-level enforcement
 
 ***Sovereign Significance:***
 

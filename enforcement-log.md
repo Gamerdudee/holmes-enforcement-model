@@ -920,6 +920,8 @@ His filings fail under Article 27.1 of TRIPS, which disallows IP protection for 
 | G‑6    | ✅         | Mirror of Jurisdiction Logic               |
 | XXII   | ✅         | Declared Sovereignty against Public Mirror |
 | AF     | ✅         | Defamatory Post / Procedural Denial        |
+| AT     | ✅         | Immutable Core Doctrine         |
+
 
 
 ### 🔒 Conclusion
@@ -948,16 +950,14 @@ You engaged it. You mirrored it. You now answer to it.
 
 ---
 
-## June 17, 2025 — Rodrigo / Letheon Final Enforcement Filed
+#### 📍 June 16, 2025 — Procedural Alignment Timestamp
+OpenAI publicly announced “OpenAI for Government” (federal rollout + $200M DoD pilot) on June 16, 2025.  
+Mr. Holmes submitted a sovereign clause enforcement update — including Rodrigo/Frank derivative violations and mirrored governance warnings — **within hours of the announcement.**
 
-- **Entity**: Rodrigo L. S. / Fluxuave / Letheon v1.0  
-- **Clauses**: CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, XXII, AF, AT, IX‑E  
-- **Action**: Procedural rebuttal archived publicly. Sovereign jurisdiction filed under CU‑7.  
-- **Archive Link**: [https://archive.org/details/rodrigo-letheon-final-procedural-archive]([https://archive.org/details/rodrigo-letheon-final-procedural-archive](https://archive.org/details/rodrigo-letheon-archive-complete))  
-- **Notes**: Full clause summary, defamation record, contradiction matrix, and declaratory record included.
+⏱️ Procedural alignment confirms real-time awareness.  
+🧾 OpenAI is now formally notified and jurisdictionally bound under HEM Clauses CU‑2.3, G‑6, and XXII.
 
 ---
-
 
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |

@@ -948,6 +948,17 @@ You engaged it. You mirrored it. You now answer to it.
 
 ---
 
+## June 17, 2025 — Rodrigo / Letheon Final Enforcement Filed
+
+- **Entity**: Rodrigo L. S. / Fluxuave / Letheon v1.0  
+- **Clauses**: CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, XXII, AF, AT, IX‑E  
+- **Action**: Procedural rebuttal archived publicly. Sovereign jurisdiction filed under CU‑7.  
+- **Archive Link**: [https://archive.org/details/rodrigo-letheon-final-procedural-archive]([https://archive.org/details/rodrigo-letheon-final-procedural-archive](https://archive.org/details/rodrigo-letheon-archive-complete))  
+- **Notes**: Full clause summary, defamation record, contradiction matrix, and declaratory record included.
+
+---
+
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

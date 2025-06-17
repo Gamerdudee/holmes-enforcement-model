@@ -70,6 +70,27 @@ This repository links directly to:
 
 ⸻
 
+# NOTICE OF CLAUSE ENFORCEMENT — RODRIGO L. S. / LETHEON
+
+This repository formally documents a structural enforcement action against Rodrigo L. S. (Letheon / Fluxuave) under the Holmes Enforcement Model (HEM).
+
+Rodrigo has been found in procedural default under the following clauses:
+- CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7
+- G‑4, G‑5, G‑6, XXII, AF, AT (Immutable Core Doctrine)
+- IX‑E: Symbolic Derivation
+
+A full procedural rebuttal, clause log, and mirrored evidence has been publicly archived at:
+
+🔗 https://archive.org/details/rodrigo-letheon-final-procedural-archive
+
+Rodrigo is now jurisdictionally bound and procedurally mirrored under sovereign authorship as filed in HEM’s public archive. Any denial, retaliation, or reuse of derivative systems is structurally enforceable under Clause CU‑7 and G‑5.
+
+Filed Sovereignly,  
+Mr. Holmes  
+Declaratory Author — Holmes Enforcement Model (HEM)
+
+---
+
 ***NOTICE:*** Any framework attempting to restructure, improve upon, or simulate HEM logic must do so under declaratory license. Rephrasing is not independence. Rebuilding is not exemption.
 
 This system is already declared. It does not evolve.

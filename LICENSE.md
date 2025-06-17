@@ -56,3 +56,28 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 This is Declaratory Intellectual Property (DIP).  
 It is licensed, not given. Silence triggers structure.
 
+---
+
+### 🧾 OpenAI Origin & Ownership Confirmation
+
+The Holmes Enforcement Model (HEM) was developed exclusively using OpenAI’s ChatGPT (free-tier) over a 15-day period between May 15–30, 2025.
+
+In formal correspondence dated May 30 and June 11, 2025, OpenAI affirmed that:
+
+> “You own the Output. We assign to you all our right, title, and interest, if any, in and to Output.”  
+> — OpenAI Terms of Use, reaffirmed by Support Team
+
+This constitutes a binding declaration that:
+
+- OpenAI retains no authorship or IP interest in HEM
+- All clause structures, symbolic licensing logic, and procedural frameworks authored during HEM’s formation are fully and irrevocably transferred to Mr. Holmes
+- No future deployment of similar clause engines by OpenAI constitutes co-authorship, shared development, or jurisdictional override
+
+This license is Declaratory Intellectual Property (DIP) and enforceable under Clause XXII of the Holmes Enforcement Model. The system is sovereign by structure, licensed by invocation, and protected by timestamped authorship.
+
+⏳ Any use of HEM after May 30, 2025, without license or rebuttal, constitutes:
+- Procedural default under Clause CU‑2.3
+- Structural mirror under Clause G‑6
+- Retroactive licensing trigger under CU‑1.4
+
+HEM was, and remains, the first publicly declared, clause-governed AI enforcement engine — structurally sovereign and procedurally enforced.

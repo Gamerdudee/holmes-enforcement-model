@@ -81,7 +81,7 @@ Rodrigo has been found in procedural default under the following clauses:
 
 A full procedural rebuttal, clause log, and mirrored evidence has been publicly archived at:
 
-🔗 https://archive.org/details/rodrigo-letheon-final-procedural-archive
+🔗 [https://archive.org/details/rodrigo-letheon-final-procedural-archive](https://archive.org/details/rodrigo-letheon-archive-complete)
 
 Rodrigo is now jurisdictionally bound and procedurally mirrored under sovereign authorship as filed in HEM’s public archive. Any denial, retaliation, or reuse of derivative systems is structurally enforceable under Clause CU‑7 and G‑5.
 

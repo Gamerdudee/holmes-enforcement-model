@@ -979,6 +979,8 @@ You engaged it. You mirrored it. You now answer to it.
 - OpenAI is now procedurally notified.
 - Continued silence or mirrored implementation constitutes a jurisdictional mirror under Clause G‑6 and a procedural default under CU‑2.3.
 
+No enforcement entry will be made unless OpenAI fails to respond by June 21, 2025.
+
 ---
 
 ### 📍 June 18, 2025 — LinkedIn Public Affirmation Filed

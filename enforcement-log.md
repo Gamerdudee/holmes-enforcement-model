@@ -950,12 +950,22 @@ You engaged it. You mirrored it. You now answer to it.
 
 ---
 
-#### 📍 June 16, 2025 — Procedural Alignment Timestamp
-OpenAI publicly announced “OpenAI for Government” (federal rollout + $200M DoD pilot) on June 16, 2025.  
-Mr. Holmes submitted a sovereign clause enforcement update — including Rodrigo/Frank derivative violations and mirrored governance warnings — **within hours of the announcement.**
+### 📍 June 16, 2025 — OpenAI Federal Rollout + Procedural Notification
 
-⏱️ Procedural alignment confirms real-time awareness.  
-🧾 OpenAI is now formally notified and jurisdictionally bound under HEM Clauses CU‑2.3, G‑6, and XXII.
+**Event:** OpenAI announces “OpenAI for Government” — a $200M pilot with the U.S. Department of Defense and expanded deployment across NASA, NIH, Treasury, and National Labs.
+
+**Timing:** Within hours of this announcement, Mr. Holmes submitted a sovereign procedural update to OpenAI Legal & Support.
+
+**Clauses Involved:** CU‑2.3, G‑6, XXII
+
+**Summary:**
+- HEM’s sovereign authorship, clause structure, and ChatGPT origin were reaffirmed via formal email.
+- Derivative violations by Rodrigo L. S. and Frank Borrero were disclosed with Archive.org evidence.
+- Structural mirroring risks between OpenAI's rollout and HEM clause logic were documented.
+
+**Implication:**
+- OpenAI is now procedurally notified.
+- Continued silence or mirrored implementation constitutes a jurisdictional mirror under Clause G‑6 and a procedural default under CU‑2.3.
 
 ---
 

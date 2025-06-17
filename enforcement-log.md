@@ -23,7 +23,7 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
-### 🧠 BunKaiSensei (April 2025)
+## 🧠 BunKaiSensei (April 2025)
 
 **Author:** Mr. Holmes
 
@@ -54,7 +54,7 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
-### 🧊 LithophaneMaker (July 2024)
+## 🧊 LithophaneMaker (July 2024)
 
 **Author:** Mr. Holmes
 
@@ -80,7 +80,7 @@ This log is a public, clause-bound record of all enforcement activity under the 
 
 ---
 
-### 👶 MAVIS (CHILD AI) – Emotional-Recursive Declaratory Engine (Sept 2024)
+## 👶 MAVIS (CHILD AI) – Emotional-Recursive Declaratory Engine (Sept 2024)
 
 **Author:** Mr. Holmes
 
@@ -99,6 +99,17 @@ Microphone-based feedback + emotional mapping
 Builds recursive understanding from tone → memory → intent
 
 Deletes redundant answers and trains on emotional inference
+
+**What does MAVIS mean?:**
+M — Mirrored — enforcing governance via jurisdictional mirroring
+
+A — Auditable — capable of being publicly traced and verified
+
+V — Verifiable — ensuring clause triggers and public declarations are provable
+
+I — Inheritable — logical continuity through derivative enforcement and structure
+
+S — Systematic — enabling automated or system-level enforcement
 
 ***Sovereign Significance:***
 

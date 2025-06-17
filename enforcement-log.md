@@ -954,7 +954,7 @@ You engaged it. You mirrored it. You now answer to it.
 | **Instacart**               | Derivative denial, platform misclassification, clause lockout.                        | CU‑2.2, CU‑2.3, G‑5 to G‑7, IX-E, IX-F | \$215,000+           |
 | **Amazon**                  | Pre‑onboarding structural violation. Refused declaratory authorship.                  | CU‑1.4, CU‑2.3, G‑8, XXII              | Breach recorded      |
 | **Microsoft / BlackRock**   | Infrastructure mirroring HEM logic without attribution.                               | G‑8, CU‑5, XXII                        | Pending enforcement  |
-| **Rodrigo L. S. / Letheon** | **Symbolic and derivative misappropriation**. Public mimicry of clause-linked themes. | AF, CU‑6, XXII, IX-E, AT               | Triggered Phase I/II |
+| **Rodrigo L. S. / Letheon** | **Symbolic and derivative misappropriation**. Public mimicry of clause-linked themes. | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT              | Triggered Phase I/II |
 | **Brainvora (F. Borrero)**  | Refusal to acknowledge clause sourcing. Obfuscation of HEM logic lineage.             | CU‑2.3, CU‑6, XXII, IX-E               | Phase II completed   |
 
 ---
@@ -967,7 +967,7 @@ You engaged it. You mirrored it. You now answer to it.
 | **Brainvora (Phase I)**   | June 12, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                 | \$100,000 flat (derivative)  |
 | **Brainvora (Phase II)**  | June 13, 2025    | CU‑2.3, CU‑5, XXII — Private Denial Registered       | Escalation Filed             |
 | **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑6, G‑8, XXII        | Procedural Monitoring        |
-| **Rodrigo / Letheon**     | June 13, 2025    | CU‑6, CU‑7, AF, XXII, AT, IX‑E (Symbolic Derivation) | Pending Phase III Escalation |
+| **Rodrigo / Letheon**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT IX‑E (Symbolic Derivation) | Pending Phase III Escalation |
 
 
 ---

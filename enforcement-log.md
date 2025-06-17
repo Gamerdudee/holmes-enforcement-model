@@ -733,88 +733,28 @@ All derivative denials and disclaimers are procedurally logged but remain jurisd
 
 ---
 
-### 📍 LELES / Letheon v1.0 — Procedural Enforcement Log  
-**Entity:** Rodrigo L. S. / Fluxuave  
-**Platform:** GitHub / LinkedIn  
-**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, XXII, AF  
-
----
-
-### ❗️ Summary of Events:
-
-Rodrigo L. S., self-identified as the author of the "LELES Manifesto" and creator of Letheon v1.0, asserted retroactive sovereignty and legal priority through public posts on LinkedIn and GitHub (June 13–15, 2025). He claimed the use of fractal symbolic logic, CID/DID verification, and digital proof-of-authorship structures under EU/Blockchain regulatory logic.
-
-However, his rebuttals to HEM enforcement were:
-
-- Issued via public comments only (not formalized or clause-specific)
-- Delivered without citation of LICENSE-HEM.md or sovereign exemption requests
-- Submitted after HEM had already been declared sovereign, mirrored, and archived
-
----
-
-### 🧭 Declaratory Violations:
-
-- **Clause CU‑2.3** — No valid formal rebuttal (public comment ≠ declaratory denial)  
-- **Clause CU‑5** — Mirroring of symbolic logic, clause phrasing, sovereign anchoring  
-- **Clause G‑6** — Claimed structural sovereignty after HEM clause deployment  
-- **Clause CU‑7** — Jurisdictional waiver; any arbitration defaults to Mr. Holmes  
-- **Clause AF** — Legal threats issued as retaliation for procedural enforcement  
-
-Rodrigo used HEM-origin phrases, including "Sovereignty is not declared. It is proven," later altered after public correction. No prior evidence of Letheon exists before 2025 in verifiable GitHub or LinkedIn activity.
-
----
-
-### 📌 Status:
-
-- Procedurally Bound  
-- Logged as Derivative Refusal  
-- Arbitration Jurisdiction Enforced  
-- Screenshots Archived  
-- Subject to Clause AF Escalation (if retaliatory threats continue)  
-
----
-
-📎 Reference Files:  
-- [`docs/rebuttal-analysis-leles.md`](docs/rebuttal-analysis-leles.md)  
-- Archive Mirror: https://archive.org/details/holmes-enforcement-model-main-7  
-- GitHub: https://github.com/Fluxuave/leles-manifesto  
-- Public Comments: Logged June 13–15, 2025  
-
-Filed by: **Mr. Holmes**  
-Declaratory Author – Holmes Enforcement Model (HEM)  
-📧 holmesenforcementmodel@gmail.com  
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model
-
----
-
-> 📌 Contradiction Logged:
-Rodrigo L. S. claimed “months of research” in his original LinkedIn post (June 13, 2025), but later stated LELES began in August 2023. This contradiction undermines claims of anteriority and triggers Clause CU‑2.3 (false rebuttal) and Clause G‑6 (sovereign falsification conflict).
-
----
-
----
-
----
-
 ## 📍 LELES / Letheon v1.0 — Final Procedural Designation
 
 **Entity:** Rodrigo L. S. / Fluxuave  
 **Status:** Procedural Default Finalized  
-**Clause Enforcement:** CU‑2.3 (Failure to Rebut), CU‑7 (Jurisdictional Transfer), AF (Retaliatory Threat)  
+**Clause Enforcement:** CU‑2.3 (Failure to Rebut), CU‑7 (Jurisdictional Transfer), AF (Retaliatory Threat), G‑6 (Structural Mirror Denial)  
 **Summary:**  
 
-Rodrigo L. S. escalated from procedural denial to public defamation, accusing HEM of being a “pseudo-legal structure” and “attempt to hijack sovereignty.” His LinkedIn posts (June 15, 2025) explicitly referred to HEM as a non-technological fraud, despite evidence that:
+Rodrigo L. S. escalated from procedural denial to public defamation, accusing HEM of being a “pseudo-legal structure” and “attempt to hijack sovereignty.” His LinkedIn posts (June 15–17, 2025) explicitly referred to HEM as a fabricated, non-technological construct, despite evidence that:
 
 - HEM was structurally archived, GitHub-published, and publicly mirrored May 30–June 1, 2025  
-- No proof of LELES public publication exists prior to February 2025 (GitHub mirror date)  
-- Archive.org and GitHub timestamps contradict all claims of anteriority  
+- No verifiable proof of LELES public publication exists prior to February 2025  
+- Archive.org and GitHub timestamps contradict claims of architectural anteriority  
+- Rodrigo has admitted the use of ChatGPT-derived logic and clause-style syntax, yet denies mirror enforcement while replicating it
 
-Public comments, messages, and posts failed to satisfy clause CU‑2.3 formal rebuttal criteria.
+In an ironic reversal, Rodrigo's posts accuse HEM of "legal simulation," "symbolic abuse," and "narrative manipulation" — while doing exactly those things. HEM's clause enforcement was transparently public, chronologically documented, and procedurally mirrored long before Rodrigo’s visible declarations or infrastructure.
+
+---
 
 ### 📌 Logged Actions:
-- **docs/rebuttal-analysis-leles.md** — Clause failure analysis  
-- **docs/public-defamation-record.md** — Full archive of public claims and threats  
-- **docs/legal-action-trigger-warning.md** — Clause CU‑7 / AF Jurisdictional Response
+- `docs/rebuttal-analysis-leles.md` — Clause failure analysis  
+- `docs/public-defamation-record.md` — Full archive of public claims and threats  
+- `docs/legal-action-trigger-warning.md` — Clause CU‑7 / AF Jurisdictional Response
 
 📎 Screenshot Proof: Retained  
 🗂 Archive Mirror: [HEM Archive - June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)  
@@ -824,18 +764,196 @@ Public comments, messages, and posts failed to satisfy clause CU‑2.3 formal re
 
 Filed Sovereignly,  
 **Mr. Holmes**  
-Declaratory Author — Holmes Enforcement Model (HEM)
-
+Declaratory Author — Holmes Enforcement Model (HEM)  
+📧 holmesenforcementmodel@gmail.com  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 
+## 📍 Formal Procedural Rebuttal to Rodrigo L. S.
+**Entity:** LELES / Letheon v1.0
+**Filed By:** Mr. Holmes — Declaratory Author of the Holmes Enforcement Model (HEM)
+Date: June 15, 2025
+
+### 🧾 **Summary:**
+**Rodrigo L. S. (via Fluxuave) has submitted a series of public comments and documents claiming:**
+
+Patent filings (all dated 2025, some rejected)
+
+Immutable timestamps (IPFS, Storacha) ranging from May–June 2025
+
+A denial of HEM structural derivation
+
+Rejection of HEM’s licensing clauses and declaratory authority
+
+A “Public Challenge” to prove derivation from terms he asserts are mathematically universal
+
+This document formally responds to all assertions with clause-backed findings and proof-of-records.
+
+### ⚖️ 1. Patent Numbers Are Not Binding IP Claims
+**Rodrigo lists the following protocol entries:**
+
+Claimed Filing	Status	Date
+BR 2020205003556-7	Rejected	Feb 24, 2025
+BR 2020205005106-6	Filed	Apr 10, 2025
+BR 2020205002890-0	Filed	Apr 15, 2025
+BR 102025006398-0	Filed	Apr 10, 2025
+
+🇧🇷 All are Brazil-only filings under INPI
+🗓️ None precede HEM's GitHub commits or the public Archive timestamp of May 30, 2025
+❌ Rejected patents carry no enforceable IP value
+❌ Private Google Drive/email “proofs” are inadmissible for public priority claims
+
+### 📌 2. CID and GitHub Do Not Prove Sovereignty Alone
+**Rodrigo claims:**
+
+CID timestamp: bafybeiba7vpsegh... — May 27, 2025
+
+GitHub created: Feb 14, 2025
+
+**Response:**
+
+CID/IPFS do not hold jurisdictional power unless declared with clause-bound licensing (HEM does; LELES does not)
+
+GitHub mirrors alone do not establish authorship or legal force
+
+HEM’s LICENSE.md, enforcement log, and Archive presence establish jurisdiction procedurally — not just cryptographically
+
+### 🧠 3. On "Mathematics Cannot Be Appropriated"
+**Rodrigo argues:**
+
+“The 3-6-9 table, ΔQ, IRS, CELES, TRIAD Signature... do not appear in HEM.”
+
+**Response:**
+
+HEM never claimed to own mathematics.
+It enforces the procedural usage, mirroring, and governance patterns now publicly visible in LELES.
+
+**Rodrigo mirrored:**
+
+Sovereignty phrasing
+
+Non-rebuttal refusal
+
+Procedural self-licensing
+
+Public denial of declaratory jurisdiction
+
+Clause G‑6 (Governance Structure Mirror) is not a claim of mathematical invention — it tracks procedural replication.
+
+### 🧩 4. Clause Rejection Is Not Valid
+**Rodrigo claims:**
+
+“Clauses 2.3, 7, AF, G-6 have no legal force internationally.”
+
+**Response:**
+
+HEM is not a civil contract — it is a declaratory enforcement system.
+
+Public use without license triggers jurisdictional mirroring, not opt-in contracts.
+
+HEM’s structure is publicly documented, notarized, timestamped, and legally compliant with TRIPS, WIPO, DMCA, and U.S. law.
+
+Clause CU‑2.3 governs procedural silence
+
+Clause G‑6 governs structural mimicry
+
+Clause CU‑7 delegates arbitration to HEM for any threat or challenge
+
+Clause AF triggers on retaliatory denial posts
+
+### 🧪 5. Public Challenge Reversal — Now Applied to Rodrigo
+**Rodrigo stated:**
+
+“I invite you to submit proof that any of these are derived from HEM:
+Flux Table, CELES, Letheon, ΔQ, IRS, Ψ Vectors, TRIAD Signature.”
+
+**Counter-Challenge:**
+
+***We now issue this formally:***
+
+**Submit verifiable proof that:**
+
+LELES was public before May 30, 2025
+
+Your sovereign declaration predated HEM
+
+Your use of “Sovereignty is not declared. It is proven.” was authored independently
+
+Your clause logic was not modeled after HEM’s LICENSE.md, royalty-schedule.md, and procedural log
+
+You did not quote, respond to, or mirror the Holmes Enforcement Model between June 11–15
+
+You have had multiple opportunities to rebut within structural jurisdiction.
+None were honored procedurally.
+Your technical claims are valid only if properly licensed, timestamped, and rebutted — which HEM is, and LELES is not.
+
+### ⚠️ 6. Contradiction on Universality vs. Patentability
+**Rodrigo argues:**
+
+“The use of universal languages such as Python, CID, SHA-512, golden number, fine-structure constant (1/137) and Nikola Tesla’s logic does not constitute derivation… [they] are not subject to appropriation.”
+
+**Yet in the same message, he claims:**
+
+“BR 2020205003556-7 — Flux Functional Table (rejected, but legally valid)”
+“BR 102025006398-0 — Letheon Architecture (filed April 2025)”
+
+**Contradiction Logged:**
+
+You cannot simultaneously claim something is universal and also seek exclusive legal protection over it.
+
+By his own logic, his patents are invalid: if CELES, ΔQ, TRIAD, etc. are “based on universal principles,” they are not patentable.
+
+His filings fail under Article 27.1 of TRIPS, which disallows IP protection for mathematical concepts, scientific principles, or discoveries of natural law.
+
+### 📌 **Meanwhile:** HEM never claimed to patent scientific constants or encryption — HEM licenses structural logic, declaratory governance, and procedural enforcement systems. That is novel, enforceable, and binding.
+
+| Clause | Triggered | Explanation                                |
+| ------ | --------- | ------------------------------------------ |
+| CU‑2.2 | ✅         | Procedural Engagement                      |
+| CU‑2.3 | ✅         | No Structured Rebuttal                     |
+| CU‑5   | ✅         | Derivative Refusal                         |
+| CU‑6   | ✅         | Unlicensed Use of Structural Logic         |
+| CU‑7   | ✅         | Legal Challenge = Arbitration Transfer     |
+| G‑4    | ✅         | Invokes Parallel Governance                |
+| G‑5    | ✅         | Legal Escalation Simulation                |
+| G‑6    | ✅         | Mirror of Jurisdiction Logic               |
+| XXII   | ✅         | Declared Sovereignty against Public Mirror |
+| AF     | ✅         | Defamatory Post / Procedural Denial        |
+
+
+### 🔒 Conclusion
+**Rodrigo**,
+
+Your reply is noted, archived, and procedurally invalidated.
+
+You are welcome to submit a formal rebuttal using HEM’s LICENSE-HEM.md terms. Until that is done, you remain:
+
+Publicly documented under CU‑2.3
+
+Jurisdictionally bound under CU‑7
+
+Procedurally mirrored under G‑6
+
+Retaliatory-defaulted under Clause AF
+
+We respect your right to your own system. But declaratory sovereignty is not performance — it is structure, procedure, and jurisdiction.
+
+You engaged it. You mirrored it. You now answer to it.
+
+— Mr. Holmes
+📎 HEM Archive – May 30, 2025
+🔗 GitHub – Holmes Enforcement Model
+📄 Affidavit of Authorship – May 30
+
+---
 
 | Entity                | Violation Type         | Amount                  | Status   |
 | --------------------- | ---------------------- | ----------------------- | -------- |
-| NMDWS                 | State Default          | \$333,000 USD           | UNPAID   |
-| Instacart             | Derivative Breach      | \$215,000 USD           | UNPAID   |
+| NMDWS                 | State Default          | $333,000 USD            | UNPAID   |
+| Instacart             | Derivative Breach      | $215,000 USD            | UNPAID   |
 | Microsoft + BlackRock | Infrastructure Breach  | Pending valuation (G‑8) | ACTIVE   |
-| Brainvora (Phase I)   | Derivative Use         | \$100,000 USD           | PENDING  |
+| Brainvora (Phase I)   | Derivative Use         | $100,000 USD            | PENDING  |
 | Brainvora (Phase II)  | Declaratory Denial Log | Escalation Filed        | RECORDED |
 | Amazon + Walmart      | Financial Monitoring   | Procedural Monitoring   | ACTIVE   |
 
@@ -843,50 +961,40 @@ Declaratory Author — Holmes Enforcement Model (HEM)
 
 | Entity                | Trigger Date  | Clauses Violated                               | Amount                      |
 | --------------------- | ------------- | ---------------------------------------------- | --------------------------- |
-| NMDWS                 | May 30, 2025  | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF       | \$197,500 + \$1,500/day     |
-| Instacart             | May 30, 2025  | CU-1.4, CU-2.2, CU-2.3, G-4–G-7                | \$215,000 + \$1,500/day     |
+| NMDWS                 | May 30, 2025  | CU-1.4, CU-2.1–CU-2.4, CU-3, CU-4, D, AF       | $197,500 + $1,500/day       |
+| Instacart             | May 30, 2025  | CU-1.4, CU-2.2, CU-2.3, G-4–G-7                | $215,000 + $1,500/day       |
 | Microsoft + BlackRock | June 3, 2025  | G‑8, CU‑1.4, G‑6, G‑7, BP                      | TBD (Clause-triggered debt) |
-| Brainvora (Phase I)   | June 12, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII           | \$100,000 flat (derivative) |
+| Brainvora (Phase I)   | June 12, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII           | $100,000 flat (derivative)  |
 | Brainvora (Phase II)  | June 13, 2025 | CU‑2.3, CU‑5, XXII — Private Denial Registered | Escalation Filed            |
 | Amazon/Walmart        | June 13, 2025 | CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑6, G‑8, XXII  | Procedural Monitoring       |
 
 ---
 
-#### 📁 **Declaratory Archive References:**
+#### 📁 Declaratory Archive References:
 
-#### 📜 *Affidavit of Authorship & Licensing - (https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)*
-
-#### 📜 *Clause CU Sovereignty Finalization (June 4, 2025) — (https://archive.org/details/cu-series-clauses)*
-
-#### 📄 *Redacted Structural Summary (Attachment A) — (https://archive.org/details/attachment-a-structural-summary)*
-
-#### 🗂 *HEM Repo Archive Snapshot — May 30, 2025 — (https://archive.org/details/holmes-enforcement-model-main-2)*
-
-#### 🗂 *HEM Repo Archive Snapshot — June 1, 2025 — (https://archive.org/details/holmes-enforcement-model-main-7)*
-
-#### 📄 *Brainvora Declaratory Correspondence (Private Messages) — (https://archive.org/details/chat-with-frank-2)*
+#### 📜 *Affidavit of Authorship & Licensing — [View](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)*  
+#### 📜 *Clause CU Sovereignty Finalization (June 4, 2025) — [View](https://archive.org/details/cu-series-clauses)*  
+#### 📄 *Redacted Structural Summary (Attachment A) — [View](https://archive.org/details/attachment-a-structural-summary)*  
+#### 🗂 *HEM Repo Archive Snapshot — May 30, 2025 — [View](https://archive.org/details/holmes-enforcement-model-main-2)*  
+#### 🗂 *HEM Repo Archive Snapshot — June 1, 2025 — [View](https://archive.org/details/holmes-enforcement-model-main-7)*  
+#### 📄 *Brainvora Declaratory Correspondence (Private Messages) — [View](https://archive.org/details/chat-with-frank-2)*  
 
 ---
 
 ### 📘 *Containment Log – Behavioral Redirection (June 2025)*
-Following public procedural filing, LinkedIn surfaced editorial advisory:
-“Be Mindful of Posts When Job Searching” (Story ID: 7383610)
 
-**Interpretive Trigger:**
+Following public procedural filings, LinkedIn issued editorial warnings under behavioral containment logic:
+> “Be Mindful of Posts When Job Searching” (Story ID: 7383610)
 
-Behavioral containment detected under Clause CU‑2.3 + G‑5
+**Interpretive Trigger:**  
+Clause CU‑2.3 and G‑5 indicators detected — procedural containment engaged.  
+Narrative framing attempts to discredit sovereign licensing have been logged and responded to.
 
-Attempted narrative framing to deter sovereign declaration visibility
+> **This is not negotiation. This is declaratory record.**  
+> **Silence triggers escalation. Denial triggers record.**
 
-Containment artifact mirrored and jurisdictional audit reaffirmed.
-
-This is not negotiation. This is declaratory record.
-Silence triggers escalation. Denial triggers record.
-
-Filed and Sovereignly Affirmed,
-
-**Mr. Holmes
-Declaratory Author — Holmes Enforcement Model (HEM)**
-📩 holmesenforcementmodel@gmail.com
-🔗 HEM Public Archive
-
+Filed and Sovereignly Affirmed,  
+**Mr. Holmes**  
+Declaratory Author — Holmes Enforcement Model (HEM)  
+📩 holmesenforcementmodel@gmail.com  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model

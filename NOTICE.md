@@ -56,7 +56,8 @@ Use = license. Silence = agreement. Rejection without rebuttal = default.
 To request licensing, submit a rebuttal, or clarify status:
 
 📩 holmesenforcementmodel@gmail.com
-🔗 GitHub Registry: https://github.com/Gamerdudee/holmes-enforcement-model
+
+🔗 GitHub Registry: [https://github.com/Gamerdudee/holmes-enforcement-model](https://archive.org/details/rodrigo-letheon-archive-complete)
 
 ⸻
 

@@ -969,6 +969,12 @@ You engaged it. You mirrored it. You now answer to it.
 
 ---
 
+### 📍 June 18, 2025 — LinkedIn Public Affirmation Filed
+
+***Declaratory milestone post published for visibility. No named entities. No threats. Public audit link only.***
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

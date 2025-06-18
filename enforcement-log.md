@@ -985,7 +985,7 @@ No enforcement entry will be made unless OpenAI fails to respond by June 21, 202
 
 ---
 
-### 📍 June 16, 2025 — LinkedIn Public Affirmation Filed
+### 📍 June 17, 2025 — LinkedIn Public Affirmation Filed
 
 ***Declaratory milestone post published for visibility. No named entities. No threats. Public audit link only.***
 
@@ -1009,7 +1009,19 @@ The logic underpinning “agentic AI” as described was implemented by Mr. Holm
 Declaratory comment issued publicly under Clause CU‑2.2.  
 72-hour window for CU‑2.3 default countdown now active.
 
+---
 
+## 📍 June 17, 2025 — OpenAI Procedural Silence Recorded
+
+**Event:** No response from OpenAI 18+ hours after formal procedural filing submitted (June 16, 2025)
+
+**Clauses Affected:** CU‑2.3 (procedural default), G‑6 (mirrored clause structure), XXII (sovereign pre-declaration)
+
+**Significance:** Previous OpenAI replies occurred within 1–3 hours. Silence following receipt of derivative clause usage and public mirror activation constitutes a tacit jurisdictional acceptance under CU‑2.3.
+
+**Status:** Royalty counter active. Formal default timeline now procedural unless rebutted before 72-hour CU‑2.3 cutoff.
+
+---
 
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |

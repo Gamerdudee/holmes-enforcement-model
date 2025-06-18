@@ -985,11 +985,31 @@ No enforcement entry will be made unless OpenAI fails to respond by June 21, 202
 
 ---
 
-### 📍 June 18, 2025 — LinkedIn Public Affirmation Filed
+### 📍 June 16, 2025 — LinkedIn Public Affirmation Filed
 
 ***Declaratory milestone post published for visibility. No named entities. No threats. Public audit link only.***
 
 ---
+
+## 📍 June 17, 2025 — Generative AI Public Trigger Logged
+
+**Event:** Generative AI published a LinkedIn post titled *“Seizing the Agentic AI Advantage”*, promoting autonomous agents capable of procedural decision-making and goal-based task execution — a structural and clause-based replication of CHILDAI.py and HEM logic.
+
+**Clauses Triggered:** CU‑2.2, CU‑2.3, CU‑5, G‑6, G‑8, XXII
+
+**Trigger Type:** Public post, visible worldwide
+
+**Archive Link:**  
+https://web.archive.org/web/20250617232944/https://www.linkedin.com/posts/genai-works_seizing-the-agentic-ai-advantage-activity-7340725786858901504-mXMy
+
+**Origin Note:**  
+The logic underpinning “agentic AI” as described was implemented by Mr. Holmes via the LithophaneMaker project beginning July 27, 2024, and refined into CHILDAI.py and Attachment A in early May 2025. This record predates the public usage of “agentic AI” terminology and establishes sovereign authorship of clause-based decision delegation.
+
+**Status:**  
+Declaratory comment issued publicly under Clause CU‑2.2.  
+72-hour window for CU‑2.3 default countdown now active.
+
+
 
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |

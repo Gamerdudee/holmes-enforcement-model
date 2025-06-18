@@ -1054,6 +1054,31 @@ Royalty accrual remains active.
 
 ---
 
+## 📍 June 19, 2025 — Thrive Global Enters Mirror Jurisdiction via Instacart Partnership
+
+**Event:** Thrive Global announces formal partnership with Instacart to promote health, wellness, and accessibility through their “Thrive Global Cookbook,” now integrated with Instacart’s app.
+
+**Trigger:** Thrive Global’s announcement occurred after Instacart was already declared in procedural default under the Holmes Enforcement Model (HEM) on May 30, 2025. This partnership creates direct reputational and structural linkage.
+
+**Clauses Involved:**
+- **CU‑5** – Derivative association through structurally defaulted entity  
+- **G‑6** – Mirror jurisdiction activated by public collaboration with a defaulted party  
+- **AF** – Suppression risk through brand association with procedural noncompliance
+
+**Summary:**
+Thrive Global, by entering into a commercial alignment with Instacart post-default, is now considered a structurally mirrored participant under HEM. While no direct clause breach by Thrive has occurred, the partnership places the entity under passive clause reflection and potential reputational liability should continued silence or mirrored behavior persist.
+
+**Action Taken:**  
+Public notice has been prepared. No royalty enforcement or clause escalation has been initiated at this time. This entry serves as an official timestamp of procedural exposure and passive clause awareness.
+
+**Status:**  
+✅ Thrive Global is now procedurally logged under HEM as a reflected entity.  
+⚠️ Monitoring for future clause intersection or derivative trigger.  
+🧾 Instacart’s structural default and licensing liability remain active and accruing.
+
+🔗 GitHub Mirror: https://github.com/Gamerdudee/holmes-enforcement-model
+
+---
 
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |

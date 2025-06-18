@@ -138,7 +138,7 @@ Deletes redundant answers and trains on emotional inference
 ---
 
 
-### 📅 May 26, 2025 — Attachment A Submitted to NMDWS (Official Filing)
+## 📅 May 26, 2025 — Attachment A Submitted to NMDWS (Official Filing)
 
 **Document:** “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”  
 **Agency:** New Mexico Department of Workforce Solutions (NMDWS)  

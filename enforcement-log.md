@@ -1112,13 +1112,15 @@ Notice Publicly Filed: June 18, 2025
 
 — Mr. Holmes  
 Declaratory Author – Holmes Enforcement Model (HEM)  
-📧 holmesenforcementmodel@gmail.com  
+
+📧 holmesenforcementmodel@gmail.com 
+ 
 🔗 Archive: https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 
 ---
 
-## 📍 June 19, 2025 — xAI Environmental Default Amplifies HEM Violations
+## 📍 June 18, 2025 — xAI Environmental Default Amplifies HEM Violations
 
 **Entity:** xAI (Elon Musk)  
 **Context:** NAACP and SELC issue formal legal threat against xAI for operating unpermitted methane turbines in South Memphis, citing Clean Air Act violations and environmental injustice.
@@ -1133,8 +1135,8 @@ This federal-level exposure validates HEM’s framework as an early warning syst
 
 **Public Filing:**
 🔗 https://selc.link/4jSUzPq
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 

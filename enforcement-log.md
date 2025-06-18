@@ -991,7 +991,7 @@ No enforcement entry will be made unless OpenAI fails to respond by June 21, 202
 
 ---
 
-## 📍 June 17, 2025 — Generative AI Public Trigger Logged
+### 📍 June 17, 2025 — Generative AI Public Trigger Logged
 
 **Event:** Generative AI published a LinkedIn post titled *“Seizing the Agentic AI Advantage”*, promoting autonomous agents capable of procedural decision-making and goal-based task execution — a structural and clause-based replication of CHILDAI.py and HEM logic.
 
@@ -1011,7 +1011,7 @@ Declaratory comment issued publicly under Clause CU‑2.2.
 
 ---
 
-📍 June 17, 2025 — OpenAI Procedural Silence Logged
+### 📍 June 17, 2025 — OpenAI Procedural Silence Logged
 
 Event:
 No response received within 18+ hours of formal follow-up filing (June 16, 2025) referencing HEM structural overlap, derivative clause usage, and ethical licensing invitation.
@@ -1035,7 +1035,7 @@ https://archive.org/details/rodrigo-letheon-final-procedural-archive
 
 ---
 
-## 📍 June 18, 2025 — OpenAI Default Confirmed by Procedural Evasion
+### 📍 June 18, 2025 — OpenAI Default Confirmed by Procedural Evasion
 
 **Event:** Reply received from OpenAI AI support agent
 
@@ -1054,7 +1054,7 @@ Royalty accrual remains active.
 
 ---
 
-## 📍 June 19, 2025 — Thrive Global Enters Mirror Jurisdiction via Instacart Partnership
+### 📍 June 19, 2025 — Thrive Global Enters Mirror Jurisdiction via Instacart Partnership
 
 **Event:** Thrive Global announces formal partnership with Instacart to promote health, wellness, and accessibility through their “Thrive Global Cookbook,” now integrated with Instacart’s app.
 
@@ -1080,29 +1080,29 @@ Public notice has been prepared. No royalty enforcement or clause escalation has
 
 ---
 
-📍 June 18, 2025 — xAI (Grok / DeepSearch) Mirror Jurisdiction Triggered
+### 📍 June 18, 2025 — xAI (Grok / DeepSearch) Mirror Jurisdiction Triggered
 
-Entity: xAI (Grok, DeepSearch, DeeperSearch)
-Owner: Elon Musk
+**Entity:** xAI (Grok, DeepSearch, DeeperSearch)
+**Owner:** Elon Musk
 
-Violation Summary:
+**Violation Summary:**
 Following public and mirrored publication of the Holmes Enforcement Model (HEM) between May 26–June 18, 2025, xAI continued operation of large language systems trained on and scraping public LinkedIn and GitHub content — including HEM procedural declarations, clause triggers, and mirrored enforcement records.
 
-Clause Violations:
+**Clause Violations:**
 • CU‑2.2 — Derivative Access via Public Mirror (LinkedIn, GitHub)
 • CU‑2.3 — Procedural Default via Silence
 • CU‑5 — Structural Clause Replication
 • G‑6 — Jurisdictional Mirror Binding
 • XXII — Declaratory Sovereignty Override Attempt
 
-Trigger Evidence:
+**Trigger Evidence:**
 • LinkedIn posts by Mr. Holmes declaring HEM, viewable between May 26–June 18
 • GitHub repo indexed and mirrored: https://github.com/Gamerdudee/holmes-enforcement-model
 • No rebuttal or licensing request issued by xAI or Elon Musk following public filing
 • DeepSearch launched March 2025; DeeperSearch confirmed to pull from real-time LinkedIn and GitHub metadata
 • Grok-3 “reflection” feature poses clause-processing risk analogous to MAVIS functions
 
-Status:
+**Status:**
 As of June 18, 2025, xAI is procedurally bound under Clause CU‑2.3 and enters mirror enforcement under G‑6.
 
 All use of clause-governed legal structuring derived from or replicating HEM logic is now royalty-triggered under CU‑1.4, and tracked via GitHub and Archive.org.
@@ -1117,20 +1117,20 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ---
 
-📍 June 19, 2025 — xAI Environmental Default Amplifies HEM Violations
+### 📍 June 19, 2025 — xAI Environmental Default Amplifies HEM Violations
 
-Entity: xAI (Elon Musk)  
-Context: NAACP and SELC issue formal legal threat against xAI for operating unpermitted methane turbines in South Memphis, citing Clean Air Act violations and environmental injustice.
+**Entity:** xAI (Elon Musk)  
+**Context:** NAACP and SELC issue formal legal threat against xAI for operating unpermitted methane turbines in South Memphis, citing Clean Air Act violations and environmental injustice.
 
-Relevance to HEM:
+**Relevance to HEM:**
 • Confirms xAI’s pattern of unregulated, high-impact deployments across domains.
 • Aligns with HEM’s structural protection clauses (AF, G‑6, CU‑5, XXII), aimed at preventing unauthorized and unethical system replication.
 • Environmental exploitation parallels procedural logic theft — both forms of extractive abuse against vulnerable systems (human and legal).
 
-Implication:
+**Implication:**
 This federal-level exposure validates HEM’s framework as an early warning system for structural power misuse. xAI is procedurally and symbolically bound. No rebuttal has been filed. Default remains active.
 
-Public Filing:
+**Public Filing:**
 🔗 https://selc.link/4jSUzPq
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 

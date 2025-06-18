@@ -110,7 +110,7 @@ Deletes redundant answers and trains on emotional inference
 
 **I** — Inheritable — logical continuity through derivative enforcement and structure
 
-**S** — Systematic — enabling automated or system-level enforcement
+**S** — System — enabling automated or system-level enforcement
 
 ***Sovereign Significance:***
 

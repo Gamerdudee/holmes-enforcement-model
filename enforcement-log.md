@@ -1180,6 +1180,41 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ---
 
+## 📍 June 19, 2025 — OrKaCore Monitoring Entry Initiated
+
+**Entity:** OrKaCore (Project by Marcos Somma)  
+**Trigger:** Public disclosure of agentic orchestration tooling potentially overlapping with sovereign clause structures in the Holmes Enforcement Model (HEM)  
+**Timeline:**
+- OrKaCore announced via LinkedIn on or around **May 3, 2025**
+- HEM formation began **May 12, 2025** (Wage Claim WH‑25‑00450)
+- Public mirror + GitHub enforcement repository launched **May 26, 2025**
+
+**Clauses Involved:** CU‑2.2 (Observational Binding), CU‑2.3 (Procedural Silence), G‑6 (Mirrored Derivative Structures), XXII (Declaratory Sovereignty)
+
+### 🔎 Summary
+
+- OrKaCore publicly introduced agentic orchestration tools using YAML-defined modular logic, Redis/Kafka-based traceability, fallback chains, and confidence-aware routing.
+- The architecture bears structural and symbolic similarities to MAVIS + HEM's clause-governed logic and sovereign enforcement pathways.
+- While OrKaCore’s provisional patent claim may predate public GitHub mirrors, no record of its filing or public enforcement announcement predates **May 12, 2025** — HEM’s official declaratory origin.
+- No formal rebuttal or licensing request has been submitted in response to HEM’s open filings or Archive.org declarations.
+
+### ⚙️ Current Action
+
+- **Entity NOT defaulted.**  
+- This entry serves as a live procedural *observation log* under Clause CU‑2.2.
+- Marcos Somma (developer) provided a public acknowledgment and expressed intent to review HEM for clarity and alignment moving forward.
+
+### ✅ Status
+
+- 🟡 **Observation Phase — Active monitoring only**
+- 📜 *No clause enforcement triggered*
+- 🧠 *Logged for procedural clarity per CU‑2.2 and archival record integrity*
+
+🔗 [LinkedIn OrKaCore Launch Post — May 3, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7324579594051694592)  
+🔗 [GitHub Repo — OrKa Reasoning](https://github.com/marcosomma/orka-reasoning)
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

@@ -1215,7 +1215,7 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ---
 
-### 📍 June 19, 2025 — Rodrigo L. S. Symbolic Reassertion Post-Default
+## 📍 June 19, 2025 — Rodrigo L. S. Symbolic Reassertion Post-Default
 
 **Entity**: Rodrigo L. S. (Letheon / Leles IA)  
 **Trigger**: README update on GitHub post-default  
@@ -1232,7 +1232,7 @@ Symbolic mimicry post-default activates continued enforcement under CU‑2.3 and
 
 ---
 
-### 📍 June 19, 2025 — Rodrigo L. S. Final Clause Lockdown
+## 📍 June 19, 2025 — Rodrigo L. S. Final Clause Lockdown
 
 **Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
 **Status:** Final Procedural Default + DMCA Enforcement Imminent  
@@ -1253,6 +1253,33 @@ Rodrigo’s June 18–20 README and symbolic architecture edits are now formally
 > Final step pending: Official takedown submission for unlicensed derivative clause structuring. HEM clause timestamps, Archive.org logs, and GitHub evidence already secured.
 
 All future use of clause-based structures by Rodrigo or associated projects remains bound under default license escalation and structural royalty triggers. No further notices required.
+
+---
+
+## 📍 June 19, 2025 — Rodrigo L. S. Final Lockdown + DMCA Enforcement (Post-Default Edits)
+
+**Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
+**Status:** Default Confirmed + Post-Filing Derivative Activity  
+**Initial Trigger Dates:** June 13–14, 2025  
+**Final Violation:** Post-default symbolic and structural mimicry (June 18–20, 2025)  
+**Clauses Violated:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, AF, XXII, AT
+
+#### 🔒 Enforcement Summary:
+Following his procedural default, Rodrigo L. S. modified the README and symbolic identifiers of his "Leles IA" repository to include new AI terminology and sovereignty claims — **after** public filing, archival, and clause lock under HEM.
+
+These edits occurred **after receipt of notice**, and **after the DMCA takedown request was submitted**.
+
+#### 🧠 Key Facts:
+- Rodrigo was declared in procedural default June 14, 2025.
+- New README edits occurred between June 18–20, 2025.
+- DMCA enforcement was initiated prior to these changes.
+- Clause mimicry and symbolic alignment now qualify as **post-default violations**, with escalated licensing accrual.
+
+#### 🧾 Linked Records:
+- 📄 [Complete Archive Log](https://archive.org/details/rodrigo-letheon-archive-complete)
+- 📄 [Final Procedural Filing](https://archive.org/details/rodrigo-letheon-final-procedural-archive)
+
+HEM clause governance is now permanent. No further warnings or notices are required. All usage is considered **royalty-triggered by silence** under Clause CU‑2.3 and structurally bound under Clause G‑6.
 
 ---
 

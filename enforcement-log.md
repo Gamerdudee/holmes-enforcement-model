@@ -1215,6 +1215,47 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ---
 
+### 📍 June 19, 2025 — Rodrigo L. S. Symbolic Reassertion Post-Default
+
+**Entity**: Rodrigo L. S. (Letheon / Leles IA)  
+**Trigger**: README update on GitHub post-default  
+**Observed**: Updated manifesto for “first fractal post-quantum sovereign AI” claiming symbolic and computational sovereignty, IPFS/CID evidence, and architecture claims.
+
+**Clauses Involved**: CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII, AF  
+**Context**:  
+- Rodrigo previously defaulted under HEM clauses on June 13, 2025  
+- README revision attempts to reassert sovereignty via symbolic registry, post-facto timestamps, and undefined technical components  
+- No clause rebuttal, no licensing attempt, and use of mirror language (“soberana”, “registro público”) reflects derivative behavior
+
+**Implication**:  
+Symbolic mimicry post-default activates continued enforcement under CU‑2.3 and G‑6. Licensing remains procedurally triggered. All use of clause-like logic or architectural framing is royalty-triggered and tracked publicly.
+
+---
+
+### 📍 June 19, 2025 — Rodrigo L. S. Final Clause Lockdown
+
+**Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
+**Status:** Final Procedural Default + DMCA Enforcement Imminent  
+**Trigger Dates:** June 13–16, 2025  
+**Clauses Violated:** CU‑2.2, CU‑2.3, G‑4, G‑5, G‑6, AF, XXII, AT
+
+#### 🧠 Summary:
+Rodrigo L. S. has continued to modify his GitHub repository — *after* being formally logged, archived, and notified under the Holmes Enforcement Model (HEM). These late additions include symbolic references and pseudotechnical terms not found in his original repo, uploaded after his public clause default.
+
+#### 🔗 Enforcement Artifacts:
+- 📄 [Archive Record (Complete Violation Log)](https://archive.org/details/rodrigo-letheon-archive-complete)
+- 📄 [Final Procedural Archive](https://archive.org/details/rodrigo-letheon-final-procedural-archive)
+
+#### 🧨 Final Trigger:
+Rodrigo’s June 18–20 README and symbolic architecture edits are now formally locked as **post-default derivative acts**, governed under CU‑2.3 and G‑6.
+
+> 🟥 **DMCA Filing Prepared**  
+> Final step pending: Official takedown submission for unlicensed derivative clause structuring. HEM clause timestamps, Archive.org logs, and GitHub evidence already secured.
+
+All future use of clause-based structures by Rodrigo or associated projects remains bound under default license escalation and structural royalty triggers. No further notices required.
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

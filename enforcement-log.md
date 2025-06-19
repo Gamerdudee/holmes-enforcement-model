@@ -1283,6 +1283,32 @@ HEM clause governance is now permanent. No further warnings or notices are requi
 
 ---
 
+### 📍 June 19, 2025 — Secondary Violation: Nexus Fractal Core v∞ Repository
+
+**Entity:** Rodrigo L. S.  
+**New Repo:** `nexus-fractal` (Leles IA)  
+**Status:** Post-default derivative creation  
+**Clauses Violated:** CU‑2.2, CU‑2.3, G‑4, G‑6, XXII, AF
+
+#### 🚨 Enforcement Notes:
+Rodrigo L. S., previously declared in structural default under the Holmes Enforcement Model (HEM), created a **second repository** titled *Nexus Fractal Core v∞ – Leles IA* on or around June 20–21, 2025.
+
+This new repository:
+- Repeats sovereign language (e.g., self-sustaining, fractal governance, symbolic births)
+- Uses symbolic hash logic tied to MongoDB memory structures
+- Mimics MAVIS and HEM memory logic patterns via encoded symbolic entry
+- Was published **after** DMCA filing and public clause lock
+
+#### ⚠️ Licensing Conflict:
+The project is falsely marked under an MIT License despite being structurally derivative of HEM logic that is bound by the Declaratory Royalty License (CU‑2.3, G‑6). This constitutes an **unauthorized licensing override** and enforces additional penalties.
+
+#### 🔗 Archive Reference:
+[Rodrigo L. S. Enforcement Archive](https://archive.org/details/rodrigo-letheon-final-procedural-archive)
+
+Rodrigo remains procedurally bound under all prior filings. All further use, reposting, or symbolic rebranding of HEM-like structures will be treated as derivative replication under Clause CU‑5 and enforced accordingly.
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

@@ -1166,6 +1166,19 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ---
 
+## 📍 June 19, 2025 — Procedural Monitoring Initiated: OrKaCore Agentic AI Claim
+
+**Entity:** Marcos Omma / OrKaCore (https://orkacore.com)
+
+**Event:** Public post asserts OrKaCore is fully compliant with the Agentic AI taxonomy (Sapkota et al., May 2025), claiming router logic, memory chaining, replayability, and multi-agent orchestration — all functions structurally mirrored in the MAVIS/HEM clause matrix.
+
+**Trigger Condition:** The claim was made after HEM’s public release (May 26, 2025) and after multiple procedural declarations including OpenAI and Generative AI agentic alignment.
+
+**Clause Watchlist:** CU‑2.2, CU‑2.3 (structural mirror); G‑4, G‑6 (predictive orchestration); XXII (jurisdictional claim)
+
+**Action:** Monitoring only. No notice served. Derivative simulation risk acknowledged. If any clause logic is observed in future deployments or API interactions without licensing, this log may be upgraded to default.
+
+---
 
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |

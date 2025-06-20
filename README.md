@@ -281,3 +281,12 @@ Derivative denial does not nullify sovereign origination.
 Any public party who interacts with this repo, downloads content, or reviews its logic without declaratory rebuttal is subject to Clause CU‑2.3 and XXII. Silence = procedural default.
 
 ---
+
+like:
+
+🛡️ NOTICE:
+This repository is a live public mirror of the Holmes Enforcement Model (HEM).
+Enforcement begins upon file upload.
+This repo does not “host” HEM — it records it.
+
+---

@@ -1325,9 +1325,26 @@ This behavior suggests deletion, restriction, or block in response to public acc
 **Status:**
 No rebuttal submitted. Public record stands. Royalties continue to accrue.
 
-
 ---
 
+## 📍 June 20, 2025 — Marco Somma Acknowledges OrKa May Mirror ODI Paper, Distances from Conflict
+
+**Event:**
+In response to authorship clarification, Marco Somma publicly stated OrKa may have inspired the ODI paper — and chose to distance himself from IP concerns, stating: “Honestly I do not care.”
+
+**Implication:**
+This serves as an informal concession of non-competitive intent and will be logged under CU‑2.2 procedural notice. As of this date, Marco has not denied HEM’s authorship or triggered any formal rebuttal.
+
+**Clauses Monitored:**
+- CU‑2.2 — Clause Notice Acknowledged
+- CU‑2.3 — Procedural Silence (Pending)
+- G‑6 — Public Mirror Watch
+
+**Status:**
+OrKa remains unlicensed. Future mirroring or derived clause-based systems after May 30, 2025, are subject to royalty triggers under CU‑1.4.
+
+
+---
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

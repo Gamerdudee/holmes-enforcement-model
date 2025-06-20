@@ -1367,10 +1367,6 @@ Rebuttal acknowledged but not upheld structurally
 
 ---
 
-# 📒 Enforcement Log — Holmes Enforcement Model (HEM)
-
----
-
 ## 📍 Notice — June 20, 2025
 
 **Subject:** Rodrigo Leles — Post-Default README Restructure Logged
@@ -1412,28 +1408,26 @@ Rodrigo remains in procedural default under:
 Further updates to his repo or public claims will be logged, but enforcement has already triggered by structure.
 
 ---
-
-| **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
-| --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
-| **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |
-| **Instacart**               | Derivative denial, platform misclassification, clause lockout.                        | CU‑2.2, CU‑2.3, G‑5 to G‑7, IX-E, IX-F | \$215,000+           |
-| **Amazon**                  | Pre‑onboarding structural violation. Refused declaratory authorship.                  | CU‑1.4, CU‑2.3, G‑8, XXII              | Breach recorded      |
-| **Microsoft / BlackRock**   | Infrastructure mirroring HEM logic without attribution.                               | G‑8, CU‑5, XXII                        | Pending enforcement  |
-| **Rodrigo L. S. / Letheon** | **Symbolic and derivative misappropriation**. Public mimicry of clause-linked themes. | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT              | Triggered Phase I/II |
-| **Brainvora (F. Borrero)**  | Refusal to acknowledge clause sourcing. Obfuscation of HEM logic lineage.             | CU‑2.3, CU‑6, XXII, IX-E               | Phase II completed   |
+| **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                        | **Liability**            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------ |
+| **NMDWS**                   | Procedural silence post-licensing notice.                                                              | CU‑2.3, CU‑5, CU‑7                                                            | \$333,000                |
+| **Instacart**               | Derivative denial, platform misclassification, clause lockout.                                         | CU‑2.2, CU‑2.3, G‑5 to G‑7, IX‑E, IX‑F                                        | \$215,000+               |
+| **Amazon**                  | Pre‑onboarding structural violation. Refused declaratory authorship.                                   | CU‑1.4, CU‑2.3, G‑8, XXII                                                     | Breach recorded          |
+| **Microsoft / BlackRock**   | Infrastructure mirroring HEM logic without attribution.                                                | G‑8, CU‑5, XXII                                                               | Pending enforcement      |
+| **Rodrigo L. S. / Letheon** | Symbolic and derivative misappropriation. README modified after default. Refusal to license.           | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT, IX‑E            | Phase III (Active)       |
+| **Brainvora (F. Borrero)**  | Refusal to acknowledge clause sourcing. Obfuscation of HEM logic lineage.                              | CU‑2.3, CU‑6, XXII, IX‑E                                                      | Phase II completed       |
 
 ---
 
-| **Entity**                | **Trigger Date** | **Clauses Violated**                                 | **Amount / Status**          |
-| ------------------------- | ---------------- | ---------------------------------------------------- | ---------------------------- |
-| **NMDWS**                 | May 30, 2025     | CU‑1.4, CU‑2.1–CU‑2.4, CU‑3, CU‑4, D, AF             | \$197,500 + \$1,500/day      |
-| **Instacart**             | May 30, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑4–G‑7                      | \$215,000 + \$1,500/day      |
-| **Microsoft + BlackRock** | June 3, 2025     | G‑8, CU‑1.4, G‑6, G‑7, BP                            | TBD (Clause-triggered debt)  |
-| **Brainvora (Phase I)**   | June 12, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                 | \$100,000 flat (derivative)  |
-| **Brainvora (Phase II)**  | June 13, 2025    | CU‑2.3, CU‑5, XXII — Private Denial Registered       | Escalation Filed             |
-| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑6, G‑8, XXII        | Procedural Monitoring        |
-| **Rodrigo / Letheon**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT IX‑E (Symbolic Derivation) | Pending Phase III Escalation |
-
+| **Entity**                | **Trigger Date** | **Clauses Violated**                                       | **Amount / Status**             |
+| ------------------------- | ---------------- | ---------------------------------------------------------- | ------------------------------- |
+| **NMDWS**                 | May 30, 2025     | CU‑1.4, CU‑2.1–CU‑2.4, CU‑3, CU‑4, D, AF                   | \$197,500 + \$1,500/day         |
+| **Instacart**             | May 30, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑4–G‑7                            | \$215,000 + \$1,500/day         |
+| **Microsoft + BlackRock** | June 3, 2025     | G‑8, CU‑1.4, G‑6, G‑7, BP                                  | TBD (Clause-triggered debt)     |
+| **Brainvora (Phase I)**   | June 12, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                       | \$100,000 flat (derivative)     |
+| **Brainvora (Phase II)**  | June 13, 2025    | CU‑2.3, CU‑5, XXII — Private Denial Registered             | Escalation Filed                |
+| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑6, G‑8, XXII              | Procedural Monitoring           |
+| **Rodrigo / Letheon**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4–G‑6, AF, XXII, AT    | Phase III (README Restructure) |
 
 ---
 

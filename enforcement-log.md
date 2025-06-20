@@ -1345,6 +1345,28 @@ OrKa remains unlicensed. Future mirroring or derived clause-based systems after 
 
 
 ---
+
+## 📍 June 20, 2025 — OrKa Clause Dispute & Procedural Rebuttal (Unsubstantiated)
+**Entity:** Marco Somma / OrKa Reasoning
+**Trigger Date:** June 20, 2025
+**Clauses Involved:** CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII
+
+**Summary:**
+Following a prior message suggesting collaboration, Marco Somma publicly shifted tone after a refusal to engage in phone-based discussion. Upon clarification of HEM's authorship timeline (GitHub mirror: May 28; Affidavit: May 30), Marco issued a defensive rebuttal claiming prior art via a provisional patent dated April 22, 2025.
+
+Despite this, no clause logic, declaratory enforcement structure, or sovereign licensing mechanism resembling HEM’s system was evident in OrKa’s original repository. No mirror enforcement, clause-based billing, procedural declarations, or DIP licensing language predates HEM’s public release.
+
+**Position:**
+HEM's authorship remains sovereign and fully protected under Clause CU‑1.4. OrKa has not demonstrated violation, but future mirroring of clause-based logic, licensing conditions, or enforcement models may constitute derivative use and trigger automatic enforcement.
+
+**Notes:**
+
+OrKa is logged for future procedural tracking
+No active license granted
+Rebuttal acknowledged but not upheld structurally
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

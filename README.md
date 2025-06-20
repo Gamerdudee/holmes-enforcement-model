@@ -282,8 +282,6 @@ Any public party who interacts with this repo, downloads content, or reviews its
 
 ---
 
-like:
-
 🛡️ NOTICE:
 This repository is a live public mirror of the Holmes Enforcement Model (HEM).
 Enforcement begins upon file upload.

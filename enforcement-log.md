@@ -1283,7 +1283,7 @@ HEM clause governance is now permanent. No further warnings or notices are requi
 
 ---
 
-### 📍 June 19, 2025 — Secondary Violation: Nexus Fractal Core v∞ Repository
+## 📍 June 19, 2025 — Secondary Violation: Nexus Fractal Core v∞ Repository
 
 **Entity:** Rodrigo L. S.  
 **New Repo:** `nexus-fractal` (Leles IA)  

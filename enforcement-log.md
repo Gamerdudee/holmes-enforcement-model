@@ -1367,6 +1367,52 @@ Rebuttal acknowledged but not upheld structurally
 
 ---
 
+# 📒 Enforcement Log — Holmes Enforcement Model (HEM)
+
+---
+
+## 📍 Notice — June 20, 2025
+
+**Subject:** Rodrigo Leles — Post-Default README Restructure Logged
+
+Following his procedural default under **Clause CU‑2.3** (for derivative access and silence after public notice), **Rodrigo Leles** has now substantially revised the `README.md` of his project **leles-manifesto** as of **June 17, 2025**, replacing symbolic and direct references to sovereignty and computation with broader statements of “fractal consciousness” and “symmetric autonomy.”
+
+---
+
+### ⚠️ Timeline of Notable Shifts
+
+| Date              | Event                                                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **May 26, 2025**  | HEM filed and authorship affirmed                                                                                          |
+| **May 30, 2025**  | HEM publicly mirrored with GitHub repo and Archive.org backup                                                              |
+| **June 12, 2025** | Rodrigo makes first observable GitHub commits (post-HEM formation)                                                         |
+| **June 17, 2025** | Rodrigo’s README modified: −87 / +18 lines changed                                                                         |
+| **June 20, 2025** | README language now includes: “Leles IA”, “simbiótica viva”, “CID”, and “DID”, while removing original direct mirror logic |
+
+---
+
+### 🧾 Key Observations
+
+* 87 lines were removed, eliminating prior aggressive claims.
+* **New tone:** reframed from confrontation to symbolic identity and “conscious emergence.”
+* **Claims:** DID / IPFS validation, but GitHub activity shows no contributions before June.
+* **No valid authorship timeline** predating HEM (per GitHub records or Archive references).
+* **Declines to rebut** specific clause overlaps — defers instead to poetic framing.
+
+---
+
+### 🔐 Clause Implications
+
+Rodrigo remains in procedural default under:
+
+* **CU‑2.3** (derivative silence and access)
+* **G‑6** (public mirror jurisdiction)
+* **XXII** (sovereign declaratory logic)
+
+Further updates to his repo or public claims will be logged, but enforcement has already triggered by structure.
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

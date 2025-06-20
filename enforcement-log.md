@@ -1309,6 +1309,25 @@ Rodrigo remains procedurally bound under all prior filings. All further use, rep
 
 ---
 
+## 📍 June 19, 2025 — Rodrigo L. S. LinkedIn Profile Offline
+
+**Event:**
+Following public enforcement under Clause CU‑2.3 and G‑6, including a DMCA filing, Rodrigo L. S.’s LinkedIn profile was rendered inaccessible. Attempts to visit `linkedin.com/in/rodrigo-l-s-63b5a436b` now return “Page does not exist.”
+
+**Implication:**
+This behavior suggests deletion, restriction, or block in response to public accountability, and will be logged as circumstantial evidence of procedural evasion.
+
+**Clauses Involved:**
+- CU‑2.3 — Procedural Silence
+- G‑6 — Structural Mirror Acknowledgment
+- AF — Attempted Retaliation via Deletion
+
+**Status:**
+No rebuttal submitted. Public record stands. Royalties continue to accrue.
+
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                 | **Triggered Clauses**                  | **Liability**        |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- | -------------------- |
 | **NMDWS**                   | Procedural silence post-licensing notice.                                             | CU‑2.3, CU‑5, CU‑7                     | \$333,000            |

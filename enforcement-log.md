@@ -1438,6 +1438,57 @@ As of June 21, 2025, full public visibility has been restored. Derivative access
 
 ---
 
+## 📍 Official Log Entry — OpenAI Procedural Default
+**Date Filed:** June 21, 2025
+**Entity:** OpenAI, Inc.
+**Trigger:** Failure to rebut clause structure or assert authorship by public filing deadline
+**Clauses Triggered:** CU‑2.3, CU‑5, G‑6, XXII
+**Status:** Procedural Default — Declaratory Sovereignty Affirmed
+
+### 🧾 Context Summary:
+
+**HEM Development Window:** May 15–30, 2025 (ChatGPT Free-Tier)
+
+**Public Mirror Posted:** May 28, 2025
+
+**Affidavit Timestamp:** May 30, 2025
+
+**OpenAI Acknowledgment:** June 18, 2025 (Support Team)
+
+**Rebuttal Deadline:** June 21, 2025 (No rebuttal filed)
+
+Despite multiple opportunities to refute clause authorship, assert prior structural ownership, or request exemption, OpenAI allowed the procedural window to lapse in full silence. Their email response confirmed recognition of authorship and intent to monitor, but declined formal engagement or licensing review.
+
+### 🔒 Binding Clause Enforcement:
+| Clause | Description                                             |
+| ------ | ------------------------------------------------------- |
+| CU‑2.3 | Procedural Silence = Consent by Structure               |
+| CU‑5   | Any Public Use = Royalty Enforcement Mirror             |
+| G‑6    | Government-AI Mirror Clause (Gov deployment triggers)   |
+| XXII   | Declaratory Sovereignty — Non-deniable, Non-retractable |
+
+
+### 🧠 Implications:
+All future OpenAI use of clause-governed logic, public enforcement mirroring, or sovereign symbolic enforcement systems will be retroactively licensed under CU‑1.4.
+
+ChatGPT Gov and internal governance tooling fall within scope if clause logic is mirrored, regardless of interface.
+
+This declaration enforces jurisdictional independence from OpenAI’s ToS-based boundaries.
+
+🗂️ Filed by: Mr. Holmes
+
+📁 HEM Repository
+
+📜 Affidavit of Authorship – May 30, 2025 (Archive.org)
+
+🕛 Rebuttal Window Expired: June 21, 2025
+
+📬 OpenAI Reply Timestamp: June 18, 2025
+
+📤 Original Filing Message: View Email Record (Optional: link to email archive if you decide to mirror it on Archive.org)
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
 | **NMDWS**                   | Procedural silence post-licensing notice. Default finalized June 21.                                   | CU‑2.3, CU‑5, CU‑7, G‑6, XXII                                                     | $333,000 + daily royalty accrual     |

@@ -106,15 +106,18 @@ It is licensed, not granted. Silence triggers structure.
 
 ---
 
-## 🔧 Declaratory Subsystems Governed by HEM
+---
 
-The following innovations are governed by the Holmes Enforcement Model under structural clauses CU‑1.4, CU‑2.3, and XXII. Each system includes its own declaratory clause addendum and is procedurally enforced by structure:
+## Declaratory Technology Extensions – June 21–22, 2025
 
-| System Name | Clause | Repository | Description |
-|-------------|--------|------------|-------------|
-| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | [Magnetic Propulsion Fin System](https://archive.org/details/magnetic-propulsion-fin-system-main) | Uses magnetically-driven rotation + aerodynamic fins to generate lift/thrust |
-| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | [Filed in MPFS Repo](https://archive.org/details/magnetic-propulsion-fin-system-main) | Particle-based kinetic barrier using magnetic rotational suspension |
-| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | [Branch: irpb-v1.2](#) | Adaptive field shield using sound/light modulation to redirect impact vectors |
-| HydroBrake Armature System | BR‑1.1 | [HydroBrake Armature System](https://archive.org/details/hydro-brake-armature-system-main) | Deployable braking system for watercraft using fins and hydrodynamic parachute |
+The following HEM sub-clauses are now in active public enforcement:
 
-These systems are structurally bound to HEM through public filing and clause addenda. All reuse, testing, AI modeling, or replication constitutes retroactive royalty enforcement under Clause CU‑1.4.
+- **Clause MP‑1.2** – Covers magnetic rotational propulsion combined with aerodynamic fin logic
+- **Clause IPFB‑1.2** – Covers particle-based barrier fields using inertial/magnetic logic
+- **Clause IRPB‑1.2** – Covers adaptive shielding via light/sound-modulated particle fields
+- **Clause BR‑1.1** – Covers deployable braking systems for watercraft using fins or parachutes
+
+All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
+Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
+Date of Public Disclosure: June 21–22, 2025.
+

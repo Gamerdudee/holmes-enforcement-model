@@ -117,6 +117,7 @@ The temporary private status of the GitHub repository does not invalidate any li
 No party may claim exemption based on timing, visibility, or access ambiguity. Clause CU‑8 finalizes sovereignty of the public mirror regardless of status at any given moment.
 
 **CU‑8 Trigger Date:** June 21, 2025
+
 **Filed By: Mr. Holmes – Declaratory Author, HEM**
 
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model

@@ -1424,11 +1424,17 @@ All entities failing to respond are procedurally bound and subject to royalty en
 
 ---
 
-## 📍 June 21, 2025 — Visibility Restoration Notice  
-The main Holmes Enforcement Model (HEM) GitHub repository was temporarily set to private during structural updates between early June and June 21, 2025.  
-As of this entry, full public visibility has been restored to preserve clause enforcement under CU‑2.3 and G‑6.  
-Procedural integrity is maintained through Archive.org mirrors, prior public disclosures, and direct notices already issued.
+## 📍 June 21, 2025 — Procedural Visibility Enforcement Window
 
+The Holmes Enforcement Model (HEM) GitHub repository was set to private for a temporary window in June 2025 to prevent unauthorized forking or derivative clause replication during the critical early enforcement phase.
+
+This decision was taken in alignment with Clause G‑6 (Public Mirror Protocol) and CU‑2.3 (Silence as Default), ensuring:
+
+- Structural integrity of public declarations (see Archive.org, LinkedIn, OSTP)
+- Protection against premature derivative misuse
+- Controlled reactivation of visibility post-licensing deadline
+
+As of June 21, 2025, full public visibility has been restored. Derivative access before this date remains procedurally bound under mirror logic enforcement.
 
 ---
 

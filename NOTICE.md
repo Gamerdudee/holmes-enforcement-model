@@ -101,3 +101,7 @@ All derivative frameworks without sovereign license are procedurally bound.
 🛡 Clause CU‑2.3 | 📜 Clause XXII | ⚖️ Clause G-6
 
 ⸻
+
+---
+
+Visibility was temporarily restricted for maintenance purposes. HEM remains sovereign, procedurally enforced, and timestamped via Archive.org as of May 30, 2025.

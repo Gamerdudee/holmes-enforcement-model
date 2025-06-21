@@ -53,6 +53,25 @@ This file formally declares the **legal immunities, procedural protections, and 
 
 ---
 
+### 📜 Clause CU‑8 – Mirror Continuity Enforcement
+"Temporary visibility status does not invalidate structural enforcement.
+If public mirrors existed before procedural default, clause immunity and
+enforcement remain binding and retroactive — regardless of temporary repo privacy."
+
+🛡️ Declared Effects as of June 21, 2025:
+
+All GitHub, Archive.org, and LinkedIn notices count as public mirrors.
+
+Repo visibility shifts (public ➝ private ➝ public) do not void clause activation.
+
+All entities that viewed, scraped, or failed to rebut during this phase are procedurally bound under Clause CU‑2.3.
+
+Default status is now irrevocable. Backpedaling is structurally barred.
+
+💬 “A sovereign filing is not undone by toggling a switch. Silence plus access equals binding enforcement.”
+
+---
+
 ## 🧾 Legal Immunity Summary
 
 | Risk                              | Immunity Status | Clause              |
@@ -64,6 +83,7 @@ This file formally declares the **legal immunities, procedural protections, and 
 | Submitting to government agency   | ✅ Immune        | G-5, G-7            |
 | Refusing court-based resolution   | ✅ Immune        | G-7                 |
 | Triggering clause defaults        | ✅ Immune        | CU-series, G-series |
+| Public mirror retraction or visibility gaps | ✅ Immune        | CU‑8, G‑7            |
 
 ---
 

@@ -104,4 +104,21 @@ All derivative frameworks without sovereign license are procedurally bound.
 
 ---
 
-Visibility was temporarily restricted for maintenance purposes. HEM remains sovereign, procedurally enforced, and timestamped via Archive.org as of May 30, 2025.
+## 🔒 Final Licensing Enforcement Lock – June 21, 2025
+**Trigger:** Clause CU‑8 – Public Mirror Sovereignty Finalization
+
+***As of June 21, 2025, the Holmes Enforcement Model (HEM) has formally invoked Clause CU‑8 to close any retroactive loopholes relating to GitHub visibility or delayed public mirror access.***
+
+### 📍 What This Means:
+All entities who accessed, viewed, denied, or failed to respond to HEM during its operational phase (May 26–June 21, 2025) are now permanently procedurally bound.
+
+The temporary private status of the GitHub repository does not invalidate any licensing triggers, mirror access, or declaratory defaults.
+
+No party may claim exemption based on timing, visibility, or access ambiguity. Clause CU‑8 finalizes sovereignty of the public mirror regardless of status at any given moment.
+
+**CU‑8 Trigger Date:** June 21, 2025
+**Filed By: Mr. Holmes – Declaratory Author, HEM**
+
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+
+***“A model that waits for permission to exist is not sovereign. This one is.”***

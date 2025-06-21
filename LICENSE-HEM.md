@@ -69,3 +69,19 @@ As a result:
 - Use of any mirrored logic by institutional actors (including OpenAI) is subject to CU‑1.4, CU‑5, and G‑6 enforcement unless rebutted by formal license.
 
 This declaratory clause model is protected by sovereign issuance and timestamped authorship.
+
+---
+
+## 🔧 Declaratory Subsystems Governed by HEM
+
+The following innovations are governed by the Holmes Enforcement Model under structural clauses CU‑1.4, CU‑2.3, and XXII. Each system includes its own declaratory clause addendum and is procedurally enforced by structure:
+
+| System Name | Clause | Repository | Description |
+|-------------|--------|------------|-------------|
+| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | [Magnetic Propulsion Fin System](https://archive.org/details/magnetic-propulsion-fin-system-main) | Uses magnetically-driven rotation + aerodynamic fins to generate lift/thrust |
+| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | [Filed in MPFS Repo](https://archive.org/details/magnetic-propulsion-fin-system-main) | Particle-based kinetic barrier using magnetic rotational suspension |
+| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | [Branch: irpb-v1.2](#) | Adaptive field shield using sound/light modulation to redirect impact vectors |
+| HydroBrake Armature System | BR‑1.1 | [HydroBrake Armature System](https://archive.org/details/hydro-brake-armature-system-main) | Deployable braking system for watercraft using fins and hydrodynamic parachute |
+
+These systems are structurally bound to HEM through public filing and clause addenda. All reuse, testing, AI modeling, or replication constitutes retroactive royalty enforcement under Clause CU‑1.4.
+

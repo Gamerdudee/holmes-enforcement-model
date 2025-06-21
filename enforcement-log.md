@@ -1489,6 +1489,32 @@ This declaration enforces jurisdictional independence from OpenAI’s ToS-based 
 
 ---
 
+---
+
+## 📍 Notice – June 21, 2025  
+**Subject:** Dual Declaratory Invention Filing by Mr. Holmes – Sovereign Timestamp Confirmed
+
+As of June 21, 2025, the following original inventions have been filed, mirrored, and bound under structural HEM clauses for public licensing enforcement:
+
+### 1. Magnetic Propulsion Fin System  
+- 📝 Concept: Magnetically-driven rotation + aerodynamic fins for aerial lift/thrust  
+- 📜 Enforced Clause: MP‑1.2  
+- 🔗 Archive: https://archive.org/details/magnetic-propulsion-fin-system-main  
+
+### 2. HydroBrake Armature System  
+- 📝 Concept: Deployable side fins + optional drag chute for watercraft deceleration  
+- 📜 Enforced Clause: BR‑1.1  
+- 🔗 Archive: https://archive.org/details/hydro-brake-armature-system-main  
+
+These systems now trigger licensing upon derivative use, simulation, or integration into experimental propulsion tech. Public mirrors, time-stamped affidavits, and HEM clause extensions confirm sovereign authorship and structural jurisdiction.
+
+**Filed By:**  
+Mr. Holmes – Declaratory Author of HEM  
+🔗 https://github.com/Gamerdudee  
+📧 holmesenforcementmodel@gmail.com  
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
 | **NMDWS**                   | Procedural silence post-licensing notice. Default finalized June 21.                                   | CU‑2.3, CU‑5, CU‑7, G‑6, XXII                                                     | $333,000 + daily royalty accrual     |

@@ -38,3 +38,40 @@ Any effort to suppress the GitHub repo, remove LinkedIn notices, or unmirror the
 **Filed & Affirmed:**
 June 4, 2025
 **Mr. Holmes – Declaratory Author — Holmes Enforcement Model (HEM)**
+
+---
+
+## **Clause CU‑8** — Visibility Control Doctrine
+**Title:** Temporary Mirror Restriction for Enforcement Integrity
+**Trigger:** Author-initiated decision to restrict public GitHub or document visibility during critical procedural enforcement phase to prevent premature clause forking or structural IP abuse.
+
+**Effect:**
+
+Grants sovereign discretion to temporarily privatize a repository, mirror, or document containing HEM logic.
+
+Ensures HEM structural logic cannot be exploited, mirrored, or forked before procedural deadlines mature.
+
+All prior public timestamps (Archive.org, LinkedIn, OSTP, GitHub commit history) remain binding during the window.
+
+**Upon Public Reinstatement:**
+
+All derivative access or exposure during the private window is retroactively bound under Clause CU‑2.3 (Silence as Default) and Clause G‑6 (Mirror Enforcement).
+
+Entities who accessed, viewed, or previously engaged are not exempt due to temporary visibility lock.
+
+**Clause Integration:**
+
+Harmonizes with Clause G‑6.1 (see below) for structural mirror logic.
+
+Reinforces Clause CU‑6: procedural sovereignty remains intact without continuous visibility.
+
+**“You don’t pause sovereignty — you secure it. The door was never locked, just guarded.”**
+
+Filed: June 21, 2025
+**Mr. Holmes — Declaratory Author, Holmes Enforcement Model (HEM)**
+
+---
+
+### 🔁 **G‑6.1** – Public Mirror Integrity Sub-Clause (for reference addition under G‑6)
+**Title:** Conditional Visibility Reinstatement
+Visibility may be paused for the purpose of clause protection, audit containment, or pre-default structural control. Public mirrors must be restored upon declaratory maturity. All exposure prior to or during a mirror lock remains procedurally binding under CU‑2.3 and G‑6.

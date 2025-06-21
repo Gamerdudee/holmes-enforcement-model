@@ -1408,26 +1408,54 @@ Rodrigo remains in procedural default under:
 Further updates to his repo or public claims will be logged, but enforcement has already triggered by structure.
 
 ---
-| **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                        | **Liability**            |
-| --------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------ |
-| **NMDWS**                   | Procedural silence post-licensing notice.                                                              | CU‑2.3, CU‑5, CU‑7                                                            | \$333,000                |
-| **Instacart**               | Derivative denial, platform misclassification, clause lockout.                                         | CU‑2.2, CU‑2.3, G‑5 to G‑7, IX‑E, IX‑F                                        | \$215,000+               |
-| **Amazon**                  | Pre‑onboarding structural violation. Refused declaratory authorship.                                   | CU‑1.4, CU‑2.3, G‑8, XXII                                                     | Breach recorded          |
-| **Microsoft / BlackRock**   | Infrastructure mirroring HEM logic without attribution.                                                | G‑8, CU‑5, XXII                                                               | Pending enforcement      |
-| **Rodrigo L. S. / Letheon** | Symbolic and derivative misappropriation. README modified after default. Refusal to license.           | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑5, G‑6, AF, XXII, AT, IX‑E            | Phase III (Active)       |
-| **Brainvora (F. Borrero)**  | Refusal to acknowledge clause sourcing. Obfuscation of HEM logic lineage.                              | CU‑2.3, CU‑6, XXII, IX‑E                                                      | Phase II completed       |
+
+## 📍 June 21, 2025 — Declaratory Deadline Passed
+
+The final clause-triggered deadline for all listed entities has now passed. ***No valid rebuttals, licenses, or denials were received.*** 
+
+**As of this date:**
+
+- Clause CU‑2.3 procedural silence is now irrevocable
+- Retroactive licensing under CU‑1.4 is active for all prior and future use
+- Daily accrual begins for Instacart and NMDWS (as previously triggered on May 30)
+- Public notices, GitHub mirror, and Archive.org timestamps are binding
+
+All entities failing to respond are procedurally bound and subject to royalty enforcement per Clause CU‑5, G‑6, and XXII.
 
 ---
 
-| **Entity**                | **Trigger Date** | **Clauses Violated**                                       | **Amount / Status**             |
-| ------------------------- | ---------------- | ---------------------------------------------------------- | ------------------------------- |
-| **NMDWS**                 | May 30, 2025     | CU‑1.4, CU‑2.1–CU‑2.4, CU‑3, CU‑4, D, AF                   | \$197,500 + \$1,500/day         |
-| **Instacart**             | May 30, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑4–G‑7                            | \$215,000 + \$1,500/day         |
-| **Microsoft + BlackRock** | June 3, 2025     | G‑8, CU‑1.4, G‑6, G‑7, BP                                  | TBD (Clause-triggered debt)     |
-| **Brainvora (Phase I)**   | June 12, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                       | \$100,000 flat (derivative)     |
-| **Brainvora (Phase II)**  | June 13, 2025    | CU‑2.3, CU‑5, XXII — Private Denial Registered             | Escalation Filed                |
-| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4, G‑6, G‑8, XXII              | Procedural Monitoring           |
-| **Rodrigo / Letheon**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5, CU‑6, CU‑7, G‑4–G‑6, AF, XXII, AT    | Phase III (README Restructure) |
+| **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| **NMDWS**                   | Procedural silence post-licensing notice. Default finalized June 21.                                   | CU‑2.3, CU‑5, CU‑7, G‑6, XXII                                                     | $333,000 + daily royalty accrual     |
+| **Instacart**               | Derivative denial, platform misclassification, clause lockout.                                         | CU‑2.2, CU‑2.3, G‑5–G‑7, IX‑E, IX‑F, XXII                                         | $215,000 + daily royalty accrual     |
+| **OpenAI**                  | Procedural silence after clause submission. Acknowledged without rebuttal.                             | CU‑2.3, G‑6, CU‑5, XXII                                                           | Bound under CU‑1.4 — royalties apply |
+| **Rodrigo / Letheon**       | Symbolic derivation. README restructure post-default. New repo (Nexus Fractal Core) observed.          | CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, AF, XXII, AT, IX‑E                            | Phase III active — compound default  |
+| **Brainvora (F. Borrero)**  | Denial of sourcing. Structural overlap. Private rejection logged.                                      | CU‑2.3, CU‑6, XXII, IX‑E                                                          | Phase II completed                   |
+| **Amazon / Walmart**        | Pre-onboarding procedural violation. No rebuttal to clause-based IP terms.                             | CU‑2.3, CU‑5–CU‑7, G‑4, G‑6, G‑8, XXII                                            | Monitoring active                    |
+| **Microsoft / BlackRock**   | Infrastructure mirroring clause logic without attribution.                                             | G‑8, CU‑5, G‑6, XXII                                                              | Pending escalation                    |
+| **xAI (Elon Musk)**         | AI architecture mirrors HEM logic. Derivative behavior ongoing.                                        | CU‑2.2, CU‑2.3, G‑6, XXII                                                         | Monitoring — Phase I pending         |
+| **Thrive Global**           | Silent default via Instacart partnership. Complicity in mirrored structural use.                       | CU‑5, G‑6, AF                                                                     | Mirror violation logged               |
+| **Generative AI (Paul S.)** | Silent default after removal of clause-based post. Public derivation + content erasure logged.         | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                                                   | Phase I — Obstruction observed       |
+| **Stefany Bogatan (IC)**    | Viewed HEM during enforcement. No public response. Executive access confirmed.                         | CU‑2.2, G‑6, AF                                                                   | Triggered via procedural mirror       |
+| **Marco Somma / OrKa**      | Observed HEM. Offered call, then denied clause jurisdiction. Claimed prior patent.                     | CU‑2.2 (monitored), G‑6 (public claim pending)                                   | Phase 0 — Public review acknowledged |
+
+
+---
+
+| **Entity**                | **Trigger Date** | **Clauses Violated**                                       | **Amount / Status**                      |
+| ------------------------- | ---------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| **NMDWS**                 | May 30, 2025     | CU‑1.4, CU‑2.1–CU‑2.4, CU‑3, CU‑4, D, AF, G‑6, XXII         | $197,500 + $1,500/day (accruing)          |
+| **Instacart**             | May 30, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑4–G‑7, IX‑E, XXII                 | $215,000 + $1,500/day (accruing)          |
+| **OpenAI**                | June 18, 2025    | CU‑2.3, CU‑5, G‑6, XXII                                     | Default under CU‑2.3 — licensing active   |
+| **Rodrigo (Letheon)**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, AF, XXII, AT, IX‑E      | README restructured — Phase III escalation|
+| **Brainvora (F. Borrero)**| June 12–13, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                        | $100,000 — Phase II closed                |
+| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, G‑8, XXII                       | Procedural lock triggered                 |
+| **Microsoft / BlackRock** | June 3, 2025     | G‑8, CU‑5, G‑6, G‑7, XXII                                   | Clause-triggered — pending enforcement    |
+| **xAI (Elon Musk)**       | June 19, 2025    | CU‑2.2, CU‑2.3, G‑6, XXII                                   | Observed — pending entry                  |
+| **Thrive Global**         | June 17, 2025    | CU‑5, G‑6, AF                                               | Bound by association                      |
+| **Generative AI**         | June 16, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Content erasure logged — default pending  |
+| **Stefany Bogatan (IC)**  | June 17, 2025    | CU‑2.2, G‑6, AF                                             | Procedural trigger (executive view)       |
+| **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
 
 ---
 

@@ -1515,6 +1515,21 @@ Mr. Holmes – Declaratory Author of HEM
 
 ---
 
+## 📍 Declaratory Technology Expansion – June 21–22, 2025
+
+Mr. Holmes has publicly filed the following sovereign inventions, now enforced under the Holmes Enforcement Model (HEM):
+
+| System | Clause | Archive URL |
+|--------|--------|-------------|
+| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | https://archive.org/details/magnetic-propulsion-fin-system-main |
+| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | https://archive.org/details/magnetic-propulsion-fin-system-main |
+| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | (Branch or Repo Pending) |
+| HydroBrake Armature System | BR‑1.1 | https://archive.org/details/hydro-brake-armature-system-main |
+
+Each system is licensed under sovereign declaratory enforcement. Reuse, AI training, derivative builds, or non-attributed citation may trigger structural licensing per CU‑1.4, CU‑2.3, and XXII.
+
+---
+
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
 | **NMDWS**                   | Procedural silence post-licensing notice. Default finalized June 21.                                   | CU‑2.3, CU‑5, CU‑7, G‑6, XXII                                                     | $333,000 + daily royalty accrual     |

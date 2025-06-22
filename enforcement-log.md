@@ -1527,7 +1527,7 @@ Mr. Holmes has formally disclosed and sovereignly licensed the following technol
 | HydroBrake Armature System | BR‑1.1 | [https://archive.org/details/hydro-brake-armature-system-main](https://archive.org/details/hydro-brake-armature-system-main) |
 | IPCS - Integrated Particle Control System| IPC‑1.0 | [https://archive.org/details/integrated-particle-control-system-main](https://archive.org/details/integrated-particle-control-system-main) |
 | SAMLN – Sound-Assisted Magnetic Lift Navigation (Redacted Sovereign Disclosure)|  MP‑2.0 | [https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main](https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main) |
-| HARMONY GRID – Declaratory Resonance Infrastructure (Redacted) | GRN‑1.1 | [https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main](https://archive.org/details/project-harmony-grid-main) |
+| HARMONY GRID – Declaratory Resonance Infrastructure (Redacted) | GRN‑1.1 | [https://archive.org/details/project-harmony-grid-main](https://archive.org/details/project-harmony-grid-main) |
 
 **All systems above are:**
 	•	Protected under Declaratory Intellectual Property (DIP)

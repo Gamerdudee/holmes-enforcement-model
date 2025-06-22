@@ -102,7 +102,7 @@ This declaratory clause model is protected by sovereign issuance and timestamped
 
 **Clause GRN‑1.1** – Covers national-scale bioresonance infrastructure using adaptive harmonic emitters (EM + sound) for synchronized environmental stabilization
 ↳ **System:** Project HARMONY GRID
-🔗 [Link pending or user-submitted if not archived yet]
+🔗 https://archive.org/details/project-harmony-grid-main
 
 All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
 Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  

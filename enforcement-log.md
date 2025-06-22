@@ -1515,7 +1515,7 @@ Mr. Holmes – Declaratory Author of HEM
 
 ---
 
-## 📍📍 Declaratory Technology Expansion — June 21–22, 2025
+## 📍 Declaratory Technology Expansion — June 21–22, 2025
 
 Mr. Holmes has formally disclosed and sovereignly licensed the following technological systems under the Holmes Enforcement Model (HEM). Each system is protected by public timestamp, clause-specific declaratory governance, and royalty trigger enforcement.
 

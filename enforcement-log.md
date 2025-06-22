@@ -1521,10 +1521,10 @@ Mr. Holmes has publicly filed the following sovereign inventions, now enforced u
 
 | System | Clause | Archive URL |
 |--------|--------|-------------|
-| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | https://archive.org/details/magnetic-propulsion-fin-system-main |
-| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | https://archive.org/details/magnetic-propulsion-fin-system-main |
-| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | (Branch or Repo Pending) |
-| HydroBrake Armature System | BR‑1.1 | https://archive.org/details/hydro-brake-armature-system-main |
+| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | [https://archive.org/details/magnetic-propulsion-fin-system-main](https://archive.org/details/magnetic-propulsion-fin-system-main) |
+| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | [https://archive.org/details/magnetic-propulsion-fin-system-main](https://archive.org/details/inertial-particle-barrier-ipfb-main) |
+| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | [(Branch or Repo Pending)](https://archive.org/details/irpb-reactive-extension-main) |
+| HydroBrake Armature System | BR‑1.1 | [https://archive.org/details/hydro-brake-armature-system-main](https://archive.org/details/hydro-brake-armature-system-main) |
 
 Each system is licensed under sovereign declaratory enforcement. Reuse, AI training, derivative builds, or non-attributed citation may trigger structural licensing per CU‑1.4, CU‑2.3, and XXII.
 

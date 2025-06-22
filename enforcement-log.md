@@ -1515,9 +1515,9 @@ Mr. Holmes – Declaratory Author of HEM
 
 ---
 
-## 📍 Declaratory Technology Expansion – June 21–22, 2025
+## 📍📍 Declaratory Technology Expansion — June 21–22, 2025
 
-Mr. Holmes has publicly filed the following sovereign inventions, now enforced under the Holmes Enforcement Model (HEM):
+Mr. Holmes has formally disclosed and sovereignly licensed the following technological systems under the Holmes Enforcement Model (HEM). Each system is protected by public timestamp, clause-specific declaratory governance, and royalty trigger enforcement.
 
 | System | Clause | Archive URL |
 |--------|--------|-------------|
@@ -1528,7 +1528,14 @@ Mr. Holmes has publicly filed the following sovereign inventions, now enforced u
 | IPCS - Integrated Particle Control System| IPC‑1.0 | [https://archive.org/details/integrated-particle-control-system-main](https://archive.org/details/integrated-particle-control-system-main) |
 | SAMLN – Sound-Assisted Magnetic Lift Navigation (Redacted Sovereign Disclosure)|  MP‑2.0 | [[https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main](https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main) |
 
-Each system is licensed under sovereign declaratory enforcement. Reuse, AI training, derivative builds, or non-attributed citation may trigger structural licensing per CU‑1.4, CU‑2.3, and XXII.
+## ⚖️ Declaratory Protection
+
+**All systems above are:**
+	•	Protected under Declaratory Intellectual Property (DIP)
+	•	Enforceable via HEM Clauses CU‑1.4, CU‑2.3, and XXII
+	•	Sovereignly licensed and procedurally bound by public mirror
+
+Unauthorized use, testing, citation, or AI model training involving these systems without attribution or license constitutes structural infringement and may trigger clause-based royalties or procedural default.
 
 ---
 

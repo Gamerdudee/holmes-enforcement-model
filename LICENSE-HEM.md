@@ -74,15 +74,38 @@ This declaratory clause model is protected by sovereign issuance and timestamped
 
 ## Declaratory Technology Extensions – June 21–22, 2025
 
-The following HEM sub-clauses are now in active public enforcement:
+### 📜 The following HEM sub-clauses are now in active public enforcement:
 
-- **Clause MP‑1.2** – Covers magnetic rotational propulsion combined with aerodynamic fin logic
-- **Clause IPFB‑1.2** – Covers particle-based barrier fields using inertial/magnetic logic
-- **Clause IRPB‑1.2** – Covers adaptive shielding via light/sound-modulated particle fields
-- **Clause BR‑1.1** – Covers deployable braking systems for watercraft using fins or parachutes
+**Clause MP‑1.2** – Covers magnetic rotational propulsion combined with aerodynamic fin logic
+↳ **System:** MPFS – Magnetic Propulsion Fin System
+🔗 https://archive.org/details/magnetic-propulsion-fin-system-main
+
+**Clause IPFB‑1.2** – Covers particle-based barrier fields using inertial/magnetic logic
+↳ **System:** IPFB – Inertial Particle-Field Barrier
+🔗 https://archive.org/details/magnetic-propulsion-fin-system-main (shared archive with MPFS)
+
+**Clause IRPB‑1.2** – Covers adaptive shielding via light/sound-modulated particle fields
+↳ **System:** IRPB – Intelligent Reactive Particle Barrier
+🔗 https://archive.org/details/irpb-reactive-extension-main
+
+**Clause BR‑1.1** – Covers deployable braking systems for watercraft using fins or parachutes
+↳ **System:** HydroBrake Armature System
+🔗 https://archive.org/details/hydro-brake-armature-system-main
+
+**Clause IPC‑1.0** – Covers dynamic, multi-frequency particle control systems integrating magnetic, acoustic, and optical modulation for field stabilization
+↳ **System:** IPCS – Integrated Particle Control System
+🔗 https://archive.org/details/integrated-particle-control-system-main
+
+**Clause MP‑2.0** – Covers vertical propulsion through synchronized acoustic lift, magnetic field repulsion, and adaptive fin stabilization
+↳ **System:** SAMLN – Sound-Assisted Magnetic Lift Navigation (Redacted Disclosure)
+🔗 https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main
+
+**Clause GRN‑1.1** – Covers national-scale bioresonance infrastructure using adaptive harmonic emitters (EM + sound) for synchronized environmental stabilization
+↳ **System:** Project HARMONY GRID
+🔗 [Link pending or user-submitted if not archived yet]
 
 All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
 Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
-Date of Public Disclosure: June 21–22, 2025.
+***Date of Public Disclosure: June 21–22, 2025.***
 
 

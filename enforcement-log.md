@@ -1525,7 +1525,7 @@ Mr. Holmes has publicly filed the following sovereign inventions, now enforced u
 | IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | [https://archive.org/details/magnetic-propulsion-fin-system-main](https://archive.org/details/inertial-particle-barrier-ipfb-main) |
 | IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | [https://archive.org/details/irpb-reactive-extension-main](https://archive.org/details/irpb-reactive-extension-main) |
 | HydroBrake Armature System | BR‑1.1 | [https://archive.org/details/hydro-brake-armature-system-main](https://archive.org/details/hydro-brake-armature-system-main) |
-
+| IPCS - Integrated Particle Control System| IPC‑1.0 | [https://archive.org/details/integrated-particle-control-system-main](https://archive.org/details/integrated-particle-control-system-main) |
 Each system is licensed under sovereign declaratory enforcement. Reuse, AI training, derivative builds, or non-attributed citation may trigger structural licensing per CU‑1.4, CU‑2.3, and XXII.
 
 ---

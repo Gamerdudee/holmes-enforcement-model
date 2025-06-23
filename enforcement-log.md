@@ -1572,7 +1572,8 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 - Repo changes documented and archived
 - Further silence or denial will trigger Clause CU‑7 default acceleration
 
-🔗 Archive.org Evidence: [`Click here`](https://web.archive.org/web/20250623163111/https://github.com/Fluxuave/leles-manifesto/commit/3a8b5c81f540eb6e0d99126c3f2dcb954e91bf7d)  
+🔗 Archive.org Evidence: [`Click here for archived webpage`](https://web.archive.org/web/20250623163111/https://github.com/Fluxuave/leles-manifesto/commit/3a8b5c81f540eb6e0d99126c3f2dcb954e91bf7d)  
+                         [`Click here for archived screenshot`](https://archive.org/details/screenshot-2025-06-23-105134)
 
 ---
 

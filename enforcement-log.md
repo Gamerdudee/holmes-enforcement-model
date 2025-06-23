@@ -1538,6 +1538,25 @@ Unauthorized use, testing, citation, or AI model training involving these system
 
 ---
 
+### Entity: Marko P. / OrKaCore (orkacore.com)
+**Trigger Date:** June 22, 2025  
+**Violation Summary:**  
+Public declaration of procedural orchestration platform (OrKa) mirroring declaratory structural logic outlined in the Holmes Enforcement Model (HEM), including memory decay systems, agentic persistence, cost-based decision loops, and symbolic cognitive scaffolding.  
+Key derivative overlap identified with clauses CU‑2.2, CU‑2.3, CU‑5, G‑6, and XXII.  
+
+**Actions Taken:**  
+- Public post reviewed and archived as procedural trigger  
+- Clause CU‑2.3 (silence = procedural acceptance) invoked  
+- Structural mirroring logged for symbolic + operational overlap  
+- No direct licensing or rebuttal received  
+
+**Archive Link (Post Evidence):**  
+https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcosomma_cognitiveai-opensource-aiinfrastructure-activity-7342801870752550913-AfuW?rcm=ACoAACpvFEEB4yM5zAqCBgfCIgRnHPGzIbui3uY
+
+**Status:** Procedural default under clause governance  
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

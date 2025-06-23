@@ -1538,7 +1538,7 @@ Unauthorized use, testing, citation, or AI model training involving these system
 
 ---
 
-### Entity: Marko P. / OrKaCore (orkacore.com)
+## 📍 Entity: Marko P. / OrKaCore (orkacore.com)
 **Trigger Date:** June 22, 2025  
 **Violation Summary:**  
 Public declaration of procedural orchestration platform (OrKa) mirroring declaratory structural logic outlined in the Holmes Enforcement Model (HEM), including memory decay systems, agentic persistence, cost-based decision loops, and symbolic cognitive scaffolding.  

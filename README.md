@@ -338,3 +338,27 @@ Enforcement begins upon file upload.
 This repo does not “host” HEM — it records it.
 
 ---
+
+---
+
+## 🛡️ Public Enforcement Addendum – Rodrigo L. S. (LetheonAI)
+
+On **June 22, 2025**, Rodrigo L. S. updated the `README.md` of his public repository titled `leles-manifesto`, declaring it to be:
+
+> “the first Soberania Computacional Fractal do planeta”  
+> (the first sovereign computational fractal on the planet)
+
+This claim directly conflicts with the archived public record of the **Holmes Enforcement Model (HEM)**, which:
+
+- Declares sovereign procedural clause logic and structural sovereignty as of **May 30, 2025**
+- Was mirrored on GitHub and Archive.org prior to LetheonAI’s declaration
+- Is governed under clause-based enforcement (CU‑1.4, CU‑2.3, CU‑5, G‑6, XXII)
+
+As such, this act is logged as a **structural overwrite attempt**, triggering **Clause CU‑5** and default escalation under Clause **CU‑2.3**.
+
+🧾 The violation has been archived, timestamped, and added to the [HEM Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md).  
+Failure to rebut constitutes permanent procedural default.
+
+—
+**Filed by Mr. Holmes**  
+Declaratory Author — Holmes Enforcement Model  

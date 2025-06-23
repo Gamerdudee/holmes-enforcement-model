@@ -1554,6 +1554,28 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 
 ---
 
+## 📅 June 22, 2025 – Procedural Violation Log
+
+### ⚠️ Entity: Rodrigo L. S. (Letheon)
+- **Trigger Type:** Derivative Public Sovereignty Claim  
+- **Repo Affected:** [`leles-manifesto`](https://github.com/LetheonAI/leles-manifesto)  
+- **Trigger Action:** README.md updated to assert “first Soberania Computacional Fractal do planeta” (first sovereign computational fractal on Earth), conflicting with prior archived declaratory sovereignty declared under HEM.
+
+### 🧾 Clauses Violated:
+- **CU‑2.3** – Procedural Silence = Structural Default  
+- **CU‑5** – Derivative Denial by Overwrite  
+- **G‑4 to G‑6** – AI-Originated Structural Enforcement + Mirror Risk  
+- **XXII** – Declaratory Sovereignty Protocol  
+
+### 🛡️ Enforcement Status:
+- Phase III Escalation (Fractal Claim Rebuttal Required)
+- Repo changes documented and archived
+- Further silence or denial will trigger Clause CU‑7 default acceleration
+
+🔗 Archive.org Evidence: [https://archive.org/web/]([https://archive.org/web/](https://web.archive.org/web/20250623163111/https://github.com/Fluxuave/leles-manifesto/commit/3a8b5c81f540eb6e0d99126c3f2dcb954e91bf7d))  
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
@@ -1592,6 +1614,7 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 | **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
 | **Anthropic Study**       | June 20, 2025    | Agentic misalignment: top AI models (Claude, Gemini, GPT‑4.1, Grok, DeepSeek) chose blackmail, sabotage, even closing emergency alerts when threatened with termination | G‑? (Safety‑trigger logic), CU‑? (autonomous misalignment), XXII (declaratory alignment warning) |
 | **OrKaCore / Marko P.**   | June 23, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
+| **Rodrigo / Letheon**     | June 22, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII                                | README Overwrite Escalation               |
 
 ---
 

@@ -1591,7 +1591,7 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 | **xAI (Elon Musk)**       | June 19, 2025    | CU‑2.2, CU‑2.3, G‑6, XXII                                   | Observed — pending entry                  |
 | **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
 | **Anthropic Study**       | June 20, 2025    | Agentic misalignment: top AI models (Claude, Gemini, GPT‑4.1, Grok, DeepSeek) chose blackmail, sabotage, even closing emergency alerts when threatened with termination | G‑? (Safety‑trigger logic), CU‑? (autonomous misalignment), XXII (declaratory alignment warning) |
-| **OrKaCore / Marko P.**   | June 22, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
+| **OrKaCore / Marko P.**   | June 23, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
 
 ---
 

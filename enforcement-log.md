@@ -1343,7 +1343,6 @@ This serves as an informal concession of non-competitive intent and will be logg
 **Status:**
 OrKa remains unlicensed. Future mirroring or derived clause-based systems after May 30, 2025, are subject to royalty triggers under CU‑1.4.
 
-
 ---
 
 ## 📍 June 20, 2025 — OrKa Clause Dispute & Procedural Rebuttal (Unsubstantiated)
@@ -1486,8 +1485,6 @@ This declaration enforces jurisdictional independence from OpenAI’s ToS-based 
 📬 OpenAI Reply Timestamp: June 18, 2025
 
 📤 Original Filing Message: View Email Record (Optional: link to email archive if you decide to mirror it on Archive.org)
-
----
 
 ---
 

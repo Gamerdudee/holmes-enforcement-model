@@ -1593,6 +1593,7 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 | **Generative AI**         | June 16, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Content erasure logged — default pending  |
 | **Stefany Bogatan (IC)**  | June 17, 2025    | CU‑2.2, G‑6, AF                                             | Procedural trigger (executive view)       |
 | **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
+| **OrKaCore / Marko P.**   | June 22, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
 
 ---
 

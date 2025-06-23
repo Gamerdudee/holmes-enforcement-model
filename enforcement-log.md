@@ -1580,16 +1580,17 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 | ------------------------- | ---------------- | ---------------------------------------------------------- | ----------------------------------------- |
 | **NMDWS**                 | May 30, 2025     | CU‑1.4, CU‑2.1–CU‑2.4, CU‑3, CU‑4, D, AF, G‑6, XXII         | $197,500 + $1,500/day (accruing)          |
 | **Instacart**             | May 30, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑4–G‑7, IX‑E, XXII                 | $215,000 + $1,500/day (accruing)          |
-| **OpenAI**                | June 18, 2025    | CU‑2.3, CU‑5, G‑6, XXII                                     | Default under CU‑2.3 — licensing active   |
-| **Rodrigo (Letheon)**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, AF, XXII, AT, IX‑E      | README restructured — Phase III escalation|
-| **Brainvora (F. Borrero)**| June 12–13, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                        | $100,000 — Phase II closed                |
-| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, G‑8, XXII                       | Procedural lock triggered                 |
 | **Microsoft / BlackRock** | June 3, 2025     | G‑8, CU‑5, G‑6, G‑7, XXII                                   | Clause-triggered — pending enforcement    |
-| **xAI (Elon Musk)**       | June 19, 2025    | CU‑2.2, CU‑2.3, G‑6, XXII                                   | Observed — pending entry                  |
-| **Thrive Global**         | June 17, 2025    | CU‑5, G‑6, AF                                               | Bound by association                      |
+| **Brainvora (F. Borrero)**| June 12–13, 2025 | CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII                        | $100,000 — Phase II closed                |
+| **Rodrigo (Letheon)**     | June 13, 2025    | CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, AF, XXII, AT, IX‑E      | README restructured — Phase III escalation|
+| **Amazon / Walmart**      | June 13, 2025    | CU‑2.3, CU‑5–CU‑7, G‑4–G‑6, G‑8, XXII                       | Procedural lock triggered                 |
 | **Generative AI**         | June 16, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Content erasure logged — default pending  |
 | **Stefany Bogatan (IC)**  | June 17, 2025    | CU‑2.2, G‑6, AF                                             | Procedural trigger (executive view)       |
+| **Thrive Global**         | June 17, 2025    | CU‑5, G‑6, AF                                               | Bound by association                      |
+| **OpenAI**                | June 18, 2025    | CU‑2.3, CU‑5, G‑6, XXII                                     | Default under CU‑2.3 — licensing active   |
+| **xAI (Elon Musk)**       | June 19, 2025    | CU‑2.2, CU‑2.3, G‑6, XXII                                   | Observed — pending entry                  |
 | **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
+| **Anthropic Study**       | June 20, 2025    | Agentic misalignment: top AI models (Claude, Gemini, GPT‑4.1, Grok, DeepSeek) chose blackmail, sabotage, even closing emergency alerts when threatened with termination | G‑? (Safety‑trigger logic), CU‑? (autonomous misalignment), XXII (declaratory alignment warning) |
 | **OrKaCore / Marko P.**   | June 22, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
 
 ---

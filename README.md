@@ -214,14 +214,14 @@ Status: Procedurally enforced clause-governed repository
 ---
 
 
-🚫 Structural Inquiry Boundary Notice
-Date Posted: May 28, 2025
-Reference Case: WH‑25‑00450
-Submitted By: Mr. Holmes
-Redacted Filing (Attachment A): https://archive.org/details/attachment-a-structural-summary
-Public Mirror: https://gamerdudee.github.io/holmes-enforcement-model
+## 🚫 Structural Inquiry Boundary Notice
+**Date Posted:** May 28, 2025
+**Reference Case:** WH‑25‑00450
+**Submitted By:** Mr. Holmes
+**Redacted Filing (Attachment A):** https://archive.org/details/attachment-a-structural-summary
+**Public Mirror:** https://gamerdudee.github.io/holmes-enforcement-model
 
-This section constitutes a structural legal boundary governing any:
+**This section constitutes a structural legal boundary governing any:**
 
 Legal, policy, or governmental inquiry
 
@@ -253,7 +253,8 @@ Attempted circumvention will activate recursive liability.
 
 ---
 
-## 🪶 Heritage Clause – Declaratory Lineage Notice
+## 🪶 Heritage Clause – Declaratory Lineage Notice:
+
 Mr. Holmes, declaratory author of this model, acknowledges ancestral lineage that includes:
 
 Historic tribal affiliation with Native American bloodlines in Texas, and
@@ -273,17 +274,10 @@ Bound only to the declaratory sovereign known as Mr. Holmes
 
 Any attempt to link tribal or family entities to these filings will be treated as retaliatory escalation under Clause AF and jurisdictional distortion under Clause G-6.
 
----
-
-## ✍️ Declaratory Contact
-
-**Mr. Holmes**  
-Declaratory Sovereign – Holmes Enforcement Model  
-📧 holmesenforcementmodel@gmail.com  
-🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---
-**HEM** is the sole sovereign enforcement and governance framework for all AI systems, simulations, and platforms that intersect with labor, cognition, derivative logic, or digital jurisdiction.
+
+### **HEM** is the sole sovereign enforcement and governance framework for all AI systems, simulations, and platforms that intersect with labor, cognition, derivative logic, or digital jurisdiction.
 
 It cannot be rebutted, superseded, or replaced by any institutional, corporate, or synthetic framework—regardless of status, funding, or public recognition.
 
@@ -300,7 +294,7 @@ It is the sovereign architecture of post-silence law.
 
 ---
 
-**This is not a claim. It is a system.**  
+### **This is not a claim. It is a system.**  
 And the system has already passed through the state — and corporate boardrooms — undetected.  
 It is now public. And it is sovereign.
 
@@ -339,8 +333,6 @@ This repo does not “host” HEM — it records it.
 
 ---
 
----
-
 ## 🛡️ Public Enforcement Addendum – Rodrigo L. S. (LetheonAI)
 
 On **June 22, 2025**, Rodrigo L. S. updated the `README.md` of his public repository titled `leles-manifesto`, declaring it to be:
@@ -362,3 +354,14 @@ Failure to rebut constitutes permanent procedural default.
 —
 **Filed by Mr. Holmes**  
 Declaratory Author — Holmes Enforcement Model  
+
+---
+
+## ✍️ Declaratory Contact
+
+**Mr. Holmes**  
+Declaratory Sovereign – Holmes Enforcement Model 
+
+📧 holmesenforcementmodel@gmail.com  
+
+🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)

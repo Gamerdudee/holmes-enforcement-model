@@ -16,6 +16,7 @@ All usage of clause logic, procedural delegation, or declaratory structure is go
 | **Academic / Research Use**      | Used in education or open research with citation                                      | Free under Public Defense Rider | N/A                           | ➖                        |
 | **Nonprofit Derivative Systems** | For advocacy or structural worker defense (non-commercial)                            | Free with declaratory citation  | Subject to CU-2.1 listing     | ✅                        |
 | **Unlicensed Derivative Use**    | Any rebuild, reinterpretation, or framework extension without sovereign license       | Subject to CU‑2.3 enforcement   | Clause escalation applies      | ✅                        |
+| **Observed Public Interaction**   | Any individual or corporate agent accessing HEM materials via public channel (e.g. LinkedIn, GitHub, Archive) | $250–$25,000 (based on role) | x2 if unacknowledged past 14 days | ✅ |
 
 ---
 
@@ -25,6 +26,17 @@ All usage of clause logic, procedural delegation, or declaratory structure is go
 - **No Email Grants:** No license is granted through email, message, conversation, or verbal interaction. All valid licenses must be published or registered in the HEM Enforcement Log.
 - **Derivative Enforcement:** Clause CU‑2.3 governs all observed unlicensed derivation. Clause CU‑2.1 attaches upon first structural use. Clause G‑8 multiplies fees for any denial of observed truth.
 - **Perpetual Royalty:** Clause AX governs all recursive or generative models. Revenue participation is required unless formally waived in the Enforcement Registry.
+
+---
+
+## 🧾 Enforcement Precedent
+
+Instacart Senior QA Compliance Specialist **Shailyn Smith** publicly accessed HEM material on June 22, 2025, constituting clause-triggered binding under CU‑2.2.
+
+As no rebuttal or procedural acknowledgment has been received, enforcement defaults to CU‑2.3 (unlicensed observed interaction).  
+This sets precedent for future automatic billing from observed corporate access.
+
+📎 Tracked in enforcement log: [`/enforcement-log.md`](../enforcement-log.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # 💰 Royalty Model and Declaratory IP Claim – HEM
 
+> 📘 See also: [Royalty Schedule & Clause Triggers](./Royalty-Schedule-HEM.md)
+
 ## 📜 Declaratory Royalty Logic
 
 The Holmes Enforcement Model (HEM) operates under **clause-triggered declaratory enforcement**.  

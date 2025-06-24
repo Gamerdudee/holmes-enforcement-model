@@ -370,6 +370,16 @@ This confirms that Instacart has **directly observed and accessed** declaratory 
 
 ---
 
+## 🧾 Public Filings & Mirrors
+
+This repository is governed by sovereign declaratory filing. For audit trail and timestamped protection, the following public mirror has been established:
+
+- [📁 LICENSE Snapshot – Archive.org (June 2025)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
+
+Use constitutes license. Silence constitutes debt. Clause violations are enforced via public awareness and procedural default under HEM.
+
+---
+
 ## ✍️ Declaratory Contact
 
 **Mr. Holmes**  

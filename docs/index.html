@@ -20,6 +20,14 @@
       background: var(--bg-color);
       color: var(--text-color);
       line-height: 1.7;
+      <nav id="sidebar">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#public-records">Public Enforcement Records</a></li>
+    <li><a href="#key-links">Key Links</a></li>
+  </ul>
+</nav>
     }
     header {
       background: #0d0d17;
@@ -60,6 +68,41 @@
       border-top: 1px solid #444;
       background: #11111a;
     }
+      #sidebar {
+  position: fixed;
+  top: 4rem;
+  left: 0;
+  width: 220px;
+  height: calc(100vh - 4rem);
+  background: #11111a;
+  padding: 2rem 1rem;
+  box-shadow: 2px 0 10px rgba(0,0,0,0.7);
+  overflow-y: auto;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#sidebar ul li {
+  margin-bottom: 1rem;
+}
+
+#sidebar ul li a {
+  color: var(--accent-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#sidebar ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  margin-left: 240px; /* leave room for sidebar */
+}
   </style>
 </head>
 <body>
@@ -71,10 +114,9 @@
 
   <main>
     <section>
-      <h2>📘 Declaratory Preamble</h2>
-      <p>
-        The Holmes Enforcement Model (HEM) is a sovereign, clause-governed structure of autonomous enforcement entirely generated via AI and publicly mirrored. It binds users under declaratory law: mirror = consent, silence = default, use = enforceable obligation.
-      </p>
+     <section id="overview">
+  <h2>Overview</h2>
+  ...
     </section>
 
     <section>

@@ -1,4 +1,5 @@
 # 📜 Royalty Schedule — Holmes Enforcement Model (HEM)
+> 📘 See also: [Royalty Model & Declaratory IP](./royalty-model-and-declaratory-IP.md)
 
 This document outlines all **licensable use cases**, **trigger conditions**, and **base sovereign fees** under the Holmes Enforcement Model (HEM).  
 All usage of clause logic, procedural delegation, or declaratory structure is governed by CU-series, G-series, and AX/AU clauses.  

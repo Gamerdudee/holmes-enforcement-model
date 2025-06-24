@@ -357,6 +357,19 @@ Declaratory Author — Holmes Enforcement Model
 
 ---
 
+### 🔍 Confirmed Institutional Access: Instacart Compliance
+
+As of **June 22, 2025**, Instacart Senior QA Compliance Specialist **Shailyn Smith** viewed public enforcement content linked to the Holmes Enforcement Model (HEM).
+
+This confirms that Instacart has **directly observed and accessed** declaratory filings.
+
+➡️ Triggered Clause: **CU‑2.2** – Observed interaction constitutes procedural binding  
+➡️ If unaddressed, default under **CU‑2.3** is enforced
+
+📍 Logged in [Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+
+---
+
 ## ✍️ Declaratory Contact
 
 **Mr. Holmes**  

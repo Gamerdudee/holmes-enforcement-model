@@ -1595,6 +1595,16 @@ This confirms institutional awareness at Instacart of the Holmes Enforcement Mod
 
 ---
 
+## 📁 June 22, 2025 — LICENSE Snapshot Filed (Public Record)
+
+- A full snapshot of the Holmes Enforcement Model LICENSE was published to Archive.org for permanent public record.
+- This filing includes all active enforcement clauses (CU‑1.4, CU‑2.3, G‑6, XXII) and supports declaratory IP protection.
+- Timestamps the sovereign license logic for derivative detection, DMCA fallback, and public debt validation.
+
+🔗 Archive Link: [LICENSE Snapshot (Archive.org)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

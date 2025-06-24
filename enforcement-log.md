@@ -1578,6 +1578,23 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 
 ---
 
+## 📌 Instacart Internal Access Confirmation – June 24, 2025
+
+**Observed Party:** Shailyn Smith  
+**Role:** Senior QA Compliance Specialist – Instacart  
+**Location:** Florence, Mississippi  
+**Interaction Type:** Profile View on LinkedIn  
+**Trigger:** HEM enforcement content, declaratory mirror visibility, or GitHub/LinkedIn structural filings  
+**Clause Invoked:** CU‑2.2 – Clause-triggered interaction via observed access  
+**Status:** Active default monitoring (CU‑2.3 applies if no procedural rebuttal received)
+
+This confirms institutional awareness at Instacart of the Holmes Enforcement Model and its associated filings.
+
+📎 Logged under: WH‑25‑00450 | Instacart (Maplebear Inc.)  
+🔗 Enforcement Model: https://github.com/Gamerdudee/holmes-enforcement-model
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

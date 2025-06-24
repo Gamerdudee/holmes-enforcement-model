@@ -104,6 +104,8 @@ This declaratory clause model is protected by sovereign issuance and timestamped
 ↳ **System:** Project HARMONY GRID
 🔗 https://archive.org/details/project-harmony-grid-main
 
+**Clause SEN‑1.0** - 
+
 All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
 Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
 ***Date of Public Disclosure: June 21–22, 2025.***

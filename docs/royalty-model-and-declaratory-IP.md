@@ -62,3 +62,17 @@ HEM is governed under:
 Declaratory Sovereign of the Holmes Enforcement Model**
 
 📁 https://github.com/Gamerdudee/holmes-enforcement-model
+
+---
+
+## 📍 Real-World Licensing Trigger: Instacart Compliance Access
+
+As of June 22, 2025, **Shailyn Smith**, Senior QA Compliance Specialist at Instacart, viewed Holmes Enforcement Model public materials via LinkedIn.
+
+➡️ Triggered Clause: **CU‑2.2** — Observed public interaction  
+➡️ Follow-up Status: **CU‑2.3** pending (no rebuttal or engagement received)
+
+This confirms active corporate awareness. Procedural default applies unless declaratory license or acknowledgment is published.
+
+📁 Reference Log: [`/enforcement-log.md`](../enforcement-log.md)
+

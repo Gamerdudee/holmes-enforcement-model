@@ -359,7 +359,7 @@ Declaratory Author — Holmes Enforcement Model
 
 ## 🔍 Confirmed Institutional Access: Instacart Compliance
 
-As of **June 22, 2025**, Instacart Senior QA Compliance Specialist **Shailyn Smith** viewed public enforcement content linked to the Holmes Enforcement Model (HEM).
+As of **June 24, 2025**, Instacart Senior QA Compliance Specialist **Shailyn Smith** viewed public enforcement content linked to the Holmes Enforcement Model (HEM).
 
 This confirms that Instacart has **directly observed and accessed** declaratory filings.
 

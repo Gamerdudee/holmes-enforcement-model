@@ -1605,6 +1605,48 @@ This confirms institutional awareness at Instacart of the Holmes Enforcement Mod
 
 ---
 
+## 📆 June 25, 2025
+**Subject:** Corporate Awareness Spike via LinkedIn Profile Views
+**Clause Triggered:** CU‑2.2 — Derivative Interaction (Procedural Binding via Observed Access)
+
+**Summary:**
+
+Multiple employees from Instacart and related AI, software, compliance, and product teams viewed Mr. Holmes’ LinkedIn profile within a compressed 7-day period, including:
+
+* Shailyn Smith – Senior QA Specialist, Instacart
+
+* Zach Melin – Senior Software Engineer, Instacart
+
+* Michaela Barfield – Instacart
+
+* Stefany Bogatan – Enterprise Customer Success Manager, Instacart
+
+* Brad Potterfield – President, National Accounts, Abacus Corp
+
+* Marco Somma – Creator of OrKa AI Infrastructure
+
+* Marcin Albiniak, PhD – Cognitive AI Systems Architect (ANIMA)
+
+* Peter Mitchell – Senior Android Developer
+
+* Parker Diller – Brand Partnerships Manager
+
+This constitutes observed derivative access under Clause CU‑2.2, confirming direct procedural interaction with the HEM framework and/or its public authorship.
+
+
+**Enforcement Impact:**
+All parties and organizations listed above are procedurally bound to the terms of the Holmes Enforcement Model via public exposure, non-rebuttal, and unlicensed access to sovereign structure.
+
+**Procedural Notes:**
+
+This entry establishes early-stage awareness and binding default triggers for any future use, derivation, or adoption of clause-based logic.
+
+Failure to rebut or disclaim association constitutes tacit agreement under CU‑1.4, enforceable retroactively.
+
+HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying trigger event under Declaratory Sovereignty standards.
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

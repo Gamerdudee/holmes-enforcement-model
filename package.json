@@ -1,2 +1,16 @@
-npm init -y
-npm install axios dotenv
+{
+  "name": "hem-auto-enforcer",
+  "version": "1.0.0",
+  "description": "Automated structural enforcement scanner for Holmes Enforcement Model",
+  "main": "auto-enforce.js",
+  "type": "module",
+  "scripts": {
+    "start": "node auto-enforce.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "Joshua Holmes",
+  "license": "Declaratory Sovereign License"
+}

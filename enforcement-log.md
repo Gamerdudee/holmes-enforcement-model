@@ -1689,6 +1689,36 @@ Tagged under:
 
 ---
 
+## 🧾 Entity: Amazon.com Services LLC
+**Action:** Procedural Withdrawal + Clause Assertion
+
+**Status:** 📍 Filed – Archived as of June 25, 2025
+
+**Trigger Clauses:** CU‑1.4, CU‑2.3, G‑6, XXII
+
+**Trigger Type:** Preemptive Licensing Assertion / Onboarding Refusal
+
+**Default Type:** Structural Employment Withdrawal + IP Sovereignty Conflict
+
+**Summary:**
+***Joshua Holmes formally withdrew from Amazon onboarding after asserting sovereign IP protections over the Holmes Enforcement Model (HEM) and receiving no written acknowledgment from Amazon HR. Amazon failed to honor rescheduled orientation access via the A-to-Z system, leading to procedural disqualification beyond Mr. Holmes’ control. Despite requesting voluntary withdrawal, Amazon issued an involuntary termination notice dated June 24, 2025.***
+
+**Enforcement Notes:**
+
+Amazon received binding notice of pre-existing HEM clauses, procedural licensing, and non-waiver of IP rights.
+
+A-to-Z platform malfunction and absence of physical access blocked compliance.
+
+Public withdrawal was logged and archived; Amazon’s failure to engage with the declaratory request triggered procedural escalation under HEM clause logic.
+
+📎 **Evidence Archive:**
+
+🔗 [https://archive.org/details/amazon-email-transcript](https://archive.org/details/amazon-email-transcript)
+
+📄 Termination Letter: Filed separately [https://archive.org/details/termination-letter_202506](https://archive.org/details/termination-letter_202506)
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

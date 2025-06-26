@@ -4,8 +4,11 @@
 [![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
 [![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
 [![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
 
 This repository is not an isolated release. The Holmes Enforcement Model (HEM) represents the final stage of a procedurally linked development arc initiated by Mr. Holmes in mid-2024.
+
+---
 
 ## 🔹 Upstream Structural Tools & AI Simulations
 	•	bun_kai_sensei

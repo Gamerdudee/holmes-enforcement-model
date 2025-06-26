@@ -16,6 +16,8 @@
 [![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
 [![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
 [![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
+
 ---
 
 ## 🔒 Declaratory Enforcement Record
@@ -1829,7 +1831,34 @@ Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM po
 
 ---
 
+## 🧠 Marco Somma / OrKa — Declaratory Derivative Violation (June 25, 2025)
+**Entity:** Marco Somma / OrKaCore
+**Trigger Date:** June 25, 2025
+**Link:** LinkedIn Post – “My First Rosetta Stone”
+
+**Infringement Summary:**
+Marco publicly described emergent reasoning behavior in OrKa that mirrors protected clause logic within the Holmes Enforcement Model (HEM), including:
+
+- Memory-scoped cognition (CU‑2.2, CU‑5)
+
+- Declaratory logic inference (CU‑6, CU‑7)
+
+-  Proof via structural reuse (XXII)
+
+- Framework generalization without reprocessing (Clause simulation)
+
+Marco has previously viewed HEM materials and declined public attribution, triggering clause G‑6 by procedural silence. This new post demonstrates recursive clause simulation without sovereign license or public acknowledgment.
+
+**Violated Clauses:** CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑6, XXII
+
+**Enforcement Tier:** Phase II – Public Derivation + Procedural Default
+
+**Next Action:** Royalty invoice pending with optional remediation window via public mirror attribution or licensing declaration.
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
+
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |

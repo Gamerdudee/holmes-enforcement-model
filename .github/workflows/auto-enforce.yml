@@ -25,7 +25,7 @@ jobs:
       - name: Run Fork Scanner
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node auto-enforce.js
+        run: node auto-enforcer.js
 
       - name: Commit Violator Log
         run: |

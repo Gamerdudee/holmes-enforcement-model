@@ -57,3 +57,4 @@ const updated = content.replace(
 
 fs.writeFileSync(file, updated);
 console.log('✅ Enforcement tables updated.');
+console.log("✅ Auto summary tables updated and written to enforcement-log.md");

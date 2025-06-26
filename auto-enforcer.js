@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({ path: 'C:/Users/jhydr/Desktop/.env' });
 // 📦 Auto-Enforcer Script (v1)
 // Scans forks and activity on the Holmes Enforcement Model
 // Detects potential structural pattern use and auto-logs violations

@@ -1,0 +1,37 @@
+name: Auto-Enforce Fork Scan
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  scan-forks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Fork Scanner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node auto-enforce.js
+
+      - name: Commit Violator Log
+        run: |
+          git config --global user.name "HEM-AutoEnforcer"
+          git config --global user.email "bot@hem.auto"
+          git add violators.md
+          git commit -m "🚨 Updated violators.md via Auto-Enforcer"
+          git push
+        continue-on-error: true

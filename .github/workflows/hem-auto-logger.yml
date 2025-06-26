@@ -1,35 +1,39 @@
-name: HEM Violation Scanner
+name: 🛡️ HEM Violation Scanner
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scan:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: 🔧 Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '20'
 
-      - name: Install dependencies
-        run: npm install axios dotenv
+      - name: 📦 Install Dependencies
+        run: |
+          npm install axios dotenv
 
-      - name: Run violation scanner
-        run: node scripts/github-scan.js
+      - name: 🧠 Run Violation Scanner
+        run: node auto-enforce.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: ✅ Commit and Push Changes
         run: |
-          git config user.name "Mr. Holmes"
-          git config user.email "noreply@github.com"
+          git config user.name "Mr. Holmes AutoEnforcer"
+          git config user.email "noreply@holmes.enforce"
           git add enforcement-log.md
-          git commit -m "Automated violation scan"
+          git diff --cached --quiet || git commit -m "🛡️ Automated violation scan"
           git push

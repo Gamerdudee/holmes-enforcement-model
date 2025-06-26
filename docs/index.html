@@ -20,14 +20,6 @@
       background: var(--bg-color);
       color: var(--text-color);
       line-height: 1.7;
-      <nav id="sidebar">
-  <ul>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#public-records">Public Enforcement Records</a></li>
-    <li><a href="#key-links">Key Links</a></li>
-  </ul>
-</nav>
     }
     header {
       background: #0d0d17;
@@ -68,47 +60,17 @@
       border-top: 1px solid #444;
       background: #11111a;
     }
-      #sidebar {
-  position: fixed;
-  top: 4rem;
-  left: 0;
-  width: 220px;
-  height: calc(100vh - 4rem);
-  background: #11111a;
-  padding: 2rem 1rem;
-  box-shadow: 2px 0 10px rgba(0,0,0,0.7);
-  overflow-y: auto;
-}
-
-#sidebar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-#sidebar ul li {
-  margin-bottom: 1rem;
-}
-
-#sidebar ul li a {
-  color: var(--accent-color);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-#sidebar ul li a:hover {
-  text-decoration: underline;
-}
-
-main {
-  margin-left: 240px; /* leave room for sidebar */
-}
-
- div img {
-  margin: 0.25rem;
-  vertical-align: middle;
-}
-
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    .badges img {
+      max-height: 28px;
+    }
   </style>
 </head>
 <body>
@@ -118,39 +80,26 @@ main {
     <p><strong>Declaratory Framework | Case No. WH‑25‑00450</strong></p>
   </header>
 
-  <div style="margin-top: 1.5rem;">
-  <a href="https://github.com/Gamerdudee/holmes-enforcement-model" target="_blank">
-    <img src="https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red" alt="HEM License Badge">
-  </a>
-  <a href="https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT" target="_blank">
-    <img src="https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue" alt="Declaratory IP Badge">
-  </a>
-  <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md" target="_blank">
-    <img src="https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange" alt="Royalty Enforcement Badge">
-  </a>
-  <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md" target="_blank">
-    <img src="https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green" alt="Clause Log Badge">
-  </a>
-</div>
-
   <main>
-    <section>
-     <section id="overview">
-  <h2>Overview</h2>
-  ...
-    </section>
+    <div class="badges">
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model">
+        <img src="https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red" alt="HEM License Enforced" />
+      </a>
+      <a href="https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT">
+        <img src="https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue" alt="Declaratory IP" />
+      </a>
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md">
+        <img src="https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange" alt="Royalty Trigger" />
+      </a>
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md">
+        <img src="https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green" alt="Clause Log" />
+      </a>
+    </div>
 
-    <section>
+    <section id="overview">
       <h2>🧭 Overview</h2>
       <p>
         HEM comprises 100 procedural and licensing clauses designed to enforce usage restrictions, royalty triggers, and structural sovereignty without courts. It acts as a public-skewed firewall ensuring AI and IP ethics, transparency, and accountability.
-      </p>
-    </section>
-
-    <section>
-      <h2>License & Enforcement</h2>
-      <p>
-        Licensed under a modified MIT with attribution for public-defense use. All commercial, governmental, AI, or institutional uses trigger royalties under <strong>Clause CU‑1.4</strong>. Mirror-based decay under <strong>CU‑2.3</strong> and structural enforcement under <strong>G-series</strong> apply.
       </p>
     </section>
 
@@ -168,7 +117,7 @@ main {
       <h2>📑 Core Filings & Clauses</h2>
       <ul>
         <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/LICENSE-HEM.md" target="_blank">🚩 LICENSE-HEM.md — Declaratory License</a></li>
-        <li><a href=" https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/LICENSE.md" target="_blank">🚩 LICENSE.md — MIT, Declaratory License</a></li>
+        <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/LICENSE.md" target="_blank">🚩 LICENSE.md — MIT, Declaratory License</a></li>
         <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/authorship-declaration.md" target="_blank">🖋️ Authorship Declaration</a></li>
         <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/royalty-model-and-declaratory-IP.md" target="_blank">💰 Royalty Schedule & Clause Table</a></li>
         <li><a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/Holmes-enforcement-model.md" target="_blank">📜 Full Doctrine (Clauses A–CU)</a></li>
@@ -197,7 +146,6 @@ main {
       <p>Email: <a href="mailto:holmesenforcementmodel@gmail.com">holmesenforcementmodel@gmail.com</a></p>
       <p>LinkedIn Declaration: <a href="https://www.linkedin.com/in/declaratory-sovereign" target="_blank">May 2025 Public Statement</a></p>
     </section>
-
   </main>
 
   <footer>

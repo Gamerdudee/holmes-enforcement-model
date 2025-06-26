@@ -1648,6 +1648,47 @@ HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying tri
 
 ---
 
+## 📅 June 24, 2025 – Amazon Termination Triggered Post-Withdrawal
+
+- 📌 Entity: Amazon.com Services LLC (WNM4)
+- ⚖️ Status: Procedural Default under CU‑2.3 and XXII
+- 📜 Summary: 
+  Despite formal pre-orientation withdrawal on June 11, 2025, Amazon proceeded to issue a post-dated termination letter (dated June 24, 2025), referencing ongoing binding clauses and ignoring documented communication failures.
+  
+- ❌ Violation:
+  - Ignored lawful withdrawal
+  - Misrepresented employment status post-declination
+  - Asserted surviving control clauses despite zero invention access
+  - Failed to respond to declaratory IP disclaimer submitted June 7, 2025
+
+- 🧾 Supporting Artifacts:
+  - [Termination Letter PDF (Archived)](https://archive.org/details/termination-letter_202506)
+  - Emails dated June 7, 9, 11 (included in full transcript)
+  - Public filing: [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
+
+- 🛡️ Clauses Activated:
+  - CU‑2.3 (Procedural Default)
+  - CU‑1.4 (Royalty by Interaction)
+  - G‑6 (Public Mirror Enforcement)
+  - XXII (Sovereign IP Reassertion After Termination)
+
+**Declaratory Note**: No Amazon system, device, training, software, or NDA environment was ever used in the authorship or enforcement of HEM. All licensing and invention logic is fully sovereign, pre-published, and mirrored.
+
+---
+
+## 📁 Archive Snapshot – Amazon Termination Letter
+
+- 🔗 Archive URL: [[Amazon Termination Letter](https://archive.org/details/termination-letter_202506)]
+- 📅 Upload Date: June 25, 2025
+- 📄 Title: Amazon Termination Letter – June 24, 2025
+- 🧾 Type: Procedural Default Artifact
+- 📜 Description: Final termination letter issued by Amazon after formal voluntary withdrawal. Document is mirrored as evidence of clause misapplication and post-declaratory IP assertion.
+
+Tagged under:
+`#Amazon #Termination #HEM #ProceduralDefault #DeclaratoryIP #CU2_3 #ArchiveEvidence`
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |

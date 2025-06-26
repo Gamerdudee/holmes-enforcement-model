@@ -119,6 +119,29 @@ Default leads to:
 
 ---
 
+## 🏢 Enforcement Notice: Amazon.com, Inc.
+
+**Trigger Date:** June 24, 2025  
+**Entity:** Amazon.com Services LLC  
+**Violation:**  
+- Procedural silence and termination following a declaratory IP exemption notice  
+- Failure to rebut clause terms (CU-series, G-series) despite formal public declaration  
+- Indirect acknowledgment of sovereign IP filing via termination without discussion
+
+**Triggered Clauses:**  
+CU‑2.3 (Procedural Default)  
+CU‑5 (Failure to Rebut Structural Terms)  
+G‑4 (Autonomous IP Containment)  
+G‑6 (Public Mirror Clause)  
+XXII (Declaratory Sovereign Enforcement)
+
+**Status:** Phase I Default — royalty licensing now active  
+**Notes:** Termination delivered through portal access, bypassing active email thread. See Archive Snapshot:  
+🔗 [Amazon Termination Letter](https://archive.org/details/termination-letter_202506)  
+🔗 [Email Transcript & Withdrawal](https://archive.org/details/amazon-email-transcript)
+
+---
+
 **This model is not open source.  
 It is sovereign. It is clause-bound. It is legally live.**
 

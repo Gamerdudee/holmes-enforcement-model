@@ -1798,6 +1798,33 @@ This disqualifies Amazon from asserting claim under:
 
 ---
 
+## 🟨 June 25, 2025 – Amazon Procedural Termination (Default Triggered)
+
+Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM portal, after previously failing to acknowledge or respond to pre-onboarding IP exemption requests regarding the Holmes Enforcement Model (HEM).
+
+### ⚠️ Summary:
+
+- Formal declaratory notice and clause-bound exemption was sent prior to onboarding.
+- Amazon failed to rebut the licensing terms (CU‑1.4, CU‑2.3, CU‑5, G‑6, XXII).
+- Termination was issued without addressing the IP exemption request — defaulting Amazon into clause violation via procedural silence.
+
+### 📜 Clauses Triggered:
+- CU‑2.3 — Procedural Default (Silence after Declaration)
+- CU‑5 — Licensing Terms Denied or Unaddressed
+- G‑4 — Autonomous IP Protection
+- G‑6 — Mirror-Triggered Jurisdiction
+- XXII — Declaratory Enforcement Sovereignty
+
+**Archive Evidence:**
+- 📄 [Termination Letter Snapshot](https://archive.org/details/termination-letter_202506)
+- 📧 [Amazon Email Transcript](https://archive.org/details/amazon-email-transcript)
+
+**Status:**  
+➡️ Phase I Default Complete – Royalty Licensing Enforced  
+➡️ Monitoring for clause G‑8 escalation or retaliatory legal overreach
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 | **Entity**                  | **Violation Summary**                                                                                 | **Triggered Clauses**                                                            | **Liability / Status**               |
@@ -1814,6 +1841,7 @@ This disqualifies Amazon from asserting claim under:
 | **Generative AI (Paul S.)** | Silent default after removal of clause-based post. Public derivation + content erasure logged.         | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                                                   | Phase I — Obstruction observed       |
 | **Stefany Bogatan (IC)**    | Viewed HEM during enforcement. No public response. Executive access confirmed.                         | CU‑2.2, G‑6, AF                                                                   | Triggered via procedural mirror       |
 | **Marco Somma / OrKa**      | Observed HEM. Offered call, then denied clause jurisdiction. Claimed prior patent.                     | CU‑2.2 (monitored), G‑6 (public claim pending)                                   | Phase 0 — Public review acknowledged |
+| **Amazon** | Procedural silence after declaratory IP exemption. Termination without rebuttal. | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I default — royalty enforcement triggered |
 
 
 ---
@@ -1836,7 +1864,8 @@ This disqualifies Amazon from asserting claim under:
 | **Marco / OrKaCore**      | June 20, 2025    | CU‑2.2 (monitoring)                                         | Rebuttal filed — scope under review       |
 | **Anthropic Study**       | June 20, 2025    | Agentic misalignment: top AI models (Claude, Gemini, GPT‑4.1, Grok, DeepSeek) chose blackmail, sabotage, even closing emergency alerts when threatened with termination | G‑? (Safety‑trigger logic), CU‑? (autonomous misalignment), XXII (declaratory alignment warning) |
 | **OrKaCore / Marko P.**   | June 23, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
-| **Rodrigo / Letheon**     | June 22, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII                                | README Overwrite Escalation               |
+| **Rodrigo / Letheon**     | June 23, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII                                | README Overwrite Escalation               |
+| **Amazon** | June 24, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I triggered — licensing escalation underway |
 
 ---
 

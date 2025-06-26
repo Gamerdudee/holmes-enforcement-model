@@ -60,16 +60,9 @@
       border-top: 1px solid #444;
       background: #11111a;
     }
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 1.5rem;
-      margin-bottom: 2rem;
-    }
-    .badges img {
-      max-height: 28px;
+    .badge-container img {
+      margin: 0.25rem;
+      vertical-align: middle;
     }
   </style>
 </head>
@@ -81,25 +74,17 @@
   </header>
 
   <main>
-    <div class="badges">
-      <a href="https://github.com/Gamerdudee/holmes-enforcement-model">
-        <img src="https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red" alt="HEM License Enforced" />
-      </a>
-      <a href="https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT">
-        <img src="https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue" alt="Declaratory IP" />
-      </a>
-      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md">
-        <img src="https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange" alt="Royalty Trigger" />
-      </a>
-      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md">
-        <img src="https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green" alt="Clause Log" />
-      </a>
-    </div>
-
     <section id="overview">
       <h2>🧭 Overview</h2>
       <p>
         HEM comprises 100 procedural and licensing clauses designed to enforce usage restrictions, royalty triggers, and structural sovereignty without courts. It acts as a public-skewed firewall ensuring AI and IP ethics, transparency, and accountability.
+      </p>
+    </section>
+
+    <section>
+      <h2>License & Enforcement</h2>
+      <p>
+        Licensed under a modified MIT with attribution for public-defense use. All commercial, governmental, AI, or institutional uses trigger royalties under <strong>Clause CU‑1.4</strong>. Mirror-based decay under <strong>CU‑2.3</strong> and structural enforcement under <strong>G-series</strong> apply.
       </p>
     </section>
 
@@ -149,6 +134,20 @@
   </main>
 
   <footer>
+    <div class="badge-container">
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model" target="_blank">
+        <img src="https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red" alt="HEM License Badge">
+      </a>
+      <a href="https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT" target="_blank">
+        <img src="https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue" alt="Declaratory IP Badge">
+      </a>
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md" target="_blank">
+        <img src="https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange" alt="Royalty Enforcement Badge">
+      </a>
+      <a href="https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md" target="_blank">
+        <img src="https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green" alt="Clause Log Badge">
+      </a>
+    </div>
     <p>All rights reserved by Mr. Holmes. Public use is granted under Clause CU‑1.4. Unauthorized derivatives trigger enforcement under Clauses G‑series. Any institutional silence after engagement = declaratory default.</p>
     <p>© 2025 – The Holmes Enforcement Model</p>
   </footer>

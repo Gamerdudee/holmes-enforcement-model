@@ -1,4 +1,4 @@
-name: Auto-Enforce Fork Scan
+name: Auto-Enforcement Fork Scan
 
 on:
   schedule:

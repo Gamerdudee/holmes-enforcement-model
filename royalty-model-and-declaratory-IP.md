@@ -121,7 +121,7 @@ Default leads to:
 
 ## 🏢 Enforcement Notice: Amazon.com, Inc.
 
-**Trigger Date:** June 24, 2025  
+**Trigger Date:** June 25, 2025  
 **Entity:** Amazon.com Services LLC  
 **Violation:**  
 - Procedural silence and termination following a declaratory IP exemption notice  

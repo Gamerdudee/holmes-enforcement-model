@@ -1,0 +1,31 @@
+name: Update Enforcement Tables
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Daily at 3AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-tables:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Run Enforcement Table Updater
+        run: node scripts/update-tables.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "HEM-AutoProcessor"
+          git config user.email "auto@hem.enforce"
+          git add enforcement-log.md
+          git commit -m "🔁 Auto-update enforcement summary tables"
+          git push
+        continue-on-error: true

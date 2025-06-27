@@ -25,12 +25,16 @@ jobs:
         run: node scripts/update-tables.js
 
       - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "HEM-AutoProcessor"
-          git config user.email "auto@hem.enforce"
-          git add enforcement-log.md
-          git diff --quiet && echo "No changes to commit." && exit 0
-          git commit -m "🔁 Auto-update enforcement summary tables"
-          git push origin HEAD:${{ github.ref }}
+    env:
+     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     run: |
+      git config user.name "HEM-AutoProcessor"
+      git config user.email "auto@hem.enforce"
+      git add enforcement-log.md
+      if git diff --cached --quiet; then
+      echo "No changes to enforcement-log.md — skipping commit."
+      exit 0
+      fi
+      git commit -m "🔁 Auto-update enforcement summary tables"
+      git push origin HEAD:${{ github.ref }}
+

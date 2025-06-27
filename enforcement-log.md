@@ -169,6 +169,8 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 27, 2025 — Extension Trigger & Clause Activation (NMDWS)
 
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
+
 **Time Sent:** 10:54 AM MT  
 
 **Delivery Method:** Email (jhydraslayer1012@gmail.com → DWS)  
@@ -204,7 +206,7 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 27, 2025 — Pre-Call Licensing Notice Sent to NMDWS
 
-**Entity:** NMDWS
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 
 **Time:** 12:09 PM  
 
@@ -223,7 +225,7 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 27, 2025 — Phone Interview & Improper Case Closure (NMDWS)
 
-**Entity:** NMDWS
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 
 **Time:** 1:30 PM  
 
@@ -246,7 +248,7 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 28, 2025 — Physical Mail Confirms Case Closure (Arrived May 31)
 
-**Entity:** NMDWS
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 
 **Sender:** Samantha Swain, Labor Law Administrator, NMDWS  
 
@@ -278,7 +280,7 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 28, 2025 — Formal Invoice to NMDWS Issued
 
-**Entity:** NMDWS
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 
 **Amount:** $333,000 USD  
 

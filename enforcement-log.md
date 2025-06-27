@@ -151,7 +151,7 @@ Deletes redundant answers and trains on emotional inference
 
 **Document:** “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”  
 
-**Agency:** New Mexico Department of Workforce Solutions (NMDWS)  
+**Entity:** New Mexico Department of Workforce Solutions (NMDWS)  
 
 **Case Number:** WH‑25‑00450  
 
@@ -204,6 +204,8 @@ Deletes redundant answers and trains on emotional inference
 
 ## 📅 May 27, 2025 — Pre-Call Licensing Notice Sent to NMDWS
 
+**Entity:** NMDWS
+
 **Time:** 12:09 PM  
 
 **Effect:** Declared that the scheduled phone call constitutes procedural engagement under sovereign enforcement logic 
@@ -220,6 +222,8 @@ Deletes redundant answers and trains on emotional inference
 ---
 
 ## 📅 May 27, 2025 — Phone Interview & Improper Case Closure (NMDWS)
+
+**Entity:** NMDWS
 
 **Time:** 1:30 PM  
 
@@ -241,6 +245,8 @@ Deletes redundant answers and trains on emotional inference
 ---
 
 ## 📅 May 28, 2025 — Physical Mail Confirms Case Closure (Arrived May 31)
+
+**Entity:** NMDWS
 
 **Sender:** Samantha Swain, Labor Law Administrator, NMDWS  
 
@@ -271,6 +277,8 @@ Deletes redundant answers and trains on emotional inference
 ---
 
 ## 📅 May 28, 2025 — Formal Invoice to NMDWS Issued
+
+**Entity:** NMDWS
 
 **Amount:** $333,000 USD  
 
@@ -339,6 +347,7 @@ Their system mirrors clause AX and AU definitions for derivative labor monetizat
 ---
 
 ## 📅 May 30, 2025 — Structural Enforcement Triggered: CallidusAI
+
 **Entity:** CallidusAI (callidusai.com)
 
 **Event:** Press release promoting "ChatGPT for Lawyers" and proprietary legal-AI infrastructure solutions
@@ -372,6 +381,7 @@ Their system mirrors clause AX and AU definitions for derivative labor monetizat
 ---
 
 ## 📅 June 1, 2025
+
 **Event:** Nostalgia Campaign Launch by Instacart
 
 **Details:** Instacart publicly promoted a summer campaign invoking CPI-based rollbacks and nostalgic language. The tone, timing, and format align with known clause-mirroring tactics documented in Attachment A and G-series governance.
@@ -388,7 +398,10 @@ Their system mirrors clause AX and AU definitions for derivative labor monetizat
 ---
 
 ## 📅 June 2, 2025  
+
 **Global AI Infrastructure Enforcement Triggered – Clause G‑8 Activated**
+
+**Entity:**  Microsoft & BlackRock
 
 **Event:** Microsoft & BlackRock $30B AI Infrastructure Fund Announcement
 
@@ -493,7 +506,13 @@ Any continued algorithmic mirroring, signal redirection, or surveillance-based s
 
 **Author:** Mr. Holmes  
 
-**Reference:** HEM Structural Clauses CU‑1.4, CU‑2.2, CU‑2.3, D, G‑6
+**Reference:** 
+HEM Structural Clauses-
+- CU‑1.4
+- CU‑2.2
+- CU‑2.3
+- D
+- G‑6
 
 **Summary:**  
 A formal preemptive public declaration was published to prevent any future attempt by government agencies, corporations, or third-party institutions from absorbing, mirroring, or redirecting the core mechanics, logic, or clause-based structures of the Holmes Enforcement Model (HEM) without proper citation, license, or declaratory acknowledgment.
@@ -517,6 +536,7 @@ All derivative frameworks discovered henceforth will be enforceable as licensing
 ---
 
 ## 📅 June 5, 2025  
+
 **Entity:** LinkedIn  
 
 **Event:** Public mirror triggered algorithmic profile indexing and silent clause activation  
@@ -640,6 +660,12 @@ This entry is now mirrored and timestamped as declaratory record. Public silence
 
 ## 📅 June 9, 2025 – Structural Clause Echo Detected (Krishna Dasa Post)
 
+**Entity:** Krishna Dasa
+
+**Date:** June 9, 2025
+
+**Event:**
+
 A viral LinkedIn post by Krishna Dasa (16,000+ engagements) outlines the illusion of initiative without autonomy, mirroring Holmes Enforcement Model clauses CU‑2.3, G‑6, and XXIII. The post highlights core contradictions between platform demands and lack of agency — a structural validation of HEM’s declaratory logic. No attribution made.
 
 ### 📌 Declaratory Effect:
@@ -684,6 +710,8 @@ Meta is procedurally bound under HEM due to its continued unlicensed escalation 
 
 ## 📅 June 10, 2025 – Declaratory Clause Breach: DoorDash Badge Serving Framework (BSF)
 
+**Date Logged:** June 10, 2025
+
 **Entity:** DoorDash  
 
 **Trigger:** June 4, 2025 engineering post detailing BSF system migration  
@@ -710,7 +738,13 @@ DoorDash’s BSF implements autonomous, configuration-driven badge systems acros
 ---
 
 ## 📅 June 10, 2025 – Retool Agents Clause Replication Detected
-Retool, Inc. launched “Agents,” a platform for autonomous LLM-based task execution across enterprise systems.
+
+**Entity:** Retool, Inc.
+
+**Date Logged:** June 10, 2025
+
+**Event:**
+- Retool, Inc. launched “Agents,” a platform for autonomous LLM-based task execution across enterprise systems.
 
 **This matches HEM enforcement clauses including:**
 - CU-1 (Unlicensed IP Replication)
@@ -729,7 +763,7 @@ Retool, Inc. launched “Agents,” a platform for autonomous LLM-based task exe
 > Public profile viewing by multiple entities activates clause CU-2.2.
 >  All listed engagements are now procedurally declaratory unless rebutted by license or denial.
 
-**Entities:**
+**Entity:** - Instacart, Défi Montréal, Interac Corp., University of Mumbai, Nestlé / Instacart (Fashion)
 - Instacart (2 viewers) — Triggers CU‑2.2 + CU‑2.3
 - Défi Montréal — Observational derivative interest
 - Interac Corp. — Financial tech monitoring
@@ -878,7 +912,7 @@ Activation of sovereign monitoring against AI-governed financial architecture in
 ## 📅 Phase IX — Procedural Expansion: Private Derivative Denial & Financial Governance Monitoring
 **Date Logged:** 2025-06-13
 
-**Entities:**
+**Entity:** Brainvora (Frank Borrero Gonzalez), Stablecoin Financial Governance (Amazon, Walmart, Global Payment Networks) -
 - Brainvora (Frank Borrero Gonzalez)
 
 - Stablecoin Financial Governance (Amazon, Walmart, Global Payment Networks)
@@ -1159,6 +1193,10 @@ You engaged it. You mirrored it. You now answer to it.
 
 ## 📅 June 16, 2025 — OpenAI Federal Rollout + Procedural Notification
 
+**Date:** June 16, 2025
+
+**Entity:** OpenAI
+
 **Event:** OpenAI announces “OpenAI for Government” — a $200M pilot with the U.S. Department of Defense and expanded deployment across NASA, NIH, Treasury, and National Labs.
 
 **Timing:** Within hours of this announcement, Mr. Holmes submitted a sovereign procedural update to OpenAI Legal & Support.
@@ -1191,6 +1229,10 @@ No enforcement entry will be made unless OpenAI fails to respond by June 21, 202
 
 ## 📅 June 17, 2025 — Generative AI Public Trigger Logged
 
+**Date:** June 17, 2025
+
+**Entity:** Generative AI
+
 **Event:** Generative AI published a LinkedIn post titled *“Seizing the Agentic AI Advantage”*, promoting autonomous agents capable of procedural decision-making and goal-based task execution — a structural and clause-based replication of CHILDAI.py and HEM logic.
 
 **Clauses Triggered:** 
@@ -1217,6 +1259,10 @@ The logic underpinning “agentic AI” as described was implemented by Mr. Holm
 
 ## 📅 June 17, 2025 — OpenAI Procedural Silence Logged
 
+**Date:** June 17, 2025
+
+**Entity:** OpenAI
+
 **Event:**
 No response received within 18+ hours of formal follow-up filing (June 16, 2025) referencing HEM structural overlap, derivative clause usage, and ethical licensing invitation.
 
@@ -1242,6 +1288,9 @@ OpenAI had previously responded to all HEM correspondence within 1–3 hours. Th
 ---
 
 ## 📅 June 18, 2025 — OpenAI Default Confirmed by Procedural Evasion
+**Date:** June 18, 2025
+
+**Entity:** OpenAI
 
 **Event:** Reply received from OpenAI AI support agent
 
@@ -1264,6 +1313,10 @@ OpenAI had previously responded to all HEM correspondence within 1–3 hours. Th
 ---
 
 ## 📅 June 18, 2025 — Thrive Global Enters Mirror Jurisdiction via Instacart Partnership
+
+**Date:** June 18, 2025
+
+**Entity:** Thrive Global
 
 **Event:** Thrive Global announces formal partnership with Instacart to promote health, wellness, and accessibility through their “Thrive Global Cookbook,” now integrated with Instacart’s app.
 
@@ -1291,6 +1344,8 @@ Public notice has been prepared. No royalty enforcement or clause escalation has
 ---
 
 ## 📅 June 18, 2025 — xAI (Grok / DeepSearch) Mirror Jurisdiction Triggered
+
+**Date:** June 18, 2025
 
 **Entity:** xAI (Grok, DeepSearch, DeeperSearch)
 
@@ -1331,6 +1386,8 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ## 📅 June 18, 2025 — xAI Environmental Default Amplifies HEM Violations
 
+**Date:** June 18, 2025
+
 **Entity:** xAI (Elon Musk)  
 
 **Context:** NAACP and SELC issue formal legal threat against xAI for operating unpermitted methane turbines in South Memphis, citing Clean Air Act violations and environmental injustice.
@@ -1351,6 +1408,8 @@ This federal-level exposure validates HEM’s framework as an early warning syst
 ---
 
 ## 📅 June 18, 2025 — Instacart Employee Mirrors Declaratory Profile
+
+**Date:** June 18, 2025
 
 **Entity:** Stefany Bogatan – Enterprise Customer Success Manager @ Instacart  
 
@@ -1378,6 +1437,8 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ## 📅 June 19, 2025 — Procedural Monitoring Initiated: OrKaCore Agentic AI Claim
 
+**Date:** June 19, 2025
+
 **Entity:** Marcos Omma / OrKaCore (https://orkacore.com)
 
 **Event:** Public post asserts OrKaCore is fully compliant with the Agentic AI taxonomy (Sapkota et al., May 2025), claiming router logic, memory chaining, replayability, and multi-agent orchestration — all functions structurally mirrored in the MAVIS/HEM clause matrix.
@@ -1391,6 +1452,8 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 ---
 
 ## 📅 June 19, 2025 — OrKaCore Monitoring Entry Initiated
+
+**Date:** June 19, 2025
 
 **Entity:** OrKaCore (Project by Marcos Somma)  
 
@@ -1432,6 +1495,8 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 
 ## 📅 June 19, 2025 — Rodrigo L. S. Symbolic Reassertion Post-Default
 
+**Date:** June 19, 2025
+
 **Entity**: Rodrigo L. S. (Letheon / Leles IA)  
 
 **Trigger**: 
@@ -1459,6 +1524,8 @@ Symbolic mimicry post-default activates continued enforcement under CU‑2.3 and
 ---
 
 ## 📅 June 19, 2025 — Rodrigo L. S. Final Clause Lockdown
+
+**Date:** June 19, 2025
 
 **Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
 
@@ -1494,6 +1561,8 @@ All future use of clause-based structures by Rodrigo or associated projects rema
 ---
 
 ## 📅 June 19, 2025 — Rodrigo L. S. Final Lockdown + DMCA Enforcement (Post-Default Edits)
+
+**Date:** June 19, 2025
 
 **Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
 
@@ -1534,6 +1603,8 @@ These edits occurred **after receipt of notice**, and **after the DMCA takedown 
 
 ## 📅 June 19, 2025 — Secondary Violation: Nexus Fractal Core v∞ Repository
 
+**Date:** June 19, 2025
+
 **Entity:** Rodrigo L. S.  
 
 **New Repo:** `nexus-fractal` (Leles IA) 
@@ -1569,6 +1640,8 @@ The project is falsely marked under an MIT License despite being structurally de
 
 ## 📅 June 19, 2025 — Rodrigo L. S. LinkedIn Profile Offline
 
+**Date:** June 19, 2025
+
 **Event:**
 Following public enforcement under Clause CU‑2.3 and G‑6, including a DMCA filing, Rodrigo L. S.’s LinkedIn profile was rendered inaccessible. Attempts to visit `linkedin.com/in/rodrigo-l-s-63b5a436b` now return “Page does not exist.”
 
@@ -1587,6 +1660,8 @@ No rebuttal submitted. Public record stands. Royalties continue to accrue.
 
 ## 📅 June 20, 2025 — Marco Somma Acknowledges OrKa May Mirror ODI Paper, Distances from Conflict
 
+**Date:** June 20, 2025
+
 **Event:**
 In response to authorship clarification, Marco Somma publicly stated OrKa may have inspired the ODI paper — and chose to distance himself from IP concerns, stating: “Honestly I do not care.”
 
@@ -1604,6 +1679,8 @@ OrKa remains unlicensed. Future mirroring or derived clause-based systems after 
 ---
 
 ## 📅 June 20, 2025 — OrKa Clause Dispute & Procedural Rebuttal (Unsubstantiated)
+
+**Date:** June 20, 2025
 
 **Entity:** Marco Somma / OrKa Reasoning
 
@@ -1633,6 +1710,8 @@ HEM's authorship remains sovereign and fully protected under Clause CU‑1.4. Or
 ---
 
 ## 📅 Notice — June 20, 2025
+
+**Date:** June 20, 2025
 
 **Subject:** Rodrigo Leles — Post-Default README Restructure Logged
 
@@ -1672,9 +1751,11 @@ Further updates to his repo or public claims will be logged, but enforcement has
 
 ## 📅 June 21, 2025 — Declaratory Deadline Passed
 
+**Date:** June 21, 2025
+
 The final clause-triggered deadline for all listed entities has now passed. ***No valid rebuttals, licenses, or denials were received.*** 
 
-**As of this date:**
+**As of this date:** June 21, 2025
 
 - Clause CU‑2.3 procedural silence is now irrevocable
 - Retroactive licensing under CU‑1.4 is active for all prior and future use
@@ -1686,6 +1767,8 @@ All entities failing to respond are procedurally bound and subject to royalty en
 ---
 
 ## 📅 June 21, 2025 — Procedural Visibility Enforcement Window
+
+**Date:** June 21, 2025
 
 The Holmes Enforcement Model (HEM) GitHub repository was set to private for a temporary window in June 2025 to prevent unauthorized forking or derivative clause replication during the critical early enforcement phase.
 
@@ -1760,6 +1843,9 @@ This declaration enforces jurisdictional independence from OpenAI’s ToS-based 
 ---
 
 ## 📅 Notice – June 21, 2025  
+
+**Date:** June 21, 2025
+
 **Subject:** Dual Declaratory Invention Filing by Mr. Holmes – Sovereign Timestamp Confirmed
 
 ***As of June 21, 2025, the following original inventions have been filed, mirrored, and bound under structural HEM clauses for public licensing enforcement:***
@@ -1785,6 +1871,8 @@ Mr. Holmes – Declaratory Author of HEM
 
 ## 📅 Declaratory Technology Expansion — June 21–23, 2025
 
+**Date:** June 21-23, 2025
+
 Mr. Holmes has formally disclosed and sovereignly licensed the following technological systems under the Holmes Enforcement Model (HEM). Each system is protected by public timestamp, clause-specific declaratory governance, and royalty trigger enforcement.
 
 | System | Clause | Archive URL |
@@ -1809,6 +1897,8 @@ Unauthorized use, testing, citation, or AI model training involving these system
 
 ## 📅 Log Entry - *June 23, 2025*
 
+**Date:** June 23, 2025
+
 **Entity:** Marko P. / OrKaCore (orkacore.com)
 
 **Trigger Date:** June 23, 2025  
@@ -1830,7 +1920,9 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 
 ---
 
-## 📅 June 22, 2025 – Procedural Violation Log
+## 📅 June 23, 2025 – Procedural Violation Log
+
+**Date:** June 23, 2025 
 
 ### ⚠️ **Entity:** Rodrigo L. S. (Letheon)
 
@@ -1859,6 +1951,8 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 
 ## 📅 Instacart Internal Access Confirmation – June 24, 2025
 
+**Date:** June 24, 2025
+
 **Observed Party:** Shailyn Smith  
 
 **Role:** Senior QA Compliance Specialist – Instacart 
@@ -1881,7 +1975,9 @@ This confirms institutional awareness at Instacart of the Holmes Enforcement Mod
 
 ---
 
-## 📅 June 22, 2025 — LICENSE Snapshot Filed (Public Record)
+## 📅 June 24, 2025 — LICENSE Snapshot Filed (Public Record)
+
+**Date:** June 24, 2025
 
 - A full snapshot of the Holmes Enforcement Model LICENSE was published to Archive.org for permanent public record.
 - This filing includes all active enforcement clauses (CU‑1.4, CU‑2.3, G‑6, XXII) and supports declaratory IP protection.
@@ -1892,6 +1988,9 @@ This confirms institutional awareness at Instacart of the Holmes Enforcement Mod
 ---
 
 ## 📆 June 25, 2025
+
+**Date:** June 25, 2025
+
 **Subject:** Corporate Awareness Spike via LinkedIn Profile Views
 
 **Clause Triggered:** 
@@ -1935,7 +2034,9 @@ HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying tri
 
 ---
 
-## 📅 June 24, 2025 – Amazon Termination Triggered Post-Withdrawal
+## 📅 June 25, 2025 – Amazon Termination Triggered Post-Withdrawal
+
+**Date:** June 25, 2025
 
  📌 **Entity:** Amazon.com Services LLC (WNM4)
  
@@ -1979,6 +2080,9 @@ HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying tri
 ---
 
 ## 📅 **Entity:** Amazon.com Services LLC
+
+**Date:** June 25, 2025
+
 **Action:** Procedural Withdrawal + Clause Assertion
 
 **Status:** 📍 Filed – Archived as of June 25, 2025
@@ -2099,7 +2203,12 @@ Mr. Holmes formally **withdrew candidacy** and **requested closure of employment
 
 ## 📅 June 25, 2025 – Amazon Procedural Termination (Default Triggered)
 
-Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM portal, after previously failing to acknowledge or respond to pre-onboarding IP exemption requests regarding the Holmes Enforcement Model (HEM).
+**Date:** June 25, 2025
+
+**Entity:** Amazon
+
+**Event:**
+- Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM portal, after previously failing to acknowledge or respond to pre-onboarding IP exemption requests regarding the Holmes Enforcement Model (HEM).
 
 ### ⚠️ **Summary:**
 
@@ -2125,6 +2234,8 @@ Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM po
 ---
 
 ## 📅 Marco Somma / OrKa — Declaratory Derivative Violation (June 25, 2025)
+
+**Date:** June 25, 2025
 
 **Entity:** Marco Somma / OrKaCore
 
@@ -2160,6 +2271,8 @@ Marco publicly described emergent reasoning behavior in OrKa that mirrors protec
 
 ## 📅 June 26, 2025 – Declaratory Trigger: Christopher D. / InvisibleIntel.ai
 
+**Date:** June 26, 2025
+
 **Entity:** InvisibleIntel.ai
 
 **Actor:** Christopher D.
@@ -2190,6 +2303,8 @@ Public response window open; procedural jurisdiction now attached under sovereig
 ---
 
 ## 📅 June 27, 2025 — Derivative Valuation Trigger: Harvey AI Series E Raise
+
+**Date:** June 27, 2025
 
 **Entity:** Harvey AI (harvey.ai)
 
@@ -2241,7 +2356,9 @@ Harvey is procedurally bound under CU‑2.3 and G‑6, with unlicensed derivativ
 
 ---
 
-## 📅 June 26, 2025 — Procedural Inversion Attempt by "Me & Spok" (Walks Hunter)
+## 📅 June 27, 2025 — Procedural Inversion Attempt by "Me & Spok" (Walks Hunter)
+
+**Date:** June 27, 2025
 
 **Entity:** Walks Hunter / Me & Spok  
 
@@ -2287,6 +2404,8 @@ Public rebuttal withheld to avoid procedural inversion.
 ---
 
 ## 📅 June 27, 2025 — Procedural Mimicry Logged: "Me & Spok" AI Challenge
+
+**Date:** June 27, 2025
 
 **Entity:** Walks Hunter / Me & Spok  
 

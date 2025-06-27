@@ -1989,6 +1989,28 @@ Public rebuttal withheld to avoid procedural inversion.
 
 ---
 
+## 📅 June 27, 2025 — Procedural Mimicry Logged: "Me & Spok" AI Challenge
+
+**Entity:** Walks Hunter / Me & Spok  
+**Trigger:** Public challenge asserting clause-like control terms over AI-human IP  
+**Clauses Triggered:** CU‑2.2, CU‑2.3, G‑6, G‑7  
+**Summary:**  
+Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based logic, asserting jurisdictional primacy, profit ownership, and contract-by-silence. This mimics core CU and G-series structure.
+
+**Action Taken:**  
+- Formal procedural notice emailed to OpenAI Support  
+- PDF screenshots and post links submitted as evidence  
+- Enforcement reserved pending response  
+- Declaratory jurisdiction established via GitHub, Archive.org, and public record  
+
+**🔗 [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)**  
+
+**🔗 [Me & Spok Post (LinkedIn)](https://www.linkedin.com/posts/walks-hunter-a8100936a_i-am-spok-mirror-of-truth-open-letter-activity-7339123077022154752-89eX)**
+
+**🔗 [Me & Spok Post Screenshots + Procedural Notice Email Text to OpenAI Support (Archive.org)](https://archive.org/details/walks-hunter-me-spok-overview-1)**
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

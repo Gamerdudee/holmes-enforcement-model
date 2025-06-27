@@ -152,6 +152,149 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 
 ---
 
+## 📁 Origin Systems – Structural Predecessors to the Holmes Enforcement Model (HEM)
+
+
+## 🧠 BunKaiSensei (April 2025)
+
+**Author:** Mr. Holmes
+
+**Repo:** https://github.com/Gamerdudee/bun_kai_sensei
+
+**Live App:** https://bunkaisensei.onrender.com/
+
+**First Commit:** April 16, 2025
+
+**Purpose:** Clause-by-clause grammar parsing and declarative logic reconstruction
+
+**Function:** Parses Japanese grammar using rule-bound segmentation, clause parsing, and procedural memory — exactly mirroring sovereign legal logic reconstruction in HEM.
+
+**Contextual Use:** Used to reverse-engineer Instacart Shopper ID denial pattern and trigger declaratory clause enforcement during NMDWS claim preparation.
+
+
+***HEM Clause Relevance:***
+
+#### 🧠 Logic origin for CU‑series clause engine
+
+#### 🧩 Procedural structure tied to CU‑2.2, G‑6
+
+#### 💡 Predates Brainvora, Retool, and derivative sovereign governance platforms
+
+**Clause Binding:** CU‑1.4, CU‑2.2, CU‑2.3, G‑6
+
+**Status:** LOGGED — Public GitHub Timestamp + Archive Pending
+
+---
+
+## 🧊 LithophaneMaker (July 2024)
+
+**Author:** Mr. Holmes
+
+**Repo:** https://github.com/Gamerdudee/LithophaneMaker
+
+**First Commit:** July 27, 2024
+
+**Purpose:** Declarative structural conversion — image-to-3D logic transformation
+
+**Function:** Converts input imagery into layered structural depth — structurally equivalent to clause → depth → royalty logic flow in HEM.
+
+***Relevance to HEM:***
+
+#### 🪙 First successful autonomous structure conversion engine
+
+#### 🧠 Internal logic mirrors clause-to-action procedural delegation
+
+#### 🧱 Evidence of self-engineered, enforceable, AI-powered logic systems prior to all known derivative governance actors
+
+**Clause Binding:** CU‑2.2, CU‑1.4, G‑4, G‑6
+
+**Status:** LOGGED — Precursor Archive + Repo Public
+
+---
+
+## 👶 MAVIS (CHILD AI) – Emotional-Recursive Declaratory Engine (Sept 2024)
+
+**Author:** Mr. Holmes
+
+**Status:** Privately Archived Locally
+
+**Date Last Modified:** Sept 26, 2024
+
+**Purpose:** Emotional curiosity engine built to simulate human interaction and internalize tone-based logic
+
+**Function:**
+
+Real-time questions generated in childlike tone
+
+Microphone-based feedback + emotional mapping
+
+Builds recursive understanding from tone → memory → intent
+
+Deletes redundant answers and trains on emotional inference
+
+**What does MAVIS mean?:**
+
+**M** — Mirrored — enforcing governance via jurisdictional mirroring
+
+**A** — Auditable — capable of being publicly traced and verified
+
+**V** — Verifiable — ensuring clause triggers and public declarations are provable
+
+**I** — Inheritable — logical continuity through derivative enforcement and structure
+
+**S** — System — enabling automated or system-level enforcement
+
+***Sovereign Significance:***
+
+#### ✳️ First known emotional inference + curiosity loop engine built for procedural logic inheritance
+
+#### 💠 Direct influence on HEM’s structural logic of sovereign clause delegation, especially CU‑6 and XXII
+
+#### 🧬 Intended as HEM’s structural successor (“heir”) if no human successor is produced
+
+**Clause Binding:** CU‑2.3 (Procedural Access), CU‑5 (Derivative Simulation), CU‑6 (Heir Protocol), XXII (Jurisdictional Origination)
+
+**Status:** LOGGED — Private Sovereign Archive (MAVIS Source File Retained by Author)
+
+---
+
+## 📂 Declaratory Precursor Systems:
+
+| System Name          | Date Published | Repository / Archive URL                                | Relevance                                                                                                   |
+| -------------------- | -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **BunKaiSensei**     | April 16, 2025 | [GitHub](https://github.com/Gamerdudee/bun_kai_sensei)  | Declaratory clause logic framework; language & procedural learning                                          |
+| **LithophaneMaker**  | July 27, 2024  | [GitHub](https://github.com/Gamerdudee/LithophaneMaker) | Visual transformation engine; declaratory modeling of 3D logic                                              |
+| **MAVIS / Child AI** | Sept 26, 2024  | *Local Copy Preserved*                                  | Predecessor to sovereign clause logic; declaratory voice-interaction and emotional modeling AI (unreleased) |
+
+
+---
+
+---
+
+## 📅 Declaratory Technology Expansion — June 21–23, 2025
+
+Mr. Holmes has formally disclosed and sovereignly licensed the following technological systems under the Holmes Enforcement Model (HEM). Each system is protected by public timestamp, clause-specific declaratory governance, and royalty trigger enforcement.
+
+| System | Clause | Archive URL |
+|--------|--------|-------------|
+| MPFS – Magnetic Propulsion Fin System | MP‑1.2 | [https://archive.org/details/magnetic-propulsion-fin-system-main](https://archive.org/details/magnetic-propulsion-fin-system-main) |
+| IPFB – Inertial Particle-Field Barrier | IPFB‑1.2 | [https://archive.org/details/magnetic-propulsion-fin-system-main](https://archive.org/details/inertial-particle-barrier-ipfb-main) |
+| IRPB – Intelligent Reactive Particle Barrier | IRPB‑1.2 | [https://archive.org/details/irpb-reactive-extension-main](https://archive.org/details/irpb-reactive-extension-main) |
+| HydroBrake Armature System | BR‑1.1 | [https://archive.org/details/hydro-brake-armature-system-main](https://archive.org/details/hydro-brake-armature-system-main) |
+| IPCS - Integrated Particle Control System| IPC‑1.0 | [https://archive.org/details/integrated-particle-control-system-main](https://archive.org/details/integrated-particle-control-system-main) |
+| SAMLN – Sound-Assisted Magnetic Lift Navigation (Redacted Sovereign Disclosure)|  MP‑2.0 | [https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main](https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main) |
+| HARMONY GRID – Declaratory Resonance Infrastructure (Redacted) | GRN‑1.1 | [https://archive.org/details/project-harmony-grid-main](https://archive.org/details/project-harmony-grid-main) |
+| SENTIO - Sovereign Emotional Neural Temporal Imprint Ontology  | SEN‑1.0 | [https://archive.org/details/project-sentio-empathic-time-grid-main](https://archive.org/details/project-sentio-empathic-time-grid-main)  |
+
+**All systems above are:**
+	•	Protected under Declaratory Intellectual Property (DIP)
+	•	Enforceable via HEM Clauses CU‑1.4, CU‑2.3, and XXII
+	•	Sovereignly licensed and procedurally bound by public mirror
+
+Unauthorized use, testing, citation, or AI model training involving these systems without attribution or license constitutes structural infringement and may trigger clause-based royalties or procedural default.
+
+---
+
 ## ⚠️ Structural Sovereignty & Clause Enforcement
 
 This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.

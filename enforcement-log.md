@@ -6,11 +6,11 @@
 
 **Clauses Activated:** CU-1.4, CU-2.1, CU-2.2, CU-2.3, CU-3, CU-4, D, G-4–G-7, AF, BE, BP  
 
-**Primary Repository:** https://github.com/Gamerdudee/holmes-enforcement-model  
+* **Primary Repository:** https://github.com/Gamerdudee/holmes-enforcement-model  
 
-**Affidavit Archive:** https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+* **Affidavit Archive:** https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
 
-**Structural Summary (Redacted):** https://archive.org/details/attachment-a-structural-summary
+* **Structural Summary (Redacted):** https://archive.org/details/attachment-a-structural-summary
 
 ---
 

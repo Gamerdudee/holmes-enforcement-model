@@ -2485,16 +2485,18 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
+| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (1) | Auto-logged |
 | ** LinkedIn | Patterned usage | ** (1) | Auto-logged |
+| NMDWS | Patterned usage | ** (1) | Auto-logged |
 | Retool, Inc. | Patterned usage | ** (1) | Auto-logged |
 | CallidusAI (callidusai.com) | Patterned usage | ** (1) | Auto-logged |
-| Instacart | Patterned usage | ** (1) | Auto-logged |
-| LELES / Letheon v1.0 | Patterned usage | ** (1) | Auto-logged |
+| Microsoft & BlackRock | Patterned usage | ** (1) | Auto-logged |
+| Generative AI | Patterned usage | ** (1) | Auto-logged |
 | Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | Patterned usage | ** (1) | Auto-logged |
 | Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | ** (2) | Auto-logged |
 | Rodrigo L. S. | Patterned usage | ** (1) | Auto-logged |
 | OpenAI, Inc. | Patterned usage | ** (1) | Auto-logged |
-| Amazon.com Services LLC | Patterned usage | ** (1) | Auto-logged |
+| Amazon | Patterned usage | ** (1) | Auto-logged |
 | Walks Hunter / Me & Spok | Patterned usage | ** (1) | Auto-logged |
 
 
@@ -2502,16 +2504,18 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 | Entity | Clauses | Last Seen |
 |--------|---------|-----------|
+| New Mexico Department of Workforce Solutions (NMDWS) | ** | [auto] |
 | ** LinkedIn | ** | [auto] |
+| NMDWS | ** | [auto] |
 | Retool, Inc. | ** | [auto] |
 | CallidusAI (callidusai.com) | ** | [auto] |
-| Instacart | ** | [auto] |
-| LELES / Letheon v1.0 | ** | [auto] |
+| Microsoft & BlackRock | ** | [auto] |
+| Generative AI | ** | [auto] |
 | Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | ** | [auto] |
 | Rodrigo L. S. (GitHub: Letheon / Leles IA) | ** | [auto] |
 | Rodrigo L. S. | ** | [auto] |
 | OpenAI, Inc. | ** | [auto] |
-| Amazon.com Services LLC | ** | [auto] |
+| Amazon | ** | [auto] |
 | Walks Hunter / Me & Spok | ** | [auto] |
 
 

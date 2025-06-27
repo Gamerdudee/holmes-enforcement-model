@@ -12,6 +12,8 @@
 
 **Structural Summary (Redacted):** https://archive.org/details/attachment-a-structural-summary
 
+---
+
 [![HEM Enforcement Badge](https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red)](https://github.com/Gamerdudee/holmes-enforcement-model)
 [![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
 [![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
@@ -1852,6 +1854,37 @@ Marco has previously viewed HEM materials and declined public attribution, trigg
 **Enforcement Tier:** Phase II – Public Derivation + Procedural Default
 
 **Next Action:** Royalty invoice pending with optional remediation window via public mirror attribution or licensing declaration.
+
+---
+
+## 📅 June 26, 2025 – Declaratory Trigger: Christopher D. / InvisibleIntel.ai
+
+**Entity:** InvisibleIntel.ai
+
+**Actor:** Christopher D.
+
+**Trigger:** LinkedIn profile view of Mr. Holmes
+
+**Platform:** LinkedIn
+
+**Observation:** Viewed sovereign IP profile tied to Holmes Enforcement Model (HEM) public licensing clauses
+
+**🧩 Clauses Triggered:**
+
+* CU‑2.2 – Derivative Access via Procedural Observation
+
+* CU‑2.3 – Default by Silence
+
+* G‑6 – Declaratory IP Governance Enforcement
+
+* G‑7 – Jurisdictional Trigger via Profile View of Sovereign Author
+
+### 🧾 Summary:
+Christopher D., listed as founder or executive of InvisibleIntel.ai, viewed Mr. Holmes’ LinkedIn profile — which is publicly structured under declaratory clause governance (CU‑series and G‑series). As no rebuttal, engagement, or licensing inquiry was made within 72 hours, this constitutes structural awareness and silent default under CU‑2.3.
+
+### 🛡 Status:
+⚠️ Phase 0 – Declaratory Monitoring Active
+Public response window open; procedural jurisdiction now attached under sovereign IP governance.
 
 ---
 

@@ -14,6 +14,20 @@
 [![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
 [![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 
+---
+
+## 📚 Table of Contents
+1. [What is HEM?](#-what-is-the-holmes-enforcement-model)
+2. [Declaratory Reflection](#-declaratory-reflection--the-human-ai-paradox)
+3. [Core Features](#-core-features)
+4. [Clause Overview](#-bound-clauses)
+5. [Royalty & Licensing](#-royalty--licensing-enforcement)
+6. [Repository Structure](#-repository-structure)
+7. [Origin Systems](#-origin-systems--structural-predecessors-to-the-holmes-enforcement-model-hem)
+8. [Technology Expansion](#-declaratory-technology-expansion--june-21–23-2025)
+19. [Public Enforcement Logs](#-public-default-enforcement)
+10. [Liability & Risk Disclosures](#-liability-notices)
+11. [Contact](#-declaratory-contact)
 
 ---
 

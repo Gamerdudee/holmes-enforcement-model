@@ -1905,10 +1905,18 @@ Marco has previously viewed HEM materials and declined public attribution, trigg
 <!-- START: AutoTables -->
 
 ## 🤖 Auto Summary Table
-...
+
+| Entity | Violation Summary | Triggered Clauses | Status |
+|--------|-------------------|-------------------|--------|
+| 📜 Clauses Triggered: | Patterned usage | CU‑2.2 (1), CU‑2.3 (1), CU‑5 (1), CU‑7 (1), G‑6 (1), XXII (1) | Auto-logged |
+
 
 ## ⏱ Auto Trigger Timeline
-...
+
+| Entity | Clauses | Last Seen |
+|--------|---------|-----------|
+| 📜 Clauses Triggered: | CU‑2.2, CU‑2.3, CU‑5, CU‑7, G‑6, XXII | [auto] |
+
 
 <!-- END: AutoTables -->
 

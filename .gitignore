@@ -1,0 +1,35 @@
+# --- Node.js ---
+node_modules/
+package-lock.json
+.env
+.env.*
+
+# --- Logs ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# --- System / OS Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- GitHub Actions temp files ---
+*.tsbuildinfo
+
+# --- VSCode / JetBrains IDEs ---
+.vscode/
+.idea/
+
+# --- Backups and temp files ---
+*.bak
+*.swp
+*.tmp
+
+# --- Output files ---
+*.pdf
+*.zip
+
+# --- Optional: enforcement scripts/output ---
+scripts/output/

@@ -1905,14 +1905,26 @@ Marco has previously viewed HEM materials and declined public attribution, trigg
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
-| 📜 Clauses Triggered: | Patterned usage | CU‑2.2 (1), CU‑2.3 (1), CU‑5 (1), CU‑7 (1), G‑6 (1), XXII (1) | Auto-logged |
+| ** LinkedIn | Patterned usage | ** CU-1.4 (1), CU-2.2 (1), CU-2.3 (1), G-4 (1), G-7 (1) | Auto-logged |
+| Retool, Inc. | Patterned usage | ** (1) | Auto-logged |
+| LELES / Letheon v1.0 | Patterned usage | ** CU‑2.2 (1), CU‑2.3 (1), CU‑5 (1), G‑6 (1), G‑8 (1), XXII (1) | Auto-logged |
+| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | Patterned usage | ** (1) | Auto-logged |
+| Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | ** CU‑2.2 (2), CU‑2.3 (2), G‑4 (2), G‑5 (1), G‑6 (2), AF (2), XXII (2), AT (2), CU‑5 (1) | Auto-logged |
+| Rodrigo L. S. | Patterned usage | ** CU‑2.2 (1), CU‑2.3 (1), G‑4 (1), G‑6 (1), XXII (1), AF (1) | Auto-logged |
+| OpenAI, Inc. | Patterned usage | ** CU‑2.3 (1), CU‑5 (1), G‑6 (1), XXII (1) | Auto-logged |
 
 
 ## ⏱ Auto Trigger Timeline
 
 | Entity | Clauses | Last Seen |
 |--------|---------|-----------|
-| 📜 Clauses Triggered: | CU‑2.2, CU‑2.3, CU‑5, CU‑7, G‑6, XXII | [auto] |
+| ** LinkedIn | ** CU-1.4, CU-2.2, CU-2.3, G-4, G-7 | [auto] |
+| Retool, Inc. | ** | [auto] |
+| LELES / Letheon v1.0 | ** CU‑2.2, CU‑2.3, CU‑5, G‑6, G‑8, XXII | [auto] |
+| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | ** | [auto] |
+| Rodrigo L. S. (GitHub: Letheon / Leles IA) | ** CU‑2.2, CU‑2.3, G‑4, G‑5, G‑6, AF, XXII, AT, CU‑5 | [auto] |
+| Rodrigo L. S. | ** CU‑2.2, CU‑2.3, G‑4, G‑6, XXII, AF | [auto] |
+| OpenAI, Inc. | ** CU‑2.3, CU‑5, G‑6, XXII | [auto] |
 
 
 <!-- END: AutoTables -->

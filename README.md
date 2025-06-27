@@ -152,8 +152,7 @@ See: [`royalty-model-and-declaratory-IP.md`](docs/royalty-model-and-declaratory-
 
 ---
 
-## 📁 Origin Systems – Structural Predecessors to the Holmes Enforcement Model (HEM)
-
+# 📁 Origin Systems – Structural Predecessors to the Holmes Enforcement Model (HEM)
 
 ## 🧠 BunKaiSensei (April 2025)
 
@@ -266,8 +265,6 @@ Deletes redundant answers and trains on emotional inference
 | **LithophaneMaker**  | July 27, 2024  | [GitHub](https://github.com/Gamerdudee/LithophaneMaker) | Visual transformation engine; declaratory modeling of 3D logic                                              |
 | **MAVIS / Child AI** | Sept 26, 2024  | *Local Copy Preserved*                                  | Predecessor to sovereign clause logic; declaratory voice-interaction and emotional modeling AI (unreleased) |
 
-
----
 
 ---
 

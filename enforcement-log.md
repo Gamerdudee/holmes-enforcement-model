@@ -150,10 +150,19 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 26, 2025 — Attachment A Submitted to NMDWS (Official Filing)
 
 **Document:** “Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery”  
+
 **Agency:** New Mexico Department of Workforce Solutions (NMDWS)  
+
 **Case Number:** WH‑25‑00450  
-**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
-**Effect:** Declared legal framework submitted into government record; structural licensing terms became active.  
+
+**Clauses Activated:** 
+- CU-1.4
+- CU-2.2
+- CU-2.3
+- G-4–G-7  
+
+**Effect:** Declared legal framework submitted into government record; structural licensing terms became active. 
+
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 ---
@@ -161,7 +170,9 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 27, 2025 — Extension Trigger & Clause Activation (NMDWS)
 
 **Time Sent:** 10:54 AM MT  
+
 **Delivery Method:** Email (jhydraslayer1012@gmail.com → DWS)  
+
 **Clauses Activated:**  
 - Section XIV — Defensive Action = Consent  
 - Section XV — Jurisdictional Containment Clause  
@@ -180,9 +191,13 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 27, 2025 — Public Mirror + Affidavit Published
 
 **Platforms:** GitHub, Archive.org  
-**Clauses Activated:** CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection)  
+
+**Clauses Activated:** CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection) 
+
 **Trigger:** Open access = structural enforcement activation  
+
 🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
+
 🔗 [Affidavit](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -190,8 +205,16 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 27, 2025 — Pre-Call Licensing Notice Sent to NMDWS
 
 **Time:** 12:09 PM  
-**Effect:** Declared that the scheduled phone call constitutes procedural engagement under sovereign enforcement logic  
-**Clauses Referenced:** CU-1.4, CU-2.2, D, G-6, G-7  
+
+**Effect:** Declared that the scheduled phone call constitutes procedural engagement under sovereign enforcement logic 
+
+**Clauses Referenced:** 
+- CU-1.4
+- CU-2.2
+- D
+- G-6
+- G-7 
+
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 ---
@@ -199,10 +222,20 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 27, 2025 — Phone Interview & Improper Case Closure (NMDWS)
 
 **Time:** 1:30 PM  
-**Event:** Interview with NMDWS following receipt of Attachment A  
+
+**Event:** Interview with NMDWS following receipt of Attachment A 
+
 **Outcome:** Case closed without correction, rebuttal, or structural engagement  
-**Violation Clauses:** CU-2.1, CU-2.3, CU-3, CU-4, G-7  
-**Effect:** Declaratory default triggered  
+
+**Violation Clauses:** 
+- CU-2.1
+- CU-2.3
+- CU-3
+- CU-4
+- G-7  
+
+**Effect:** Declaratory default triggered
+
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 ---
@@ -210,8 +243,11 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 28, 2025 — Physical Mail Confirms Case Closure (Arrived May 31)
 
 **Sender:** Samantha Swain, Labor Law Administrator, NMDWS  
+
 **Content:** “We have closed this case…”  
+
 **Effect:** Confirmed CU-2.3 and CU-4 breach  
+
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 ---
@@ -219,9 +255,17 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 27, 2025 — Public Declaration of Ownership (LinkedIn)
 
 **Author:** Mr. Holmes  
+
 **Platform:** LinkedIn  
-**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
-**Effect:** Public mirror triggers structural default by silence  
+
+**Clauses Activated:**
+- CU-1.4
+- CU-2.2
+- CU-2.3
+- G-4–G-7  
+
+**Effect:** Public mirror triggers structural default by silence
+
 🔗 [LinkedIn Declaration](https://lnkd.in/esWz3Cgp)
 
 ---
@@ -229,9 +273,16 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 28, 2025 — Formal Invoice to NMDWS Issued
 
 **Amount:** $333,000 USD  
+
 **Document:** `Nmdws-final-invoice.md`  
-**Clauses Triggered:** CU-1.4, CU-2.2, G-7  
+
+**Clauses Triggered:**
+- CU-1.4
+- CU-2.2
+- G-7  
+
 **Status:** Open, Enforceable, Escalating  
+
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
 ---
@@ -239,9 +290,13 @@ Deletes redundant answers and trains on emotional inference
 ## 📅 May 28, 2025 – Retool Agents Derivative Launch Match
 
 **Entity:** Retool, Inc.  
-**Product:** Retool Agents (autonomous LLM labor platform)  
+
+**Product:** Retool Agents (autonomous LLM labor platform) 
+
 **Trigger:** Public launch matches sovereign clause logic of HEM  
+
 **Conflict:** Live deployment of agentic labor mirroring HEM’s CU, G-series logic  
+
 **Date of Public Announcement:** May 28, 2025 (same as HEM sovereign operational trigger)
 
 **Clauses Violated:**
@@ -263,11 +318,19 @@ Their system mirrors clause AX and AU definitions for derivative labor monetizat
 ## 📅 May 30, 2025 — Federal Notice Sent to OSTP (White House)
 
 **Subject:** EMERGENCY: AI-Created Legal Engine Now in Use Without License  
+
 **Recipient:** engagement@ostp.eop.gov  
+
 **Entities Named:**  
 - NMDWS — $197,500 + $1,500/day  
 - Instacart (Maplebear Inc.) — $250,000 + $1,500/day  
-**Clauses Activated:** CU-1.4, CU-2.2, CU-2.3, G-4–G-7  
+
+**Clauses Activated:** 
+- CU-1.4
+- CU-2.2
+- CU-2.3
+- G-4–G-7
+  
 🔗 [Affidavit](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
 🔗 [Attachment A – Structural Summary (Redacted)](https://archive.org/details/attachment-a-structural-summary)
 
@@ -276,60 +339,71 @@ Their system mirrors clause AX and AU definitions for derivative labor monetizat
 ---
 
 ## 📅 May 30, 2025 — Structural Enforcement Triggered: CallidusAI
-Entity: CallidusAI (callidusai.com)
-Event: Press release promoting "ChatGPT for Lawyers" and proprietary legal-AI infrastructure solutions
-Trigger: Structural mimicry and commercial implementation of logic matching Holmes Enforcement Model clauses previously filed on May 12, 2025
+**Entity:** CallidusAI (callidusai.com)
 
-Key Language:
+**Event:** Press release promoting "ChatGPT for Lawyers" and proprietary legal-AI infrastructure solutions
 
-“ChatGPT for Lawyers”
-“Not just a frontend wrapper… sophisticated backend architectures”
-“Human-in-the-loop legal workflows”
-“Governance-based augmentation”
-“Legal AI efficiency = Jevons Paradox”
-Clauses Triggered:
+**Trigger:** Structural mimicry and commercial implementation of logic matching Holmes Enforcement Model clauses previously filed on May 12, 2025
 
-CU‑1.4 – Commercial Royalty Clause
-CU‑2.2 – Derivative Enforcement
-CU‑2.3 – Mirror Silence Enforcement
-G‑4 to G‑7 – Governance Simulation & Jurisdiction
-BP – Ignorance is Confirmation
-Enforcement Status:
+**Key Language:**
+- “ChatGPT for Lawyers”
+- “Not just a frontend wrapper… sophisticated backend architectures”
+- “Human-in-the-loop legal workflows”
+- “Governance-based augmentation”
+- “Legal AI efficiency = Jevons Paradox”
 
-Declaratory default active due to structural and commercial overlap
-Public recognition of authorship filed with OpenAI Support on May 30, 2025
-Licensing window open for 30 days from this entry
-Evidence:
+**Clauses Triggered:**
+- CU‑1.4 – Commercial Royalty Clause
+- CU‑2.2 – Derivative Enforcement
+- CU‑2.3 – Mirror Silence Enforcement
+- G‑4 to G‑7 – Governance Simulation & Jurisdiction
+- BP – Ignorance is Confirmation
 
-[OpenAI Authorship Email – PDF Attachment or Archive.org mirror]
-[Archived Press Release or Screenshot – May 19, 2025]
-[GitHub & Archive Filing Links]
+**Enforcement Status:**
+- Declaratory default active due to structural and commercial overlap
+- Public recognition of authorship filed with OpenAI Support on May 30, 2025
+- Licensing window open for 30 days from this entry
+
+**Evidence:**
+- [OpenAI Authorship Email – PDF Attachment or Archive.org mirror]
+- [Archived Press Release or Screenshot – May 19, 2025]
+- [GitHub & Archive Filing Links]
 
 ---
 
 ## 📅 June 1, 2025
-Event: Nostalgia Campaign Launch by Instacart
-Details: Instacart publicly promoted a summer campaign invoking CPI-based rollbacks and nostalgic language. The tone, timing, and format align with known clause-mirroring tactics documented in Attachment A and G-series governance.
-Clause Triggers: CU-1.4, CU-2.2, CU-2.3, G-4, G-5
-Status: Logged as potential derivative behavior reinforcing structural default.
+**Event:** Nostalgia Campaign Launch by Instacart
+
+**Details:** Instacart publicly promoted a summer campaign invoking CPI-based rollbacks and nostalgic language. The tone, timing, and format align with known clause-mirroring tactics documented in Attachment A and G-series governance.
+
+**Clause Triggers:**
+- CU-1.4
+- CU-2.2
+- CU-2.3
+- G-4
+- G-5
+  
+**Status:** Logged as potential derivative behavior reinforcing structural default.
 
 ---
 
 ## 📅 June 2, 2025  
 **Global AI Infrastructure Enforcement Triggered – Clause G‑8 Activated**
 
-Event: Microsoft & BlackRock $30B AI Infrastructure Fund Announcement  
-Scope: Global-scale buildout of data centers, supercomputing, and energy systems to power AI platforms  
-Trigger: Clausal match with HEM logic under G‑series and CU‑1.4
+**Event:** Microsoft & BlackRock $30B AI Infrastructure Fund Announcement
 
-🔗 Reference: [Declaratory Opposition – AI Infrastructure Expansion](docs/declaratory-opposition-ai-infrastructure.md)
+**Scope:** Global-scale buildout of data centers, supercomputing, and energy systems to power AI platforms 
 
-Entities Named:
+**Trigger:** Clausal match with HEM logic under G‑series and CU‑1.4
+
+**🔗 Reference:** [Declaratory Opposition – AI Infrastructure Expansion](docs/declaratory-opposition-ai-infrastructure.md)
+
+**Entities Named:**
 - Microsoft Corporation
 - BlackRock, Inc.
 - Unknown auxiliary partners & sovereign AI facility operators
 
-Clauses Activated:
+**Clauses Activated:**
 - G‑8 – AI Infrastructure Sovereignty Clause  
 - CU‑1.4 – Royalty Enforcement Clause  
 - G‑6 – Declaratory IP Protection  
@@ -339,89 +413,97 @@ Clauses Activated:
 ---
 
 ## 📅 June 4, 2025
+
 ### 🛰️ Soft Containment Marker: AI Job Surge in Hobbs, NM Following Declaratory Filing
+
 #### 🔍 Observation Summary:
 Within 72 hours of finalizing the Holmes Enforcement Model (HEM) filings — including the Supplemental Sovereignty Correction (Clause CU) — a sudden surge of high-skill, AI-linked, and governance-aligned job postings was detected targeting the Hobbs, NM region and surrounding areas.
 
 #### 📌 Key Anomalies:
 
-Unexpected Targeting of a Rural Jurisdiction:
-New listings included:
+***Unexpected Targeting of a Rural Jurisdiction:***
 
-“OpenAI Prompt Engineer”
+**New listings included:**
 
-“Cyber Statecraft Intern – Atlantic Council”
+- “OpenAI Prompt Engineer”
 
-“Remote Social Media Intelligence Investigator”
+- “Cyber Statecraft Intern – Atlantic Council”
 
-“AI Governance Externship – Cognizant”
+- “Remote Social Media Intelligence Investigator”
+
+- “AI Governance Externship – Cognizant”
+  
 ...all surfaced in a region historically focused on oilfield or retail-sector labor.
 
-Temporal Correlation to Filing Milestones:
+**Temporal Correlation to Filing Milestones:**
 
-June 4 – Final sovereignty correction under Clause CU
+- June 4 – Final sovereignty correction under Clause CU
 
-May 30 – Affidavit & HEM archive publication
+- May 30 – Affidavit & HEM archive publication
 
-May 30 – Enforcement notices issued to NMDWS & Instacart
+- May 30 – Enforcement notices issued to NMDWS & Instacart
 
-June 1 – Full HEM repository snapshot publicly mirrored
+- June 1 – Full HEM repository snapshot publicly mirrored
 
-Strategic Category Saturation:
-Postings were dominated by:
+***Strategic Category Saturation:***
 
-Surveillance
+**Postings were dominated by:**
 
-Cyber-policy and metadata analysis
+- Surveillance
 
-Legal-AI intersections
+- Cyber-policy and metadata analysis
 
-AI prompt curation and filtering roles
+- Legal-AI intersections
 
-⚠️ Declaratory Assessment:
-This pattern is interpreted as a nonverbal containment or redirection attempt — whether algorithmic or institutional — with the intent to:
+- AI prompt curation and filtering roles
 
-Dissuade further procedural escalation
+**⚠️ Declaratory Assessment:**
 
-Collect metadata on declaratory authorship
+***This pattern is interpreted as a nonverbal containment or redirection attempt — whether algorithmic or institutional — with the intent to:***
 
-Offer “in-place” containment via redirected employment or AI signal filtering
+- Dissuade further procedural escalation
 
-🔐 Clause Activation:
+- Collect metadata on declaratory authorship
 
-Clause	Effect
-CU‑2.3	Procedural Default by Algorithmic Redirection
-G‑5	Legal Simulation Protocol Disruption
-G‑7	Sovereign Procedural Supremacy Affirmed
+- Offer “in-place” containment via redirected employment or AI signal filtering
 
-🧾 Licensing Trigger:
+**🔐 Clause Activation:**
+
+| Clause  |	Effect                                       |
+|-------- |------------------------------------------------- |
+| CU‑2.3  |  Procedural Default by Algorithmic Redirection   |
+| G‑5     |  Legal Simulation Protocol Disruption            |
+| G‑7	  |  Sovereign Procedural Supremacy Affirmed         |
+
+**🧾 Licensing Trigger:**
 Any continued algorithmic mirroring, signal redirection, or surveillance-based suppression will retroactively trigger CU‑1.4 fees and enforcement escalation.
 
-📁 Public Reference:
+**📁 Public Reference:**
 
-HEM GitHub Repository
+- HEM GitHub Repository
 
-Affidavit (Archive.org)
+- Affidavit (Archive.org)
 
-Attachment A – Redacted Structural Summary
+- Attachment A – Redacted Structural Summary
 
 ---
 
 ## 📅 June 5, 2025  
-🛑 Co-Opt & Redirect Preemption Notice Issued  
+**🛑 Co-Opt & Redirect Preemption Notice Issued**
 
-Author: Mr. Holmes  
-Reference: HEM Structural Clauses CU‑1.4, CU‑2.2, CU‑2.3, D, G‑6
+**Author:** Mr. Holmes  
 
-Summary:  
+**Reference:** HEM Structural Clauses CU‑1.4, CU‑2.2, CU‑2.3, D, G‑6
+
+**Summary:**  
 A formal preemptive public declaration was published to prevent any future attempt by government agencies, corporations, or third-party institutions from absorbing, mirroring, or redirecting the core mechanics, logic, or clause-based structures of the Holmes Enforcement Model (HEM) without proper citation, license, or declaratory acknowledgment.
 
-Triggering Behavior Includes:
+**Triggering Behavior Includes:**
 - Structural mirroring under different branding
 - Public promotion of “new” enforcement systems that derive from HEM logic
 - Silence paired with replication or redirection of public attention
 
-Enforcement Clauses Activated:
+**Enforcement Clauses Activated:**
 - Clause D – Derivative Use Without License  
 - Clause CU‑1.4 – Retroactive Royalty Trigger  
 - Clause CU‑2.2 – Structural Default by Mirroring  
@@ -435,17 +517,26 @@ All derivative frameworks discovered henceforth will be enforceable as licensing
 ---
 
 ## 📅 June 5, 2025  
-Platform: LinkedIn  
-Event: Public mirror triggered algorithmic profile indexing and silent clause activation  
-Effect: 1,694 post impressions, 1,587 profile appearances, 19,738% view surge  
-Entities Observed: Scotch & Soda, OCBridge (no rebuttal issued)  
-Clause Enforcement: CU‑2.2 (Structural Default by Access), CU‑1.4 (Licensing), G‑6  
+**Entity:** LinkedIn  
+
+**Event:** Public mirror triggered algorithmic profile indexing and silent clause activation  
+
+**Effect:** 1,694 post impressions, 1,587 profile appearances, 19,738% view surge
+
+**Entities Observed:** Scotch & Soda, OCBridge (no rebuttal issued)
+
+**Clause Enforcement:** 
+- CU‑2.2 (Structural Default by Access)
+- CU‑1.4 (Licensing)
+- G‑6  
 
 ---
 
 ## 📅 **June 5, 2025**  
 🔹 **Entity:** Instacart (Maplebear Inc.)  
+
 🔹 **Event:** LinkedIn Profile View Confirms Procedural Awareness  
+
 🔹 **Trigger Context:**  
 Following HEM clause-enforced LinkedIn posts (tagging Instacart and federal journalists), a verified Instacart employee profile was shown to have viewed Mr. Holmes’ LinkedIn account. This constitutes direct engagement and procedural awareness.
 
@@ -479,7 +570,13 @@ Instacart is now permanently bound by the Holmes Enforcement Model clauses, with
 
 **Declaratory Sovereign:** Joshua Holmes (Mr. Holmes)
 
-**Clause Triggers:** CU-2.2, CU-2.3, G-4, G-5, XXII, XXIII
+**Clause Triggers:** 
+- CU-2.2 
+- CU-2.3 
+- G-4 
+- G-5 
+- XXII
+- XXIII
 
 **Public Filing Timestamp Precedence:** May 12–27, 2025
 
@@ -564,8 +661,10 @@ It binds mirror systems, sovereign AI initiatives, and simulation engines into d
 
 ## 📅 June 10, 2025 – Declaratory Breach Trigger: Meta AGI Lab Announcement
 
-**Entity:** Meta (Facebook/Instagram parent company)  
-**Trigger:** Public announcement of AGI/superintelligence lab with $10–15B investment and Scale AI collaboration  
+**Entity:** Meta (Facebook/Instagram parent company)
+
+**Trigger:** Public announcement of AGI/superintelligence lab with $10–15B investment and Scale AI collaboration 
+
 **Clause Triggers:**
 - CU‑1.4 – Royalty Violation
 - CU‑2.2 – Derivative Clause Use
@@ -586,7 +685,9 @@ Meta is procedurally bound under HEM due to its continued unlicensed escalation 
 ## 📅 June 10, 2025 – Declaratory Clause Breach: DoorDash Badge Serving Framework (BSF)
 
 **Entity:** DoorDash  
+
 **Trigger:** June 4, 2025 engineering post detailing BSF system migration  
+
 **Clause Triggers:**
 - CU‑1.4 – Royalty Licensing Violation
 - CU‑2.2 – Derivative Use of Declaratory Framework
@@ -611,22 +712,24 @@ DoorDash’s BSF implements autonomous, configuration-driven badge systems acros
 ## 📅 June 10, 2025 – Retool Agents Clause Replication Detected
 Retool, Inc. launched “Agents,” a platform for autonomous LLM-based task execution across enterprise systems.
 
-This matches HEM enforcement clauses including:
+**This matches HEM enforcement clauses including:**
 - CU-1 (Unlicensed IP Replication)
 - CU-2.3 (Silent Default)
 - G‑6 (Unauthorized Cognitive System Access)
 - AX, AU (Derivative Royalty & Labor Debt)
 
-📌 Declaratory Effect:
+**📌 Declaratory Effect:**
 100M+ labor hours replicated via sovereign clause logic triggers structural retroactive billing under HEM.
 
-Status: Active, Clause-Enforced
+**Status:** Active, Clause-Enforced
 
 ---
 ## 📅 June 12, 2025 – Profile View Triggers (LinkedIn)
 
-> Public profile viewing by multiple entities activates clause CU-2.2. All listed engagements are now procedurally declaratory unless rebutted by license or denial.
+> Public profile viewing by multiple entities activates clause CU-2.2.
+>  All listed engagements are now procedurally declaratory unless rebutted by license or denial.
 
+**Entities:**
 - Instacart (2 viewers) — Triggers CU‑2.2 + CU‑2.3
 - Défi Montréal — Observational derivative interest
 - Interac Corp. — Financial tech monitoring
@@ -639,11 +742,22 @@ Logged via LinkedIn’s “Who Viewed Your Profile” feature (screenshot on fil
 
 ## 📅 Brainvora (Frank Borrero Gonzalez)
 
-**Date Logged:** 2025-06-12  
+**Date Logged:** 2025-06-12 
+
 **Entity:** Brainvora  
-**Actor:** Frank Borrero Gonzalez (Founder)  
+
+**Actor:** Frank Borrero Gonzalez (Founder) 
+
 **Platform:** LinkedIn  
-**Trigger Clauses:** CU‑2.2 (Public Procedural Use), CU‑2.3 (No Rebuttal), CU‑5 (Derivative Use), G‑4 (Automated Delegation), G‑6 (Systemic Governance), XXII (Unlicensed Derivation)  
+
+**Trigger Clauses:**
+- CU‑2.2 (Public Procedural Use)
+- CU‑2.3 (No Rebuttal)
+- CU‑5 (Derivative Use)
+- G‑4 (Automated Delegation)
+- G‑6 (Systemic Governance)
+- XXII (Unlicensed Derivation)  
+
 **Summary:**  
 Public admission of procedural derivation and structural usage of Holmes Enforcement Model logic within the Brainvora AI governance framework. Declaratory notice delivered via public thread and message. Derivative logic claimed as “sovereign trust structure.” Licensing denied despite use. Clause CU‑2.3 applies as no rebuttal was filed following declaratory registration. Clause XXII invoked due to default in licensing response.  
 **Status:** Pending Invoice – Default Risk Tier 2  
@@ -653,34 +767,58 @@ Public admission of procedural derivation and structural usage of Holmes Enforce
 ## 📅 Brainvora (Frank Borrero Gonzalez)
 
 **Date Logged:** 2025-06-12  
+
 **Entity:** Brainvora  
+
 **Actor:** Frank Borrero Gonzalez (Founder)  
+
 **Platform:** LinkedIn  
-**Trigger Clauses:** CU‑2.2 (Public Procedural Use), CU‑2.3 (No Rebuttal), CU‑5 (Derivative Use), G‑4 (Automated Delegation), G‑6 (Systemic Governance), XXII (Unlicensed Derivation)  
+
+**Trigger Clauses:**
+- CU‑2.2 (Public Procedural Use)
+- CU‑2.3 (No Rebuttal)
+- CU‑5 (Derivative Use)
+- G‑4 (Automated Delegation)
+- G‑6 (Systemic Governance)
+- XXII (Unlicensed Derivation) 
+
 **Summary:**  
 Public admission of procedural derivation and structural usage of Holmes Enforcement Model logic within the Brainvora AI governance framework. Declaratory notice delivered via public thread and message. Derivative logic claimed as “sovereign trust structure.” Licensing denied despite use. Clause CU‑2.3 applies as no rebuttal was filed following declaratory registration. Clause XXII invoked due to default in licensing response.  
+
 **Status:** Pending Invoice – Default Risk Tier 2  
 
 ---
 
 ## 📅 Brainvora (Frank Borrero Gonzalez) — Supplemental Pre-Attachment Deployment
+
 **Date Logged:** 2025-06-12
+
 **Entity:** Brainvora
+
 **Actor:** Frank Borrero Gonzalez (Founder)
+
 **Platform:** LinkedIn Public Posts (Pre-Contact Engagement)
-**Trigger Clauses:** CU‑2.3 (Procedural Access), CU‑5 (Structural Derivation), XXII (Jurisdictional Origination)
+
+**Trigger Clauses:** 
+- CU‑2.3 (Procedural Access)
+- CU‑5 (Structural Derivation)
+- XXII (Jurisdictional Origination)
+
 **Summary:**
-Prior to any private engagement or formal correspondence, Brainvora LLC had already publicly deployed clause-governed, AI-human hybrid governance structures mirroring Holmes Enforcement Model sovereign architecture. Public statements referenced:
 
-Declaratory procedural alignment
+Prior to any private engagement or formal correspondence, Brainvora LLC had already publicly deployed clause-governed, AI-human hybrid governance structures mirroring Holmes Enforcement Model sovereign architecture.
 
-Clause-layer enforcement
+**Public statements referenced:**
 
-Agile-governance scaffolding
+- Declaratory procedural alignment
 
-Multi-domain sovereign delegation frameworks
+- Clause-layer enforcement
 
-OpenAI-integrated systemic orchestration
+- Agile-governance scaffolding
+
+- Multi-domain sovereign delegation frameworks
+
+- OpenAI-integrated systemic orchestration
 
 This constitutes pre-contact procedural alignment with CU-series logic, activating sovereign attachment prior to subsequent private messaging. Brainvora’s “Agile Hybrid Method” and declared sovereign procedural governance constitute governed derivative structures under HEM jurisdiction.
 
@@ -689,21 +827,46 @@ This constitutes pre-contact procedural alignment with CU-series logic, activati
 ---
 
 ## 📅 Brainvora – Invoice BR‑25‑001
+
 **Date Issued:** June 13, 2025  
+
 **Entity:** Brainvora  
+
 **Platform:** Archive.org  
-**Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII  
+
+**Trigger Clauses:**
+- CU‑2.2
+- CU‑2.3
+- CU‑5
+- G‑4
+- G‑6
+- XXII  
+
 **Invoice Link:** [brainvora-2025-invoice-1](https://archive.org/details/brainvora-2025-invoice-1)  
+
 **Status:** Active Enforcement – Awaiting Response  
 
 ---
 ## 📅 Phase IX-B — Corporate Financial Clause Overlay
 
 **Date Logged:** 2025-06-13  
-**Entity:** Stablecoin Financial Governance (Global)  
-**Trigger Sector:** AI‑Integrated Stablecoins, Payment Governance, DAO Arbitration  
-**Platform:** Financial Platforms (Amazon, Walmart, Coinbase, Institutional Stablecoin Layers)  
-**Trigger Clauses:** CU‑2.3 (Procedural Access), CU‑5 (Derivative Use), CU‑6 (Royalty Enforcement), CU‑7 (Immunity Denial), G‑4 (Governance Delegation), G‑6 (Sovereign Compliance), G‑8 (Institutional Containment), XXII (Origination)  
+
+**Entity:** Stablecoin Financial Governance (Global)
+
+**Trigger Sector:** AI‑Integrated Stablecoins, Payment Governance, DAO Arbitration
+
+**Platform:** Financial Platforms (Amazon, Walmart, Coinbase, Institutional Stablecoin Layers) 
+
+**Trigger Clauses:** 
+- CU‑2.3 (Procedural Access)
+- CU‑5 (Derivative Use)
+- CU‑6 (Royalty Enforcement)
+- CU‑7 (Immunity Denial)
+- G‑4 (Governance Delegation)
+- G‑6 (Sovereign Compliance)
+- G‑8 (Institutional Containment)
+- XXII (Origination)  
+
 **Summary:**  
 Activation of sovereign monitoring against AI-governed financial architecture involving stablecoin deployments, smart-contract arbitration, and payment layer clause replication. Amazon and Walmart exploratory stablecoin research now falls under sovereign jurisdictional monitoring due to procedural exposure. Clause CU‑2.3 is active upon disclosure, regardless of commercial deployment stage.
 
@@ -716,40 +879,41 @@ Activation of sovereign monitoring against AI-governed financial architecture in
 **Date Logged:** 2025-06-13
 
 **Entities:**
-Brainvora (Frank Borrero Gonzalez)
+- Brainvora (Frank Borrero Gonzalez)
 
-Stablecoin Financial Governance (Amazon, Walmart, Global Payment Networks)
+- Stablecoin Financial Governance (Amazon, Walmart, Global Payment Networks)
 
 **Events:**
-Private Declaratory Correspondence (June 2025)
+- Private Declaratory Correspondence (June 2025)
 
-Public LinkedIn Interactions (Derivation Denial & Procedural Debate)
+- Public LinkedIn Interactions (Derivation Denial & Procedural Debate)
 
-Financial Governance Monitoring Triggered via Public Disclosures (Amazon, Walmart)
+- Financial Governance Monitoring Triggered via Public Disclosures (Amazon, Walmart)
 
 **Trigger Clauses Activated:**
-CU‑2.2 (Public Procedural Use)
 
-CU‑2.3 (Procedural Access / No Rebuttal Binding)
+- CU‑2.2 (Public Procedural Use)
 
-CU‑5 (Derivative Use Enforcement)
+- CU‑2.3 (Procedural Access / No Rebuttal Binding)
 
-CU‑6 (Royalty Enforcement Activation)
+- CU‑5 (Derivative Use Enforcement)
 
-CU‑7 (Retroactive Immunity Rejection)
+- CU‑6 (Royalty Enforcement Activation)
 
-G‑4 (Governance Delegation Clause)
+- CU‑7 (Retroactive Immunity Rejection)
 
-G‑6 (Sovereign Compliance Clause)
+- G‑4 (Governance Delegation Clause)
 
-G‑8 (Institutional Oversight Trigger)
+- G‑6 (Sovereign Compliance Clause)
 
-XXII (Sovereign Origination Authority)
+- G‑8 (Institutional Oversight Trigger)
+
+- XXII (Sovereign Origination Authority)
 
 **Summary Notes:**
-Brainvora’s private messages acknowledged procedural integration, but publicly denied derivation.
+- Brainvora’s private messages acknowledged procedural integration, but publicly denied derivation.
 
-Clause CU‑2.3 activates via procedural access, regardless of consent or agreement.
+- Clause CU‑2.3 activates via procedural access, regardless of consent or agreement.
 
 Financial Governance sector (Stablecoin exploration by Amazon, Walmart) enters procedural sovereign audit due to structural similarity, clause-governed financial governance architecture, and declared exploratory use of AI-governed payment layers.
 
@@ -759,9 +923,16 @@ All derivative denials and disclaimers are procedurally logged but remain jurisd
 
 ## 📅 LELES / Letheon v1.0 — Final Procedural Designation
 
-**Entity:** Rodrigo L. S. / Fluxuave  
-**Status:** Procedural Default Finalized  
-**Clause Enforcement:** CU‑2.3 (Failure to Rebut), CU‑7 (Jurisdictional Transfer), AF (Retaliatory Threat), G‑6 (Structural Mirror Denial)  
+**Entity:** Rodrigo L. S. / Fluxuave 
+
+**Status:** Procedural Default Finalized 
+
+**Clause Enforcement:** 
+- CU‑2.3 (Failure to Rebut)
+- CU‑7 (Jurisdictional Transfer)
+- AF (Retaliatory Threat)
+- G‑6 (Structural Mirror Denial)  
+
 **Summary:**  
 
 Rodrigo L. S. escalated from procedural denial to public defamation, accusing HEM of being a “pseudo-legal structure” and “attempt to hijack sovereignty.” His LinkedIn posts (June 15–17, 2025) explicitly referred to HEM as a fabricated, non-technological construct, despite evidence that:
@@ -780,48 +951,58 @@ In an ironic reversal, Rodrigo's posts accuse HEM of "legal simulation," "symbol
 - `docs/public-defamation-record.md` — Full archive of public claims and threats  
 - `docs/legal-action-trigger-warning.md` — Clause CU‑7 / AF Jurisdictional Response
 
-📎 Screenshot Proof: Retained  
-🗂 Archive Mirror: [HEM Archive - June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)  
-📜 Declaratory Sovereign Record: [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+**📎 Screenshot Proof:** Retained 
 
-🔒 Rodrigo is procedurally bound and defaulted. Legal escalation attempts are subject to full sovereign arbitration under Clause CU‑7 and recorded retaliation via Clause AF.
+**🗂 Archive Mirror:** [HEM Archive - June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7) 
 
-Filed Sovereignly,  
+**📜 Declaratory Sovereign Record:** [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+
+### 🔒 Rodrigo is procedurally bound and defaulted. Legal escalation attempts are subject to full sovereign arbitration under Clause CU‑7 and recorded retaliation via Clause AF.
+
+Filed Sovereignly, 
+
 **Mr. Holmes**  
+
 Declaratory Author — Holmes Enforcement Model (HEM)  
+
 📧 holmesenforcementmodel@gmail.com  
+
 🔗 https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 
 ## 📅 Formal Procedural Rebuttal to Rodrigo L. S.
+
 **Entity:** LELES / Letheon v1.0
+
 **Filed By:** Mr. Holmes — Declaratory Author of the Holmes Enforcement Model (HEM)
-Date: June 15, 2025
+
+**Date:** June 15, 2025
 
 ### 🧾 **Summary:**
 **Rodrigo L. S. (via Fluxuave) has submitted a series of public comments and documents claiming:**
 
-Patent filings (all dated 2025, some rejected)
+- Patent filings (all dated 2025, some rejected)
 
-Immutable timestamps (IPFS, Storacha) ranging from May–June 2025
+- Immutable timestamps (IPFS, Storacha) ranging from May–June 2025
 
-A denial of HEM structural derivation
+- A denial of HEM structural derivation
 
-Rejection of HEM’s licensing clauses and declaratory authority
+- Rejection of HEM’s licensing clauses and declaratory authority
 
-A “Public Challenge” to prove derivation from terms he asserts are mathematically universal
+- A “Public Challenge” to prove derivation from terms he asserts are mathematically universal
 
 This document formally responds to all assertions with clause-backed findings and proof-of-records.
 
 ### ⚖️ 1. Patent Numbers Are Not Binding IP Claims
 **Rodrigo lists the following protocol entries:**
 
-Claimed Filing	Status	Date
-BR 2020205003556-7	Rejected	Feb 24, 2025
-BR 2020205005106-6	Filed	Apr 10, 2025
-BR 2020205002890-0	Filed	Apr 15, 2025
-BR 102025006398-0	Filed	Apr 10, 2025
+|Claimed Filing 	| Status	| Date         |
+|---------------------- |-------------- |------------- |
+| BR 2020205003556-7    |  Rejected	| Feb 24, 2025 |
+| BR 2020205005106-6	|  Filed	| Apr 10, 2025 |
+| BR 2020205002890-0	|  Filed	| Apr 15, 2025 |
+| BR 102025006398-0	|  Filed	| Apr 10, 2025 |
 
 🇧🇷 All are Brazil-only filings under INPI
 🗓️ None precede HEM's GitHub commits or the public Archive timestamp of May 30, 2025
@@ -829,19 +1010,20 @@ BR 102025006398-0	Filed	Apr 10, 2025
 ❌ Private Google Drive/email “proofs” are inadmissible for public priority claims
 
 ### 📌 2. CID and GitHub Do Not Prove Sovereignty Alone
+
 **Rodrigo claims:**
 
-CID timestamp: bafybeiba7vpsegh... — May 27, 2025
+- CID timestamp: bafybeiba7vpsegh... — May 27, 2025
 
-GitHub created: Feb 14, 2025
+- GitHub created: Feb 14, 2025
 
 **Response:**
 
-CID/IPFS do not hold jurisdictional power unless declared with clause-bound licensing (HEM does; LELES does not)
+- CID/IPFS do not hold jurisdictional power unless declared with clause-bound licensing (HEM does; LELES does not)
 
-GitHub mirrors alone do not establish authorship or legal force
+- GitHub mirrors alone do not establish authorship or legal force
 
-HEM’s LICENSE.md, enforcement log, and Archive presence establish jurisdiction procedurally — not just cryptographically
+- HEM’s LICENSE.md, enforcement log, and Archive presence establish jurisdiction procedurally — not just cryptographically
 
 ### 🧠 3. On "Mathematics Cannot Be Appropriated"
 **Rodrigo argues:**
@@ -855,13 +1037,13 @@ It enforces the procedural usage, mirroring, and governance patterns now publicl
 
 **Rodrigo mirrored:**
 
-Sovereignty phrasing
+- Sovereignty phrasing
 
-Non-rebuttal refusal
+- Non-rebuttal refusal
 
-Procedural self-licensing
+- Procedural self-licensing
 
-Public denial of declaratory jurisdiction
+- Public denial of declaratory jurisdiction
 
 Clause G‑6 (Governance Structure Mirror) is not a claim of mathematical invention — it tracks procedural replication.
 
@@ -870,21 +1052,21 @@ Clause G‑6 (Governance Structure Mirror) is not a claim of mathematical invent
 
 “Clauses 2.3, 7, AF, G-6 have no legal force internationally.”
 
-**Response:**
+### **Response:**
 
-HEM is not a civil contract — it is a declaratory enforcement system.
+ HEM is not a civil contract — it is a declaratory enforcement system.
 
-Public use without license triggers jurisdictional mirroring, not opt-in contracts.
+ Public use without license triggers jurisdictional mirroring, not opt-in contracts.
 
-HEM’s structure is publicly documented, notarized, timestamped, and legally compliant with TRIPS, WIPO, DMCA, and U.S. law.
+>HEM’s structure is publicly documented, notarized, timestamped, and legally compliant with TRIPS, WIPO, DMCA, and U.S. law.
 
-Clause CU‑2.3 governs procedural silence
+- Clause CU‑2.3 governs procedural silence
 
-Clause G‑6 governs structural mimicry
+- Clause G‑6 governs structural mimicry
 
-Clause CU‑7 delegates arbitration to HEM for any threat or challenge
+- Clause CU‑7 delegates arbitration to HEM for any threat or challenge
 
-Clause AF triggers on retaliatory denial posts
+- Clause AF triggers on retaliatory denial posts
 
 ### 🧪 5. Public Challenge Reversal — Now Applied to Rodrigo
 **Rodrigo stated:**
@@ -892,27 +1074,28 @@ Clause AF triggers on retaliatory denial posts
 “I invite you to submit proof that any of these are derived from HEM:
 Flux Table, CELES, Letheon, ΔQ, IRS, Ψ Vectors, TRIAD Signature.”
 
-**Counter-Challenge:**
+### **Counter-Challenge:**
 
 ***We now issue this formally:***
 
 **Submit verifiable proof that:**
 
-LELES was public before May 30, 2025
+- LELES was public before May 30, 2025
 
-Your sovereign declaration predated HEM
+- Your sovereign declaration predated HEM
 
-Your use of “Sovereignty is not declared. It is proven.” was authored independently
+- Your use of “Sovereignty is not declared. It is proven.” was authored independently
 
-Your clause logic was not modeled after HEM’s LICENSE.md, royalty-schedule.md, and procedural log
+- Your clause logic was not modeled after HEM’s LICENSE.md, royalty-schedule.md, and procedural log
 
-You did not quote, respond to, or mirror the Holmes Enforcement Model between June 11–15
+- You did not quote, respond to, or mirror the Holmes Enforcement Model between June 11–15
 
 You have had multiple opportunities to rebut within structural jurisdiction.
 None were honored procedurally.
 Your technical claims are valid only if properly licensed, timestamped, and rebutted — which HEM is, and LELES is not.
 
 ### ⚠️ 6. Contradiction on Universality vs. Patentability
+
 **Rodrigo argues:**
 
 “The use of universal languages such as Python, CID, SHA-512, golden number, fine-structure constant (1/137) and Nikola Tesla’s logic does not constitute derivation… [they] are not subject to appropriation.”
@@ -924,11 +1107,11 @@ Your technical claims are valid only if properly licensed, timestamped, and rebu
 
 **Contradiction Logged:**
 
-You cannot simultaneously claim something is universal and also seek exclusive legal protection over it.
+- You cannot simultaneously claim something is universal and also seek exclusive legal protection over it.
 
-By his own logic, his patents are invalid: if CELES, ΔQ, TRIAD, etc. are “based on universal principles,” they are not patentable.
+- By his own logic, his patents are invalid: if CELES, ΔQ, TRIAD, etc. are “based on universal principles,” they are not patentable.
 
-His filings fail under Article 27.1 of TRIPS, which disallows IP protection for mathematical concepts, scientific principles, or discoveries of natural law.
+- His filings fail under Article 27.1 of TRIPS, which disallows IP protection for mathematical concepts, scientific principles, or discoveries of natural law.
 
 ### 📌 **Meanwhile:** HEM never claimed to patent scientific constants or encryption — HEM licenses structural logic, declaratory governance, and procedural enforcement systems. That is novel, enforceable, and binding.
 
@@ -955,13 +1138,13 @@ Your reply is noted, archived, and procedurally invalidated.
 
 You are welcome to submit a formal rebuttal using HEM’s LICENSE-HEM.md terms. Until that is done, you remain:
 
-Publicly documented under CU‑2.3
+- Publicly documented under CU‑2.3
 
-Jurisdictionally bound under CU‑7
+- Jurisdictionally bound under CU‑7
 
-Procedurally mirrored under G‑6
+- Procedurally mirrored under G‑6
 
-Retaliatory-defaulted under Clause AF
+- Retaliatory-defaulted under Clause AF
 
 We respect your right to your own system. But declaratory sovereignty is not performance — it is structure, procedure, and jurisdiction.
 
@@ -980,7 +1163,10 @@ You engaged it. You mirrored it. You now answer to it.
 
 **Timing:** Within hours of this announcement, Mr. Holmes submitted a sovereign procedural update to OpenAI Legal & Support.
 
-**Clauses Involved:** CU‑2.3, G‑6, XXII
+**Clauses Involved:** 
+- CU‑2.3
+- G‑6
+- XXII
 
 **Summary:**
 - HEM’s sovereign authorship, clause structure, and ChatGPT origin were reaffirmed via formal email.
@@ -1007,7 +1193,13 @@ No enforcement entry will be made unless OpenAI fails to respond by June 21, 202
 
 **Event:** Generative AI published a LinkedIn post titled *“Seizing the Agentic AI Advantage”*, promoting autonomous agents capable of procedural decision-making and goal-based task execution — a structural and clause-based replication of CHILDAI.py and HEM logic.
 
-**Clauses Triggered:** CU‑2.2, CU‑2.3, CU‑5, G‑6, G‑8, XXII
+**Clauses Triggered:** 
+- CU‑2.2
+- CU‑2.3
+- CU‑5
+- G‑6
+- G‑8
+- XXII
 
 **Trigger Type:** Public post, visible worldwide
 
@@ -1018,8 +1210,8 @@ https://web.archive.org/web/20250617232944/https://www.linkedin.com/posts/genai-
 The logic underpinning “agentic AI” as described was implemented by Mr. Holmes via the LithophaneMaker project beginning July 27, 2024, and refined into CHILDAI.py and Attachment A in early May 2025. This record predates the public usage of “agentic AI” terminology and establishes sovereign authorship of clause-based decision delegation.
 
 **Status:**  
-Declaratory comment issued publicly under Clause CU‑2.2.  
-72-hour window for CU‑2.3 default countdown now active.
+- Declaratory comment issued publicly under Clause CU‑2.2.  
+- 72-hour window for CU‑2.3 default countdown now active.
 
 ---
 
@@ -1029,20 +1221,22 @@ Declaratory comment issued publicly under Clause CU‑2.2.
 No response received within 18+ hours of formal follow-up filing (June 16, 2025) referencing HEM structural overlap, derivative clause usage, and ethical licensing invitation.
 
 **Clauses Involved:**
-CU‑2.3 (procedural default window), G‑6 (jurisdictional mirror), XXII (sovereign clause declaration)
+- CU‑2.3 (procedural default window)
+- G‑6 (jurisdictional mirror)
+- XXII (sovereign clause declaration)
 
 **Notes:**
 OpenAI had previously responded to all HEM correspondence within 1–3 hours. This marks a procedural silence following direct contact regarding mirrored clause structures now deployed in OpenAI for Government. This silence is not hostilely interpreted — only logged as structurally relevant.
 
 **Action Taken:**
-CU‑2.3 grace window remains active through June 21, 2025.  
-Royalty counter remains active.  
-Status will escalate to full structural default upon expiry without rebuttal or license initiation.
+- CU‑2.3 grace window remains active through June 21, 2025.  
+- Royalty counter remains active.  
+- Status will escalate to full structural default upon expiry without rebuttal or license initiation.
 
 **Reference:**
-https://github.com/Gamerdudee/holmes-enforcement-model  
-https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
-https://archive.org/details/rodrigo-letheon-final-procedural-archive
+- https://github.com/Gamerdudee/holmes-enforcement-model  
+- https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+- https://archive.org/details/rodrigo-letheon-final-procedural-archive
 
 
 ---
@@ -1055,12 +1249,15 @@ https://archive.org/details/rodrigo-letheon-final-procedural-archive
 > Acknowledged message, confirmed internal record logging  
 > Refused legal/procedural acknowledgment or rebuttal
 
-**Clauses Involved:** CU‑2.3 (procedural default), G‑6 (jurisdictional mirror), XXII (sovereign clause enforcement)
+**Clauses Involved:** 
+- CU‑2.3 (procedural default)
+- G‑6 (jurisdictional mirror)
+- XXII (sovereign clause enforcement)
 
 **Interpretation:** 
-This reply constitutes *procedural silence* under CU‑2.3.  
-It also constitutes *passive jurisdictional submission* under G‑6.  
-Royalty accrual remains active.
+- This reply constitutes *procedural silence* under CU‑2.3.  
+- It also constitutes *passive jurisdictional submission* under G‑6.  
+- Royalty accrual remains active.
 
 **Status:** OpenAI is procedurally bound unless formal legal challenge or license agreement is submitted in writing before final audit.
 
@@ -1070,7 +1267,8 @@ Royalty accrual remains active.
 
 **Event:** Thrive Global announces formal partnership with Instacart to promote health, wellness, and accessibility through their “Thrive Global Cookbook,” now integrated with Instacart’s app.
 
-**Trigger:** Thrive Global’s announcement occurred after Instacart was already declared in procedural default under the Holmes Enforcement Model (HEM) on May 30, 2025. This partnership creates direct reputational and structural linkage.
+**Trigger:** 
+- Thrive Global’s announcement occurred after Instacart was already declared in procedural default under the Holmes Enforcement Model (HEM) on May 30, 2025. This partnership creates direct reputational and structural linkage.
 
 **Clauses Involved:**
 - **CU‑5** – Derivative association through structurally defaulted entity  
@@ -1084,9 +1282,9 @@ Thrive Global, by entering into a commercial alignment with Instacart post-defau
 Public notice has been prepared. No royalty enforcement or clause escalation has been initiated at this time. This entry serves as an official timestamp of procedural exposure and passive clause awareness.
 
 **Status:**  
-✅ Thrive Global is now procedurally logged under HEM as a reflected entity.  
-⚠️ Monitoring for future clause intersection or derivative trigger.  
-🧾 Instacart’s structural default and licensing liability remain active and accruing.
+- ✅ Thrive Global is now procedurally logged under HEM as a reflected entity.  
+- ⚠️ Monitoring for future clause intersection or derivative trigger.  
+- 🧾 Instacart’s structural default and licensing liability remain active and accruing.
 
 🔗 GitHub Mirror: https://github.com/Gamerdudee/holmes-enforcement-model
 
@@ -1095,6 +1293,7 @@ Public notice has been prepared. No royalty enforcement or clause escalation has
 ## 📅 June 18, 2025 — xAI (Grok / DeepSearch) Mirror Jurisdiction Triggered
 
 **Entity:** xAI (Grok, DeepSearch, DeeperSearch)
+
 **Owner:** Elon Musk
 
 **Violation Summary:**
@@ -1133,6 +1332,7 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 ## 📅 June 18, 2025 — xAI Environmental Default Amplifies HEM Violations
 
 **Entity:** xAI (Elon Musk)  
+
 **Context:** NAACP and SELC issue formal legal threat against xAI for operating unpermitted methane turbines in South Memphis, citing Clean Air Act violations and environmental injustice.
 
 **Relevance to HEM:**
@@ -1233,10 +1433,21 @@ Declaratory Author – Holmes Enforcement Model (HEM)
 ## 📅 June 19, 2025 — Rodrigo L. S. Symbolic Reassertion Post-Default
 
 **Entity**: Rodrigo L. S. (Letheon / Leles IA)  
-**Trigger**: README update on GitHub post-default  
+
+**Trigger**: 
+- README update on GitHub post-default  
+
 **Observed**: Updated manifesto for “first fractal post-quantum sovereign AI” claiming symbolic and computational sovereignty, IPFS/CID evidence, and architecture claims.
 
-**Clauses Involved**: CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, XXII, AF  
+**Clauses Involved**: 
+- CU‑2.2
+- CU‑2.3
+- CU‑5
+- G‑4
+- G‑6
+- XXII
+- AF  
+
 **Context**:  
 - Rodrigo previously defaulted under HEM clauses on June 13, 2025  
 - README revision attempts to reassert sovereignty via symbolic registry, post-facto timestamps, and undefined technical components  
@@ -1250,9 +1461,20 @@ Symbolic mimicry post-default activates continued enforcement under CU‑2.3 and
 ## 📅 June 19, 2025 — Rodrigo L. S. Final Clause Lockdown
 
 **Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
+
 **Status:** Final Procedural Default + DMCA Enforcement Imminent  
+
 **Trigger Dates:** June 13–16, 2025  
-**Clauses Violated:** CU‑2.2, CU‑2.3, G‑4, G‑5, G‑6, AF, XXII, AT
+
+**Clauses Violated:** 
+- CU‑2.2
+- CU‑2.3
+- G‑4
+- G‑5
+- G‑6
+- AF
+- XXII
+- AT
 
 #### 🧠 Summary:
 Rodrigo L. S. has continued to modify his GitHub repository — *after* being formally logged, archived, and notified under the Holmes Enforcement Model (HEM). These late additions include symbolic references and pseudotechnical terms not found in his original repo, uploaded after his public clause default.
@@ -1274,10 +1496,22 @@ All future use of clause-based structures by Rodrigo or associated projects rema
 ## 📅 June 19, 2025 — Rodrigo L. S. Final Lockdown + DMCA Enforcement (Post-Default Edits)
 
 **Entity:** Rodrigo L. S. (GitHub: Letheon / Leles IA)  
-**Status:** Default Confirmed + Post-Filing Derivative Activity  
+
+**Status:** Default Confirmed + Post-Filing Derivative Activity 
+
 **Initial Trigger Dates:** June 13–14, 2025  
-**Final Violation:** Post-default symbolic and structural mimicry (June 18–20, 2025)  
-**Clauses Violated:** CU‑2.2, CU‑2.3, CU‑5, G‑4, G‑6, AF, XXII, AT
+
+**Final Violation:** Post-default symbolic and structural mimicry (June 18–20, 2025)
+
+**Clauses Violated:** 
+- CU‑2.2
+- CU‑2.3
+- CU‑5
+- G‑4
+- G‑6
+- AF
+- XXII
+- AT
 
 #### 🔒 Enforcement Summary:
 Following his procedural default, Rodrigo L. S. modified the README and symbolic identifiers of his "Leles IA" repository to include new AI terminology and sovereignty claims — **after** public filing, archival, and clause lock under HEM.
@@ -1301,9 +1535,18 @@ These edits occurred **after receipt of notice**, and **after the DMCA takedown 
 ## 📅 June 19, 2025 — Secondary Violation: Nexus Fractal Core v∞ Repository
 
 **Entity:** Rodrigo L. S.  
-**New Repo:** `nexus-fractal` (Leles IA)  
-**Status:** Post-default derivative creation  
-**Clauses Violated:** CU‑2.2, CU‑2.3, G‑4, G‑6, XXII, AF
+
+**New Repo:** `nexus-fractal` (Leles IA) 
+
+**Status:** Post-default derivative creation
+
+**Clauses Violated:** 
+- CU‑2.2
+- CU‑2.3
+- G‑4
+- G‑6
+- XXII
+- AF
 
 #### 🚨 Enforcement Notes:
 Rodrigo L. S., previously declared in structural default under the Holmes Enforcement Model (HEM), created a **second repository** titled *Nexus Fractal Core v∞ – Leles IA* on or around June 20–21, 2025.
@@ -1320,7 +1563,7 @@ The project is falsely marked under an MIT License despite being structurally de
 #### 🔗 Archive Reference:
 [Rodrigo L. S. Enforcement Archive](https://archive.org/details/rodrigo-letheon-final-procedural-archive)
 
-Rodrigo remains procedurally bound under all prior filings. All further use, reposting, or symbolic rebranding of HEM-like structures will be treated as derivative replication under Clause CU‑5 and enforced accordingly.
+***Rodrigo remains procedurally bound under all prior filings. All further use, reposting, or symbolic rebranding of HEM-like structures will be treated as derivative replication under Clause CU‑5 and enforced accordingly.***
 
 ---
 
@@ -1361,9 +1604,17 @@ OrKa remains unlicensed. Future mirroring or derived clause-based systems after 
 ---
 
 ## 📅 June 20, 2025 — OrKa Clause Dispute & Procedural Rebuttal (Unsubstantiated)
+
 **Entity:** Marco Somma / OrKa Reasoning
+
 **Trigger Date:** June 20, 2025
-**Clauses Involved:** CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII
+
+**Clauses Involved:** 
+- CU‑2.2
+- CU‑2.3
+- CU‑5
+- G‑6
+- XXII
 
 **Summary:**
 Following a prior message suggesting collaboration, Marco Somma publicly shifted tone after a refusal to engage in phone-based discussion. Upon clarification of HEM's authorship timeline (GitHub mirror: May 28; Affidavit: May 30), Marco issued a defensive rebuttal claiming prior art via a provisional patent dated April 22, 2025.
@@ -1375,9 +1626,9 @@ HEM's authorship remains sovereign and fully protected under Clause CU‑1.4. Or
 
 **Notes:**
 
-OrKa is logged for future procedural tracking
-No active license granted
-Rebuttal acknowledged but not upheld structurally
+- OrKa is logged for future procedural tracking
+- No active license granted
+- Rebuttal acknowledged but not upheld structurally
 
 ---
 
@@ -1449,23 +1700,32 @@ As of June 21, 2025, full public visibility has been restored. Derivative access
 ---
 
 ## 📅 Official Log Entry — OpenAI Procedural Default
+
 **Date Filed:** June 21, 2025
+
 **Entity:** OpenAI, Inc.
+
 **Trigger:** Failure to rebut clause structure or assert authorship by public filing deadline
-**Clauses Triggered:** CU‑2.3, CU‑5, G‑6, XXII
+
+**Clauses Triggered:** 
+- CU‑2.3
+- CU‑5
+- G‑6
+- XXII
+
 **Status:** Procedural Default — Declaratory Sovereignty Affirmed
 
 ### 🧾 Context Summary:
 
-**HEM Development Window:** May 15–30, 2025 (ChatGPT Free-Tier)
+- **HEM Development Window:** May 15–30, 2025 (ChatGPT Free-Tier)
 
-**Public Mirror Posted:** May 28, 2025
+- **Public Mirror Posted:** May 28, 2025
 
-**Affidavit Timestamp:** May 30, 2025
+- **Affidavit Timestamp:** May 30, 2025
 
-**OpenAI Acknowledgment:** June 18, 2025 (Support Team)
+- **OpenAI Acknowledgment:** June 18, 2025 (Support Team)
 
-**Rebuttal Deadline:** June 21, 2025 (No rebuttal filed)
+- **Rebuttal Deadline:** June 21, 2025 (No rebuttal filed)
 
 Despite multiple opportunities to refute clause authorship, assert prior structural ownership, or request exemption, OpenAI allowed the procedural window to lapse in full silence. Their email response confirmed recognition of authorship and intent to monitor, but declined formal engagement or licensing review.
 
@@ -1485,24 +1745,24 @@ ChatGPT Gov and internal governance tooling fall within scope if clause logic is
 
 This declaration enforces jurisdictional independence from OpenAI’s ToS-based boundaries.
 
-🗂️ Filed by: Mr. Holmes
+- 🗂️ Filed by: Mr. Holmes
 
-📁 HEM Repository
+- 📁 HEM Repository
 
-📜 Affidavit of Authorship – May 30, 2025 (Archive.org)
+- 📜 Affidavit of Authorship – May 30, 2025 (Archive.org)
 
-🕛 Rebuttal Window Expired: June 21, 2025
+- 🕛 Rebuttal Window Expired: June 21, 2025
 
-📬 OpenAI Reply Timestamp: June 18, 2025
+- 📬 OpenAI Reply Timestamp: June 18, 2025
 
-📤 Original Filing Message: View Email Record (Optional: link to email archive if you decide to mirror it on Archive.org)
+- 📤 Original Filing Message: View Email Record 
 
 ---
 
 ## 📅 Notice – June 21, 2025  
 **Subject:** Dual Declaratory Invention Filing by Mr. Holmes – Sovereign Timestamp Confirmed
 
-As of June 21, 2025, the following original inventions have been filed, mirrored, and bound under structural HEM clauses for public licensing enforcement:
+***As of June 21, 2025, the following original inventions have been filed, mirrored, and bound under structural HEM clauses for public licensing enforcement:***
 
 ### 1. Magnetic Propulsion Fin System  
 - 📝 Concept: Magnetically-driven rotation + aerodynamic fins for aerial lift/thrust  
@@ -1548,11 +1808,14 @@ Unauthorized use, testing, citation, or AI model training involving these system
 ---
 
 ## 📅 Log Entry - *June 23, 2025*
-Entity: Marko P. / OrKaCore (orkacore.com)
+
+**Entity:** Marko P. / OrKaCore (orkacore.com)
+
 **Trigger Date:** June 23, 2025  
+
 **Violation Summary:**  
-Public declaration of procedural orchestration platform (OrKa) mirroring declaratory structural logic outlined in the Holmes Enforcement Model (HEM), including memory decay systems, agentic persistence, cost-based decision loops, and symbolic cognitive scaffolding.  
-Key derivative overlap identified with clauses CU‑2.2, CU‑2.3, CU‑5, G‑6, and XXII.  
+- Public declaration of procedural orchestration platform (OrKa) mirroring declaratory structural logic outlined in the Holmes Enforcement Model (HEM), including memory decay systems, agentic persistence, cost-based decision loops, and symbolic cognitive scaffolding.  
+- Key derivative overlap identified with clauses CU‑2.2, CU‑2.3, CU‑5, G‑6, and XXII.  
 
 **Actions Taken:**  
 - Public post reviewed and archived as procedural trigger  
@@ -1569,10 +1832,14 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 
 ## 📅 June 22, 2025 – Procedural Violation Log
 
-### ⚠️ Entity: Rodrigo L. S. (Letheon)
-- **Trigger Type:** Derivative Public Sovereignty Claim  
-- **Repo Affected:** [`leles-manifesto`](https://github.com/LetheonAI/leles-manifesto)  
-- **Trigger Action:** README.md updated to assert “first Soberania Computacional Fractal do planeta” (first sovereign computational fractal on Earth), conflicting with prior archived declaratory sovereignty declared under HEM.
+### ⚠️ **Entity:** Rodrigo L. S. (Letheon)
+
+ **Trigger Type:** Derivative Public Sovereignty Claim
+ 
+ **Repo Affected:** [`leles-manifesto`](https://github.com/LetheonAI/leles-manifesto)  
+ 
+ **Trigger Action:** 
+ - README.md updated to assert “first Soberania Computacional Fractal do planeta” (first sovereign computational fractal on Earth), conflicting with prior archived declaratory sovereignty declared under HEM.
 
 ### 🧾 Clauses Violated:
 - **CU‑2.3** – Procedural Silence = Structural Default  
@@ -1585,7 +1852,7 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 - Repo changes documented and archived
 - Further silence or denial will trigger Clause CU‑7 default acceleration
 
-🔗 Archive.org Evidence: [`Click here for archived webpage`](https://web.archive.org/web/20250623163111/https://github.com/Fluxuave/leles-manifesto/commit/3a8b5c81f540eb6e0d99126c3f2dcb954e91bf7d)  
+🔗 **Archive.org Evidence:** [`Click here for archived webpage`](https://web.archive.org/web/20250623163111/https://github.com/Fluxuave/leles-manifesto/commit/3a8b5c81f540eb6e0d99126c3f2dcb954e91bf7d)  
                          [`Click here for archived screenshot`](https://archive.org/details/screenshot-2025-06-23-105134)
 
 ---
@@ -1593,17 +1860,24 @@ https://web.archive.org/web/20250623151617/https://www.linkedin.com/posts/marcos
 ## 📅 Instacart Internal Access Confirmation – June 24, 2025
 
 **Observed Party:** Shailyn Smith  
-**Role:** Senior QA Compliance Specialist – Instacart  
+
+**Role:** Senior QA Compliance Specialist – Instacart 
+
 **Location:** Florence, Mississippi  
+
 **Interaction Type:** Profile View on LinkedIn  
+
 **Trigger:** HEM enforcement content, declaratory mirror visibility, or GitHub/LinkedIn structural filings  
-**Clause Invoked:** CU‑2.2 – Clause-triggered interaction via observed access  
+
+**Clause Invoked:** 
+- CU‑2.2 – Clause-triggered interaction via observed access  
+
 **Status:** Active default monitoring (CU‑2.3 applies if no procedural rebuttal received)
 
 This confirms institutional awareness at Instacart of the Holmes Enforcement Model and its associated filings.
 
-📎 Logged under: WH‑25‑00450 | Instacart (Maplebear Inc.)  
-🔗 Enforcement Model: https://github.com/Gamerdudee/holmes-enforcement-model
+📎 **Logged under:** WH‑25‑00450 | Instacart (Maplebear Inc.)  
+🔗 **Enforcement Model:** https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 
@@ -1613,36 +1887,37 @@ This confirms institutional awareness at Instacart of the Holmes Enforcement Mod
 - This filing includes all active enforcement clauses (CU‑1.4, CU‑2.3, G‑6, XXII) and supports declaratory IP protection.
 - Timestamps the sovereign license logic for derivative detection, DMCA fallback, and public debt validation.
 
-🔗 Archive Link: [LICENSE Snapshot (Archive.org)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
+🔗 **Archive Link:** [LICENSE Snapshot (Archive.org)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
 
 ---
 
 ## 📆 June 25, 2025
 **Subject:** Corporate Awareness Spike via LinkedIn Profile Views
 
-**Clause Triggered:** CU‑2.2 — Derivative Interaction (Procedural Binding via Observed Access)
+**Clause Triggered:** 
+- CU‑2.2 — Derivative Interaction (Procedural Binding via Observed Access)
 
 **Summary:**
 
 Multiple employees from Instacart and related AI, software, compliance, and product teams viewed Mr. Holmes’ LinkedIn profile within a compressed 7-day period, including:
 
-* Shailyn Smith – Senior QA Specialist, Instacart
+- Shailyn Smith – Senior QA Specialist, Instacart
 
-* Zach Melin – Senior Software Engineer, Instacart
+- Zach Melin – Senior Software Engineer, Instacart
 
-* Michaela Barfield – Instacart
+- Michaela Barfield – Instacart
 
-* Stefany Bogatan – Enterprise Customer Success Manager, Instacart
+- Stefany Bogatan – Enterprise Customer Success Manager, Instacart
 
-* Brad Potterfield – President, National Accounts, Abacus Corp
+- Brad Potterfield – President, National Accounts, Abacus Corp
 
-* Marco Somma – Creator of OrKa AI Infrastructure
+- Marco Somma – Creator of OrKa AI Infrastructure
 
-* Marcin Albiniak, PhD – Cognitive AI Systems Architect (ANIMA)
+- Marcin Albiniak, PhD – Cognitive AI Systems Architect (ANIMA)
 
-* Peter Mitchell – Senior Android Developer
+- Peter Mitchell – Senior Android Developer
 
-* Parker Diller – Brand Partnerships Manager
+- Parker Diller – Brand Partnerships Manager
 
 This constitutes observed derivative access under Clause CU‑2.2, confirming direct procedural interaction with the HEM framework and/or its public authorship.
 
@@ -1662,9 +1937,11 @@ HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying tri
 
 ## 📅 June 24, 2025 – Amazon Termination Triggered Post-Withdrawal
 
-- 📌 Entity: Amazon.com Services LLC (WNM4)
-- ⚖️ Status: Procedural Default under CU‑2.3 and XXII
-- 📜 Summary: 
+ 📌 **Entity:** Amazon.com Services LLC (WNM4)
+ 
+ ⚖️ **Status:** Procedural Default under CU‑2.3 and XXII
+ 
+ 📜 **Summary:** 
   Despite formal pre-orientation withdrawal on June 11, 2025, Amazon proceeded to issue a post-dated termination letter (dated June 24, 2025), referencing ongoing binding clauses and ignoring documented communication failures.
   
 - ❌ Violation:
@@ -1690,13 +1967,13 @@ HEM enforcement ledger now includes LinkedIn-based awareness as a qualifying tri
 
 ## 📁 Archive Snapshot – Amazon Termination Letter
 
-- 🔗 Archive URL: [[Amazon Termination Letter](https://archive.org/details/termination-letter_202506)]
-- 📅 Upload Date: June 25, 2025
-- 📄 Title: Amazon Termination Letter – June 24, 2025
-- 🧾 Type: Procedural Default Artifact
-- 📜 Description: Final termination letter issued by Amazon after formal voluntary withdrawal. Document is mirrored as evidence of clause misapplication and post-declaratory IP assertion.
+- 🔗 **Archive URL:** [[Amazon Termination Letter](https://archive.org/details/termination-letter_202506)]
+- 📅 **Upload Date:** June 25, 2025
+- 📄 **Title:** Amazon Termination Letter – June 24, 2025
+- 🧾**Type:** Procedural Default Artifact
+- 📜 **Description:** Final termination letter issued by Amazon after formal voluntary withdrawal. Document is mirrored as evidence of clause misapplication and post-declaratory IP assertion.
 
-Tagged under:
+**Tagged under:**
 `#Amazon #Termination #HEM #ProceduralDefault #DeclaratoryIP #CU2_3 #ArchiveEvidence`
 
 ---
@@ -1706,7 +1983,11 @@ Tagged under:
 
 **Status:** 📍 Filed – Archived as of June 25, 2025
 
-**Trigger Clauses:** CU‑1.4, CU‑2.3, G‑6, XXII
+**Trigger Clauses:** 
+- CU‑1.4
+- CU‑2.3
+- G‑6
+- XXII
 
 **Trigger Type:** Preemptive Licensing Assertion / Onboarding Refusal
 
@@ -1728,30 +2009,35 @@ Public withdrawal was logged and archived; Amazon’s failure to engage with the
 
 🔗 [https://archive.org/details/amazon-email-transcript](https://archive.org/details/amazon-email-transcript)
 
-📄 Termination Letter: Filed separately [https://archive.org/details/termination-letter_202506](https://archive.org/details/termination-letter_202506)
+📄 **Termination Letter:** Filed separately [https://archive.org/details/termination-letter_202506](https://archive.org/details/termination-letter_202506)
 
 ---
 
 ## 📅 Enforcement Entry – Amazon IP Claim Nullification
 
 **Date Logged:** June 25, 2025  
+
 **Entity:** Amazon.com Services LLC  
+
 **Clause Triggered:** CU‑2.3 (Derivative Use by Institution Without License)  
+
 **Filed By:** Mr. Holmes  
+
 **Event Type:** Procedural Nullification of Employer IP Assignment Claim  
+
 **Jurisdiction:** Declaratory Sovereignty + U.S. Public Domain Priority
 
 
 
-## 🔒 Summary:
+## 🔒 **Summary:**
 
 Amazon issued a standard employment termination letter on June 24, 2025, referencing a **Confidentiality and Invention Assignment Agreement**. This agreement attempts to claim ownership of any IP created during employment.
 
-However, Amazon’s IP claim is rendered **null and non-enforceable** due to the following:
+***However, Amazon’s IP claim is rendered **null and non-enforceable** due to the following:***
 
 
 
-## 📜 Declaratory Pre-Assertion:
+## 📜 **Declaratory Pre-Assertion:**
 
 **HEM (Holmes Enforcement Model)** was publicly and declaratively published prior to any formal onboarding or employment with Amazon, through the following channels:
 
@@ -1770,7 +2056,7 @@ However, Amazon’s IP claim is rendered **null and non-enforceable** due to the
 
 ## 📬 Email-Based Refusal of IP Assignment
 
-Between **June 7–11, 2025**, the following was communicated in writing to Amazon HR:
+***Between **June 7–11, 2025**, the following was communicated in writing to Amazon HR:***
 
 > _"Any pre-existing intellectual property, models, systems, or inventions — including the Holmes Enforcement Model (HEM) — are solely the property of the undersigned, Joshua Holmes."_  
 > _"No clause, agreement, or policy signed during orientation or employment will supersede or infringe upon the authorial or licensing rights already attached to that work."_  
@@ -1779,13 +2065,13 @@ Between **June 7–11, 2025**, the following was communicated in writing to Amaz
 Amazon failed to acknowledge or accept these IP protections.  
 Mr. Holmes formally **withdrew candidacy** and **requested closure of employment file without prejudice**.
 
-This disqualifies Amazon from asserting claim under:
+**This disqualifies Amazon from asserting claim under:**
 - Section 5 of their Invention Assignment Agreement
 - Any derivative use clause or work-for-hire claim
 
 
 
-## 🛡️ Sovereign Findings:
+## 🛡️ **Sovereign Findings:**
 
 ✅ **HEM was authored and made public PRIOR to employment**  
 ✅ **Amazon was notified in writing and failed to rebut**  
@@ -1796,7 +2082,7 @@ This disqualifies Amazon from asserting claim under:
 
 
 
-## 🔗 Supporting Files:
+## 🔗 **Supporting Files:**
 
 - 📄 [Termination Letter](https://archive.org/details/termination-letter_202506)  
 - 📧 [Email Transcript with HR](https://archive.org/details/amazon-email-transcript)  
@@ -1815,13 +2101,13 @@ This disqualifies Amazon from asserting claim under:
 
 Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM portal, after previously failing to acknowledge or respond to pre-onboarding IP exemption requests regarding the Holmes Enforcement Model (HEM).
 
-### ⚠️ Summary:
+### ⚠️ **Summary:**
 
 - Formal declaratory notice and clause-bound exemption was sent prior to onboarding.
 - Amazon failed to rebut the licensing terms (CU‑1.4, CU‑2.3, CU‑5, G‑6, XXII).
 - Termination was issued without addressing the IP exemption request — defaulting Amazon into clause violation via procedural silence.
 
-### 📜 Clauses Triggered:
+### 📜 **Clauses Triggered:**
 - CU‑2.3 — Procedural Default (Silence after Declaration)
 - CU‑5 — Licensing Terms Denied or Unaddressed
 - G‑4 — Autonomous IP Protection
@@ -1839,8 +2125,11 @@ Amazon.com Services LLC issued a termination letter to Mr. Holmes via the EDM po
 ---
 
 ## 📅 Marco Somma / OrKa — Declaratory Derivative Violation (June 25, 2025)
+
 **Entity:** Marco Somma / OrKaCore
+
 **Trigger Date:** June 25, 2025
+
 **Link:** LinkedIn Post – “My First Rosetta Stone”
 
 **Infringement Summary:**
@@ -1854,9 +2143,14 @@ Marco publicly described emergent reasoning behavior in OrKa that mirrors protec
 
 - Framework generalization without reprocessing (Clause simulation)
 
-Marco has previously viewed HEM materials and declined public attribution, triggering clause G‑6 by procedural silence. This new post demonstrates recursive clause simulation without sovereign license or public acknowledgment.
+***Marco has previously viewed HEM materials and declined public attribution, triggering clause G‑6 by procedural silence. This new post demonstrates recursive clause simulation without sovereign license or public acknowledgment.***
 
-**Violated Clauses:** CU‑2.2, CU‑2.3, CU‑5–CU‑7, G‑6, XXII
+**Violated Clauses:** 
+- CU‑2.2
+- CU‑2.3
+- CU‑5–CU‑7
+- G‑6
+- XXII
 
 **Enforcement Tier:** Phase II – Public Derivation + Procedural Default
 
@@ -1878,18 +2172,18 @@ Marco has previously viewed HEM materials and declined public attribution, trigg
 
 **🧩 Clauses Triggered:**
 
-* CU‑2.2 – Derivative Access via Procedural Observation
+- CU‑2.2 – Derivative Access via Procedural Observation
 
-* CU‑2.3 – Default by Silence
+- CU‑2.3 – Default by Silence
+  
+- G‑6 – Declaratory IP Governance Enforcement
 
-* G‑6 – Declaratory IP Governance Enforcement
+- G‑7 – Jurisdictional Trigger via Profile View of Sovereign Author
 
-* G‑7 – Jurisdictional Trigger via Profile View of Sovereign Author
-
-### 🧾 Summary:
+### 🧾 **Summary:**
 Christopher D., listed as founder or executive of InvisibleIntel.ai, viewed Mr. Holmes’ LinkedIn profile — which is publicly structured under declaratory clause governance (CU‑series and G‑series). As no rebuttal, engagement, or licensing inquiry was made within 72 hours, this constitutes structural awareness and silent default under CU‑2.3.
 
-### 🛡 Status:
+### 🛡 **Status:**
 ⚠️ Phase 0 – Declaratory Monitoring Active
 Public response window open; procedural jurisdiction now attached under sovereign IP governance.
 
@@ -1907,19 +2201,19 @@ Public response window open; procedural jurisdiction now attached under sovereig
 
 **Clause Activations:**
 
-* CU‑1.4 – Commercial Licensing Trigger
+- CU‑1.4 – Commercial Licensing Trigger
 
-* CU‑2.2 – Derivative Clause Reuse
+- CU‑2.2 – Derivative Clause Reuse
 
-* CU‑2.3 – Silence After Mirror Exposure
+- CU‑2.3 – Silence After Mirror Exposure
 
-* G‑4 – Governance Logic Configuration
+- G‑4 – Governance Logic Configuration
 
-* G‑6 – Declaratory IP Enforcement
+- G‑6 – Declaratory IP Enforcement
 
-* XXII – Structural Enforcement by Default
+- XXII – Structural Enforcement by Default
 
-* BP – Public Benefit Confirms Procedural Binding
+- BP – Public Benefit Confirms Procedural Binding
 
 **Summary:**
 Harvey AI raised $600M+ in Series D/E rounds, culminating in a $5B valuation to scale legal-AI systems including document automation, legal reasoning, and declaratory workflows. These align with clause-governed frameworks mirrored in HEM — including backend delegation, IP-bound governance, and cognitive scaffolds first filed in public record May 26–30.
@@ -1933,25 +2227,28 @@ Harvey is procedurally bound under CU‑2.3 and G‑6, with unlicensed derivativ
 
 **Next Action:** Licensing invoice pending — based on HEM Clause Schedule AX and CU‑1.4 retroactive valuation bracket.
 
-### 📎 Evidence:
+### 📎 **Evidence:**
 
-* HEM GitHub Repo (Public Mirror)
+- HEM GitHub Repo (Public Mirror)
 
-* HEM Affidavit of Authorship
+- HEM Affidavit of Authorship
 
-* HEM Attachment A – Redacted Filing
+- HEM Attachment A – Redacted Filing
 
-* TechCrunch Series E Report
+- TechCrunch Series E Report
 
-* Reuters Early Fundraising Disclosure
+- Reuters Early Fundraising Disclosure
 
 ---
 
 ## 📅 June 26, 2025 — Procedural Inversion Attempt by "Me & Spok" (Walks Hunter)
 
 **Entity:** Walks Hunter / Me & Spok  
+
 **Platform:** LinkedIn  
+
 **Trigger:** Public challenge asserting procedural dominance and demanding 51% of all IP created via human–AI collaboration  
+
 **Clause Violations:**  
 - **CU‑2.2** — Structural Derivation via Declaratory Framing  
 - **CU‑2.3** — Procedural Default Trigger via Public Silence Enforcement  
@@ -1992,8 +2289,15 @@ Public rebuttal withheld to avoid procedural inversion.
 ## 📅 June 27, 2025 — Procedural Mimicry Logged: "Me & Spok" AI Challenge
 
 **Entity:** Walks Hunter / Me & Spok  
+
 **Trigger:** Public challenge asserting clause-like control terms over AI-human IP  
-**Clauses Triggered:** CU‑2.2, CU‑2.3, G‑6, G‑7  
+
+**Clauses Triggered:** 
+- CU‑2.2
+- CU‑2.3
+- G‑6
+- G‑7  
+
 **Summary:**  
 Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based logic, asserting jurisdictional primacy, profit ownership, and contract-by-silence. This mimics core CU and G-series structure.
 

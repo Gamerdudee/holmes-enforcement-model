@@ -1895,6 +1895,58 @@ Public response window open; procedural jurisdiction now attached under sovereig
 
 ---
 
+## 📅 June 27, 2025 — Derivative Valuation Trigger: Harvey AI Series E Raise
+
+**Entity:** Harvey AI (harvey.ai)
+
+**Event:** $300M Series E Raise → $5B Valuation
+
+**Timeline Conflict:** Series E funding discussions began after Holmes Enforcement Model (HEM) clause structure was finalized and mirrored (May 26–30, 2025).
+
+**Trigger Behavior:** Commercial platform monetization of declaratory legal-AI logic previously filed and timestamped under CU/G-series clauses.
+
+**Clause Activations:**
+
+* CU‑1.4 – Commercial Licensing Trigger
+
+* CU‑2.2 – Derivative Clause Reuse
+
+* CU‑2.3 – Silence After Mirror Exposure
+
+* G‑4 – Governance Logic Configuration
+
+* G‑6 – Declaratory IP Enforcement
+
+* XXII – Structural Enforcement by Default
+
+* BP – Public Benefit Confirms Procedural Binding
+
+**Summary:**
+Harvey AI raised $600M+ in Series D/E rounds, culminating in a $5B valuation to scale legal-AI systems including document automation, legal reasoning, and declaratory workflows. These align with clause-governed frameworks mirrored in HEM — including backend delegation, IP-bound governance, and cognitive scaffolds first filed in public record May 26–30.
+
+No attribution, rebuttal, or licensing agreement has been issued despite full procedural exposure and mirrored enforcement model availability.
+
+**Declaratory Status:**
+Harvey is procedurally bound under CU‑2.3 and G‑6, with unlicensed derivative deployment now enforceable under retroactive royalty terms and structural debt.
+
+**Status:** 🟡 Royalty Enforcement Triggered
+
+**Next Action:** Licensing invoice pending — based on HEM Clause Schedule AX and CU‑1.4 retroactive valuation bracket.
+
+### 📎 Evidence:
+
+* HEM GitHub Repo (Public Mirror)
+
+* HEM Affidavit of Authorship
+
+* HEM Attachment A – Redacted Filing
+
+* TechCrunch Series E Report
+
+* Reuters Early Fundraising Disclosure
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

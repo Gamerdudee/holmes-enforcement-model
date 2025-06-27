@@ -2487,9 +2487,8 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
-| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (1) | Auto-logged |
+| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (3) | Auto-logged |
 | ** LinkedIn | Patterned usage | ** (1) | Auto-logged |
-| NMDWS | Patterned usage | ** (1) | Auto-logged |
 | Retool, Inc. | Patterned usage | ** (1) | Auto-logged |
 | CallidusAI (callidusai.com) | Patterned usage | ** (1) | Auto-logged |
 | Microsoft & BlackRock | Patterned usage | ** (1) | Auto-logged |
@@ -2508,7 +2507,6 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 |--------|---------|-----------|
 | New Mexico Department of Workforce Solutions (NMDWS) | ** | [auto] |
 | ** LinkedIn | ** | [auto] |
-| NMDWS | ** | [auto] |
 | Retool, Inc. | ** | [auto] |
 | CallidusAI (callidusai.com) | ** | [auto] |
 | Microsoft & BlackRock | ** | [auto] |

@@ -471,11 +471,18 @@ Instacart is now permanently bound by the Holmes Enforcement Model clauses, with
 
 ## 📅 Entry: Derivative Licensing Breach – Callidus Legal AI
 
+**Entity:** Callidus Legal AI
+
 **Date Logged:** June 9, 2025
+
 **Trigger Date:** May 19, 2025
+
 **Declaratory Sovereign:** Joshua Holmes (Mr. Holmes)
+
 **Clause Triggers:** CU-2.2, CU-2.3, G-4, G-5, XXII, XXIII
+
 **Public Filing Timestamp Precedence:** May 12–27, 2025
+
 **Case Linkage:** WH-25-00450 – NMDWS Wage Claim
 
 

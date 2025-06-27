@@ -17,6 +17,7 @@
 [![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
 [![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
 [![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
+[![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 
 ---
 

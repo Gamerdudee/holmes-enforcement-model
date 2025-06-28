@@ -24,3 +24,4 @@
   "author": "Joshua Holmes",
   "license": "Declaratory Sovereign License"
 }
+npm install && npm i --package-lock-only

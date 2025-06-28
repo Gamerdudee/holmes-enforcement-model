@@ -2464,6 +2464,7 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 | OpenAI, Inc. | Patterned usage | None | Auto-logged |
 | Amazon | Patterned usage | None | Auto-logged |
 | Walks Hunter / Me & Spok | Patterned usage | None | Auto-logged |
+| public content deletion. | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
 
 ## ⏱ Auto Trigger Timeline
 
@@ -2481,11 +2482,14 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 | OpenAI, Inc. | None | June 21, 2025 |
 | Amazon | None | June 25, 2025 |
 | Walks Hunter / Me & Spok | None | June 27, 2025 |
+| public content deletion. | | Amount, Status                      | | [auto] |
 
 ## 📈 Clause Usage Summary
 
 | Clause | Count |
 |--------|-------|
+| | Amount | 1 |
+| Status                      | | 1 |
 
 
 <!-- END: AutoTables -->

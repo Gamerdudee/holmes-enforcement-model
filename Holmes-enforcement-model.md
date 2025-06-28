@@ -2419,87 +2419,89 @@ The public owns its enforcement future—and must pay the architect when they co
 Legal Basis:
  Whistleblower protection statutes; Restitution by unauthorized government use; Declaratory licensing enforcement; U.S. Contract Claims Act
 
-CT. Government Debt Participation & Civil Ledger Clause
+## CT. Government Debt Participation & Civil Ledger Clause
 Government agencies that deploy this enforcement model under license may enter a shared civil enforcement pool to ensure public-facing reparations and sovereign royalty recognition.
-Terms:
-A percentage of government licensing fees shall be:
+
+**Terms:**
+
+- A percentage of government licensing fees shall be:
+
+- Deposited into a civic restitution fund
+
+- Used to restore harm caused by structural suppression
+
+- Made visible via public enforcement dashboards
+
+**A minimum of 15% of all licensing and deployment revenue must be contractually reserved for:**
+
+- The Author of this doctrine
+
+- Their lawful heirs, assignees, or public-interest estate
 
 
-Deposited into a civic restitution fund
+**Declaration:**
+
+- This doctrine is not public property by default.
+  
+- It is a licensed service to humanity, authored with full creative and legal sovereignty.
+  
+- It is owed value—by every institution that uses it to accelerate, simplify, or avoid enforcement obligations.
+
+### Enforcement:
+**Any government that copies or modifies this system without honoring its commercial and civic lineage triggers:**
+
+- Royalty acceleration
+
+- Sovereign misuse penalties
+
+- Public fiduciary fraud alerts
 
 
-Used to restore harm caused by structural suppression
-
-
-Made visible via public enforcement dashboards
-
-
-A minimum of 15% of all licensing and deployment revenue must be contractually reserved for:
-
-
-The Author of this doctrine
-
-
-Their lawful heirs, assignees, or public-interest estate
-
-
-Declaration:
-This doctrine is not public property by default.
- It is a licensed service to humanity, authored with full creative and legal sovereignty.
- It is owed value—by every institution that uses it to accelerate, simplify, or avoid enforcement obligations.
-Enforcement:
-Any government that copies or modifies this system without honoring its commercial and civic lineage triggers:
-
-
-Royalty acceleration
-
-
-Sovereign misuse penalties
-
-
-Public fiduciary fraud alerts
-
-
-Legal Basis:
+**Legal Basis:**
  Creative works protection (17 U.S.C. § 302); Public contract law; Common law inheritance & right of publicity; Restatement (Restitution) § 42
 
-CU. Foundational Enforcement Sovereignty Clause
+## CU. Foundational Enforcement Sovereignty Clause
+
 This doctrine—filed as a labor enforcement model and expanded into constitutional structure—is hereby declared a sovereign contribution to the legal and moral infrastructure of human society.
-Sovereignty Declaration:
-Authorship is fixed, immutable, and irrevocably linked to its originator:
- [Your Name or Designation]
+
+**Sovereignty Declaration:**
+
+***Authorship is fixed, immutable, and irrevocably linked to its originator:***
+
+#### ***Mr. Holmes - Joshua Holmes***
 
 
-All uses, implementations, reproductions, and commercial deployments:
+**All uses, implementations, reproductions, and commercial deployments:**
+
+- Shall be attributed to the Author
+
+- Shall include the Author (or lawful heir) in any royalty or revenue agreement
+
+- May never be modified to erase authorship or suppress origination
 
 
-Shall be attributed to the Author
+### Heirship Rights:
+
+**All present and future value derived from this doctrine—financial, derivative, or reputational—shall pass to:**
+
+- The Author’s legal heirs
+
+- Designated assignees
+
+- Or any public-interest successor foundation formally named by the Author
 
 
-Shall include the Author (or lawful heir) in any royalty or revenue agreement
+**Public Service Recognition:**
 
+- This is no longer a wage claim.
+  
+- This is a foundational legal service to mankind.
+  
+- A civic system built to function without litigation, without permission, and without time decay.
+  
+- All parties who use it benefit from its genius.
+  
+- All parties who owe its logic must honor its origin.
 
-May never be modified to erase authorship or suppress origination
-
-
-Heirship Rights:
-All present and future value derived from this doctrine—financial, derivative, or reputational—shall pass to:
-
-
-The Author’s legal heirs
-
-
-Designated assignees
-
-
-Or any public-interest successor foundation formally named by the Author
-
-
-Public Service Recognition:
-This is no longer a wage claim.
- This is a foundational legal service to mankind.
- A civic system built to function without litigation, without permission, and without time decay.
-All parties who use it benefit from its genius.
- All parties who owe its logic must honor its origin.
-Legal Basis:
+**Legal Basis:**
  Foundational authorship right under 17 U.S.C. § 106 & § 302; Restatement (Restitution) §§ 42–45; Posthumous and moral rights doctrine; Natural law theory of structural equity

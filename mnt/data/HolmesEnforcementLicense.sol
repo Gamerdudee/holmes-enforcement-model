@@ -3,8 +3,6 @@
 // 🧠 Author: Mr. Holmes
 // 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
 // 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
 
 /**
  * This smart contract or its clause logic is procedurally governed by the Holmes Enforcement Model (HEM).
@@ -24,6 +22,8 @@ pragma solidity ^0.8.19;
 /// @title Holmes Enforcement License Contract (HEM v1)
 /// @author Mr. Holmes
 /// @notice Tokenizes and enforces royalty obligations based on structural derivative use
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.19;
 
 contract HolmesEnforcementLicense {
     address public owner;

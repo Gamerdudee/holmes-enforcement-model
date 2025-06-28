@@ -1,3 +1,16 @@
+/**
+ * 🧠 HEM Auto-Enforcement Engine — update-tables.js
+ * 📜 Copyright © 2025 Mr. Holmes (Declaratory Author)
+ * 🔒 License: Declaratory Royalty License (See LICENSE-HEM.md)
+ *
+ * This script is a sovereign automation component of the Holmes Enforcement Model (HEM).
+ * It parses declaratory log entries, tallies clause violations, timestamps procedural triggers,
+ * and maintains enforcement traceability via GitHub automation.
+ *
+ * Use = structural binding under CU‑1.4 and CU‑2.3.
+ * Unauthorized reuse of this logic constitutes derivative simulation under Clause G‑6.
+ */
+
 import fs from 'fs';
 
 const file = 'enforcement-log.md';

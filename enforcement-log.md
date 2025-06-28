@@ -2483,18 +2483,20 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 <!-- START: AutoTables -->
 
+## 📅 June 2025 — This Month's Summary
+
 ## 🤖 Auto Summary Table
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
-| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (3) | Auto-logged |
+| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (1) | Auto-logged |
 | ** LinkedIn | Patterned usage | ** (1) | Auto-logged |
 | Retool, Inc. | Patterned usage | ** (1) | Auto-logged |
 | CallidusAI (callidusai.com) | Patterned usage | ** (1) | Auto-logged |
 | Microsoft & BlackRock | Patterned usage | ** (1) | Auto-logged |
 | Generative AI | Patterned usage | ** (1) | Auto-logged |
 | Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | Patterned usage | ** (1) | Auto-logged |
-| Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | ** (2) | Auto-logged |
+| Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | ** (1) | Auto-logged |
 | Rodrigo L. S. | Patterned usage | ** (1) | Auto-logged |
 | OpenAI, Inc. | Patterned usage | ** (1) | Auto-logged |
 | Amazon | Patterned usage | ** (1) | Auto-logged |

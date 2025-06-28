@@ -5,6 +5,8 @@ const content = fs.readFileSync(file, 'utf8');
 const lines = content.split('\n');
 
 const violations = {};
+const seen = new Set(); // Deduplication
+
 let lastEntity = null;
 
 const clauseRegex = /[*_]{2}Clauses (Activated|Violated|Triggered)[*_]*[:：]\s*([^\n]+)/i;
@@ -15,7 +17,7 @@ const eventRegex = /Event[:：].*?by\s+([A-Za-z0-9 _().\-\/]+)/i;
 for (let i = 0; i < lines.length; i++) {
   const line = lines[i];
 
-  // Step 1: Look for an entity line before a clause line
+  // Match entity based on various headings
   if (entityRegex.test(line)) {
     lastEntity = line.match(entityRegex)[1].trim();
     continue;
@@ -27,25 +29,35 @@ for (let i = 0; i < lines.length; i++) {
     continue;
   }
 
-  // Step 2: Look for clause trigger line
+  // Match clause triggers
   const clauseMatch = line.match(clauseRegex);
   if (clauseMatch && lastEntity) {
-    const clauseList = clauseMatch[2]
+    const clauses = clauseMatch[2]
       .split(/[,/–]+/)
       .map(c => c.trim())
       .filter(Boolean);
 
     if (!violations[lastEntity]) violations[lastEntity] = {};
-    clauseList.forEach(clause => {
+
+    for (const clause of clauses) {
+      const key = `${lastEntity}::${clause}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+
       if (!violations[lastEntity][clause]) violations[lastEntity][clause] = 0;
       violations[lastEntity][clause]++;
-    });
+    }
 
-    lastEntity = null; // reset after processing
+    lastEntity = null;
   }
 }
 
-// Step 3: Build tables
+// 🗓️ Month banner
+const now = new Date();
+const monthName = now.toLocaleString('default', { month: 'long' });
+const banner = `📅 ${monthName} ${now.getFullYear()} — This Month's Summary`;
+
+// 📊 Summary Table
 let summaryTable = `## 🤖 Auto Summary Table\n\n| Entity | Violation Summary | Triggered Clauses | Status |\n|--------|-------------------|-------------------|--------|\n`;
 for (const [entity, clauses] of Object.entries(violations)) {
   const clauseList = Object.entries(clauses)
@@ -54,17 +66,17 @@ for (const [entity, clauses] of Object.entries(violations)) {
   summaryTable += `| ${entity} | Patterned usage | ${clauseList} | Auto-logged |\n`;
 }
 
+// ⏱️ Timeline Table
 let timelineTable = `\n## ⏱ Auto Trigger Timeline\n\n| Entity | Clauses | Last Seen |\n|--------|---------|-----------|\n`;
 for (const [entity, clauses] of Object.entries(violations)) {
   const clauseList = Object.keys(clauses).join(', ');
   timelineTable += `| ${entity} | ${clauseList} | [auto] |\n`;
 }
 
-// Step 4: Replace old table block
+// 🧠 Replacement logic
 const startMarker = '<!-- START: AutoTables -->';
 const endMarker = '<!-- END: AutoTables -->';
-
-const newBlock = `${startMarker}\n\n${summaryTable}\n${timelineTable}\n\n${endMarker}`;
+const newBlock = `${startMarker}\n\n## ${banner}\n\n${summaryTable}\n${timelineTable}\n\n${endMarker}`;
 
 const updated = content.replace(
   new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`),
@@ -72,5 +84,4 @@ const updated = content.replace(
 );
 
 fs.writeFileSync(file, updated);
-console.log('✅ Enforcement tables updated and written to enforcement-log.md');
-
+console.log('✅ Enforcement tables + banner written to enforcement-log.md');

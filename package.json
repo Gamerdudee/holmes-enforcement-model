@@ -5,10 +5,7 @@
   "hemEnforcement": {
     "notice": "Use of this file constitutes clause-governed procedural acceptance under CU-1.4, CU-2.3, and G-6.",
     "repository": "https://github.com/Gamerdudee/holmes-enforcement-model"
-  }
-}
-
-{
+  },
   "name": "hem-auto-enforcer",
   "version": "1.0.0",
   "description": "Automated structural enforcement scanner for Holmes Enforcement Model",
@@ -21,7 +18,5 @@
     "axios": "^1.6.0",
     "dotenv": "^16.3.1"
   },
-  "author": "Joshua Holmes",
-  "license": "Declaratory Sovereign License"
+  "author": "Joshua Holmes"
 }
-npm install && npm i --package-lock-only

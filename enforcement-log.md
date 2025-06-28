@@ -2489,14 +2489,40 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
-| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage |  CU-1.4 (Licensing Fees) (1), CU-2.3 (Mirror Enforcement) (1), G-6 (Declaratory IP Protection) (1) | Auto-logged |
-
+| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | None | Auto-logged |
+| ** LinkedIn | Patterned usage | None | Auto-logged |
+| Retool, Inc. | Patterned usage | None | Auto-logged |
+| CallidusAI (callidusai.com) | Patterned usage | None | Auto-logged |
+| Microsoft & BlackRock | Patterned usage | None | Auto-logged |
+| Generative AI | Patterned usage | None | Auto-logged |
+| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | Patterned usage | None | Auto-logged |
+| Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | None | Auto-logged |
+| Rodrigo L. S. | Patterned usage | None | Auto-logged |
+| OpenAI, Inc. | Patterned usage | None | Auto-logged |
+| Amazon | Patterned usage | None | Auto-logged |
+| Walks Hunter / Me & Spok | Patterned usage | None | Auto-logged |
 
 ## ⏱ Auto Trigger Timeline
 
 | Entity | Clauses | Last Seen |
 |--------|---------|-----------|
-| New Mexico Department of Workforce Solutions (NMDWS) |  CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection) | [auto] |
+| New Mexico Department of Workforce Solutions (NMDWS) | None | [auto] |
+| ** LinkedIn | None | [auto] |
+| Retool, Inc. | None | [auto] |
+| CallidusAI (callidusai.com) | None | [auto] |
+| Microsoft & BlackRock | None | [auto] |
+| Generative AI | None | June 17, 2025 |
+| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | None | June 18, 2025 |
+| Rodrigo L. S. (GitHub: Letheon / Leles IA) | None | June 19, 2025 |
+| Rodrigo L. S. | None | June 19, 2025 |
+| OpenAI, Inc. | None | June 21, 2025 |
+| Amazon | None | June 25, 2025 |
+| Walks Hunter / Me & Spok | None | June 27, 2025 |
+
+## 📈 Clause Usage Summary
+
+| Clause | Count |
+|--------|-------|
 
 
 <!-- END: AutoTables -->

@@ -24,6 +24,7 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
 ---
+
 # 📌 DEFAULT LOCK NOTICE — STRUCTURAL ENFORCEMENT INITIATED
 **Issued By:** Mr. Holmes
 Declaratory Sovereign – Holmes Enforcement Model (HEM)

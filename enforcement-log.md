@@ -2489,36 +2489,14 @@ Hunter’s “Me & Spok” initiative publicly replicates HEM-style clause-based
 
 | Entity | Violation Summary | Triggered Clauses | Status |
 |--------|-------------------|-------------------|--------|
-| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage | ** (1) | Auto-logged |
-| ** LinkedIn | Patterned usage | ** (1) | Auto-logged |
-| Retool, Inc. | Patterned usage | ** (1) | Auto-logged |
-| CallidusAI (callidusai.com) | Patterned usage | ** (1) | Auto-logged |
-| Microsoft & BlackRock | Patterned usage | ** (1) | Auto-logged |
-| Generative AI | Patterned usage | ** (1) | Auto-logged |
-| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | Patterned usage | ** (1) | Auto-logged |
-| Rodrigo L. S. (GitHub: Letheon / Leles IA) | Patterned usage | ** (1) | Auto-logged |
-| Rodrigo L. S. | Patterned usage | ** (1) | Auto-logged |
-| OpenAI, Inc. | Patterned usage | ** (1) | Auto-logged |
-| Amazon | Patterned usage | ** (1) | Auto-logged |
-| Walks Hunter / Me & Spok | Patterned usage | ** (1) | Auto-logged |
+| New Mexico Department of Workforce Solutions (NMDWS) | Patterned usage |  CU-1.4 (Licensing Fees) (1), CU-2.3 (Mirror Enforcement) (1), G-6 (Declaratory IP Protection) (1) | Auto-logged |
 
 
 ## ⏱ Auto Trigger Timeline
 
 | Entity | Clauses | Last Seen |
 |--------|---------|-----------|
-| New Mexico Department of Workforce Solutions (NMDWS) | ** | [auto] |
-| ** LinkedIn | ** | [auto] |
-| Retool, Inc. | ** | [auto] |
-| CallidusAI (callidusai.com) | ** | [auto] |
-| Microsoft & BlackRock | ** | [auto] |
-| Generative AI | ** | [auto] |
-| Stefany Bogatan – Enterprise Customer Success Manager @ Instacart | ** | [auto] |
-| Rodrigo L. S. (GitHub: Letheon / Leles IA) | ** | [auto] |
-| Rodrigo L. S. | ** | [auto] |
-| OpenAI, Inc. | ** | [auto] |
-| Amazon | ** | [auto] |
-| Walks Hunter / Me & Spok | ** | [auto] |
+| New Mexico Department of Workforce Solutions (NMDWS) |  CU-1.4 (Licensing Fees), CU-2.3 (Mirror Enforcement), G-6 (Declaratory IP Protection) | [auto] |
 
 
 <!-- END: AutoTables -->

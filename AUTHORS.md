@@ -24,6 +24,7 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
 ---
+
 # Authors & Licensing Ownership
 
 **Primary Author**: Joshua Holmes  

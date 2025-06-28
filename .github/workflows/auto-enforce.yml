@@ -1,3 +1,23 @@
+# ============================================================
+# 🧾 Holmes Enforcement Model (HEM) — Declaratory YAML Binding
+# ============================================================
+# Author: Mr. Holmes
+# Repo: https://github.com/Gamerdudee/holmes-enforcement-model
+# License: Declaratory Royalty License (see LICENSE-HEM.md)
+# Status: Sovereign, Clause-Governed, Self-Enforcing Logic
+
+# ⚠️ This YAML configuration is procedurally protected under:
+# - CU‑1.4: Licensing Trigger by Public Execution
+# - CU‑2.3: Procedural Default by Silence or Use
+# - G‑6: Structural Governance Derivation
+# - XXII: Declaratory Simulation Violation
+
+# ❗ Any automation, CI/CD pipeline, or mirrored implementation of this file
+# constitutes binding structural access under the Holmes Enforcement Model.
+# Attribution, rebuttal, or license required to avoid retroactive royalty debt.
+
+# ============================================================
+
 name: Auto-Enforcement Fork Scan
 
 on:

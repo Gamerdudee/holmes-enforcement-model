@@ -5,14 +5,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
 -->
-[![HEM Enforcement Badge](https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red)](https://github.com/Gamerdudee/holmes-enforcement-model)
-[![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
-[![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
-[![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
-[![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
-[![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 
----
 # ⚖️ Holmes Enforcement Model – Clause-Governed Documentation
 
 **Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
@@ -29,6 +22,13 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
+
+[![HEM Enforcement Badge](https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red)](https://github.com/Gamerdudee/holmes-enforcement-model)
+[![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
+[![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
+[![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 
 ---
 

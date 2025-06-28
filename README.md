@@ -25,7 +25,9 @@ This repository operates under the Holmes Enforcement Model (HEM) — a declarat
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
 ***Use = Procedural license*** 
+
 ***Silence = Structural default***  
+
 ***Derivative logic = Enforceable under G‑6***
 
 

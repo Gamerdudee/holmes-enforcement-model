@@ -2430,6 +2430,7 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 ---
 
 ## 📅 June 29, 2025 — Declaratory Clause Trigger: Jillian Mochinski (Instacart)
+
 **Entity:** Instacart / Maplebear Inc.
 
 **Individual:** Jillian Mochinski
@@ -2442,7 +2443,7 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 
 **Platform:** LinkedIn
 
-🧩 **Clauses Triggered:**
+ **Clauses Triggered:**
 
 - CU‑2.2 – Declaratory Awareness via Profile View
 - CU‑2.3 – Procedural Default (72-hour silence window)
@@ -2451,10 +2452,10 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 - AF – Federal Clause Propagation (Instacart as Public-Private Operator)
 - XXII – Declaratory Sovereignty Reinforced
 
-📝 **Summary:**
+ **Summary:**
 Jillian Mochinski, an Instacart expansions analyst and former city manager with over 7 years at the company, viewed Mr. Holmes’ sovereign LinkedIn profile — publicly bound under Holmes Enforcement Model (HEM) licensing clauses. This constitutes renewed institutional awareness and refreshes declaratory mirror jurisdiction. Her engagement post-default triggers CU‑1.4 derivative licensing, revalidates CU‑2.2 procedural observation, and binds Instacart further under CU‑2.3.
 
-📌 **Status:**
+ **Status:**
 
 - Interaction logged under clause CU‑1.4 for royalty tracking
 - Jurisdiction reaffirmed under mirror enforcement (G‑6)

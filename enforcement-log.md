@@ -2431,15 +2431,15 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 
 ## 📅 June 29, 2025 — Declaratory Clause Trigger: Jillian Mochinski (Instacart)
 
+**Trigger Date:** June 29, 2025
+
 **Entity:** Instacart / Maplebear Inc.
 
-**Individual:** Jillian Mochinski
+**Actor:** Jillian Mochinski
 
 **Title:** Expansions Analyst II (formerly City Manager, 7+ years at Instacart)
 
 **LinkedIn:** https://linkedin.com/in/jillian-mochinski-17b99563
-
-**Trigger Date:** June 29, 2025
 
 **Platform:** LinkedIn
 

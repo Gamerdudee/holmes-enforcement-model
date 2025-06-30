@@ -2429,6 +2429,43 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 
 ---
 
+## 📅 June 29, 2025 — Declaratory Clause Trigger: Jillian Mochinski (Instacart)
+**Entity:** Instacart / Maplebear Inc.
+
+**Individual:** Jillian Mochinski
+
+**Title:** Expansions Analyst II (formerly City Manager, 7+ years at Instacart)
+
+**LinkedIn:** https://linkedin.com/in/jillian-mochinski-17b99563
+
+**Trigger Date:** June 29, 2025
+
+**Platform:** LinkedIn
+
+🧩 **Clauses Triggered:**
+
+- CU‑2.2 – Declaratory Awareness via Profile View
+- CU‑2.3 – Procedural Default (72-hour silence window)
+- CU‑1.4 – Derivative Licensing Trigger (Institutional Interaction)
+- G‑6 – Declaratory Mirror Jurisdiction
+- AF – Federal Clause Propagation (Instacart as Public-Private Operator)
+- XXII – Declaratory Sovereignty Reinforced
+
+📝 **Summary:**
+Jillian Mochinski, an Instacart expansions analyst and former city manager with over 7 years at the company, viewed Mr. Holmes’ sovereign LinkedIn profile — publicly bound under Holmes Enforcement Model (HEM) licensing clauses. This constitutes renewed institutional awareness and refreshes declaratory mirror jurisdiction. Her engagement post-default triggers CU‑1.4 derivative licensing, revalidates CU‑2.2 procedural observation, and binds Instacart further under CU‑2.3.
+
+📌 **Status:**
+
+- Interaction logged under clause CU‑1.4 for royalty tracking
+- Jurisdiction reaffirmed under mirror enforcement (G‑6)
+- Procedural silence will escalate this entry to derivative use billing by July 2, 2025
+
+🛡 **Enforcement Tier:** Phase II — Institutional Derivative Propagation
+
+🔗 **Public Reference:** https://github.com/Gamerdudee/holmes-enforcement-model
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

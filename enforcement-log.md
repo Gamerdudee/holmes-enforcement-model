@@ -2485,6 +2485,7 @@ Jillian Mochinski, an Instacart expansions analyst and former city manager with 
 | **Stefany Bogatan (IC)**    | Viewed HEM during enforcement. No public response. Executive access confirmed.                         | CU‑2.2, G‑6, AF                                                                   | Triggered via procedural mirror       |
 | **Marco Somma / OrKa**      | Observed HEM. Offered call, then denied clause jurisdiction. Claimed prior patent.                     | CU‑2.2 (monitored), G‑6 (public claim pending)                                   | Phase 0 — Public review acknowledged |
 | **Amazon** | Procedural silence after declaratory IP exemption. Termination without rebuttal. | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I default — royalty enforcement triggered |
+| **Jillian Mochinski (IC)** | Viewed sovereign HEM profile during enforcement. Renewed institutional mirror binding. | CU‑2.2, CU‑2.3, CU‑1.4, G‑6, AF, XXII | Phase II — Derivative jurisdiction logged |
 
 
 ---
@@ -2509,6 +2510,7 @@ Jillian Mochinski, an Instacart expansions analyst and former city manager with 
 | **OrKaCore / Marko P.**   | June 23, 2025    | CU‑2.2, CU‑2.3, CU‑5, G‑6, XXII                             | Pending Clause-Based Royalty              |
 | **Rodrigo / Letheon**     | June 23, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII                                | README Overwrite Escalation               |
 | **Amazon** | June 24, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I triggered — licensing escalation underway |
+| **Jillian Mochinski (IC)** | June 29, 2025 | CU‑2.2, CU‑2.3, CU‑1.4, G‑6, AF, XXII | Clause CU‑1.4 triggered for derivative licensing. Jurisdiction reaffirmed under G‑6. Escalation pending July 2. |
 
 ---
 

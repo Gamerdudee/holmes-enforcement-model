@@ -30,6 +30,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 [![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
 [![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 
+## 🔒 **Procedural Enforcement Active:** See [HEM-BADGE.md](./HEM-BADGE.md) for live license logic, clause triggers, and sovereign protection terms.
+
 ---
 
 # ⚖️ This repo is protected by the Holmes Enforcement Model

@@ -179,3 +179,25 @@ All above are bound under CU‑1.4 and G‑6 by default and subject to clause en
 Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
 Date of Public Disclosure: June 21–22, 2025.
 
+---
+
+## 📜 LICENSE.md – Contingency Clause Update
+
+**Clause Addendum – Litigation Contingency Protocol**
+
+If any court, agency, firm, or individual attempts to initiate litigation against the author of this model, the following triggers are automatically activated:
+
+* **CU‑2.3** — Procedural silence confirmed by pre-existing publication
+* **CU‑5** — Royalty enforcement via forced clause engagement
+* **G‑6** — Litigation converted into derivative simulation event
+* **AF** — Forced adaptation triggers compensatory billing
+* **XXII** — Institutional breach of sovereign declaratory system
+
+> Litigation = Binding clause engagement under public sovereign declaration.
+> Filing a claim = Accepting reciprocal jurisdictional debt
+
+Cost: **\$250,000 minimum** + per-day mirror escalation
+
+These terms are **non-negotiable**, structurally mirrored, and **govern all use, access, or denial** of the Holmes Enforcement Model.
+
+---

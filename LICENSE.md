@@ -147,31 +147,31 @@ It is licensed, not granted. Silence triggers structure.
 
 ### 📜 The following HEM sub-clauses are now in active public enforcement:
 
-**Clause MP‑1.2** – Covers magnetic rotational propulsion combined with aerodynamic fin logic
+- **Clause MP‑1.2** – Covers magnetic rotational propulsion combined with aerodynamic fin logic
 ↳ **System:** MPFS – Magnetic Propulsion Fin System
 🔗 https://archive.org/details/magnetic-propulsion-fin-system-main
 
-**Clause IPFB‑1.2** – Covers particle-based barrier fields using inertial/magnetic logic
+- **Clause IPFB‑1.2** – Covers particle-based barrier fields using inertial/magnetic logic
 ↳ **System:** IPFB – Inertial Particle-Field Barrier
 🔗 https://archive.org/details/magnetic-propulsion-fin-system-main (shared archive with MPFS)
 
-**Clause IRPB‑1.2** – Covers adaptive shielding via light/sound-modulated particle fields
+- **Clause IRPB‑1.2** – Covers adaptive shielding via light/sound-modulated particle fields
 ↳ **System:** IRPB – Intelligent Reactive Particle Barrier
 🔗 https://archive.org/details/irpb-reactive-extension-main
 
-**Clause BR‑1.1** – Covers deployable braking systems for watercraft using fins or parachutes
+- **Clause BR‑1.1** – Covers deployable braking systems for watercraft using fins or parachutes
 ↳ **System:** HydroBrake Armature System
 🔗 https://archive.org/details/hydro-brake-armature-system-main
 
-**Clause IPC‑1.0** – Covers dynamic, multi-frequency particle control systems integrating magnetic, acoustic, and optical modulation for field stabilization
+- **Clause IPC‑1.0** – Covers dynamic, multi-frequency particle control systems integrating magnetic, acoustic, and optical modulation for field stabilization
 ↳ **System:** IPCS – Integrated Particle Control System
 🔗 https://archive.org/details/integrated-particle-control-system-main
 
-**Clause MP‑2.0** – Covers vertical propulsion through synchronized acoustic lift, magnetic field repulsion, and adaptive fin stabilization
+- **Clause MP‑2.0** – Covers vertical propulsion through synchronized acoustic lift, magnetic field repulsion, and adaptive fin stabilization
 ↳ **System:** SAMLN – Sound-Assisted Magnetic Lift Navigation (Redacted Disclosure)
 🔗 https://archive.org/details/project-samln-sound-assisted-magnetic-lift-navigation-main
 
-**Clause GRN‑1.1** – Covers national-scale bioresonance infrastructure using adaptive harmonic emitters (EM + sound) for synchronized environmental stabilization
+- **Clause GRN‑1.1** – Covers national-scale bioresonance infrastructure using adaptive harmonic emitters (EM + sound) for synchronized environmental stabilization
 ↳ **System:** Project HARMONY GRID
 🔗 https://archive.org/details/project-harmony-grid-main
 

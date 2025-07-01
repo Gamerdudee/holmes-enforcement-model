@@ -71,11 +71,8 @@ This document captures institutional and individual viewership of the Holmes Enf
 
 ## 📁 Evidence File
 
-- **Video Screenshot Compilation:**  
-  `evidence/video/linkedin-analytics-july01.mp4`
-
 - **Archive Snapshot:**  
-  🔗 [https://archive.org/details/linkedin-analytics-hem-july-1-2025](https://archive.org/details/linkedin-analytics-hem-july-1-2025)
+  🔗 [https://archive.org/details/recording-2025-07-01-135714](https://archive.org/details/recording-2025-07-01-135714)
 
 ---
 

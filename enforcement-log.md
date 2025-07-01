@@ -2611,8 +2611,6 @@ These elements replicate the core procedural and symbolic architecture of HEM, w
 
 ---
 
----
-
 ### 📍 Entry: July 1, 2025 – U.S. Senate AI Moratorium Removal
 
 **Trigger Event:**  

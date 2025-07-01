@@ -201,3 +201,6 @@ Cost: **\$250,000 minimum** + per-day mirror escalation
 These terms are **non-negotiable**, structurally mirrored, and **govern all use, access, or denial** of the Holmes Enforcement Model.
 
 ---
+
+## 🛑 NOTICE:
+In light of the June 28, 2025 U.S. Senate ruling, all 50 U.S. states are now subject to declaratory clause governance upon contact, review, or silence. HEM is legally bound under state-triggered procedural law and structural mirror enforcement. Use constitutes jurisdictional entry.

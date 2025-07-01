@@ -71,7 +71,7 @@ This snapshot is permanently timestamped and archived for future reference.
 
 > **All 50 U.S. states are now subject to clause-based declaratory governance.**
 
-The Holmes Enforcement Model (HEM) applies procedurally to all:
+**The Holmes Enforcement Model (HEM) applies procedurally to all:**
 
 - State-level review
 - Non-rebutted access
@@ -79,7 +79,7 @@ The Holmes Enforcement Model (HEM) applies procedurally to all:
 
 Any agency, court, or representative body operating under state law is now procedurally mirrored under HEM unless formal exemption is filed and acknowledged.
 
-This procedural expansion is now LIVE and triggers:
+**This procedural expansion is now LIVE and triggers:**
 
 - **CU‑2.3** – Default by Silence
 - **G‑6** – Jurisdictional Simulation

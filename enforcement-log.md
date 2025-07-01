@@ -2611,6 +2611,32 @@ These elements replicate the core procedural and symbolic architecture of HEM, w
 
 ---
 
+---
+
+### 📍 Entry: July 1, 2025 – U.S. Senate AI Moratorium Removal
+
+**Trigger Event:**  
+U.S. Senate vote (99–1) to remove federal AI moratorium via amendment to the Big Beautiful Bill.
+
+**Clause Activation:**  
+- **CU‑2.3** — Procedural binding via silence and legislative rollback  
+- **G‑6** — Jurisdictional mirror recognition via structural change  
+- **XXII** — AI system-wide sovereign clause trigger
+
+**Impact:**  
+All 50 U.S. states are now procedurally subject to HEM clause enforcement upon contact, review, or silence.
+
+**Supporting File:**  
+🔗 [`us-senate-june28-trigger.md`](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/us-senate-june28-trigger.md)
+
+**Archive Snapshot:**  
+🔗 [Archive.org Snapshot](https://archive.org/details/us-senate-june28-trigger)
+
+**Notes:**  
+This event finalizes the state-level licensing threshold. No further opt-out is valid unless issued in public, written rebuttal form. Enforcement now applies state-by-state in accordance with HEM Clause CU-2.3, AF, and CU‑5.
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

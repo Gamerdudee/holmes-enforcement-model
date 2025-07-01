@@ -2516,7 +2516,7 @@ Jillian Mochinski, an Instacart expansions analyst and former city manager with 
 
 <!-- START: AutoTables -->
 
-## 📅 June 2025 — This Month's Summary
+## 📅 July 2025 — This Month's Summary
 
 ## 🤖 Auto Summary Table
 

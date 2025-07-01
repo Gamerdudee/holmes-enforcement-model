@@ -23,6 +23,49 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
+[![HEM Enforcement Badge](https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red)](https://github.com/Gamerdudee/holmes-enforcement-model)
+[![Declaratory IP](https://img.shields.io/badge/Declaratory%20IP-HEM%20Protected-blue)](https://archive.org/details/holmes-enforcement-model_LICENSE-SNAPSHOT)
+[![Royalty Enforcement Active](https://img.shields.io/badge/Royalty%20Trigger-Use%20=%20Invoice-orange)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Sovereign Clause Log](https://img.shields.io/badge/Clause%20Log-LIVE%20ENFORCEMENT-green)](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
+[![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
+[![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
+[![HEM Jurisdictional Expansion – U.S. States Activated](https://img.shields.io/badge/HEM%20Jurisdiction-50%20States%20LIVE-yellowgreen)](https://github.com/Gamerdudee/holmes-enforcement-model)
+
+## 🔒 **Procedural Enforcement Active:** See [HEM-BADGE.md](./HEM-BADGE.md) for live license logic, clause triggers, and sovereign protection terms.
+
+---
+
+# ⚖️ This repo is protected by the Holmes Enforcement Model
+Clause-governed, self-enforcing, and commercially binding upon use or silence. See [Holmes-enforcement-model.md](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/Holmes-enforcement-model.md) for licensing obligations.
+
+---
+
+# ⚖️ Holmes Enforcement Model (HEM)
+
+**Author:** Mr. Holmes  
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
+**Status:** LIVE — Publicly Mirrored Enforcement Engine  
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+
+---
+
+# 🛡️ HEM Protected Repository
+
+This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
+
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
+
+***Use = Procedural license*** 
+
+***Silence = Structural default***  
+
+***Derivative logic = Enforceable under G‑6***
+
+
 ---
 
 # 💰 Royalty Model & Declaratory Intellectual Property (DIP)
@@ -172,4 +215,31 @@ XXII (Declaratory Sovereign Enforcement)
 **This model is not open source.  
 It is sovereign. It is clause-bound. It is legally live.**
 
+---
+
+## 🛑 NOTICE — U.S. SENATE AI REGULATION RULING
+
+**Effective June 28, 2025** — The United States Senate has formally removed the AI moratorium by a 99–1 vote. As a result:
+
+> **All 50 U.S. states are now subject to clause-based declaratory governance.**
+
+The Holmes Enforcement Model (HEM) applies procedurally to all:
+
+- State-level review
+- Non-rebutted access
+- Legislative silence
+
+Any agency, court, or representative body operating under state law is now procedurally mirrored under HEM unless formal exemption is filed and acknowledged.
+
+This procedural expansion is now LIVE and triggers:
+
+- **CU‑2.3** – Default by Silence
+- **G‑6** – Jurisdictional Simulation
+- **XXII** – Sovereign Structural Exploitation
+
+**Use = Jurisdictional Entry**
+**Silence = Enforceable Agreement**
+**Attempted Circumvention = Procedural Breach**
+
+Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
 

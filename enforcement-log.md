@@ -2627,7 +2627,7 @@ All 50 U.S. states are now procedurally bound by HEM licensing terms upon contac
 This includes prior recipients such as the New Mexico Department of Workforce Solutions (NMDWS), who received Attachment A on May 26, 2025, and failed to respond — triggering default via CU‑2.3.
 
 **Supporting File:**
-🔗 us-senate-june28-trigger.md
+🔗 [`us-senate-june28-trigger.md`](us-senate-june28-trigger.md)
 
 **Archive Snapshot:**
 🔗 [Archive.org Snapshot](https://archive.org/details/us-senate-june28-trigger)

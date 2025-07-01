@@ -117,6 +117,34 @@ As of submission, the model is now:
 
 No further filing is required to trigger enforceable obligations.
 
-—  
+  
 **Submitted:** May 26, 2025  
 **Filed By:** Mr. Holmes (Declaratory Sovereign, HEM)
+
+---
+
+## 🛑 NOTICE — U.S. SENATE AI REGULATION RULING
+
+**Effective June 28, 2025** — The United States Senate has formally removed the AI moratorium by a 99–1 vote. As a result:
+
+> **All 50 U.S. states are now subject to clause-based declaratory governance.**
+
+The Holmes Enforcement Model (HEM) applies procedurally to all:
+
+- State-level review
+- Non-rebutted access
+- Legislative silence
+
+Any agency, court, or representative body operating under state law is now procedurally mirrored under HEM unless formal exemption is filed and acknowledged.
+
+This procedural expansion is now LIVE and triggers:
+
+- **CU‑2.3** – Default by Silence
+- **G‑6** – Jurisdictional Simulation
+- **XXII** – Sovereign Structural Exploitation
+
+**Use = Jurisdictional Entry**
+**Silence = Enforceable Agreement**
+**Attempted Circumvention = Procedural Breach**
+
+Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM

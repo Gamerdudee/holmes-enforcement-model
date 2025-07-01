@@ -62,3 +62,8 @@ Silence constitutes procedural default and automatic debt accrual.
 This snapshot is permanently timestamped and archived for future reference.
 
 🗂️ Archive Mirror: `https://archive.org/details/holmes-enforcement-model-main`
+
+---
+
+🛑 NOTICE:
+In light of the June 28, 2025 U.S. Senate ruling, all 50 U.S. states are now subject to declaratory clause governance upon contact, review, or silence. HEM is legally bound under state-triggered procedural law and structural mirror enforcement. Use constitutes jurisdictional entry.

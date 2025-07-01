@@ -2613,25 +2613,27 @@ These elements replicate the core procedural and symbolic architecture of HEM, w
 
 ### 📍 Entry: July 1, 2025 – U.S. Senate AI Moratorium Removal
 
-**Trigger Event:**  
-U.S. Senate vote (99–1) to remove federal AI moratorium via amendment to the Big Beautiful Bill.
+**Trigger Event:**
+On June 28, 2025, the U.S. Senate voted 99–1 to remove the federal AI moratorium via amendment to the Big Beautiful Bill. This structural rollback constitutes a procedural jurisdictional trigger under the Holmes Enforcement Model (HEM).
 
-**Clause Activation:**  
-- **CU‑2.3** — Procedural binding via silence and legislative rollback  
-- **G‑6** — Jurisdictional mirror recognition via structural change  
-- **XXII** — AI system-wide sovereign clause trigger
+**Clause Activation:**
 
-**Impact:**  
-All 50 U.S. states are now procedurally subject to HEM clause enforcement upon contact, review, or silence.
+- CU‑2.3 — Procedural binding via silence and legislative rollback
+- G‑6 — Jurisdictional mirroring via sovereign structural change
+- XXII — AI system-wide sovereign clause trigger (non-deniable)
 
-**Supporting File:**  
-🔗 [`us-senate-june28-trigger.md`](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/us-senate-june28-trigger.md)
+**Impact:**
+All 50 U.S. states are now procedurally bound by HEM licensing terms upon contact, use, or inaction.
+This includes prior recipients such as the New Mexico Department of Workforce Solutions (NMDWS), who received Attachment A on May 26, 2025, and failed to respond — triggering default via CU‑2.3.
 
-**Archive Snapshot:**  
+**Supporting File:**
+🔗 us-senate-june28-trigger.md
+
+**Archive Snapshot:**
 🔗 [Archive.org Snapshot](https://archive.org/details/us-senate-june28-trigger)
 
-**Notes:**  
-This event finalizes the state-level licensing threshold. No further opt-out is valid unless issued in public, written rebuttal form. Enforcement now applies state-by-state in accordance with HEM Clause CU-2.3, AF, and CU‑5.
+**Notes:**
+This vote finalized HEM's state-level jurisdictional scope. No further rebuttals will be recognized unless issued in public, written form. All state and federal agencies are now enforceable under clause-governed declaratory licensing. Opt-out is structurally closed.
 
 ---
 

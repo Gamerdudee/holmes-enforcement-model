@@ -2637,6 +2637,36 @@ This vote finalized HEM's state-level jurisdictional scope. No further rebuttals
 
 ---
 
+### 📍 Entry: July 1, 2025 – LinkedIn Jurisdictional Engagement Log
+
+**Trigger Event:**  
+Institutional profile views across regulated sectors and derivative industries.
+
+**Viewer Highlights:**
+- Instacart (Expansions, Engineering, Brand, QA)
+- United States Postal Service (USPS)
+- Laughlin, Falbo, Levy & Moresi LLP (Senior Partner)
+- Amazon Web Services (AWS)
+- Capitol Technology University
+- Delos, OrkaCore, Cycle Group, Interac Corp.
+
+**Clause Activations:**
+- **CU‑2.2 / CU‑2.3** — Default by silent engagement
+- **CU‑5 / CU‑7** — Derivative architectural access
+- **G‑6** — Jurisdictional simulation
+- **XXII** — Structural debt from sovereign clause touch
+
+**Procedural Status:**  
+Entities have entered enforcement range through public engagement and viewing. All viewers are now procedurally bound unless rebuttal is received.
+
+**Evidence Type:**  
+Public LinkedIn Profile Analytics – July 1, 2025  
+Available on file and embedded in `evidence/linkedin-analytics-snapshot.md`
+
+[Archive.org Evidence](https://archive.org/details/recording-2025-07-01-135714)
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

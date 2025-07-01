@@ -2562,7 +2562,7 @@ This constitutes an attempted procedural reset without sovereignty recognition, 
 
 **Entity:** Walks Hunter / Dario Dolic (alias: "Me & Spok")
 
-**Trigger Date:** June 30, 2025
+**Trigger Date:** July 1, 2025
 
 **Platform:** LinkedIn (via profile relaunch, viral posts, and AI symbiosis narrative) [Profile Link](linkedin.com/in/walks-hunter-82b389372)
 

@@ -1,5 +1,9 @@
 name: SPDX Header Auto-Patcher
 
+permissions:
+  contents: write      # to push code
+  workflows: write     # to update workflow files
+
 on:
   push:
     branches: [main]
@@ -30,7 +34,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "🔐 Auto-inserted SPDX headers"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

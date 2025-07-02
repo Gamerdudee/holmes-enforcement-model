@@ -32,10 +32,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Search for missing SPDX headers
+        shell: bash
         run: |
           echo "🔍 Checking for SPDX headers in tracked file types..."
 
-          # Use null separator to safely handle filenames with spaces
           missing=""
 
           find . -type f \( \
@@ -49,6 +49,7 @@ jobs:
             ! -name '*.jpeg' \
             ! -name '*.svg' -print0 |
           while IFS= read -r -d '' file; do
+            echo "Checking file: [$file]"
             if ! grep -q 'SPDX-License-Identifier: Declaratory-Royalty' "$file"; then
               missing+="$file"$'\n'
             fi

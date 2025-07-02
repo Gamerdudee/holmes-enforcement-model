@@ -6,6 +6,14 @@ SPDX-License-Identifier: Declaratory-Royalty
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
 -->
 
+---
+
+# 🙌 Supporters
+See who’s helping power the future of sovereign IP governance:  
+→ [Supporters.md](Supporters/supporters.md)
+
+---
+
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
 **Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
@@ -630,3 +638,5 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+
+

@@ -31,17 +31,33 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Search for missing SPDX headers
-        run: |
-          echo "Checking for SPDX headers in tracked file types..."
-          missing_files=$(grep -L 'SPDX-License-Identifier: Declaratory-Royalty' $(find . \( -name '*.md' -o -name '*.sol' -o -name '*.json' -o -name '*.js' -o -name '*.ts' -o -name '*.cjs' -o -name '*.sh' -o -name '*.py' \) | grep -vE '(\.git/|\.github/|\.env|\.gitignore|\.png|\.jpg|\.jpeg|\.svg)'))
+    - name: Search for missing SPDX headers
+  run: |
+    echo "🔍 Checking for SPDX headers in tracked file types..."
 
-          if [ -n "$missing_files" ]; then
-            echo "\n🚨 Files missing SPDX headers:\n"
-            echo "$missing_files"
-            echo "\nPlease add the following line at the top of each missing file:"
-            echo "// SPDX-License-Identifier: Declaratory-Royalty"
-            exit 1
-          else
-            echo "✅ All applicable files contain SPDX headers."
-          fi
+    # Find all target files, excluding hidden/system files and images
+    files=$(find . \
+      -type f \( -name '*.md' -o -name '*.sol' -o -name '*.json' -o -name '*.js' -o -name '*.ts' -o -name '*.cjs' -o -name '*.sh' -o -name '*.py' \) \
+      ! -path './.git/*' ! -path './.github/*' ! -name '*.png' ! -name '*.jpg' ! -name '*.jpeg' ! -name '*.svg')
+
+    # Initialize missing list
+    missing=""
+
+    # Check each file individually to avoid grep exit code 2
+    for file in $files; do
+      if ! grep -q 'SPDX-License-Identifier: Declaratory-Royalty' "$file"; then
+        missing+="$file"$'\n'
+      fi
+    done
+
+    if [ -n "$missing" ]; then
+      echo ""
+      echo "🚨 Files missing SPDX headers:"
+      echo "$missing"
+      echo ""
+      echo "⚠️ Please add this line to the top of each file:"
+      echo "// SPDX-License-Identifier: Declaratory-Royalty"
+      exit 1
+    else
+      echo "✅ All applicable files contain SPDX headers."
+    fi

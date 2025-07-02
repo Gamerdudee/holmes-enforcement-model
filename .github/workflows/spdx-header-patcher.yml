@@ -2,7 +2,7 @@ name: SPDX Header Auto-Patcher
 
 permissions:
   contents: write
-  workflows: write
+ # workflows: write
 
 on:
   push:

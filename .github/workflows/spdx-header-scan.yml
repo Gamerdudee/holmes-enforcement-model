@@ -1,51 +1,33 @@
-name: SPDX Header Audit
+name: Check for SPDX headers
 
 on:
   push:
-    paths:
-      - '**.md'
-      - '**.sol'
-      - '**.json'
-      - '**.js'
-      - '**.ts'
-      - '**.cjs'
-      - '**.sh'
-      - '**.py'
+    branches: [ main ]
   pull_request:
-    paths:
-      - '**.md'
-      - '**.sol'
-      - '**.json'
-      - '**.js'
-      - '**.ts'
-      - '**.cjs'
-      - '**.sh'
-      - '**.py'
+    branches: [ main ]
 
 jobs:
-  check-spdx-headers:
+  check-spdx:
     runs-on: ubuntu-latest
-    name: Check for SPDX headers
-
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Check for SPDX headers in tracked file types
+      - name: Check for SPDX headers in tracked files
         run: |
-          echo "🔍 Scanning for SPDX headers in existing files..."
+          echo "🔍 Scanning for SPDX headers..."
+          MISSING=0
           FILES=$(git ls-files '*.md' '*.yml' '*.py' '*.js' '*.ts' '*.html' '*.css')
-          MISSING_SPFX=0
           for file in $FILES; do
-          if ! grep -q "SPDX-License-Identifier:" "$file"; then
-            echo "🚫 Missing SPDX header in: $file"
-            MISSING_SPFX=1
-          fi
+            if ! grep -q "SPDX-License-Identifier:" "$file"; then
+              echo "🚫 Missing SPDX header in: $file"
+              MISSING=1
+            fi
           done
-          if [ "$MISSING_SPFX" -ne 0 ]; then
-          echo "❌ Some files are missing SPDX headers."
-          exit 1
-          else
-          echo "✅ All checked files include SPDX headers."
-          fi
 
+          if [ "$MISSING" -ne 0 ]; then
+            echo "❌ Some files are missing SPDX headers. Fix and retry."
+            exit 1
+          else
+            echo "✅ All files passed SPDX header check."
+          fi

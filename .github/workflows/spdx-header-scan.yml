@@ -35,23 +35,24 @@ jobs:
         run: |
           echo "🔍 Checking for SPDX headers in tracked file types..."
 
-          # Find all target files, excluding hidden/system files and image formats
-          files=$(find . \
+          # Safely find and handle file names, allowing for spaces
+          IFS=$'\n'
+          files=($(find . \
             -type f \( -name '*.md' -o -name '*.sol' -o -name '*.json' -o -name '*.js' -o -name '*.ts' -o -name '*.cjs' -o -name '*.sh' -o -name '*.py' \) \
             ! -path './.git/*' \
             ! -path './.github/*' \
             ! -name '*.png' \
             ! -name '*.jpg' \
             ! -name '*.jpeg' \
-            ! -name '*.svg')
+            ! -name '*.svg'))
 
-          # Initialize missing file list
           missing=""
 
-          # Check each file individually
-          for file in $files; do
-            if ! grep -q 'SPDX-License-Identifier: Declaratory-Royalty' "$file"; then
-              missing+="$file"$'\n'
+          for file in "${files[@]}"; do
+            if [ -f "$file" ]; then
+              if ! grep -q 'SPDX-License-Identifier: Declaratory-Royalty' "$file"; then
+                missing+="$file"$'\n'
+              fi
             fi
           done
 
@@ -66,4 +67,3 @@ jobs:
           else
             echo "✅ All applicable files contain SPDX headers."
           fi
-

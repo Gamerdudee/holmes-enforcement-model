@@ -1,0 +1,36 @@
+name: SPDX Header Auto-Patcher
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  spdx-patcher:
+    runs-on: ubuntu-latest
+    name: Auto-insert SPDX headers
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🛠️ Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📦 Install Dependencies (if any)
+        run: npm install || true
+
+      - name: 🔍 Run SPDX Header Patcher
+        run: node spdx-patcher.js
+
+      - name: ✅ Commit & Push Changes (if any)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

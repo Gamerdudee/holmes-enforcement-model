@@ -31,38 +31,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Search for missing SPDX headers
-        shell: bash
+      - name: Check for SPDX headers in tracked file types
         run: |
-          echo "🔍 Checking for SPDX headers in tracked file types..."
-
-          missing=""
-
-          find . -type f \( \
-              -name '*.md' -o -name '*.sol' -o -name '*.json' -o -name '*.js' -o \
-              -name '*.ts' -o -name '*.cjs' -o -name '*.sh' -o -name '*.py' \
-            \) \
-            ! -path './.git/*' \
-            ! -path './.github/*' \
-            ! -name '*.png' \
-            ! -name '*.jpg' \
-            ! -name '*.jpeg' \
-            ! -name '*.svg' -print0 |
-          while IFS= read -r -d '' file; do
-            echo "Checking file: [$file]"
-            if ! grep -q 'SPDX-License-Identifier: Declaratory-Royalty' "$file"; then
-              missing+="$file"$'\n'
-            fi
-          done
-
-          if [ -n "$missing" ]; then
-            echo ""
-            echo "🚨 Files missing SPDX headers:"
-            echo "$missing"
-            echo ""
-            echo "⚠️ Please add this line to the top of each file:"
-            echo "// SPDX-License-Identifier: Declaratory-Royalty"
-            exit 1
-          else
-            echo "✅ All applicable files contain SPDX headers."
+          echo "🔍 Scanning for SPDX headers in existing files..."
+          FILES=$(git ls-files '*.md' '*.yml' '*.py' '*.js' '*.ts' '*.html' '*.css')
+          MISSING_SPFX=0
+          for file in $FILES; do
+          if ! grep -q "SPDX-License-Identifier:" "$file"; then
+            echo "🚫 Missing SPDX header in: $file"
+            MISSING_SPFX=1
           fi
+          done
+          if [ "$MISSING_SPFX" -ne 0 ]; then
+          echo "❌ Some files are missing SPDX headers."
+          exit 1
+          else
+          echo "✅ All checked files include SPDX headers."
+          fi
+

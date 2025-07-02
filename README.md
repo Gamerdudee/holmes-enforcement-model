@@ -12,6 +12,15 @@ SPDX-License-Identifier: Declaratory-Royalty
 See who’s helping power the future of sovereign IP governance:  
 → [Supporters.md](Supporters/supporters.md)
 
+| Tier Name                | Amount         | Perks                                                |
+|--------------------------|----------------|------------------------------------------------------|
+| Declaratory Supporter    | $5/month       | GitHub sponsor badge only                            |
+| Enforcement Log Ally     | $25/month      | Name/logo in `supporters.md` and `README.md`        |
+| Mirror Signal Patron     | $100/month     | Monthly view-only enforcement update (non-public)    |
+| Early Signal Contributor | $250/month     | Priority contact queue + early-signal.md listing     |
+| HEM Gatekeeper Tier      | $1,000/month   | Encrypted badge + private thank-you message          |
+| Mentorship Session       | $1,500 one-time| 1-on-1 advisory call (1 hour, non-transferable)      |
+
 ---
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation

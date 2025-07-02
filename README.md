@@ -5,6 +5,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
 -->
+![HEM Diagram](./HEM.png)
 
 ---
 

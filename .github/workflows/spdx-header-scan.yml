@@ -1,0 +1,47 @@
+name: SPDX Header Audit
+
+on:
+  push:
+    paths:
+      - '**.md'
+      - '**.sol'
+      - '**.json'
+      - '**.js'
+      - '**.ts'
+      - '**.cjs'
+      - '**.sh'
+      - '**.py'
+  pull_request:
+    paths:
+      - '**.md'
+      - '**.sol'
+      - '**.json'
+      - '**.js'
+      - '**.ts'
+      - '**.cjs'
+      - '**.sh'
+      - '**.py'
+
+jobs:
+  check-spdx-headers:
+    runs-on: ubuntu-latest
+    name: Check for SPDX headers
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Search for missing SPDX headers
+        run: |
+          echo "Checking for SPDX headers in tracked file types..."
+          missing_files=$(grep -L 'SPDX-License-Identifier: Declaratory-Royalty' $(find . \( -name '*.md' -o -name '*.sol' -o -name '*.json' -o -name '*.js' -o -name '*.ts' -o -name '*.cjs' -o -name '*.sh' -o -name '*.py' \) | grep -vE '(\.git/|\.github/|\.env|\.gitignore|\.png|\.jpg|\.jpeg|\.svg)'))
+
+          if [ -n "$missing_files" ]; then
+            echo "\n🚨 Files missing SPDX headers:\n"
+            echo "$missing_files"
+            echo "\nPlease add the following line at the top of each missing file:"
+            echo "// SPDX-License-Identifier: Declaratory-Royalty"
+            exit 1
+          else
+            echo "✅ All applicable files contain SPDX headers."
+          fi

@@ -1,8 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-
-// Your full SPDX header from the YAML file, preserving the comment style and line breaks
-const SPDX_HEADER = `# ============================================================
+# ============================================================
 # 🧾 Holmes Enforcement Model (HEM) — Declaratory YAML Binding
 # ============================================================
 # Author: Mr. Holmes
@@ -22,39 +18,41 @@ const SPDX_HEADER = `# =========================================================
 
 # ============================================================
 
-`;
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
 
-function walkDir(dir) {
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const fullPath = path.join(dir, entry.name);
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
 
-    // Skip .github/workflows directory entirely
-    if (fullPath.startsWith(path.join(process.cwd(), '.github/workflows'))) {
-      continue;
-    }
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-    if (entry.isDirectory()) {
-      walkDir(fullPath);
-    } else if (entry.isFile()) {
-      patchFile(fullPath);
-    }
-  }
-}
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
-function patchFile(filePath) {
-  const content = fs.readFileSync(filePath, 'utf8');
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  // Skip if SPDX header already present (to avoid duplicate insertions)
-  if (content.includes('Holmes Enforcement Model (HEM)') || content.includes('SPDX-License-Identifier')) {
-    return;
-  }
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
 
-  // Prepend SPDX header + newline to the file
-  const newContent = SPDX_HEADER + content;
-  fs.writeFileSync(filePath, newContent, 'utf8');
-  console.log(`🛠️ Inserting SPDX header into: ${filePath}`);
-}
+      - name: Upload site from ./docs/
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './docs'
 
-walkDir(process.cwd());
-
-console.log('✅ SPDX header patching complete.');
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

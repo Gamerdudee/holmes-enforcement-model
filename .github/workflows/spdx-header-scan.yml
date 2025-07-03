@@ -1,4 +1,4 @@
-name: SPDX Header Auto-Patcher
+name: SPDX Header Auto-Scanner
 
 permissions:
   contents: write
@@ -22,19 +22,19 @@ jobs:
         with:
           node-version: 18
 
-      - name: 📦 Install Dependencies (if any)
+      - name: 📦 Install Dependencies
         run: npm install || true
 
       - name: 🔍 Run SPDX Header Patcher
         run: node spdx-patcher.cjs
 
-      - name: 🔐 Commit and Push Changes
+      - name: 🔐 Commit and Push SPDX Header Updates
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
           git add .
           git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
           git push origin HEAD:main
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+
 

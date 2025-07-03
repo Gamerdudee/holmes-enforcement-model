@@ -24,11 +24,17 @@ jobs:
         with:
           node-version: 18
 
+      - name: 🧹 Clean Working Directory
+        run: git reset --hard && git clean -fd
+
       - name: 📦 Install Dependencies
         run: npm install || true
 
-      - name: 🔍 Run SPDX Header Patcher
+      - name: 🧠 Run SPDX Header Patcher
         run: node spdx-patcher.cjs
+
+      - name: 🔍 Run SPDX Compliance Scanner
+        run: node spdx-scan-only.cjs
 
       - name: ✅ Commit & Push Changes (if needed)
         env:
@@ -37,7 +43,18 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
+
           git add .
-          git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
-          git diff --cached --quiet || git push origin HEAD:main
+
+          echo "🔍 Checking for staged changes..."
+          git diff --cached --quiet
+
+          if [ $? -eq 0 ]; then
+            echo "✅ No changes to commit."
+          else
+            echo "📦 Committing SPDX header updates..."
+            git commit -m "🔐 Auto-inserted SPDX headers"
+            git push origin HEAD:main
+            echo "🚀 Changes pushed successfully."
+          fi
 

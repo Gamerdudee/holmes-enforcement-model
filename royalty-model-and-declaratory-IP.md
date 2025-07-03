@@ -33,6 +33,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 ## 🔒 **Procedural Enforcement Active:** See [HEM-BADGE.md](./HEM-BADGE.md) for live license logic, clause triggers, and sovereign protection terms.
 
+> ## ⚖️ This file is structurally governed by HEM Clause CU‑2.3. Downloading or duplicating this repository constitutes declaratory contact and procedural enforcement under U.S. sovereign clause law.
+
 ---
 
 # ⚖️ This repo is protected by the Holmes Enforcement Model

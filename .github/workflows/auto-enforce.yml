@@ -18,40 +18,59 @@
 
 # ============================================================
 
-name: Auto-Enforcement Fork Scan
+// SPDX-License-Identifier: Declaratory-Royalty
+// auto-enforcer.cjs — Fork Scanner for HEM
 
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  push:
-    branches:
-      - main
+import fs from 'fs/promises';
+import { Octokit } from '@octokit/rest';
 
-jobs:
-  scan-forks:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+const OWNER = 'Gamerdudee';
+const REPO = 'holmes-enforcement-model';
+const THRESHOLD_DAYS = 30;
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+async function main() {
+  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+  const { data: forks } = await octokit.repos.listForks({ owner: OWNER, repo: REPO, per_page: 100 });
+  
+  const violators = [];
+  const now = Date.now();
 
-      - name: Install Dependencies
-        run: npm install
+  for (const f of forks) {
+    const { owner: { login }, default_branch } = f;
+    const { data: commitData } = await octokit.repos.getCommit({
+      owner: login,
+      repo: REPO,
+      ref: default_branch,
+    });
 
-      - name: Run Fork Scanner
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node auto-enforcer.cjs
+    const commitDate = new Date(commitData.commit.committer.date).getTime();
+    const ageDays = Math.floor((now - commitDate) / (1000 * 60 * 60 * 24));
 
-      - name: Commit Violator Log
-        run: |
-          git config --global user.name "HEM-AutoEnforcer"
-          git config --global user.email "bot@hem.auto"
-          git add violators.md
-          git commit -m "🚨 Updated violators.md via Auto-Enforcer"
-          git push
-        continue-on-error: true
+    if (ageDays > THRESHOLD_DAYS) {
+      violators.push({ login, date: commitData.commit.committer.date, ageDays });
+    }
+  }
+
+  let md = `# 🛡️ Fork Activity Log\n\n`;
+  md += `*Scan Time: ${new Date().toISOString()}*\n`;
+  md += `*Threshold: forks dormant or unsynced past ${THRESHOLD_DAYS} days*\n\n`;
+
+  if (violators.length === 0) {
+    md += `✅ No forks past threshold.\n`;
+  } else {
+    md += `🚨 Potential Forks Requiring Review:\n\n`;
+    violators.forEach(v => {
+      md += `- **${v.login}** – last commit on ${v.date} (~${v.ageDays} days ago)\n`;
+    });
+    md += `\n> Review each fork for unlicensed usage or stale divergence.\n`;
+  }
+
+  await fs.writeFile('violators.md', md);
+  console.log('✅ violators.md updated');
+}
+
+main().catch(err => {
+  console.error('❌ error in auto-enforcer:', err);
+  process.exit(1);
+});
+

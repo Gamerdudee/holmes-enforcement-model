@@ -1,3 +1,7 @@
+SPDX-License-Identifier: Declaratory-Royalty
+
+This document is part of the Holmes Enforcement Model repository.
+Please see LICENSE-HEM.md for licensing details.
 
 
 📄 Holmes Enforcement Model (HEM) — Derivative Enforcement Dossier

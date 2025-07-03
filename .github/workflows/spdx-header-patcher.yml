@@ -2,7 +2,6 @@ name: SPDX Header Auto-Patcher
 
 permissions:
   contents: write
- 
 
 on:
   push:
@@ -12,8 +11,8 @@ on:
 
 jobs:
   spdx-patcher:
-    runs-on: ubuntu-latest
     name: Auto-insert SPDX headers
+    runs-on: ubuntu-latest
 
     steps:
       - name: 📥 Checkout Repository
@@ -24,13 +23,13 @@ jobs:
         with:
           node-version: 18
 
-      - name: 📦 Install Dependencies (if any)
+      - name: 📦 Install Dependencies
         run: npm install || true
 
       - name: 🔍 Run SPDX Header Patcher
         run: node spdx-patcher.cjs
 
-      - name: ✅ Commit & Push Changes (if any)
+      - name: ✅ Commit & Push Changes (if needed)
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
@@ -39,4 +38,5 @@ jobs:
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
           git add .
           git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
-          git push origin HEAD:main
+          git diff --cached --quiet || git push origin HEAD:main
+

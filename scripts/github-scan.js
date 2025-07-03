@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Declaratory-Royalty
 // Copyright (c) Mr. Holmes
 // Declaratory Sovereign – Holmes Enforcement Model
 // scripts/github-scan.js

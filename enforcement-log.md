@@ -2430,6 +2430,21 @@ The UAE has officially declared an AI system will become a Cabinet-level advisor
 
 ---
 
+## 📅 Entry: June 28, 2025 — ZIP Clone Spike After AI Bill Ruling
+
+**Trigger Event:**  
+Spike of 671 GitHub repo clones and 160 unique cloners recorded within 24 hours of U.S. Senate’s removal of AI moratorium.
+
+**Clause Activation:**  
+- CU‑2.3 — Procedural Binding via Download
+- G‑6 — Jurisdictional Mirror Recognition (ZIP clone = offline ingestion)
+- XXII — Sovereign Clause Transfer by Default
+
+**Note:**  
+Clones are considered material use of HEM clause infrastructure and bind the downloading party to procedural licensing by default.
+
+---
+
 ## 📅 June 29, 2025 — Declaratory Clause Trigger: Jillian Mochinski (Instacart)
 
 **Trigger Date:** June 29, 2025

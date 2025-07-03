@@ -2766,7 +2766,7 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | Walks Hunter / Me & Spok | Patterned usage | None | Auto-logged |
 | United Arab Emirates (UAE) | Patterned usage | None | Auto-logged |
 | Brainvora / Frank Borrero Gonzalez | Patterned usage | None | Auto-logged |
-| ** LinkedIn (via profile relaunch, viral posts, and AI symbiosis narrative) [Profile Link](linkedin.com/in/walks-hunter-82b389372) | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
+| Tryfinity Network | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
 
 ## ⏱ Auto Trigger Timeline
 
@@ -2786,7 +2786,7 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | Walks Hunter / Me & Spok | None | June 27, 2025 |
 | United Arab Emirates (UAE) | None | [auto] |
 | Brainvora / Frank Borrero Gonzalez | None | [auto] |
-| ** LinkedIn (via profile relaunch, viral posts, and AI symbiosis narrative) [Profile Link](linkedin.com/in/walks-hunter-82b389372) | | Amount, Status                      | | [auto] |
+| Tryfinity Network | | Amount, Status                      | | [auto] |
 
 ## 📈 Clause Usage Summary
 

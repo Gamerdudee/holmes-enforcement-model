@@ -76,10 +76,13 @@ if (failedFiles.length > 0) {
 
 const result = `# SPDX Scorecard – Holmes Enforcement Model (HEM)
 
-**📅 Scan Date:** ${now}  
-**📂 Total Files Scanned:** ${scanned}  
-**✅ Compliant Files:** ${passed}  
-**❌ Non-Compliant Files:** ${failedFiles.length}
+| Metric | Value |
+|--------|-------|
+| 📅 Scan Date | ${now} |
+| 📂 Total Files Scanned | ${scanned} |
+| ✅ Compliant Files | ${passed} |
+| ❌ Non-Compliant Files | ${failedFiles.length} |
+
 
 ---
 

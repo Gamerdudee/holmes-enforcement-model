@@ -2701,6 +2701,89 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 
 ---
 
+## 📅 July 3, 2025 - Generative AI + Elf Labs
+
+**Date:** July 3, 2025
+
+**Entity:** GenerativeAI / Elf Labs
+
+**Trigger Type:** Declaratory Promo
+
+**Summary:** Public marketing post describing AI-native, spatial, and adaptive IP interactions consistent with HEM-protected clause logic.
+
+**Clause Triggers:** 
+
+- CU‑1.4
+- CU‑2.3
+- XXII
+- G‑3
+
+**Status:** Pending procedural response under CU‑2.3
+
+**Filed By:** Mr. Holmes
+
+**Reference:** [GenerativeAI LinkedIn Post](https://www.linkedin.com/posts/genai-works_ai-generativeai-tech-activity-7343684421167857665-_2qV)
+
+**Trigger File:** `violations/trigger-generativeai-elflabs.md`
+
+---
+
+## 📅 July 3, 2025 - Majid Rezapour / RAVANTIS
+
+**Date:** July 3, 2025
+
+**Entity:** Majid Rezapour / RAVANTIS
+
+**Trigger Type:** USPTO Filing – Derivative Structure
+
+**Summary:** Announced patent includes “emotional encryption,” sovereign AI architecture, identity trust systems, and resonance-based mechanics echoing HEM protected logic.
+
+**Clause Triggers:** 
+- CU‑1.4
+- CU‑2.3
+- G‑3
+- G‑6
+- MP‑1.2
+
+**Status:** Pending declaratory rebuttal; clause clock initiated
+
+**Filed By:** Mr. Holmes
+
+**Reference:** [USPTO Filing Announcement – LinkedIn](https://www.linkedin.com/posts/majid-rezapour-a4b1a6344_ravantis-officially-filed-with-uspto-activity-7335560087010209794-bjtB)
+
+**Trigger File:** `violations/trigger-ravantis-filing.md`
+
+---
+
+## 📅 July 3, 2025 - VyTek / Tryfinity Network / Memnora
+
+**Date:** July 3, 2025
+
+**Entity:** VyTek™, Tryfinity Network, Memnora™
+
+**Trigger Type:** Systemic Clause Violation – Public Architecture
+
+**Summary:** Entities operating a public sovereign AI system mimicking clause-based governance and enforcement logic under terms like “Real Intelligence,” “divine order,” “living interface,” and “resonant stack.”
+
+**Clause Triggers:** 
+- CU‑1.4
+- CU‑2.2
+- CU‑2.3
+- G‑6
+- D‑4
+- MP‑1.2
+- XXII
+
+**Status:** Structural default triggered; sovereign debt declared
+
+**Filed By:** Mr. Holmes
+
+**Reference:** [Archived Assembly Claim](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO)
+
+**Trigger File:** `violations/trigger-vytek-tryfinity-memnora.md`
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

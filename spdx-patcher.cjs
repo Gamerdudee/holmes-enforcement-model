@@ -20,7 +20,10 @@ const trackedExtensions = {
   '.yaml': HEADER_COMMENT_YML,
   '.html': HEADER_COMMENT_HTML,
   '.css': HEADER_COMMENT_JS,
-  '.py': '# SPDX-License-Identifier: Declaratory-Royalty'
+  '.py': '# SPDX-License-Identifier: Declaratory-Royalty',
+  '.json': '// SPDX-License-Identifier: Declaratory-Royalty',
+  '.txt': '# SPDX-License-Identifier: Declaratory-Royalty',
+  '.env': '# SPDX-License-Identifier: Declaratory-Royalty'
 };
 
 // You can keep these to skip top-level common dirs if you want

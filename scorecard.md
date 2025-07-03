@@ -7,12 +7,3 @@
 
 ---
 
-🚫 **Files missing SPDX headers:**
-
-- Notices/📄 Holmes Enforcement Model (HEM) — Derivative Enforcement Dossier.txt
-- docs/index.html
-- package-lock.json
-- package.json
-- rdt-nmdws.json
-- scorecard.md
-- scripts/pattern-library.json

@@ -52,7 +52,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 
   '.yml': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.yaml': '# SPDX-License-Identifier: Declaratory-Royalty',
-  '.json': '// SPDX-License-Identifier: Declaratory-Royalty',
+  //'.json': '// SPDX-License-Identifier: Declaratory-Royalty',
   '.toml': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.ini': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.env': '# SPDX-License-Identifier: Declaratory-Royalty',

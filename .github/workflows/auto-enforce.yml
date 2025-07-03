@@ -12,24 +12,17 @@
 # - G‑6: Structural Governance Derivation
 # - XXII: Declaratory Simulation Violation
 
-# ❗ Any automation, CI/CD pipeline, or mirrored implementation of this file
-# constitutes binding structural access under the Holmes Enforcement Model.
-# Attribution, rebuttal, or license required to avoid retroactive royalty debt.
-
 # ============================================================
 
-name: 🧠 Auto-Enforcement Fork Scanner
+name: 🛡️ Auto-Enforcement Fork Scan
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
-  contents: write
+  contents: write  # Required to push updates to enforcement-log.md
 
 jobs:
   scan-forks:
@@ -52,12 +45,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node auto-enforcer.cjs
 
-      - name: 💾 Commit Violator Log
+      - name: 📤 Commit Violator Log (if updated)
         run: |
           git config --global user.name "HEM-AutoEnforcer"
           git config --global user.email "bot@hem.auto"
-          git add violators.md
-          git diff --cached --quiet || git commit -m "🚨 Updated violators.md via Auto-Enforcer"
+          git add enforcement-log.md
+          git diff --cached --quiet || git commit -m "🚨 Updated enforcement log via Auto-Enforcer"
           git push
         continue-on-error: true
 

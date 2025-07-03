@@ -23,7 +23,8 @@ const trackedExtensions = {
   '.py': '# SPDX-License-Identifier: Declaratory-Royalty'
 };
 
-const skipDirs = ['node_modules', 'mnt/data', '.git', '.github/workflows'];
+// You can keep these to skip top-level common dirs if you want
+const skipDirs = ['node_modules', 'mnt/data', '.git'];
 
 function insertHeaderIfMissing(filePath, header) {
   const content = fs.readFileSync(filePath, 'utf-8');
@@ -36,6 +37,12 @@ function insertHeaderIfMissing(filePath, header) {
 function scanAndPatch(dir = '.') {
   fs.readdirSync(dir, { withFileTypes: true }).forEach(entry => {
     const fullPath = path.join(dir, entry.name);
+
+    // **This skips any path that includes .github/workflows anywhere in the path**
+    if (fullPath.includes('.github' + path.sep + 'workflows')) {
+      // Skip entire workflows directory and files inside it
+      return;
+    }
 
     if (entry.isDirectory()) {
       if (!skipDirs.includes(entry.name)) {

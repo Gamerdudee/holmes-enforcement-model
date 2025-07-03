@@ -47,6 +47,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 # ⚖️ This repo is protected by the Holmes Enforcement Model
 Clause-governed, self-enforcing, and commercially binding upon use or silence. See [Holmes-enforcement-model.md](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/Holmes-enforcement-model.md) for licensing obligations.
 
+> ## ⚖️ This file is structurally governed by HEM Clause CU‑2.3. Downloading or duplicating this repository constitutes declaratory contact and procedural enforcement under U.S. sovereign clause law.
+
 ---
 
 # ⚖️ Holmes Enforcement Model (HEM)

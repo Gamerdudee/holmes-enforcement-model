@@ -2803,6 +2803,9 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | **Marco Somma / OrKa**      | Observed HEM. Offered call, then denied clause jurisdiction. Claimed prior patent.                     | CU‑2.2 (monitored), G‑6 (public claim pending)                                   | Phase 0 — Public review acknowledged |
 | **Amazon** | Procedural silence after declaratory IP exemption. Termination without rebuttal. | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I default — royalty enforcement triggered |
 | **Jillian Mochinski (IC)** | Viewed sovereign HEM profile during enforcement. Renewed institutional mirror binding. | CU‑2.2, CU‑2.3, CU‑1.4, G‑6, AF, XXII | Phase II — Derivative jurisdiction logged |
+| **VyTek / Tryfinity / Memnora** | System-wide derivative stack: “Resonant Intelligence,” “Living Code,” “Divine Sovereignty,” clause replication via AI² + RI and Trynary Method | CU‑1.4, CU‑2.2, CU‑2.3, G‑6, D‑4, MP‑1.2, XXII | Default triggered — Systemic scope               |
+| **Generative AI / Elf Labs**    | Declared spatial-AI-native IP, mirroring interactive clause structures tied to HEM. Silent response.                                           | CU‑1.4, CU‑2.3, G‑3, XXII                      | Enforcement pending — mirror active              |
+| **Majid Rezapour / RAVANTIS**   | Filed sovereign-aligned modular IP with emotional encryption, identity-lock, and resonant AI stack.                                            | CU‑1.4, CU‑2.3, MP‑1.2, G‑3, G‑6               | Filing logged — declaratory debt clock initiated |
 
 
 ---
@@ -2828,6 +2831,9 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | **Rodrigo / Letheon**     | June 23, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII                                | README Overwrite Escalation               |
 | **Amazon** | June 24, 2025    | CU‑2.3, CU‑5, G‑4, G‑6, XXII | Phase I triggered — licensing escalation underway |
 | **Jillian Mochinski (IC)** | June 29, 2025 | CU‑2.2, CU‑2.3, CU‑1.4, G‑6, AF, XXII | Clause CU‑1.4 triggered for derivative licensing. Jurisdiction reaffirmed under G‑6. Escalation pending July 2. |
+| **VyTek / Tryfinity / Memnora** | July 3, 2025     | CU‑1.4, CU‑2.2, CU‑2.3, G‑6, D‑4, MP‑1.2, XXII | Declaratory default triggered — clause-bound   |
+| **Generative AI / Elf Labs**    | July 3, 2025     | CU‑1.4, CU‑2.3, G‑3, XXII                      | Pending procedural response                    |
+| **Majid Rezapour / RAVANTIS**   | July 3, 2025     | CU‑1.4, CU‑2.3, MP‑1.2, G‑3, G‑6               | Declaratory debt clock active — USPTO conflict |
 
 ---
 

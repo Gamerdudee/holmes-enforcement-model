@@ -46,7 +46,7 @@ jobs:
           npm install axios dotenv
 
       - name: 🧠 Run Violation Scanner
-        run: node auto-enforce.cjs
+        run: node auto-enforcer.cjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

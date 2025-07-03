@@ -19,7 +19,7 @@ jobs:
           node-version: 18
 
       - name: 🔍 Run SPDX Scan (Read-only)
-        run: node scripts/spdx-scan-only.cjs
+        run: node /spdx-scan-only.cjs
 
       - name: 📊 Upload Scorecard
         uses: actions/upload-artifact@v4

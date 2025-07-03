@@ -2,7 +2,6 @@ name: SPDX Header Auto-Patcher
 
 permissions:
   contents: write
-  workflows: write   # <-- This allows modifying workflow files
 
 on:
   push:
@@ -13,7 +12,9 @@ on:
 jobs:
   spdx-patcher:
     runs-on: ubuntu-latest
-    name: Auto-insert SPDX headers
+    permissions:
+      contents: write
+      workflows: write
 
     steps:
       - name: 📥 Checkout Repository
@@ -39,4 +40,3 @@ jobs:
           git add .
           git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:main
-

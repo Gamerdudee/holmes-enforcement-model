@@ -90,7 +90,7 @@ function scanDir(dir = '.') {
   });
 }
 
-const skipDirs = ['node_modules', 'mnt/data', '.git', '.github/workflows'];
+const skipDirs = ['node_modules', 'mnt/data', '.git', '.github'];
 scanDir();
 console.log('\n✅ SPDX header patching complete.');
 

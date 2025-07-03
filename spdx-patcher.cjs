@@ -78,7 +78,7 @@ function scanDir(dir = '.') {
       }
     } else {
       const ext = path.extname(entry.name);
-      const header = headers[ext];
+      const header = trackedExtensions[ext];
       if (header) {
         try {
           insertHeaderIfMissing(fullPath, header);

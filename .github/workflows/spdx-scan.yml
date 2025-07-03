@@ -21,6 +21,16 @@ jobs:
       - name: 🔍 Run SPDX Scan & Scorecard Generator
         run: node ./spdx-scan-only.cjs
 
+      - name: Commit SPDX Scorecard
+        run: |
+         git config --global user.name "spdx-bot"
+         git config --global user.email "spdx-bot@users.noreply.github.com"
+         git pull
+         git add scorecard.md
+         git commit -m "📄 Update SPDX scorecard [auto-generated]" || echo "No changes to commit"
+         git push
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: 📊 Upload Scorecard
         uses: actions/upload-artifact@v4

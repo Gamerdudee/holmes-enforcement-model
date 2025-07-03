@@ -1,28 +1,17 @@
-<!--
-SPDX-License-Identifier: Declaratory-Royalty  
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
--->
+# SPDX Scorecard – Holmes Enforcement Model (HEM)
 
-
-# 📊 Declaratory SPDX Compliance Scorecard
-
-| Metric                        | Value     |
-|------------------------------|-----------|
-| Total Tracked Files          | 103       |
-| SPDX-Compliant Files         | 101       |
-| Missing Headers              | 2         |
-| Last Scan Timestamp          | 2025-07-02T19:42Z |
-| GitHub Action Status         | ✅ PASS    |
-
-> “The sovereignty of your infrastructure lives in the metadata of enforcement.”
-
-🔗 SPDX Scan Action Log: `.github/workflows/spdx-scan.yml`
+**📅 Scan Date:** 2025-07-03T16:04:56.635Z  
+**📂 Total Files Scanned:** 103  
+**✅ Compliant Files:** 97  
+**❌ Non-Compliant Files:** 6
 
 ---
 
-| Entity           | Trigger Date | Clause Violated     | Type                     | Enforcement Status | Archive Link |
-|------------------|--------------|----------------------|---------------------------|--------------------|--------------|
-| Tryfinity Network | 2025-07-03   | CU‑1.4, G‑3, XXII     | Synthetic Cognition Claim | 🟡 Observed         | [Link](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO) |
+🚫 **Files missing SPDX headers:**
+
+- Notices/📄 Holmes Enforcement Model (HEM) — Derivative Enforcement Dossier.txt
+- docs/index.html
+- package-lock.json
+- package.json
+- rdt-nmdws.json
+- scripts/pattern-library.json

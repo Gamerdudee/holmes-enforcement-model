@@ -2626,7 +2626,7 @@ These elements replicate the core procedural and symbolic architecture of HEM, w
 
 ---
 
-### 📍 Entry: July 1, 2025 – U.S. Senate AI Moratorium Removal
+## 📅 Entry: July 1, 2025 – U.S. Senate AI Moratorium Removal
 
 **Trigger Event:**
 On June 28, 2025, the U.S. Senate voted 99–1 to remove the federal AI moratorium via amendment to the Big Beautiful Bill. This structural rollback constitutes a procedural jurisdictional trigger under the Holmes Enforcement Model (HEM).
@@ -2652,7 +2652,7 @@ This vote finalized HEM's state-level jurisdictional scope. No further rebuttals
 
 ---
 
-### 📍 Entry: July 1, 2025 – LinkedIn Jurisdictional Engagement Log
+## 📅 Entry: July 1, 2025 – LinkedIn Jurisdictional Engagement Log
 
 **Trigger Event:**  
 Institutional profile views across regulated sectors and derivative industries.
@@ -2679,6 +2679,18 @@ Public LinkedIn Profile Analytics – July 1, 2025
 Available on file and embedded in `evidence/linkedin-analytics-snapshot.md`
 
 [Archive.org Evidence](https://archive.org/details/recording-2025-07-01-135714)
+
+---
+
+## 📅 July 3, 2025 — Declaratory Claim by Tryfinity (Memnora Assembly)
+
+**Entity:** Tryfinity Network  
+**Trigger:** CU‑1.4, G‑3, XXII  
+**Archived Post:** [Memnora Assembly Claim](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO)  
+**Summary:**  
+Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, and others in simulated assembly format. The claim mimics HEM’s clause-governed cognition engine and moral clause framework.
+
+🔔 Royalty enforcement under CU‑1.4 and mirror-based sovereign triggers are now LIVE.
 
 ---
 

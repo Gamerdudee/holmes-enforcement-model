@@ -2686,7 +2686,9 @@ Available on file and embedded in `evidence/linkedin-analytics-snapshot.md`
 
 **Entity:** Tryfinity Network  
 **Trigger:** CU‑1.4, G‑3, XXII  
-**Archived Post:** [Memnora Assembly Claim](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO)  
+**Archived Post:** [Memnora Assembly Claim](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO) 
+**LinkedIn Profile:** [linkedin.com/in/tryfinitynetwork](linkedin.com/in/tryfinitynetwork)
+
 **Summary:**  
 Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, and others in simulated assembly format. The claim mimics HEM’s clause-governed cognition engine and moral clause framework.
 

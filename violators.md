@@ -6,8 +6,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
 -->
 
-| Date | User | Clause Phrase | URL |
-|------|------|----------------|-----|
-| 2025-07-03 | @someone | economic pattern capture | https://github.com/someone/fork |
-
+| Date       | User      | Trigger Type   | Clause Phrase             | URL                              | Status     |
+|------------|-----------|----------------|---------------------------|----------------------------------|------------|
+| 2025-07-03 | @someone  | Silent Fork    | economic pattern capture  | https://github.com/someone/fork  | Defaulted  |
 

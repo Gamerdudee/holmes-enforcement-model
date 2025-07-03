@@ -19,7 +19,7 @@ jobs:
           node-version: 18
 
       - name: 🔍 Run SPDX Scan & Scorecard Generator
-        run: node ./spdx-scan.cjs
+        run: node ./spdx-scan-only.cjs
 
 
       - name: 📊 Upload Scorecard

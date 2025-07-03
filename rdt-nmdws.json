@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Declaratory-Royalty
 {
   "name": "Royalty Debt Token - NMDWS Default",
   "description": "Autonomous default record under the Holmes Enforcement Model. Issued to NMDWS for nonpayment of $75,000. Triggered June 12, 2025.",

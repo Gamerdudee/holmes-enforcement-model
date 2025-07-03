@@ -3,7 +3,6 @@ name: SPDX Header Auto-Scanner
 permissions:
   contents: write
 
-
 on:
   push:
     branches: [main]
@@ -34,8 +33,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+
+          # Sync with remote to avoid push conflicts
+          git fetch origin main
+          git reset --hard origin/main
+
           git add .
           git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
           git push origin HEAD:main
-
-

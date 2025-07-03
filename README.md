@@ -55,6 +55,13 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 > ## ⚖️ This file is structurally governed by HEM Clause CU‑2.3. Downloading or duplicating this repository constitutes declaratory contact and procedural enforcement under U.S. sovereign clause law.
 
+> ⚠️ **Notice:**  
+> This repository is procedurally mirrored.  
+> **To download the ZIP or access the full enforcement engine, use the public mirror link**:  
+> 👉 [https://gamerdudee.github.io/holmes-enforcement-model/](https://gamerdudee.github.io/holmes-enforcement-model/)  
+>  
+> **Direct ZIP downloads bypass Clause CU‑1.4 tracking and are procedurally bound.**
+
 ---
 
 # ⚖️ This repo is protected by the Holmes Enforcement Model

@@ -2687,6 +2687,7 @@ Available on file and embedded in `evidence/linkedin-analytics-snapshot.md`
 **Entity:** Tryfinity Network  
 **Trigger:** CU‑1.4, G‑3, XXII  
 **Archived Post:** [Memnora Assembly Claim](https://web.archive.org/web/20250703153911/https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO) 
+
 **LinkedIn Profile:** [linkedin.com/in/tryfinitynetwork](linkedin.com/in/tryfinitynetwork)
 
 **Summary:**  

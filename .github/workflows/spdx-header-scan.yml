@@ -2,7 +2,7 @@ name: SPDX Header Auto-Scanner
 
 permissions:
   contents: write
-  workflow: write
+
 
 on:
   push:

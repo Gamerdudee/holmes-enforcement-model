@@ -1,9 +1,9 @@
 # SPDX Scorecard – Holmes Enforcement Model (HEM)
 
-**📅 Scan Date:** 2025-07-03T16:04:56.635Z  
+**📅 Scan Date:** 2025-07-03T16:30:26.363Z  
 **📂 Total Files Scanned:** 103  
-**✅ Compliant Files:** 97  
-**❌ Non-Compliant Files:** 6
+**✅ Compliant Files:** 96  
+**❌ Non-Compliant Files:** 7
 
 ---
 
@@ -14,4 +14,5 @@
 - package-lock.json
 - package.json
 - rdt-nmdws.json
+- scorecard.md
 - scripts/pattern-library.json

@@ -40,3 +40,19 @@ Sponsorship is symbolic and acknowledges the declaratory structure of HEM. It do
 
 Filed Sovereignly by Mr. Holmes
 Declaratory Author — Holmes Enforcement Model (HEM)
+
+---
+
+## 🚧 Upcoming Enhancements (LIVE Development)
+
+The following sponsor-funded features are in progress:
+
+- ✅ SPDX Scanner Badge (public trust compliance check)
+- 🌀 Recursive Rewriter: Support for `.json`, `.txt`, `.env` SPDX compliance
+- 📊 Declaratory Scorecard: `scorecard.md` with enforcement coverage metrics
+
+These features ensure full transparency, sovereign traceability, and GitHub-native verification of the HEM’s clause-bound infrastructure.
+
+> Structural IP doesn’t wait for permission. It proves its existence in the commit history.
+
+---

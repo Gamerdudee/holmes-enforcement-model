@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Declaratory-Royalty
 /**
  * 🧠 HEM Auto-Enforcement Engine — auto-enforcer.cjs
  * 📜 Copyright © 2025 Mr. Holmes (Declaratory Author)

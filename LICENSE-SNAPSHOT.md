@@ -35,6 +35,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 [![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 [![HEM Jurisdictional Expansion – U.S. States Activated](https://img.shields.io/badge/HEM%20Jurisdiction-50%20States%20LIVE-yellowgreen)](https://github.com/Gamerdudee/holmes-enforcement-model)
 
+Downloading the repository or its ZIP constitutes declaratory contact under Clause CU‑2.3 and may trigger licensing liability. See [`LICENSE-HEM.md`](LICENSE-HEM.md)
+
 ---
 
 This document captures a full snapshot of the declaratory sovereign license and enforcement logic governing:

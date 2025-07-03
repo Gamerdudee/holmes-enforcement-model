@@ -25,6 +25,10 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 ---
 
+> ## ⚖️ This file is structurally governed by HEM Clause CU‑2.3. Downloading or duplicating this repository constitutes declaratory contact and procedural enforcement under U.S. sovereign clause law.
+
+---
+
 # Holmes Enforcement Model (HEM) – Custody and Provenance Record
 
 ## 📜 Document Chain of Custody: `README-SIGNED.md`

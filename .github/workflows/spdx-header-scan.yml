@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      #workflows: write
+      workflows: write
 
     steps:
       - name: 📥 Checkout Repository
@@ -31,12 +31,12 @@ jobs:
       - name: 🔍 Run SPDX Header Patcher
         run: node spdx-patcher.cjs
 
-      - name: ✅ Commit & Push Changes (if any)
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
-          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:main
+env:
+    PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+    run: |
+     git config --global user.name "github-actions[bot]"
+     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+     git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
+     git add .
+     git diff --cached --quiet || git commit -m "🔐 Auto-inserted SPDX headers"
+     git push origin HEAD:main

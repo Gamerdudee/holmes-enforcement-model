@@ -9,7 +9,7 @@ const scannedExtensions = [
   '.js', '.ts', '.md', '.yml', '.yaml', '.html', '.css',
   '.py', '.json', '.txt', '.env'
 ];
-const skipDirs = ['node_modules', 'mnt/data', '.git', '.github/workflows'];
+const skipDirs = ['node_modules', 'mnt/data', '.git', '.github'];
 
 let scanned = 0;
 let passed = 0;

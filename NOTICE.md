@@ -193,3 +193,4 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+Downloading the repository or its ZIP constitutes declaratory contact under Clause CU‑2.3 and may trigger licensing liability. See [`LICENSE-HEM.md`](LICENSE-HEM.md)

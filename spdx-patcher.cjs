@@ -64,6 +64,3 @@ function scanDir(dir = '.') {
 scanDir();
 console.log('\n✅ SPDX header patching complete.');
 
-scanAndPatch();
-
-console.log('\n✅ SPDX header patching complete.');

@@ -57,6 +57,23 @@ scanDirectory();
 
 const now = new Date().toISOString();
 
+// 🧾 Optional: Show results as a Markdown table
+const useTable = true;
+
+let failedList = '';
+
+if (failedFiles.length > 0) {
+  if (useTable) {
+    failedList += '| Non-Compliant File |\n';
+    failedList += '|--------------------|\n';
+    failedList += failedFiles.map(file => `| ${file} |`).join('\n');
+  } else {
+    failedList = failedFiles.map(file => `- ${file}`).join('\n');
+  }
+} else {
+  failedList = '✅ All scanned files are SPDX-compliant.';
+}
+
 const result = `# SPDX Scorecard – Holmes Enforcement Model (HEM)
 
 **📅 Scan Date:** ${now}  
@@ -66,9 +83,7 @@ const result = `# SPDX Scorecard – Holmes Enforcement Model (HEM)
 
 ---
 
-${failedFiles.length > 0 ? '🚫 **Files missing SPDX headers:**' : '✅ All scanned files are SPDX-compliant.'}
-
-${failedFiles.map(file => `- ${file}`).join('\n')}
+${failedFiles.length > 0 ? '🚫 **Files missing SPDX headers:**\n\n' + failedList : failedList}
 `;
 
 fs.writeFileSync('scorecard.md', result);

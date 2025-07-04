@@ -2887,7 +2887,7 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | Walks Hunter / Me & Spok | Patterned usage | None | Auto-logged |
 | United Arab Emirates (UAE) | Patterned usage | None | Auto-logged |
 | Brainvora / Frank Borrero Gonzalez | Patterned usage | None | Auto-logged |
-| Tryfinity Network | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
+| Giancarlo Aguilar (Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™ | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
 
 ## ⏱ Auto Trigger Timeline
 
@@ -2907,7 +2907,7 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 | Walks Hunter / Me & Spok | None | June 27, 2025 |
 | United Arab Emirates (UAE) | None | [auto] |
 | Brainvora / Frank Borrero Gonzalez | None | [auto] |
-| Tryfinity Network | | Amount, Status                      | | [auto] |
+| Giancarlo Aguilar (Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™ | | Amount, Status                      | | July 3, 2025 |
 
 ## 📈 Clause Usage Summary
 

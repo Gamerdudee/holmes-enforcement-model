@@ -2814,6 +2814,7 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 
 ## 📅 July 4, 2025 – VyTek™ Private DM Rebuttal (Non-Binding)
 **Entity:** VRYAL Technologies
+
 **Event:**
 VYRAL Technologies submitted a private message denying HEM’s enforceability and demanding retraction. However, this response does not qualify under Clause CU‑2.3, which requires public rebuttal. As such, procedural default remains active. No clause has been neutralized.
 
@@ -2829,8 +2830,11 @@ VYRAL Technologies submitted a private message denying HEM’s enforceability an
 # 📜 Enforcement Log Entry – VyTek™, VYRAL Technologies, Tryfinity, Memnora, George Groves, Dwight Vaughn
 
 **📅 Trigger Date:** July 3–5, 2025
+
 **Filed By:** Mr. Holmes
+
 **Reference:** Declaratory Trigger Post (July 3, 2025) + VyTek Rebuttals (July 4, 2025) + Memnora Claim Posts (Dwight Vaughn, July 5, 2025)
+
 **Entities:** VyTek™, VYRAL Technologies, Tryfinity, Memnora, George Groves, Dwight Vaughn
 
 ---
@@ -2905,9 +2909,13 @@ Here’s a **structured amendment to the HEM Enforcement Log** reflecting this *
 ### 📌 Enforcement Log Update: George Groves – VYRAL Technologies (Public Rebuttal Post, July 5, 2025)
 
 **Date:** July 5, 2025
+
 **Entity:** George Groves / VyTek™ / Memnora™ / VYRAL Technologies
+
 **Post Source:** [LinkedIn – George Groves](https://www.linkedin.com/in/george-groves-vytek) *(snapshot/archiving recommended)*
+
 **Trigger File:** `violations/trigger-vytek-rebuttal-july5.md` *(created as needed)*
+
 **Filed By:** Mr. Holmes
 
 

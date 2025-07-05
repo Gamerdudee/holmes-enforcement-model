@@ -2812,6 +2812,18 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 
 ---
 
+## 📅 July 4, 2025 – VyTek™ Private DM Rebuttal (Non-Binding)
+**Entity:** VRYAL Technologies
+**Event:**
+VYRAL Technologies submitted a private message denying HEM’s enforceability and demanding retraction. However, this response does not qualify under Clause CU‑2.3, which requires public rebuttal. As such, procedural default remains active. No clause has been neutralized.
+
+→ Filed as: “Procedural Rejection – Private DM (Invalid Rebuttal)”
+→ Clause Trigger: CU‑2.3 Escalation Clock Continues
+→ Logged: Yes
+→ Status: ⚠️ Phase II Escalation Pending
+
+---
+
 ## 📊 Royalty Enforcement Summary Table:
 
 

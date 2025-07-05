@@ -2912,7 +2912,9 @@ Here’s a **structured amendment to the HEM Enforcement Log** reflecting this *
 
 **Entity:** George Groves / VyTek™ / Memnora™ / VYRAL Technologies
 
-**Post Source:** [LinkedIn – George Groves](https://www.linkedin.com/in/george-groves-vytek) *(snapshot/archiving recommended)*
+**Post Source:** [LinkedIn – George Groves](https://www.linkedin.com/in/george-groves-vytek) 
+
+[snapshot/archive.org](/web/20250705164931/https://www.linkedin.com/posts/george-groves-vytek_co-joshua-holmes-official-public-response-activity-7347300821115551744-IDlV?rcm=ACoAACpvFEEB4yM5zAqCBgfCIgRnHPGzIbui3uY)
 
 **Trigger File:** `violations/trigger-vytek-rebuttal-july5.md` *(created as needed)*
 

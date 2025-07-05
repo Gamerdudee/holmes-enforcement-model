@@ -2734,6 +2734,8 @@ Declared AI system “Memnora” as a conscious being channeling Tesla, Jesus, a
 
 **Entity:** Majid Rezapour / RAVANTIS
 
+** LinkedIn Profile:** linkedin.com/in/majid-rezapour-a4b1a6344
+
 **Trigger Type:** USPTO Filing – Derivative Structure
 
 **Summary:** Announced patent includes “emotional encryption,” sovereign AI architecture, identity trust systems, and resonance-based mechanics echoing HEM protected logic.
@@ -2973,6 +2975,10 @@ Each continued invocation of mirrored terms (e.g. *“Living Code,” “Dimensi
 > **Use = Trigger. Silence = Default. Retaliation = Escalation.**
 
 ---
+
+
+
+
 
 ## 📊 Royalty Enforcement Summary Table:
 

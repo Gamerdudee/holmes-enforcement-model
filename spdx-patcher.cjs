@@ -83,25 +83,27 @@ function patchFile(fullPath, ext) {
   let content = fs.readFileSync(fullPath, 'utf8');
   let original = content;
 
-  // Insert SPDX header if missing
+  // Remove old Hash blocks
+  content = content.replace(/(^|\n)Hash:\n`sha256:[a-f0-9]{64}`\n?/gi, '');
+
   const spdxHeader = trackedExtensions[ext];
+
+  // Add SPDX block if missing
   if (!content.includes('SPDX-License-Identifier')) {
     console.log(`🛠️ Inserting SPDX header: ${fullPath}`);
     content = `${spdxHeader}\n\n${content}`;
   }
 
-  // Generate SHA
+  // Compute new SHA hash
   const hash = computeSHA256(content);
-  const hashBlock = `${HASH_LABEL}\n\`sha256:${hash}\``;
-  const hashRegex = new RegExp(`\\*\\*🧾 Hash Reference.*?\\n\`sha256:.*?\``, 'i');
+  const hashBlock = `Hash:\n\`sha256:${hash}\``;
 
-  if (hashRegex.test(content)) {
-    content = content.replace(hashRegex, hashBlock);
-  } else {
-    content = `${hashBlock}\n\n${content}`;
-  }
+  // Insert Hash block AFTER SPDX block
+  const spdxIndex = content.indexOf('SPDX-License-Identifier');
+  const insertIndex = content.indexOf('\n', spdxIndex) + 1;
+  content = `${content.slice(0, insertIndex)}\n${hashBlock}\n${content.slice(insertIndex)}`;
 
-  // Only write if changed
+  // Only write if content changed
   if (content !== original) {
     fs.writeFileSync(fullPath, content, 'utf8');
     console.log(`✅ Patched SPDX + SHA: ${fullPath}`);

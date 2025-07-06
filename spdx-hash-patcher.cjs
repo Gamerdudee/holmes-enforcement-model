@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: Declaratory-Royalty
 // Hash: sha256:14eb599da0f28c0731b312e4615465c945030cc327afe4c68d43d59af179b431
 
-
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
@@ -9,11 +8,6 @@ const { execSync } = require('child_process');
 
 const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
 const skipExtensions = ['.json', '.png', '.jpg', '.jpeg', '.svg'];
-
-function computeHash(filePath) {
-  const fileBuffer = fs.readFileSync(filePath);
-  return crypto.createHash('sha256').update(fileBuffer).digest('hex');
-}
 
 function getChangedFiles() {
   try {
@@ -26,36 +20,49 @@ function getChangedFiles() {
   return [];
 }
 
-function patchHash(filePath, newHash) {
+function computeContentHashWithoutHashLine(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
   const lines = content.split('\n');
 
-  const SPDX_INDEX = lines.findIndex(l => l.includes('SPDX-License-Identifier'));
-  const HASH_LINE_REGEX = /^\s*\/\/\s*Hash:\s*sha256:([a-fA-F0-9]{64})/;
+  const cleaned = lines.filter(line => !/^\s*\/\/\s*Hash:\s*sha256:[a-fA-F0-9]{64}/.test(line));
+  const cleanedContent = cleaned.join('\n');
 
-  // Check if file already has correct hash
-  const currentHashLineIndex = lines.findIndex(line => HASH_LINE_REGEX.test(line));
-  if (currentHashLineIndex !== -1) {
-    const currentHashMatch = lines[currentHashLineIndex].match(HASH_LINE_REGEX);
-    const currentHash = currentHashMatch?.[1];
+  return {
+    hash: crypto.createHash('sha256').update(cleanedContent).digest('hex'),
+    cleanedLines: cleaned,
+    originalLines: lines
+  };
+}
 
-    if (currentHash === newHash) {
-      console.log(`⏭️  Skipped (unchanged): ${filePath}`);
-      return false; // No change needed
-    }
+function patchHash(filePath) {
+  const { hash, cleanedLines, originalLines } = computeContentHashWithoutHashLine(filePath);
+
+  const existingHashLine = originalLines.find(line =>
+    line.match(/^\s*\/\/\s*Hash:\s*sha256:[a-fA-F0-9]{64}/)
+  );
+
+  const currentHash = existingHashLine?.match(/sha256:([a-fA-F0-9]{64})/)?.[1];
+
+  // If hash is the same, no need to rewrite
+  if (currentHash === hash) {
+    console.log(`⏭️  Skipped (unchanged): ${filePath}`);
+    return false;
   }
 
-  // Remove all previous hash lines
-  const cleanedLines = lines.filter(line => !HASH_LINE_REGEX.test(line));
+  const SPDX_INDEX = originalLines.findIndex(line =>
+    line.includes('SPDX-License-Identifier')
+  );
 
-  const hashLine = `// Hash: sha256:${newHash}`;
+  const newLines = [...cleanedLines];
+  const hashLine = `// Hash: sha256:${hash}`;
+
   if (SPDX_INDEX !== -1) {
-    cleanedLines.splice(SPDX_INDEX + 1, 0, hashLine);
+    newLines.splice(SPDX_INDEX + 1, 0, hashLine);
   } else {
-    cleanedLines.unshift(hashLine);
+    newLines.unshift(hashLine);
   }
 
-  fs.writeFileSync(filePath, cleanedLines.join('\n'), 'utf8');
+  fs.writeFileSync(filePath, newLines.join('\n'), 'utf8');
   console.log(`✅ Patched: ${filePath}`);
   return true;
 }
@@ -67,16 +74,16 @@ const filteredFiles = files.filter(file => {
   const ext = path.extname(file);
   const inSkipDir = skipDirs.some(dir => file.startsWith(`${dir}/`) || file.includes(`/${dir}/`));
   const hasSkipExt = skipExtensions.includes(ext);
-  return !inSkipDir && !hasSkipExt;
+  return !inSkipDir && !hasSkipExt && fs.existsSync(file);
 });
 
 const summary = [];
 
 filteredFiles.forEach(file => {
   try {
-    const hash = computeHash(file);
-    const updated = patchHash(file, hash);
+    const updated = patchHash(file);
     if (updated) {
+      const { hash } = computeContentHashWithoutHashLine(file);
       summary.push(`${file}: ${hash}`);
     }
   } catch (err) {

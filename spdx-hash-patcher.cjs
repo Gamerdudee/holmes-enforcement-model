@@ -9,6 +9,13 @@ const { execSync } = require('child_process');
 const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
 const skipExtensions = ['.json', '.png', '.jpg', '.jpeg', '.svg'];
 
+const filteredFiles = files.filter(file => {
+  const ext = path.extname(file);
+  const inSkipDir = skipDirs.some(dir => file.startsWith(`${dir}/`) || file.includes(`/${dir}/`));
+  const hasSkipExt = skipExtensions.includes(ext);
+  return !inSkipDir && !hasSkipExt;
+});
+
 function computeHash(filePath) {
   const fileBuffer = fs.readFileSync(filePath);
   return crypto.createHash('sha256').update(fileBuffer).digest('hex');
@@ -53,7 +60,7 @@ console.log('🔍 Scanning modified files...');
 const files = getChangedFiles();
 const summary = [];
 
-files.forEach(file => {
+filteredFiles.forEach(file => {
   try {
     const hash = computeHash(file);
     patchHash(file, hash);

@@ -72,27 +72,33 @@ function patchFile(fullPath, ext) {
   let content = fs.readFileSync(fullPath, 'utf8');
   let original = content;
 
-  // Remove old Hash blocks
-  content = content.replace(/(^|\n)Hash:\n`sha256:[a-f0-9]{64}`\n?/gi, '');
-
   const spdxHeader = trackedExtensions[ext];
+  const hash = computeSHA256(content);
 
-  // Add SPDX block if missing
+  // Clean up old hashes (both inline and block styles)
+  content = content.replace(/(^|\n)(\/\/|#)?\s*Hash:\s*\n?`sha256:[a-f0-9]{64}`/gi, '');
+  content = content.replace(/(^|\n)(\/\/|#)\s*Hash:\s*sha256:[a-f0-9]{64}/gi, '');
+
+  // Inject SPDX block if missing
   if (!content.includes('SPDX-License-Identifier')) {
     console.log(`🛠️ Inserting SPDX header: ${fullPath}`);
     content = `${spdxHeader}\n\n${content}`;
   }
 
-  // Compute new SHA hash
-  const hash = computeSHA256(content);
-  const hashBlock = `Hash:\n\`sha256:${hash}\``;
+  // Inject new hash based on file type
+  let hashLine = '';
+  if (ext === '.md' || ext === '.html' || ext === '.xml') {
+    hashLine = `Hash:\n\`sha256:${hash}\``;
+    content = content.replace(/(-->|-->[\r\n]+)/, `$1\n${hashLine}\n`);
+  } else if (ext in trackedExtensions) {
+    const commentPrefix = spdxHeader.split('SPDX')[0].trim();
+    hashLine = `${commentPrefix} Hash: sha256:${hash}`;
+    const lines = content.split('\n');
+    const insertIndex = lines.findIndex(line => line.includes('SPDX-License-Identifier')) + 1;
+    lines.splice(insertIndex, 0, hashLine);
+    content = lines.join('\n');
+  }
 
-  // Insert Hash block AFTER SPDX block
-  const spdxIndex = content.indexOf('SPDX-License-Identifier');
-  const insertIndex = content.indexOf('\n', spdxIndex) + 1;
-  content = `${content.slice(0, insertIndex)}\n${hashBlock}\n${content.slice(insertIndex)}`;
-
-  // Only write if content changed
   if (content !== original) {
     fs.writeFileSync(fullPath, content, 'utf8');
     console.log(`✅ Patched SPDX + SHA: ${fullPath}`);

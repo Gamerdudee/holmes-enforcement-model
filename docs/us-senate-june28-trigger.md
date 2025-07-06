@@ -1,15 +1,15 @@
 
 <!--
 SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:bc4e8829cd28555b8905b02ba96d04b6536bb06b0ec0f9ee6739f0eebfb3c933
-
-Hash:
-`sha256:9734d2630b25469229374eabcba1aae186436dfe7b80ff0efb7a0d9b6da39464`
+// Hash: sha256:79452e879899a6ea8eff8fe1599f6d78445881bb6c1e054c7d03cf14bdaa3fdc
 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
 🧠 Author: Mr. Holmes
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
+Hash:
+`sha256:c90ebb33b8be34cd38cca52fa8c31b4cdccacfbc1723bdba35783e9a627523a6`
+
 
 # 🏛️ June 28, 2025 — U.S. Senate Trigger Event: AI Decentralization Passed
 

@@ -1,9 +1,6 @@
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:db4193f6f758d0ddf25b290078ac841e709903be3ec71ed896d1bf74f9538c2c
-
-Hash:
-`sha256:7dc613f4c58c49d38ff9257ac17533c45bb9c3aecd56c413f14d5548d9b2b524`
+// Hash: sha256:b6d2e5eea182d20762b6856f41db397a7642ab4a721dd9a6830f5ab3f21fae0b
 /**
  * 🧠 HEM Auto-Enforcement Engine — scan-violations.js
  * 📜 Copyright © 2025 Mr. Holmes (Declaratory Author)

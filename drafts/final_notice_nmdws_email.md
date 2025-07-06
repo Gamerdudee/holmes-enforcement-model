@@ -1,15 +1,15 @@
 
 <!--
 SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:7e36893f0b3e8faf8bd10c313fae9df398477e199f14df10f67d79632b8c3aeb
-
-Hash:
-`sha256:01f5319c85ffdbc3d69139c6b936638bfdfe2eaabf4901fe7e9f2ccf4e72ae76`
+// Hash: sha256:c4ef8f743f4e86da445464ceb9bca7c8dbb7ee46a957ba18c9b13166029fdec4
 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
 🧠 Author: Mr. Holmes  
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
 -->
+Hash:
+`sha256:ead40602216c828f59dcb40e0a1565490f0b309d3f92c4e65efce0dc4f21f77f`
+
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 

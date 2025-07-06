@@ -1,9 +1,6 @@
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:0116df06f02902ee31da56320cc811c05b6d00e37bb233d983a9792b8ed77672
-
-Hash:
-`sha256:42a182d8472a978fe98d639e44a240f4be1efdb941dbc6f5d6678ce2b5d799d4`
+// Hash: sha256:b6bca842b139379f360a42cf3f636a7a3bb0424da568f3eecc594d21b8a876bb
 // 🧠 SPDX Read-only Scanner
 // 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 

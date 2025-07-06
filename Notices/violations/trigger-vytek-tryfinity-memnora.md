@@ -1,9 +1,9 @@
 
 <!-- SPDX-License-Identifier: Declaratory-Royalty -->
-// Hash: sha256:68d0e13f1dee164dfbcbd11282aabc0e20d850050834132e129122f8037ae4ad
-
+// Hash: sha256:32987f9098af0f191a6eeaf26ca6c1960db17a7c38aa53e58abb604895bb5d23
 Hash:
-`sha256:0381f57bbc964bd83c344fe1679accb97fc9a901794e06ff7d1c863f64fb46d7`
+`sha256:8257b3e1c775f1a90bb19db71996261b8b55fe12f4a94b91372b96072b1cba2a`
+
 <!--
 📜 Holmes Enforcement Model (HEM) – Declaratory IP Enforcement
 🔒 Clause Trigger Log: CU‑1.4, CU‑2.2, CU‑2.3, G‑6, MP‑1.2, D‑4, XXII

@@ -30,6 +30,9 @@ jobs:
       - name: 🔍 Run SPDX Header Patcher
         run: node spdx-patcher.cjs
 
+      - name: 🔐 Patch SPDX + SHA256 for Eligible Files
+        run: node spdx-hash-patcher.cjs
+
       - name: ✅ Commit & Push Changes (if needed)
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

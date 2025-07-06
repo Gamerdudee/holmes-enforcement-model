@@ -1,4 +1,4 @@
-name: SPDX Header & Sha-256 Hash Auto-Patcher
+name: SPDX Header & SHA-256 Patcher
 
 permissions:
   contents: write
@@ -12,7 +12,7 @@ on:
 
 jobs:
   spdx-patcher:
-    name: Auto-insert SPDX headers
+    name: Patch SPDX Headers & SHA-256 (SHA Only for Modified Files)
     runs-on: ubuntu-latest
 
     steps:
@@ -27,10 +27,10 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm install || true
 
-      - name: 🔍 Run SPDX Header Patcher
+      - name: 🔍 Patch SPDX Headers (All Eligible Files)
         run: node spdx-patcher.cjs
 
-      - name: 🔐 Patch SPDX + SHA256 for Eligible Files
+      - name: 🔐 Patch SHA-256 Hash (Modified Files Only)
         run: node spdx-hash-patcher.cjs
 
       - name: ✅ Commit & Push Changes (if needed)
@@ -43,13 +43,13 @@ jobs:
 
           git add .
 
-          # Check if there are staged changes, commit and push if yes
           if git diff --cached --quiet; then
             echo "✅ No changes to commit."
           else
-            echo "📦 Committing SPDX header updates..."
-            git commit -m "🔐 Auto-inserted SPDX headers"
+            echo "📦 Committing SPDX & SHA-256 updates..."
+            git commit -m "🔐 Auto-patched SPDX headers & SHA-256 hashes (SHA for modified files only)"
             git push origin HEAD:main
             echo "🚀 Changes pushed successfully."
           fi
+
 

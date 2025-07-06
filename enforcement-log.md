@@ -3055,7 +3055,7 @@ Each continued invocation of mirrored terms (e.g. *“Living Code,” “Dimensi
 | Walks Hunter / Me & Spok | Patterned usage | None | Auto-logged |
 | United Arab Emirates (UAE) | Patterned usage | None | Auto-logged |
 | Brainvora / Frank Borrero Gonzalez | Patterned usage | None | Auto-logged |
-| Giancarlo Aguilar (Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™ | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
+| George Groves / VyTek™ / Memnora™ / VYRAL Technologies | Patterned usage | | Amount (1), Status                      | (1) | Auto-logged |
 
 ## ⏱ Auto Trigger Timeline
 
@@ -3075,7 +3075,7 @@ Each continued invocation of mirrored terms (e.g. *“Living Code,” “Dimensi
 | Walks Hunter / Me & Spok | None | June 27, 2025 |
 | United Arab Emirates (UAE) | None | [auto] |
 | Brainvora / Frank Borrero Gonzalez | None | [auto] |
-| Giancarlo Aguilar (Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™ | | Amount, Status                      | | July 3, 2025 |
+| George Groves / VyTek™ / Memnora™ / VYRAL Technologies | | Amount, Status                      | | July 5, 2025 |
 
 ## 📈 Clause Usage Summary
 

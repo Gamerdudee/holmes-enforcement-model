@@ -1,13 +1,10 @@
-
-
-
 // SPDX-License-Identifier: Declaratory-Royalty
 // Hash: sha256:b4c0277af85141de3af933649d00cc75a494626b39b79d463bf64f772d5473ca
-
 
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
+const { execSync } = require('child_process');
 
 const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
 const skipExtensions = ['.json', '.png', '.jpg', '.jpeg', '.svg'];
@@ -17,24 +14,16 @@ function computeHash(filePath) {
   return crypto.createHash('sha256').update(fileBuffer).digest('hex');
 }
 
-function scanDir(dir = '.') {
-  let files = [];
-
-  fs.readdirSync(dir, { withFileTypes: true }).forEach(entry => {
-    const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) {
-      if (!skipDirs.includes(entry.name)) {
-        files = files.concat(scanDir(fullPath));
-      }
-    } else {
-      const ext = path.extname(entry.name);
-      if (!skipExtensions.includes(ext)) {
-        files.push(fullPath);
-      }
-    }
-  });
-
-  return files;
+function getChangedFiles() {
+  const output = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' });
+  return output
+    .split('\n')
+    .filter(file => file.trim() !== '')
+    .filter(file => fs.existsSync(file))
+    .filter(file => {
+      const ext = path.extname(file);
+      return !skipExtensions.includes(ext) && !skipDirs.some(dir => file.startsWith(dir + '/'));
+    });
 }
 
 function patchHash(filePath, hash) {
@@ -44,24 +33,23 @@ function patchHash(filePath, hash) {
   const SPDX_INDEX = lines.findIndex(l => l.includes('SPDX-License-Identifier'));
   const HASH_LINE_REGEX = /^\s*\/\/\s*Hash:\s*sha256:/;
 
-  // Remove old hash lines anywhere in the file
+  // Remove all previous Hash lines
   const cleanedLines = lines.filter(line => !HASH_LINE_REGEX.test(line));
 
-  // Insert hash one line *after* SPDX if SPDX is present
+  const hashLine = `// Hash: sha256:${hash}`;
   if (SPDX_INDEX !== -1) {
-    cleanedLines.splice(SPDX_INDEX + 1, 0, `// Hash: sha256:${hash}`);
+    cleanedLines.splice(SPDX_INDEX + 1, 0, hashLine);
   } else {
-    // Otherwise insert at top
-    cleanedLines.unshift(`// Hash: sha256:${hash}`);
+    cleanedLines.unshift(hashLine);
   }
 
   fs.writeFileSync(filePath, cleanedLines.join('\n'), 'utf8');
   console.log(`✅ Patched: ${filePath}`);
 }
 
-console.log('🔍 Scanning project...');
+console.log('🔍 Scanning modified files...');
 
-const files = scanDir();
+const files = getChangedFiles();
 const summary = [];
 
 files.forEach(file => {

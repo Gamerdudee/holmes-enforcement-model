@@ -10,7 +10,7 @@ const path = require('path');
 const crypto = require('crypto');
 
 const skipDirs = ['node_modules', 'mnt/data', '.git', '.github'];
-const HASH_LABEL = 'Hash (Integrity Binding):';
+const HASH_LABEL = 'Hash:';
 
 const trackedExtensions = {
   '.js': '// SPDX-License-Identifier: Declaratory-Royalty',

@@ -1,0 +1,48 @@
+// SPDX-License-Identifier: Declaratory-Royalty
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
+const hashFiles = [];
+const hashMap = {};
+const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
+const skipExtensions = ['.json'];
+
+function computeHash(filePath) {
+  const fileBuffer = fs.readFileSync(filePath);
+  return crypto.createHash('sha256').update(fileBuffer).digest('hex');
+}
+
+function scanDir(dir = '.') {
+  fs.readdirSync(dir, { withFileTypes: true }).forEach(entry => {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      if (!skipDirs.includes(entry.name)) scanDir(fullPath);
+    } else {
+      const ext = path.extname(entry.name);
+      if (!skipExtensions.includes(ext)) {
+        try {
+          const hash = computeHash(fullPath);
+          hashFiles.push(fullPath);
+          hashMap[fullPath] = hash;
+        } catch (err) {
+          console.warn(`⚠️ Skipped ${fullPath}: ${err.message}`);
+        }
+      }
+    }
+  });
+}
+
+// Run hash scan
+scanDir();
+
+// Output results
+console.log(`\n🧾 SHA-256 Hashes:\n`);
+Object.entries(hashMap).forEach(([file, hash]) => {
+  console.log(`📁 ${file}: ${hash}`);
+});
+
+// Optional: write summary to file
+const summaryPath = 'HEM-hash-summary.txt';
+fs.writeFileSync(summaryPath, Object.entries(hashMap).map(([file, hash]) => `${file}: ${hash}`).join('\n'));
+console.log(`\n✅ Hash summary saved to: ${summaryPath}`);

@@ -41,6 +41,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
 
+          git fetch origin
+          git pull --rebase origin main
+
           git add .
 
           if git diff --cached --quiet; then
@@ -51,5 +54,6 @@ jobs:
             git push origin HEAD:main
             echo "🚀 Changes pushed successfully."
           fi
+
 
 

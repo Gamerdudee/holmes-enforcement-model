@@ -1,4 +1,7 @@
 Hash:
+`sha256:06d880375b496b62ce4f1e13c41b075f5ded7e43b40cd57eab9f1b2b5e4796bd`
+
+Hash:
 `sha256:df75e0bb7de3e54b793dc2a4b0f8e6e541f9141bb9c2bac749d10f88b6caf351`
 
 Hash:
@@ -8,7 +11,7 @@ Hash:
 `sha256:66e70c11e00c1840975c01224b89eecda17ce5fe930292bc804dec7821e3cee6`
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:055d8bea70b8d3188df37b19c3e52ac1d2129159ac9d4d88ebf58026f32363a8
+// Hash: sha256:ebd868b82d187b788ff6543ef71713862dd71184d6be5727daeee9d4a5b3f6c0
 
 
 const fs = require('fs');

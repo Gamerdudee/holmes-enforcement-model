@@ -10,7 +10,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 Hash:
 `sha256:2d3fae5ff6fd21c89dec6dd3741bcefbf905582e4895c6f65321703c105b537a`
 
-
+ 
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 

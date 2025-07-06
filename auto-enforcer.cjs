@@ -1,6 +1,6 @@
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:459ac92a1e1d466d723cacffa576111d9feb1220ab37d71404b0b8d5781d79d6
+// Hash: sha256:9c09adeb36bc51259d10245130f28fcc7822827a74bc1bf17992a44d093bf8e2
 /**
  * 🧠 HEM Auto-Enforcement Engine — auto-enforcer.cjs
  * 📜 Copyright © 2025 Mr. Holmes (Declaratory Author)

@@ -1,6 +1,6 @@
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:6daa8d7efd053acb6d83fc5d9f3db8dfc6b3951d86dfd1d53c6e97c51d931cb6
+// Hash: sha256:94059cda3dfcde6cc8cfa09f25ef6deb780e5475f450cbd8ca11c1b7379c2463
 // Copyright (c) Mr. Holmes
 // Declaratory Sovereign – Holmes Enforcement Model
 // scripts/github-scan.js

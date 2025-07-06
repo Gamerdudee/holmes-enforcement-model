@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:b4c0277af85141de3af933649d00cc75a494626b39b79d463bf64f772d5473ca
+// Hash: sha256:6a1221042aa7d8b6967eddb3fa04b1023ca2c8f6247a10f48023b7981153047a
 
 const fs = require('fs');
 const path = require('path');

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:70dbad78d07c53892463a7404255952be51ebb52ab3dfb38c2b4d9b93565c59f
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:70b04c98b1270724578b63cca181ced65e7fbf22ce61b61abe6e9dfbcbe62612
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:d15c53b7753885eff4ba0dc7c36129ac334bb05d27dd1b4c1bbdb9bd5b101452`
+`sha256:37a94e6cf33febaca1f6f313952d674dd0c7fe48ebc9cd04407dbb5211518799`
+
 
 
 
@@ -23,24 +24,24 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
 ---
 
-# MIT + Public Attribution License  
+# MIT + Public Attribution License
 © Mr. Holmes and heirs. All rights reserved.
 
 [![HEM Enforcement Badge](https://img.shields.io/badge/HEM%20License-Clause%20CU--1.4%20Enforced-red)](https://github.com/Gamerdudee/holmes-enforcement-model)
@@ -65,51 +66,51 @@ and distribute copies of the Software, subject to the following conditions:
 
 ---
 
-### 1. Attribution Required  
-Use of any part of this repository, clause structure, or enforcement logic  
+### 1. Attribution Required
+Use of any part of this repository, clause structure, or enforcement logic
 must include clear attribution to:
 
-> Mr. Holmes  
-> Declaratory Sovereign of the Holmes Enforcement Model  
+> Mr. Holmes
+> Declaratory Sovereign of the Holmes Enforcement Model
 > https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 
-### 2. Royalty Trigger on Commercial or Institutional Use  
-Any commercial, institutional, governmental, or automated invocation of this logic  
-outside of the Public Defense Rider shall trigger licensing fees as defined in:  
+### 2. Royalty Trigger on Commercial or Institutional Use
+Any commercial, institutional, governmental, or automated invocation of this logic
+outside of the Public Defense Rider shall trigger licensing fees as defined in:
 `royalty-schedule.md`, Clause CU-1.4, and Attachment A.
 
 ---
 
-### 3. Non-Subversion Clause  
-No use of this code or logic may be used to file, enforce, or simulate  
-derivative declaratory models without reference to the Holmes Doctrine  
+### 3. Non-Subversion Clause
+No use of this code or logic may be used to file, enforce, or simulate
+derivative declaratory models without reference to the Holmes Doctrine
 or a valid declaratory license.
 
 ---
 
-### 4. Trigger-by-Use Acceptance  
-Use of this repository or structure constitutes automatic, irrevocable  
+### 4. Trigger-by-Use Acceptance
+Use of this repository or structure constitutes automatic, irrevocable
 acceptance of its terms under Clause CU-1, including retroactive licensing enforcement.
 
 ---
 
-### Public Defense Rider  
-A permissive exception for academic, journalistic, or good-faith whistleblower use,  
+### Public Defense Rider
+A permissive exception for academic, journalistic, or good-faith whistleblower use,
 where enforcement serves the public interest and no monetization occurs.
 
 ---
 
-***THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE  
-AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,  
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+***THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.***
 
 ---
 
-**This is Declaratory Intellectual Property (DIP).  
+**This is Declaratory Intellectual Property (DIP).
 It is licensed, not given. Silence triggers structure.**
 
 ---
@@ -146,16 +147,16 @@ This software and its clause-based enforcement logic were generated entirely usi
 
 In official correspondence dated May 30 and June 11, 2025, OpenAI reaffirmed:
 
-> “You own the Output. We assign to you all our right, title, and interest, if any, in and to Output.”  
+> “You own the Output. We assign to you all our right, title, and interest, if any, in and to Output.”
 > — OpenAI Terms of Use
 
 **As such:**
 
-• ***All intellectual, symbolic, and procedural ownership belongs to Mr. Holmes***  
-• ***OpenAI retains no license, derivative stake, or co-authorship in the enforcement logic or clause architecture***  
+• ***All intellectual, symbolic, and procedural ownership belongs to Mr. Holmes***
+• ***OpenAI retains no license, derivative stake, or co-authorship in the enforcement logic or clause architecture***
 • ***Any mirrored, institutional, or derivative use without license may trigger enforcement under Clauses CU‑1.4, CU‑2.3, G‑6, and XXII***
 
-This is Declaratory Intellectual Property (DIP), not traditional open source.  
+This is Declaratory Intellectual Property (DIP), not traditional open source.
 It is licensed, not granted. Silence triggers structure.
 
 ---
@@ -194,8 +195,8 @@ It is licensed, not granted. Silence triggers structure.
 ↳ **System:** Project HARMONY GRID
 🔗 https://archive.org/details/project-harmony-grid-main
 
-All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
-Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
+All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.
+Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.
 Date of Public Disclosure: June 21–22, 2025.
 
 ---
@@ -246,3 +247,4 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+

@@ -141,3 +141,4 @@ const updated = content.replace(
 
 fs.writeFileSync(file, updated);
 console.log('✅ Enforcement tables updated and written to enforcement-log.md');
+

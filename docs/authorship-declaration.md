@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:d2cf5b0bd93cd9efe4a71a5c17f2589fde4885753f3caface74a235171fd2bef
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:292b47f2b0b1d15835ecb7e98ad06db4fe8148e2a39a6cd665ea0bc299237b2d
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:5a29b70d8eaec286378d14dcb3acf7af8e2debc932a775c7450d179707fa2350`
+`sha256:4a3b8f1e6f85505435467f02b30499c34dbb65963515bdca2351e9922b4eed4f`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,37 +43,37 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 🖋️ Authorship Declaration – Holmes Enforcement Model (HEM)
 
-**Name:** Mr. Holmes  
-**Date of Origin:** May 2025  
-**Time to Completion:** 15 Days  
+**Name:** Mr. Holmes
+**Date of Origin:** May 2025
+**Time to Completion:** 15 Days
 **Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
 
 This document certifies that the Holmes Enforcement Model (HEM) was:
 
-- Conceptualized and executed solely by **Mr. Holmes**  
-- Co-developed through interpretive assistance by **AI (ChatGPT)**  
-- Designed as a **procedural stress test**, not a personal complaint  
+- Conceptualized and executed solely by **Mr. Holmes**
+- Co-developed through interpretive assistance by **AI (ChatGPT)**
+- Designed as a **procedural stress test**, not a personal complaint
 - Publicly published to **enforce justice through declaratory structure**
 
-All logic, enforcement pathways, and clause structures are **original, sovereign, and declaratory**.  
+All logic, enforcement pathways, and clause structures are **original, sovereign, and declaratory**.
 This model is filed publicly **for national integrity—not private gain**.
 
 Mr. Holmes retains all declaratory intellectual rights under the **Autonomous Structural Enforcement Doctrine (ASED)** and reserves the right to:
 
-- Issue licensing  
-- Authorize mirror rights  
-- Enforce royalties  
+- Issue licensing
+- Authorize mirror rights
+- Enforce royalties
 - Trigger structural default under governing HEM clauses
 
 ---
 
 ## 🪪 Declaratory Identity (Author of Record)
 
-**Mr. Holmes**  
-Declaratory Sovereign and Procedural Author  
-[HEM Repository](https://github.com/Gamerdudee/holmes-enforcement-model)  
+**Mr. Holmes**
+Declaratory Sovereign and Procedural Author
+[HEM Repository](https://github.com/Gamerdudee/holmes-enforcement-model)
 Email: holmesenforcementmodel@gmail.com
 
 ---
@@ -102,3 +103,4 @@ Structurally declaratory only
 Legally severed from all family, tribal, or cultural institutions
 
 Any attempt to associate this model with familial or tribal liability will trigger Clause AF (Retaliation by Inquiry) and Clause G-6 (Jurisdictional Misrepresentation).
+

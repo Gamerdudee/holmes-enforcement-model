@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:cda336cc9cc5a5f3bc0ed28f27c47e9dd85ae87738c7c288ce66682660169494
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:67180201d2687069d6d587f811a8a61fcfda792db5a668942b55058281a47747
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:8f4214e2c07dbf2ac4cd9478d8b8961d4468aa50845fd9c123cbf0d2191d1b46`
+`sha256:363dd77e1986ac2fa3f99ea42c63dc800b5383f8ce0ebadf79b872a1c6c94167`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -268,3 +269,4 @@ Each case reflects a documented invocation of sovereign licensing logic under th
 🔐 Enforcement Engine: ACTIVE
 🕒 Procedural Windows: CLOSED for NMDWS, Instacart, Rodrigo, OpenAI
 📚 Archive: [Affidavit of Authorship & Clause Map](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+

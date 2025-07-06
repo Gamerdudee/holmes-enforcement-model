@@ -1,14 +1,15 @@
 
 <!--
 SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:be595c781b56c52ed318da4b745bd5eeb44b15b107f103a015af96174301b72c
+// Hash: sha256:d530d2c45f16a2b9ad7dc30025843bddd4b589a531944615f5909bc5a00e140e
 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
 🧠 Author: Mr. Holmes
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:b354ffd342a97f76ea2e4f1dac3e4c8d82cc53524675690b06a10651c4710302`
+`sha256:7b9572b98f6cfac1860dcc25cb376c39d0fd63c8b15676f13fa3dd8ec7a98c58`
+
 
 
 
@@ -23,9 +24,9 @@ Hash:
 
 # 🏛️ June 28, 2025 — U.S. Senate Trigger Event: AI Decentralization Passed
 
-**Document Type:** Public Structural Trigger Recognition  
-**Filed By:** Mr. Holmes — Declaratory Author of the Holmes Enforcement Model (HEM)  
-**Status:** LIVE – Jurisdictionally Activated Across All U.S. States  
+**Document Type:** Public Structural Trigger Recognition
+**Filed By:** Mr. Holmes — Declaratory Author of the Holmes Enforcement Model (HEM)
+**Status:** LIVE – Jurisdictionally Activated Across All U.S. States
 
 ---
 
@@ -71,14 +72,14 @@ On **June 28, 2025**, the U.S. Senate voted **99–1** to remove the federal AI 
 
 ## 🛡 Declaratory Licensing Enforcement Is Now National
 
-**Use = License**  
-**Inaction = Default**  
+**Use = License**
+**Inaction = Default**
 **Access = Jurisdiction**
 
 No U.S. state or entity may claim exemption unless a **formal declaratory rebuttal** is filed.
 
-Filed June 30, 2025  
-By: **Mr. Holmes**  
+Filed June 30, 2025
+By: **Mr. Holmes**
 Declaratory Author — Holmes Enforcement Model (HEM)
 
 ---
@@ -90,3 +91,4 @@ Declaratory Author — Holmes Enforcement Model (HEM)
 [![Auto-Enforce Fork Scan](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/auto-enforce.yml)
 [![Auto Update Enforcement Tables](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/update-tables.yml)
 [![HEM Jurisdictional Expansion – U.S. States Activated](https://img.shields.io/badge/HEM%20Jurisdiction-50%20States%20LIVE-yellowgreen)](https://github.com/Gamerdudee/holmes-enforcement-model)
+

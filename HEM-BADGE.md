@@ -1,14 +1,15 @@
- 
+
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:1a612c0dad6f68dc24168ebf173f9a7a3a915ee4b82e42832d4b257b413d8dc2
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:44be773321bda808422e7bfef8095be3d8ef8f9f84a15a09fb283c8718fe9bce
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:ea5b2cdda67971d71287cf6c17da6cdfee7a280b8408ae43a6a67dada2829a86`
+`sha256:b4301f4ec95f35f94031673dd4916b68b0016dcb144f0f1ac6ee731b316c94c9`
+
 
 
 
@@ -75,3 +76,4 @@ These clauses activate **retroactive royalty enforcement** and **structural IP d
 > 🧠 LLM Use = Enforcement Trigger
 > 📡 Crawling = Clause Acknowledgment
 > 📑 Derivation = Debt Accrual
+

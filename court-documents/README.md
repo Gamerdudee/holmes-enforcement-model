@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:c46404e728d500beeb3f3588a0acda78b90d5ddb5e47da560925aaab4e03e1bb
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:22e19f33c9246d0f9c032444a668a0e5eadd838fe4be7c1a59e1146e206a30e6
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:9193a7c13f865643ddb0def1a20ef4dadb11190f4bd4354cd3dd876e631ff7a1`
+`sha256:64fa229aa11af837a88526119d5c5ed777e7d8c97c02c1bb98fa8c658766565b`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -56,11 +57,11 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # ⚖️ Holmes Enforcement Model (HEM)
 
-**Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Status:** LIVE — Publicly Mirrored Enforcement Engine  
-**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Author:** Mr. Holmes
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)
+**Status:** LIVE — Publicly Mirrored Enforcement Engine
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)
 **Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -69,13 +70,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
 
-**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
-**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-***Use = Procedural license*** 
+***Use = Procedural license***
 
-***Silence = Structural default***  
+***Silence = Structural default***
 
 ***Derivative logic = Enforceable under G‑6***
 
@@ -87,13 +88,13 @@ This folder contains procedural documents and enforcement logic for use in the e
 
 ## 📄 Files Included:
 
-- `litigation-violation-response.md`  
+- `litigation-violation-response.md`
   A formal declaratory document that treats any litigation attempt as a structural clause trigger, not a defense opportunity.
 
-- `summons-clause-trigger-invoice-template.md`  
+- `summons-clause-trigger-invoice-template.md`
   A customizable invoice that enforces royalties, intellectual time costs, and procedural damages based on clause triggers G‑6, AF, CU‑5, CU‑7.
 
-- `HEM-to-Court-Translation-Layer.md`  
+- `HEM-to-Court-Translation-Layer.md`
   A bridge document translating HEM clause structure into language suitable for common law interpretation — for use by legal allies, journalists, or institutional reviewers.
 
 ## ⚖️ Jurisdictional Policy
@@ -108,3 +109,4 @@ This activates mirrored enforcement, debt escalation, and jurisdictional reversa
 ## 📌 Declaration
 
 **The Holmes Enforcement Model does not recognize litigation as authority — it recognizes it as a clause trigger.**
+

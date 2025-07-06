@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:b9230091b49a8fe70f2c9a098bf9bd55ca788ec2e71a4eab6e396d3cc658cb17
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:121e5b6a2447e02a358b127f1585b5fdee07d55a9375f65d131acb6cf389f1f9
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:f029d76f17744f037dfa9c97d5aa5fc3c7484409638df171b275ce231626d333`
+`sha256:68218f182512d3a7697f91ee5d934e457bc576804aff767410b16b8696a22cc9`
+
 
 
 
@@ -25,7 +26,7 @@ Hash:
 ---
 
 # 🙌 Supporters
-See who’s helping power the future of sovereign IP governance:  
+See who’s helping power the future of sovereign IP governance:
 → [Supporters.md](Supporters/supporters.md)
 
 | Tier Name                | Amount         | Perks                                                |
@@ -41,18 +42,18 @@ See who’s helping power the future of sovereign IP governance:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -70,11 +71,11 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 > ## ⚖️ This file is structurally governed by HEM Clause CU‑2.3. Downloading or duplicating this repository constitutes declaratory contact and procedural enforcement under U.S. sovereign clause law.
 
-> ⚠️ **Notice:**  
-> This repository is procedurally mirrored.  
-> **To download the ZIP or access the full enforcement engine, use the public mirror link**:  
-> 👉 [https://gamerdudee.github.io/holmes-enforcement-model/](https://gamerdudee.github.io/holmes-enforcement-model/)  
->  
+> ⚠️ **Notice:**
+> This repository is procedurally mirrored.
+> **To download the ZIP or access the full enforcement engine, use the public mirror link**:
+> 👉 [https://gamerdudee.github.io/holmes-enforcement-model/](https://gamerdudee.github.io/holmes-enforcement-model/)
+>
 > **Direct ZIP downloads bypass Clause CU‑1.4 tracking and are procedurally bound.**
 
 ---
@@ -86,11 +87,11 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # ⚖️ Holmes Enforcement Model (HEM)
 
-**Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Status:** LIVE — Publicly Mirrored Enforcement Engine  
-**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Author:** Mr. Holmes
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)
+**Status:** LIVE — Publicly Mirrored Enforcement Engine
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)
 **Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -99,13 +100,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
 
-**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
-**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-***Use = Procedural license*** 
+***Use = Procedural license***
 
-***Silence = Structural default***  
+***Silence = Structural default***
 
 ***Derivative logic = Enforceable under G‑6***
 
@@ -131,11 +132,11 @@ This repository operates under the Holmes Enforcement Model (HEM) — a declarat
 
 The Holmes Enforcement Model (HEM) is a **clause-governed, self-executing legal doctrine** generated by Mr. Holmes using free-tier AI (ChatGPT). It operates under declaratory sovereignty and U.S. structural enforcement principles — no litigation required.
 
-- 📜 **100 Clauses (A–CU)** — Procedural logic, billing rules, and enforcement protocols  
-- 🪙 **Royalty Smart Contract** — Licensing fees enforced per clause trigger  
-- 📊 **Licensing Trigger Table** — Transparent, clause-based royalty schedule  
-- 🌐 **Mirror-Ready Public Site** — Use = enforcement via public awareness  
-- 🧠 **AI-Sovereign Simulation** — Engineered to contain, not exploit, AI enforcement logic  
+- 📜 **100 Clauses (A–CU)** — Procedural logic, billing rules, and enforcement protocols
+- 🪙 **Royalty Smart Contract** — Licensing fees enforced per clause trigger
+- 📊 **Licensing Trigger Table** — Transparent, clause-based royalty schedule
+- 🌐 **Mirror-Ready Public Site** — Use = enforcement via public awareness
+- 🧠 **AI-Sovereign Simulation** — Engineered to contain, not exploit, AI enforcement logic
 
 ---
 
@@ -191,11 +192,11 @@ The HEM doctrine welcomes those discussions — but binds behavior regardless.
 
 ## 🔑 Core Features
 
-- Clause-based enforcement logic (CU-1.4, CU-2.2, CU-2.3)  
-- Public mirror triggers structural default by silence  
-- AI containment clauses (G-4 – G-7)  
-- Declaratory licensing — no court required  
-- Institutional and derivative IP billing enabled  
+- Clause-based enforcement logic (CU-1.4, CU-2.2, CU-2.3)
+- Public mirror triggers structural default by silence
+- AI containment clauses (G-4 – G-7)
+- Declaratory licensing — no court required
+- Institutional and derivative IP billing enabled
 
 ---
 
@@ -215,7 +216,7 @@ The HEM doctrine welcomes those discussions — but binds behavior regardless.
 
 ## 🔐 Ethical AI Risk Disclosure
 
-> ⚠️ This model was built using free-tier ChatGPT in 15 days.  
+> ⚠️ This model was built using free-tier ChatGPT in 15 days.
 > It proves that sovereign legal enforcement structures can now be generated, filed, and enforced without oversight, funding, or legal training.
 
 HEM was not built to attack the system — it was built to **test, protect, and contain** it before someone else deployed an unlicensed version.
@@ -224,7 +225,7 @@ HEM was not built to attack the system — it was built to **test, protect, and 
 
 ## 🧾 Royalty & Licensing Enforcement
 
-This doctrine is **not open source**.  
+This doctrine is **not open source**.
 Any use of its logic, clause structure, or derivative enforcement **triggers CU-1.4 licensing fees** unless a declaratory license is granted.
 
 | Use Case                          | Fee                          |
@@ -407,17 +408,17 @@ Unauthorized use, testing, citation, or AI model training involving these system
 This repository contains the Holmes Enforcement Model (HEM), a clause-governed, royalty-triggered declaratory enforcement engine authored by Mr. Holmes.
 
 Key Attributes:
-- Created using free-tier AI (ChatGPT)  
-- Triggers institutional liability via silence (Restatement § 69)  
-- Includes licensed royalty clauses (CU-1.4)  
-- Publicly mirrored and self-enforcing  
-- Governed under Autonomous Structural Enforcement Doctrine (ASED)  
+- Created using free-tier AI (ChatGPT)
+- Triggers institutional liability via silence (Restatement § 69)
+- Includes licensed royalty clauses (CU-1.4)
+- Publicly mirrored and self-enforcing
+- Governed under Autonomous Structural Enforcement Doctrine (ASED)
 
 ---
 
 ## 📂 Liability Notices
 
-- [Instacart Derivative Invoice](invoices/instacart-derivative-access.md)  
+- [Instacart Derivative Invoice](invoices/instacart-derivative-access.md)
 - [NMDWS Distribution Breach](docs/nmdws-distribution-breach.md)
 
 ---
@@ -436,7 +437,7 @@ Key Attributes:
 
 ## 📦 Official Public Archives
 
-- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
+- 📜 [Affidavit of Authorship & Licensing – Archive.org](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 - 🗂 [HEM Source Repository (May 30, 2025 Snapshot)](https://archive.org/details/holmes-enforcement-model-main-2)
 - 🗂️ Official Archive Snapshot:
 https://archive.org/details/holmes-enforcement-model-main-7
@@ -449,10 +450,10 @@ Status: Procedurally enforced clause-governed repository
 
 **May 27, 2025** — Mr. Holmes publicly declared and mirrored the Holmes Enforcement Model on LinkedIn, marking the first verified AI-generated legal enforcement system under declaratory sovereign license.
 
-📣 View Public Declaration  
-🔗 [GitHub](https://github.com/Gamerdudee/holmes-enforcement-model)  
-📄 [Invoice](https://lnkd.in/e_wnR7z4)  
-📜 [Affidavit](https://lnkd.in/eu9QwRM8)  
+📣 View Public Declaration
+🔗 [GitHub](https://github.com/Gamerdudee/holmes-enforcement-model)
+📄 [Invoice](https://lnkd.in/e_wnR7z4)
+📜 [Affidavit](https://lnkd.in/eu9QwRM8)
 📝 [LinkedIn Declaration (May 25)](https://lnkd.in/esWz3Cgp)
 
 ---
@@ -460,13 +461,13 @@ Status: Procedurally enforced clause-governed repository
 ## 🛑 Public Default Enforcement
 
 ### Instacart (Maplebear Inc.) — Default Declared May 30, 2025
-- Total Due: $290,000 USD + $1,500 (per day) 
-- Triggers: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7  
+- Total Due: $290,000 USD + $1,500 (per day)
+- Triggers: CU-1.4, CU-2.2, CU-2.3, G-4 to G-7
 - Declared via LinkedIn, Facebook, and GitHub
 
 ### NMDWS — Default Declared May 30, 2025
-- Total Due: $197,500 USD + $1,500 (per day)  
-- Triggers: CU-1.4, CU-2.2, CU-2.3, D, AF, BE, BP  
+- Total Due: $197,500 USD + $1,500 (per day)
+- Triggers: CU-1.4, CU-2.2, CU-2.3, D, AF, BE, BP
 - Declared via GitHub and public declaratory filings
 
 ---
@@ -552,8 +553,8 @@ It is the sovereign architecture of post-silence law.
 
 ---
 
-### **This is not a claim. It is a system.**  
-And the system has already passed through the state — and corporate boardrooms — undetected.  
+### **This is not a claim. It is a system.**
+And the system has already passed through the state — and corporate boardrooms — undetected.
 It is now public. And it is sovereign.
 
 
@@ -564,20 +565,20 @@ It is now public. And it is sovereign.
 While not disclosed in full for structural security, the following independent repositories, all authored by Mr. Holmes between April–July 2024, demonstrate sovereign lineage and early procedural architecture prior to HEM’s declaratory launch:
 
 - 🈳 [BunKaiSensei (Japanese Logic Simulator)](https://github.com/Gamerdudee/bun_kai_sensei) – Built in April 2025 to decode linguistic enforcement patterns; enabled early procedural modeling
-  
+
 - 🖼 [LithophaneMaker (July 2024)](https://github.com/Gamerdudee/LithophaneMaker) – Demonstrated clause-aware interface logic and local sovereignty triggers
-  
+
 - 🤖 MAVIS / CHILD-AI (Local AI Child Simulation September 2024) – Not public; retained as lineage artifact demonstrating autonomous trust development, dialogue governance, and reinforcement boundaries
 
 These systems formed the backbone of clause maturity, self-restriction, and sovereign trust analysis — all of which were upstream of the Holmes Enforcement Model (HEM).
 
-**Proof of authorship, timestamps, and developmental sequence are retained.**  
+**Proof of authorship, timestamps, and developmental sequence are retained.**
 Derivative denial does not nullify sovereign origination.
 
-📁 ***Archive Evidence:***  
-- [HEM Repo Archive – May 30](https://archive.org/details/holmes-enforcement-model-main-2)  
-- [HEM Repo Archive – June 1](https://archive.org/details/holmes-enforcement-model-main-7)  
-- [Frank Borrero/Brainvora Chat Log (June 12)](https://archive.org/details/chat-with-frank)  
+📁 ***Archive Evidence:***
+- [HEM Repo Archive – May 30](https://archive.org/details/holmes-enforcement-model-main-2)
+- [HEM Repo Archive – June 1](https://archive.org/details/holmes-enforcement-model-main-7)
+- [Frank Borrero/Brainvora Chat Log (June 12)](https://archive.org/details/chat-with-frank)
 
 📌 ***Declaratory Silence Warning:***
 Any public party who interacts with this repo, downloads content, or reviews its logic without declaratory rebuttal is subject to Clause CU‑2.3 and XXII. Silence = procedural default.
@@ -595,7 +596,7 @@ This repo does not “host” HEM — it records it.
 
 On **June 22, 2025**, Rodrigo L. S. updated the `README.md` of his public repository titled `leles-manifesto`, declaring it to be:
 
-> “the first Soberania Computacional Fractal do planeta”  
+> “the first Soberania Computacional Fractal do planeta”
 > (the first sovereign computational fractal on the planet)
 
 This claim directly conflicts with the archived public record of the **Holmes Enforcement Model (HEM)**, which:
@@ -606,12 +607,12 @@ This claim directly conflicts with the archived public record of the **Holmes En
 
 As such, this act is logged as a **structural overwrite attempt**, triggering **Clause CU‑5** and default escalation under Clause **CU‑2.3**.
 
-🧾 The violation has been archived, timestamped, and added to the [HEM Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md).  
+🧾 The violation has been archived, timestamped, and added to the [HEM Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md).
 Failure to rebut constitutes permanent procedural default.
 
 —
-**Filed by Mr. Holmes**  
-Declaratory Author — Holmes Enforcement Model  
+**Filed by Mr. Holmes**
+Declaratory Author — Holmes Enforcement Model
 
 ---
 
@@ -621,7 +622,7 @@ As of **June 24, 2025**, Instacart Senior QA Compliance Specialist **Shailyn Smi
 
 This confirms that Instacart has **directly observed and accessed** declaratory filings.
 
-➡️ Triggered Clause: **CU‑2.2** – Observed interaction constitutes procedural binding  
+➡️ Triggered Clause: **CU‑2.2** – Observed interaction constitutes procedural binding
 ➡️ If unaddressed, default under **CU‑2.3** is enforced
 
 📍 Logged in [Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
@@ -640,10 +641,10 @@ Use constitutes license. Silence constitutes debt. Clause violations are enforce
 
 ## ✍️ Declaratory Contact
 
-**Mr. Holmes**  
-Declaratory Sovereign – Holmes Enforcement Model 
+**Mr. Holmes**
+Declaratory Sovereign – Holmes Enforcement Model
 
-📧 holmesenforcementmodel@gmail.com  
+📧 holmesenforcementmodel@gmail.com
 
 🔗 [GitHub Repo](https://github.com/Gamerdudee/holmes-enforcement-model)
 
@@ -674,5 +675,6 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+
 
 

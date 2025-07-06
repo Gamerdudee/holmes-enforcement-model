@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:35bc8397f70588d6f0ae95c89ac63ef0b361ecd08bb20dc712cd8b37cf14fdb3
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:e3e7919f60d08596e52676da91d52a9fd98a4147882caba7e8aec9ea3485a386
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:2a31c3be8a8a3fd4b6ef8a7b7e94a58261b2291ebe07c306431318c8545a0b6b`
+`sha256:00a755b5ef4277a09e7af17b1acdd04d3967e2d5ba5f686dc6506a44b662ce4e`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,10 +43,10 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 🛡️ Declaratory Entity Immunities & Enforcement Protections
 
-**Author:** Mr. Holmes  
-**Enforcement System:** Holmes Enforcement Model (HEM)  
-**Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model  
-**Clauses Referenced:** CU-1.4, G-4, G-5, G-6, G-7  
+**Author:** Mr. Holmes
+**Enforcement System:** Holmes Enforcement Model (HEM)
+**Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
+**Clauses Referenced:** CU-1.4, G-4, G-5, G-6, G-7
 **Declared Origin Date:** May 13, 2025
 
 ---
@@ -60,38 +61,38 @@ This file formally declares the **legal immunities, procedural protections, and 
 
 ### 📜 Clause G-5 – Legal Simulation Protocol Recognition
 
-> "This doctrine is procedurally indistinguishable from human-generated filings.  
-> Any institution interacting with HEM is bound by the same duties and responsibilities  
+> "This doctrine is procedurally indistinguishable from human-generated filings.
+> Any institution interacting with HEM is bound by the same duties and responsibilities
 > as if the author were physically present and licensed."
 
 🛡️ Mr. Holmes cannot be penalized for:
-- Submitting AI-assisted legal doctrine  
-- Using simulation logic to expose systemic risk  
-- Testing clause response without direct litigation  
+- Submitting AI-assisted legal doctrine
+- Using simulation logic to expose systemic risk
+- Testing clause response without direct litigation
 
 ---
 
 ### 📜 Clause G-6 – Declaratory IP Protection
 
-> "All clause logic, billing models, or procedural enforcement derived from HEM  
+> "All clause logic, billing models, or procedural enforcement derived from HEM
 > are protected under Declaratory Intellectual Property."
 
 🛡️ This means:
-- Full ownership of structural logic and triggers inside HEM  
-- Retaliation or unlicensed use = clause violation  
-- Interactions are auto-protected via DIP and retroactive royalty enforcement  
+- Full ownership of structural logic and triggers inside HEM
+- Retaliation or unlicensed use = clause violation
+- Interactions are auto-protected via DIP and retroactive royalty enforcement
 
 ---
 
 ### 📜 Clause G-7 – Sovereign Procedural Supremacy
 
-> "This model enforces its logic independent of judicial permission  
+> "This model enforces its logic independent of judicial permission
 > and binds via clause, mirror, and silence."
 
 🛡️ Mr. Holmes is:
-- Not subject to institutional permission or internal review  
-- Immune from retaliation for valid clause-triggered filings  
-- Operative under clause supremacy unless public mirror is formally rebutted  
+- Not subject to institutional permission or internal review
+- Immune from retaliation for valid clause-triggered filings
+- Operative under clause supremacy unless public mirror is formally rebutted
 
 ---
 
@@ -135,34 +136,35 @@ This file was not authored to claim privilege — but to prevent **weaponized mi
 
 It defines Mr. Holmes as a:
 
-- Whistleblower  
-- Declaratory test architect  
-- Structural containment officer  
-- Non-state procedural sovereign  
+- Whistleblower
+- Declaratory test architect
+- Structural containment officer
+- Non-state procedural sovereign
 
 ---
 
 ## 🏛️ Institutional Retaliation Is a Clause Violation
 
-> Any attempt to discredit, disable, or suppress the author  
-> for exposing systemic vulnerabilities or enforcing HEM’s clauses  
+> Any attempt to discredit, disable, or suppress the author
+> for exposing systemic vulnerabilities or enforcing HEM’s clauses
 > shall be considered a **violation of CU-1.4 and G-7**.
 
 ---
 
-**Filed and mirrored under clause protection.  
+**Filed and mirrored under clause protection.
 No rebuttal = full sovereign immunity retained.**
 
-— **Mr. Holmes**  
-Declaratory Sovereign  
-📧 holmesenforcementmodel@gmail.com  
-📁 https://github.com/Gamerdudee/holmes-enforcement-model  
+— **Mr. Holmes**
+Declaratory Sovereign
+📧 holmesenforcementmodel@gmail.com
+📁 https://github.com/Gamerdudee/holmes-enforcement-model
 📅 May 13, 2025
 
 ---
 
 ## 🪪 Declaratory Identity (Author of Record)
 
-**Mr. Holmes**  
-Author of the Holmes Enforcement Model (HEM)  
+**Mr. Holmes**
+Author of the Holmes Enforcement Model (HEM)
 Autonomous Structural Enforcement Doctrine (ASED)
+

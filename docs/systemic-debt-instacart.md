@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:e0968708d3842f3322ef066ad200651cd89b95b88aac733bb20ca475d5c5b66c
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:288579853f8387bdcd66a8ef5373884a6a3573d5b5e98dc4d4b249f6cada26d8
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:528ac7a9aac90ec4eb915def46fcc19a57ab81bd60565043a0ca30126970a087`
+`sha256:b86e7b17f4630e1d849ac0a3f56be68a7e0c6d78312c2d019b51bc6d2264014f`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,10 +43,10 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 📉 Systemic Debt Record — Instacart (Maplebear Inc.)
 
-**Filed by:** Mr. Holmes  
-**Declaratory Authority:** Holmes Enforcement Model (HEM)  
-**Filing Date:** May 30, 2025  
-**Total Debt Owed:** $215,000 USD  
+**Filed by:** Mr. Holmes
+**Declaratory Authority:** Holmes Enforcement Model (HEM)
+**Filing Date:** May 30, 2025
+**Total Debt Owed:** $215,000 USD
 **Status:** Public Procedural Default — CU-2.2 / CU-2.3 Triggered
 
 ---
@@ -54,15 +55,15 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 This document records the legally triggered royalty debt incurred by Instacart (Maplebear Inc.) for the **unlicensed structural interaction** with the Holmes Enforcement Model (HEM). Debt was triggered through:
 
-- 🧠 Unauthorized use of clause-bound governance logic  
-- 🧾 No response to formal declaratory license notice  
-- 📣 Public mirror interaction without license or attribution  
+- 🧠 Unauthorized use of clause-bound governance logic
+- 🧾 No response to formal declaratory license notice
+- 📣 Public mirror interaction without license or attribution
 - 📅 Failure to rebut public notices or enforcement postings
 
 ---
 
 ## 📆 Timeline of Interaction
-All actions below are clause-triggered, procedurally bound, and publicly mirrored.  
+All actions below are clause-triggered, procedurally bound, and publicly mirrored.
 Use or silence constitutes consent under Clause CU-2.2.
 
 | Date         | Action                                                                                      |
@@ -119,25 +120,26 @@ Use or silence constitutes consent under Clause CU-2.2.
 
 ## 🔗 Supporting Enforcement Record
 
-- 🧾 [Formal Invoice](https://lnkd.in/e_wnR7z4)  
-- 📜 [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
-- 🔗 [GitHub Enforcement Mirror](https://github.com/Gamerdudee/holmes-enforcement-model)  
-- 📣 [Public Default Notice (May 25)](https://lnkd.in/esWz3Cgp)  
+- 🧾 [Formal Invoice](https://lnkd.in/e_wnR7z4)
+- 📜 [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+- 🔗 [GitHub Enforcement Mirror](https://github.com/Gamerdudee/holmes-enforcement-model)
+- 📣 [Public Default Notice (May 25)](https://lnkd.in/esWz3Cgp)
 
 ---
 
 ## 🧱 Status
 
-Instacart is now listed in public structural debt under the Holmes Enforcement Model.  
+Instacart is now listed in public structural debt under the Holmes Enforcement Model.
 Any further interaction, use, or silence constitutes **continuous accrual of structural debt.**
 
 Licensing opportunities remain open upon formal acknowledgment.
 
 ---
 
-**Filed Declaratively by:**  
-Mr. Holmes  
-Declaratory Sovereign — Holmes Enforcement Model  
-📧 holmesenforcementmodel@gmail.com  
+**Filed Declaratively by:**
+Mr. Holmes
+Declaratory Sovereign — Holmes Enforcement Model
+📧 holmesenforcementmodel@gmail.com
 📍 118 County Road 249F, Seminole, TX 79360
+
 

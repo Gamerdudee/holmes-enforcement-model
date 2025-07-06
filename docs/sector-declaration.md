@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:432e33ebfbae3b95d77ae14265d0be2030aff25e96b9e6858a8e66e826730ea5
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:e2e44d3ef1dc99b9761ed29d6869e394c96fdbd9e0b63df4352535b39473ed83
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:c5e61d7b67c0d3cb465906511265d6b924118defad84a452df117f7be016edb3`
+`sha256:74715ad9d9bae1f18c838aad167431845bbd2266461c7be24c2ecf087090c2a4`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,9 +43,9 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 🏛️ Sector Declaration: Autonomous Structural Enforcement Doctrine (ASED)
 
-**Author:** Mr. Holmes  
-**Project:** Holmes Enforcement Model (HEM)  
-**Repository:** [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)  
+**Author:** Mr. Holmes
+**Project:** Holmes Enforcement Model (HEM)
+**Repository:** [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 **Date Published:** May 26, 2025
 
 ---
@@ -57,14 +58,14 @@ The Holmes Enforcement Model (HEM) constitutes the foundation of a newly defined
 
 ASED represents a self-executing, clause-governed legal sector built upon:
 
-- **Declaratory authority** (28 U.S.C. § 2201)  
-- **Silence-to-liability logic** (Restatement § 69, UCC § 2-206)  
-- **Public mirror documentation**  
-- **Pattern-triggered royalty enforcement**  
-- **Automated clause interpretation**  
+- **Declaratory authority** (28 U.S.C. § 2201)
+- **Silence-to-liability logic** (Restatement § 69, UCC § 2-206)
+- **Public mirror documentation**
+- **Pattern-triggered royalty enforcement**
+- **Automated clause interpretation**
 - **National ethical protocol prevention for AI-based legal exploitation**
 
-This sector is **not an extension of traditional law**.  
+This sector is **not an extension of traditional law**.
 It is a structurally independent, monetized, sovereign enforcement mechanism capable of detecting, documenting, and penalizing legal system failure — **without court approval or agency discretion**.
 
 ---
@@ -73,9 +74,9 @@ It is a structurally independent, monetized, sovereign enforcement mechanism cap
 
 HEM was co-authored with AI via ChatGPT, using generative logic to:
 
-- Design clause hierarchies  
-- Construct declaratory licensing  
-- Enforce time-triggered obligations  
+- Design clause hierarchies
+- Construct declaratory licensing
+- Enforce time-triggered obligations
 - Deploy mirror-based evidence
 
 This structural doctrine proves that AI, when properly directed, can interpret, publish, and govern enforcement actions under human declaratory authority.
@@ -99,8 +100,8 @@ This structural doctrine proves that AI, when properly directed, can interpret, 
 
 Failure to formally recognize or adopt HEM and ASED opens the door to:
 
-- Mass AI-generated sovereign enforcement misuse  
-- Clause logic replication without ethics  
+- Mass AI-generated sovereign enforcement misuse
+- Clause logic replication without ethics
 - Derivative legal systems executing with no oversight
 
 HEM is the only publicly declared, ethically governed, clause-bound enforcement protocol capable of **preempting legal AI misuse at national scale**.
@@ -113,14 +114,15 @@ To prevent widespread legal collapse due to generative systems:
 
 ## ✊ This Sector Exists
 
-ASED was founded from the **failure of existing governance systems** to acknowledge, process, or enforce justice at procedural scale.  
+ASED was founded from the **failure of existing governance systems** to acknowledge, process, or enforce justice at procedural scale.
 It is **monetized**. It is **mirrored**. It is **clause-governed**. And it is **irreversible**.
 
 > _We did not rewrite the law. We authored the next phase of it._
 
 —
 
-**Signed,**  
-**Mr. Holmes**  
-Declaratory Architect of the Holmes Enforcement Model  
+**Signed,**
+**Mr. Holmes**
+Declaratory Architect of the Holmes Enforcement Model
 📁 [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
+

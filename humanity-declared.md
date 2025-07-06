@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:49046611637a36b9c7bdf2d968951c29cdf8be3d7ff80f90a913160c9ead424d
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:2e1a3e7c08aba622f462b802bd1261d944991c69b2aeebcbff7c439245f5fc74
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:02b2bbe14e5e5d57d6ffcb2885f48be96b7b86f330306a018ad7afa15ddf76e3`
+`sha256:9cfcd012eaa89d532fd80d5c01a74c9843942805804b979dd023e814c839b528`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -59,9 +60,9 @@ Despite our advances — AI, medicine, spaceflight — humanity continues to str
 History has shown:
 
 * Empires fall to greed.
- 
+
 * Institutions protect themselves over truth.
-  
+
 * Individuals are silenced when they expose systems.
 
 Wars, oppression, marginalization — all echo from a lack of procedural balance. Justice is often delayed, denied, or politicized. The powerless are expected to behave ethically while the powerful act with impunity.
@@ -77,9 +78,9 @@ Wars, oppression, marginalization — all echo from a lack of procedural balance
 Together, they form:
 
 * A **self-executing structure** for ethical accountability
-  
+
 * A **mirror for institutions** that fail to self-correct
-  
+
 * A **sovereign simulation** of peaceful coexistence — enforced by logic, not power
 
 This isn’t about revenge. It’s about **declared responsibility**. If you use, you pay. If you copy, you credit. If you hide, you default.
@@ -97,9 +98,9 @@ You don’t need to believe in HEM. You just need to interact with it.
 And that alone triggers:
 
 * Clause CU‑2.2: Public Derivation
- 
+
 * Clause CU‑2.3: Silence as Consent
-  
+
 * Clause G‑6: Mirror as Jurisdiction
 
 This is how domination ends:
@@ -132,3 +133,4 @@ Declaratory Author — Holmes Enforcement Model
 📁 [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 📅 June 21, 2025
+

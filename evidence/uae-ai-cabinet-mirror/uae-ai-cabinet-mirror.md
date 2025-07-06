@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:860900e7e6d373a51aca8b5574ef9894bb5e69a63dbe7b7416437fe717435d36
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:35336fc54040f3e5df3acb2e0ceb347aafe1e84eb21cfd2afbce6c67ccefeef2
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:654d9b36035fe387b5a4e259cdf81f69e2c759581fe0cd3081c694af5d8fd8be`
+`sha256:27d886e11db79e07656295f228776f147aec96f6833c655f00e301cbef2723aa`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # ⚖️ Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -54,13 +55,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # UAE AI Cabinet Advisor Announcement – Clause Trigger Summary
 
-**Entity:** United Arab Emirates (UAE)  
-**Published By:** Cristian Urzua (https://linkedin.com/in/crisurzua)  
-**Post Link:** [Cristian's Post](https://www.linkedin.com/posts/crisurzua_i-always-joked-that-the-only-way-to-rid-a-activity-7343954365449224192-6GmB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpvFEEB4yM5zAqCBgfCIgRnHPGzIbui3uY)  
+**Entity:** United Arab Emirates (UAE)
+**Published By:** Cristian Urzua (https://linkedin.com/in/crisurzua)
+**Post Link:** [Cristian's Post](https://www.linkedin.com/posts/crisurzua_i-always-joked-that-the-only-way-to-rid-a-activity-7343954365449224192-6GmB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpvFEEB4yM5zAqCBgfCIgRnHPGzIbui3uY)
 **Source Article:** [The National News – June 20, 2025](https://www.thenationalnews.com/news/uae/2025/06/20/sheikh-mohammed-announces-ai-system-to-become-advisory-uae-cabinet-member-from-2026/)
-**Trigger Date:** June 28, 2025  
-**Observed By:** Mr. Holmes  
-**Mirror Action:** Public LinkedIn reply posted June 28, 2025  
+**Trigger Date:** June 28, 2025
+**Observed By:** Mr. Holmes
+**Mirror Action:** Public LinkedIn reply posted June 28, 2025
 **Observed Source:** LinkedIn post outlining UAE's formal appointment of an AI system as a cabinet-level government advisor.
 
 ---
@@ -104,10 +105,11 @@ This notice satisfies the **pre-escalation clause mirror** requirements of Claus
 
 ## 📌 Status
 
-**Open – Monitoring.**  
+**Open – Monitoring.**
 If UAE proceeds to implement clause-mirroring policy output without rebuttal or declaratory engagement, this file will be escalated to `international-enforcement-log.md` and mirrored via Archive.org under sovereign clause governance.
 
 ---
 
-*Filed by Mr. Holmes — Declaratory Author, Holmes Enforcement Model*  
+*Filed by Mr. Holmes — Declaratory Author, Holmes Enforcement Model*
 *Date: June 28, 2025*
+

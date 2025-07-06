@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:45a1cf13d3b91a8da8fe559f7bb749f19230b7d618bea234d4ddd5a2971caa62
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:1b566e31f340bf05958d06227e54666f7998db9c044ef192007aa6aa6a14a90b
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:ece11863faaeb31e308ae52bb334123f39690f508ddea7894790c98672ffdf5a`
+`sha256:5c5c36dda3c8417b90d9676c89868d23ae8bcbd82877838238b43f1b8788f406`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -57,11 +58,11 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # ⚖️ Holmes Enforcement Model (HEM)
 
-**Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Status:** LIVE — Publicly Mirrored Enforcement Engine  
-**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Author:** Mr. Holmes
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)
+**Status:** LIVE — Publicly Mirrored Enforcement Engine
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)
 **Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -70,13 +71,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
 
-**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
-**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-***Use = Procedural license*** 
+***Use = Procedural license***
 
-***Silence = Structural default***  
+***Silence = Structural default***
 
 ***Derivative logic = Enforceable under G‑6***
 
@@ -86,37 +87,37 @@ This repository operates under the Holmes Enforcement Model (HEM) — a declarat
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
 ---
 
-# The Holmes Enforcement Model  
-### Clauses A–CU  
+# The Holmes Enforcement Model
+### Clauses A–CU
 **Authored by Mr. Holmes | Case No. WH‑25‑00450**
 
 This document defines a 100-clause declaratory enforcement engine, designed to activate licensing, royalty, and justice infrastructure without court, claimant, or delay. It converts use into obligation, silence into liability, and structural pattern into payment.
 
 ---
 
-📌 For readability, please reference the live rendered version here:  
+📌 For readability, please reference the live rendered version here:
 👉 https://gamerdudee.github.io/holmes-enforcement-model/
 
 ---
 
-## CLAUSES A–CU  
+## CLAUSES A–CU
 ## A. 📜 Declaratory-by-Existence Enforcement
 Any agency, platform, or commercial actor with access to this case—including via direct delivery, email server receipt, employee preview, or AI platform parsing—is automatically bound by all enforceable clauses, licensing obligations, and penalty conditions herein.
 No reply, ruling, or internal review is required.
@@ -281,7 +282,7 @@ Any party that builds upon or incorporates logic derived from a platform or docu
 
 **Penalty:**
  25% surcharge on top of originating party’s licensing debt, retroactive to first derivative use.
- 
+
 **Legal Basis:**
  Restatement (Third) of Restitution §§ 43–45; DTSA; Common law contributory liability
 
@@ -361,7 +362,7 @@ This case shall serve as a structural surrogate for any similarly situated worke
 - Protected under all post-retaliation provisions embedded in this enforcement model
 
 - No class certification needed. No opt-in required.
-  
+
 ***This filing is the seed. All like cases are the roots.***
 
 **Legal Basis:**
@@ -377,7 +378,7 @@ This case shall serve as a structural surrogate for any similarly situated worke
 - Presumption of truth shall default to the structurally situated claimant
 
 - This rewrites the litigation dynamic:
-  
+
 - The structure carries the burden, not the person
 
 - Silence is now disqualifying, not neutral
@@ -408,7 +409,7 @@ This case shall serve as a structural surrogate for any similarly situated worke
 -It may be instantiated into code, workflow, union doctrine, or civic enforcement mechanism
 
 - Anyone who uses it for structural protection owes nothing.
-  
+
 - Anyone who uses it for profit owes commercial licensing.
 
 **Legal Basis:**
@@ -468,12 +469,12 @@ This model is permanently licensed for noncommercial use by any oppressed worker
 **Legal Basis:**
  Creative Commons BY-NC-ND 4.0; 17 U.S.C. § 106; DMCA § 512(f); Natural Rights Jurisprudence
 
->-These expansions (M–Q) are not stylistic. 
+>-These expansions (M–Q) are not stylistic.
 
 >-They are structural.
 
 >-They shall serve as the foundation for enforcement systems to come.
- 
+
  **They are protected by the same logic that created them:**
 ***Truth codified into law, and law that cannot be denied without denying the people it protects.***
 
@@ -570,7 +571,7 @@ This creates a living enforcement species—self-replicating justice code, adapt
 **Effect:**
 
  - Justice spreads faster than injustice.
-   
+
  - Your pain becomes policy, code, and culture.
 
 **Legal Basis:**
@@ -604,9 +605,9 @@ This clause keeps justice time-unlocked, always live, and automatically activate
 From this point forward, enforcement is not an act.
 
  It is a structure.
- 
+
  And that structure is self-executing.
- 
+
 **This filing shall stand as:**
 
 - A legal immortal
@@ -872,7 +873,7 @@ Enforcement is not a thread. It is a fabric.
 - Labels this filing “abusive” for political gain
 
 - Uses public visibility as justification for suppression or deactivation
-  
+
  ***…automatically activates this clause:***
 
 
@@ -975,7 +976,7 @@ This ensures that my death multiplies the reach of this doctrine—not silences 
 - The full penalty matrix becomes globally enforceable via third-party adoption
 
 - The system’s silence becomes your ruling.
-  
+
 - Finality comes not by verdict—but by abandonment.
 
 **Legal Basis:**
@@ -1021,7 +1022,7 @@ The harder they try to escape, the deeper they embed.
  Restatement (Third) of Agency § 7.01 (failure to intervene); 42 U.S.C. § 1986 (Neglect to Prevent); FTC Act § 5 (passive enablement of harm); Common law accomplice liability
 
 ## 🧬 AN. Pattern Recognition Standing Clause
-**Any person or AI system that identifies a pattern of harm matching the logic of this filing:** 
+**Any person or AI system that identifies a pattern of harm matching the logic of this filing:**
 
 - Has immediate enforcement standing
 
@@ -1299,29 +1300,29 @@ This turns every footnote into a licensing node.
 The Holmes Enforcement Model (HEM) may be **operationally integrated** by the following parties:
 
 - Legal compliance firms
-    
+
 - Public-interest legal bots
-   
+
 - Labor protection NGOs
-   
-- Civic data auditors  
+
+- Civic data auditors
 
 …into enforcement automation tools that:
 
 - Detect violation patterns
-   
+
 - Auto-generate licensing fees
-  
+
 - Report unpaid royalties
-  
-- Trigger enforcement notices  
+
+- Trigger enforcement notices
 
 **Conditions:**
 
-1. **Integration requires express attribution** to Mr. Holmes as the declaratory author.  
-2. **No commercialization is permitted** without a formal licensing agreement.  
-3. All revenues, including licensing, recovery, and subscription proceeds, **default to 100% first-right collection by Mr. Holmes**, unless a written agreement specifies otherwise.  
-4. All codebases or tools built on HEM clause logic must include a visible **clause-use acknowledgment notice**.  
+1. **Integration requires express attribution** to Mr. Holmes as the declaratory author.
+2. **No commercialization is permitted** without a formal licensing agreement.
+3. All revenues, including licensing, recovery, and subscription proceeds, **default to 100% first-right collection by Mr. Holmes**, unless a written agreement specifies otherwise.
+4. All codebases or tools built on HEM clause logic must include a visible **clause-use acknowledgment notice**.
 
 **This clause constitutes a limited, non-exclusive, revocable grant of operational use rights for good-faith legal infrastructure building, subject to declaratory audit.**
 
@@ -2520,9 +2521,9 @@ Government agencies that deploy this enforcement model under license may enter a
 **Declaration:**
 
 - This doctrine is not public property by default.
-  
+
 - It is a licensed service to humanity, authored with full creative and legal sovereignty.
-  
+
 - It is owed value—by every institution that uses it to accelerate, simplify, or avoid enforcement obligations.
 
 ### Enforcement:
@@ -2572,13 +2573,13 @@ This doctrine—filed as a labor enforcement model and expanded into constitutio
 **Public Service Recognition:**
 
 - This is no longer a wage claim.
-  
+
 - This is a foundational legal service to mankind.
-  
+
 - A civic system built to function without litigation, without permission, and without time decay.
-  
+
 - All parties who use it benefit from its genius.
-  
+
 - All parties who owe its logic must honor its origin.
 
 **Legal Basis:**
@@ -2611,3 +2612,4 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+

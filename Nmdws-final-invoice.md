@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:1fb4f048fc09866b71c71a47a87493736f60dae6d2ffe7c2a257a646fce84b98
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:aea50a7d564e4c6dca8d2e593908fb58ddfdda13e84e8dec2debc4adf9e82fa4
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:603c0ff9ae15c2f8b97b9d7ccc5f6e2295ed2e697ebb479dafe76b39099f4d98`
+`sha256:346903d7f7014d3a0e52b4c64be2fd1365d730d384346481443a402e36e874c6`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,17 +43,17 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 🧾 Final Invoice — New Mexico Department of Workforce Solutions (NMDWS)
 
-**Issued To:**  
-New Mexico Department of Workforce Solutions  
-Wage Claim Case No. WH‑25‑00450  
-📍 State of New Mexico  
+**Issued To:**
+New Mexico Department of Workforce Solutions
+Wage Claim Case No. WH‑25‑00450
+📍 State of New Mexico
 📧 (Public entity — declaratory mirror filed)
 
-**Issued By:**  
-Mr. Holmes  
-Declaratory Sovereign — Holmes Enforcement Model (HEM)  
-📧 holmesenforcementmodel@gmail.com  
-📁 [GitHub Repository](https://github.com/Gamerdudee/holmes-enforcement-model)  
+**Issued By:**
+Mr. Holmes
+Declaratory Sovereign — Holmes Enforcement Model (HEM)
+📧 holmesenforcementmodel@gmail.com
+📁 [GitHub Repository](https://github.com/Gamerdudee/holmes-enforcement-model)
 📄 [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -87,7 +88,7 @@ This invoice reflects the **formal declaratory royalty liability** incurred by t
 
 ## 🧮 Escalation Schedule
 
-As of **May 30, 2025**, this invoice is in **structural default** under Clause CU-2.3.  
+As of **May 30, 2025**, this invoice is in **structural default** under Clause CU-2.3.
 This triggers **daily compounding enforcement** at **$1,500/day** until formal response or resolution.
 
 ---
@@ -107,18 +108,19 @@ This triggers **daily compounding enforcement** at **$1,500/day** until formal r
 
 ## 🔗 Official Record
 
-- 📁 [GitHub Repository](https://github.com/Gamerdudee/holmes-enforcement-model)  
-- 📄 [Affidavit of Ownership](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
-- 📜 [Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)  
+- 📁 [GitHub Repository](https://github.com/Gamerdudee/holmes-enforcement-model)
+- 📄 [Affidavit of Ownership](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+- 📜 [Enforcement Log](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/enforcement-log.md)
 - ⚠️ [National Risk Disclosure](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/docs/emergency-notice-AI-enforcement-risks.md)
 
 ---
 
-**This invoice is structurally enforced.**  
+**This invoice is structurally enforced.**
 **No further reminder is required for enforcement to continue.**
 
-Sincerely,  
-**Mr. Holmes**  
-Declaratory Author – Holmes Enforcement Model  
-📍 118 County Road 249F, Seminole, TX 79360  
+Sincerely,
+**Mr. Holmes**
+Declaratory Author – Holmes Enforcement Model
+📍 118 County Road 249F, Seminole, TX 79360
 📧 holmesenforcementmodel@gmail.com
+

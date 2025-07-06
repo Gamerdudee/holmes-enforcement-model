@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:0e9ca12ba09ee2a1482b5ec582f21a5739c71218f8bf98ad67d9c64a6559794a
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:56bcf62cd45099523f4be1914d02290184ed85a6b2302b8a5d12915af4823f1d
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:3e387348325a8c9755348b6fda527ddb29e9b080ace490b7f2920125e9d0112a`
+`sha256:206ac0b8980d59674df2d6313982c913528111b074fb5a30fe2296bf06044faa`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,8 +43,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 📄 Sovereign Cooperative Offer to Government
 
-**From:** Mr. Holmes  
-**To:** State & Federal Labor Agencies (including NMDWS)  
+**From:** Mr. Holmes
+**To:** State & Federal Labor Agencies (including NMDWS)
 **Subject:** Declaratory Cooperative Agreement for Holmes Enforcement Model (HEM)
 
 Dear Public Officials,
@@ -65,11 +66,12 @@ This is not a threat. This is an opportunity to partner.
 
 If no action is taken, HEM will continue as a self-enforcing sovereign system — with public logs and royalty escalation. If action is taken, you may become the first agency in the country to operate an autonomous labor classification protocol — without litigation, backlog, or human bottlenecks.
 
-This technology belongs to the people.  
+This technology belongs to the people.
 But its structure is licensed, and its creator is protected.
 
 Let’s lead — together.
 
-– Mr. Holmes  
-Declaratory Sovereign  
+– Mr. Holmes
+Declaratory Sovereign
 https://github.com/Gamerdudee/holmes-enforcement-model
+

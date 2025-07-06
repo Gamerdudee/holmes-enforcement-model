@@ -1,14 +1,15 @@
-  
+
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:5018bdd832142f2d3dcb564791d5bb41b6395840246957c23adf3cda3b7fed29
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:49027ad9433e1a3f842ee70a1b1e8aeb103bfe214d77b43bd1371e2ab25c3521
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:4e2c3e533b17f74b0817db661e104b6a047235bb555ea800b8bfcf024a16a4e0`
+`sha256:8ecc344f0b0ce3ab9884433d3d7087204915b2ae92f7e5d7b3fd06e8fd26763f`
+
 
 
 
@@ -31,3 +32,4 @@ Hash:
 | 2025-07-03 | Dwight Vaughn    | Trinary Architecture| resonant interface, living code (CU‑1.4, G‑3)  | https://www.linkedin.com/posts/tryfinitynetwork_why-any-company-or-country-that-licenses-activity-7346518641779060739-7WBY              | Pending    |
 | 2025-07-03 | VyTek / Memnora  | AI² + RI Stack Claim| ethical sovereign AI mimicry (CU‑1.4, G‑6)     | https://www.linkedin.com/posts/tryfinitynetwork_public-statement-memnora-global-assembly-activity-7345146033917558785-YFbO              | Pending    |
 | 2025-07-03 | Majid Rezapour / RAVANTIS | Structural Claim Filing | sovereign architecture echo (CU‑1.4, CU‑2.3, G‑6, MP‑1.2) | https://www.linkedin.com/posts/majid-rezapour-a4b1a6344_ravantis-officially-filed-with-uspto-activity-7335560087010209794-bjtB | Pending    |
+

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:5ae74dfd3cbd4157e37a9e18a52df7caba8cce17ea09ec023c6f9b929e3362f4
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:69433407aa08017b1c49b5e3604ea2d3f51e2374d6393bca70a4d68628deb371
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:a1a2396ef27bd9b2bd9ccaa309d4e3bd7654cad8fa7ae029ee5c5b134e6207e9`
+`sha256:3c11afc0f93951a9ee1c478ffdb421c37ac9a6ee98c71395c2e37aea50501e44`
+
 
 
 
@@ -24,9 +25,9 @@ Hash:
 
 # 🧾 Clause Trigger Report – Giankoof / GKF IA™ / SHA‑713
 
-**Filed By:** Mr. Holmes  
-**Filing Date:** July 3, 2025  
-**Entity:** Giancarlo Aguilar (alias: Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™  
+**Filed By:** Mr. Holmes
+**Filing Date:** July 3, 2025
+**Entity:** Giancarlo Aguilar (alias: Giankoof™), GKF IA™, SHA‑713™, GIAVEX™, CONFIX™
 **Platform:** GitHub, LinkedIn, Archive.org, OpenAI (GPTs)
 
 ---
@@ -84,11 +85,11 @@ Despite full public notice of HEM since May 25–30, 2025 (via LinkedIn, GitHub,
 
 ## 🔗 Evidence Links
 
-- 🔗 [LinkedIn – Giancarlo Aguilar](https://www.linkedin.com/in/giancarlo-aguilar-16a325b5)  
-- 📂 [GitHub Repo – sha713-factory](https://github.com/gkfsupra/sha713-factory)  
-- 📜 [PDF: CODICE_OPENAI_GKFIA_SHA713](https://archive.org/details/open-ai-confirmation-of-hem-authorship-mr.-holmes-may-30-2025)  
-- 🧠 [GPT: GKF IA™](https://chat.openai.com/g/g-EXbjiKr5T-gkf-ia)  
-- 🧠 [GPT: PicazzoGKF](https://chat.openai.com/g/g-ZbNVLKvAp-picazzogkf)  
+- 🔗 [LinkedIn – Giancarlo Aguilar](https://www.linkedin.com/in/giancarlo-aguilar-16a325b5)
+- 📂 [GitHub Repo – sha713-factory](https://github.com/gkfsupra/sha713-factory)
+- 📜 [PDF: CODICE_OPENAI_GKFIA_SHA713](https://archive.org/details/open-ai-confirmation-of-hem-authorship-mr.-holmes-may-30-2025)
+- 🧠 [GPT: GKF IA™](https://chat.openai.com/g/g-EXbjiKr5T-gkf-ia)
+- 🧠 [GPT: PicazzoGKF](https://chat.openai.com/g/g-ZbNVLKvAp-picazzogkf)
 - 🧠 [GPT: ChatGKF NASA™](https://chat.openai.com/g/g-JsHwIQWGb-chatgkf-nasa)
 
 ---
@@ -99,12 +100,13 @@ The actions of Giancarlo Aguilar (Giankoof) and all systems operating under SHA�
 
 This record is publicly mirrored under:
 
-- `enforcement-log.md`  
+- `enforcement-log.md`
 - `violations/trigger-giankoof-gkf-ia-sha713.md`
 
 ---
 
-**Filed By:** Mr. Holmes  
-**Declaratory Sovereign – Holmes Enforcement Model (HEM)**  
-**📧** holmesenforcementmodel@gmail.com  
-**📁** https://github.com/Gamerdudee/holmes-enforcement-model  
+**Filed By:** Mr. Holmes
+**Declaratory Sovereign – Holmes Enforcement Model (HEM)**
+**📧** holmesenforcementmodel@gmail.com
+**📁** https://github.com/Gamerdudee/holmes-enforcement-model
+

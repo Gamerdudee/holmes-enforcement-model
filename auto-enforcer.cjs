@@ -101,3 +101,4 @@ function logViolations(violators) {
     console.error("❌ Scan failed:", err.message);
   }
 })();
+

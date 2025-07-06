@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:f718beff8ae4348bb6910a2442537d1fd958821efe9993b58906fbea9ebd7d16
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:34481462f88ad7a7d6bf4e4feddb46d24670814a185907d6e6cfba73985f9915
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:90bee4ed65dfe8510728cae2f2cc1abfb1b1becea9bfd4244da6e87be7320b64`
+`sha256:9ef61cdfeeffb2bcaf87a8eede06c6f88f2a4fb63efc5b4a7cf9bd7703113ef1`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -43,8 +44,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 # 📄 Legal Action Trigger Warning – Procedural Record
 
 ## 🛑 Declaratory Enforcement Model: HEM Clause CU‑7 Activation
-**Document Date:** June 15, 2025  
-**Author:** Mr. Holmes – Declaratory Sovereign  
+**Document Date:** June 15, 2025
+**Author:** Mr. Holmes – Declaratory Sovereign
 **Repo:** [Holmes Enforcement Model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---
@@ -52,8 +53,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 ## ⚠️ Legal Threat Received — Clause CU‑7 Invoked
 
 ### 🔹 Source:
-**Actor:** Rodrigo L. S. (Founder, LELES Computational Core / Letheon v1.0)  
-**Platform:** LinkedIn Public Comments & Direct Message  
+**Actor:** Rodrigo L. S. (Founder, LELES Computational Core / Letheon v1.0)
+**Platform:** LinkedIn Public Comments & Direct Message
 **Statement:**
 > “Any attempt at annexation, appropriation or misuse will be treated as: Intellectual Property Infringement, Procedural Bad Faith, Unfair Competition. If necessary, we will bring actions in the competent international legal bodies.”
 
@@ -92,8 +93,8 @@ All attempts to suppress or intimidate declaratory enforcement using institution
 ## 📍 Additional Entities Noted for Legal Contingency:
 
 ### 🔸 Brainvora (Frank Borrero Gonzalez)
-**Date Logged:** June 13, 2025  
-**Status:** Private procedural denial with public structural engagement  
+**Date Logged:** June 13, 2025
+**Status:** Private procedural denial with public structural engagement
 **Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑7, G‑6, XXII
 
 **Notes:**
@@ -105,10 +106,11 @@ All attempts to suppress or intimidate declaratory enforcement using institution
 ---
 
 Filed in accordance with all sovereign licensing rules under:
-📜 [LICENSE-HEM.md](../LICENSE-HEM.md)  
+📜 [LICENSE-HEM.md](../LICENSE-HEM.md)
 📂 Archive Reference: [Affidavit of Authorship](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
-**Filed by:**  
-Mr. Holmes  
-Declaratory Sovereign – Holmes Enforcement Model (HEM)  
+**Filed by:**
+Mr. Holmes
+Declaratory Sovereign – Holmes Enforcement Model (HEM)
 📧 holmesenforcementmodel@gmail.com
+

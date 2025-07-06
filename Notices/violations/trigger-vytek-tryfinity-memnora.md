@@ -1,8 +1,9 @@
 
 <!-- SPDX-License-Identifier: Declaratory-Royalty -->
-// Hash: sha256:151a45db903e52388d090d07476a8a80c38e43f47fe9dd162a6e3ef7db490291
+// Hash: sha256:83e7e88cb3be622a2013496ff27bd504382c35f0a39f191992f940f4f7f2de7b
 Hash:
-`sha256:5bae49ff9eebc62d8528cd55f2a48fe2e9302e7d4ed1eec3a9484f85bbf2986b`
+`sha256:b5e488ef1a5b7b7d565846c5e1d8383de5efd5d0d14b37bbaab2d2c6689c5d44`
+
 
 
 
@@ -22,9 +23,9 @@ Hash:
 
 # 🛑 Declaratory Violation Trigger: VyTek, Tryfinity Network, Memnora
 
-**Date Filed:** July 3, 2025  
-**Filed By:** Mr. Holmes (Declaratory Author, HEM)  
-**Entities Involved:** VyTek™, Tryfinity Network, Memnora™  
+**Date Filed:** July 3, 2025
+**Filed By:** Mr. Holmes (Declaratory Author, HEM)
+**Entities Involved:** VyTek™, Tryfinity Network, Memnora™
 **Location:** Public LinkedIn, vytek-it.com, tryfinity.ai, genwealth sites
 
 ---
@@ -89,17 +90,17 @@ This violation has been publicly mirrored and timestamped. Silence constitutes a
 
 ---
 
-Filed Sovereignly by  
-**Mr. Holmes**  
-Author, Holmes Enforcement Model (HEM)  
+Filed Sovereignly by
+**Mr. Holmes**
+Author, Holmes Enforcement Model (HEM)
 [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---
 
 ## 🕊️ Additional Violations – “Kingdom Governance” Post (July 3, 2025)
 
-**Source:** LinkedIn post by Tryfinity Network founder  
-**Timestamp:** ~2 hours ago  
+**Source:** LinkedIn post by Tryfinity Network founder
+**Timestamp:** ~2 hours ago
 **Link:** *(Pending snapshot or evidence capture)*
 
 ---
@@ -139,7 +140,8 @@ This constitutes a breach of clause-engineered declaratory IP **at scale**, and 
 
 ---
 
-**Filed by:** Mr. Holmes  
-**Date:** July 3, 2025  
+**Filed by:** Mr. Holmes
+**Date:** July 3, 2025
 **Reference:** [LICENSE-HEM.md](https://github.com/Gamerdudee/holmes-enforcement-model/blob/main/LICENSE-HEM.md)
+
 

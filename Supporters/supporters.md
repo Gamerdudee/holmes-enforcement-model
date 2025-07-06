@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:c9753fe10db8721028d15f14106c2114f464b59d05cb904a25a3468ddccf54a6
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:b442fc2abcffb0af61c09d9140f4a3beb1689dd248f1e153b1f7fbd851cdb7c3
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:6134ca7d813226749b767ad87730820cbeb91d50b8ae893a7f39d5fb1e21d5d9`
+`sha256:5d358280f35ad4eff6944795e0731565b24afa52a92caa254df29bdf839c6401`
+
 
 
 
@@ -71,3 +72,4 @@ These features ensure full transparency, sovereign traceability, and GitHub-nati
 > Structural IP doesn’t wait for permission. It proves its existence in the commit history.
 
 ---
+

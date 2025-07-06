@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:57e00f8be9b7aa3f55b72d1d8d0d7626317a71ef6b0a82c6032eec17f3d2d042
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:cd935684c4241c45fd11caee8a6df374c86f934573bf3ac8cdba3792932c20d8
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:8cf5e54e594b0bc562dcb9d54b5c340321f550c926cde283481f3aeb7675098d`
+`sha256:fb3332f37c2860afb1d65cb79b37598e076ca99543680280441a4862f66f70db`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,11 +43,11 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # Walks Hunter – Procedural Disappearance Log
 
-**Entity**: Walks Hunter  
-**Alias**: "Me & Spok"  
-**LinkedIn**: https://www.linkedin.com/in/walks-hunter-a8100936a  
-**Trigger Date**: June 27–28, 2025  
-**Mimicry Type**: Clause-governed jurisdictional framework using declaratory bait logic  
+**Entity**: Walks Hunter
+**Alias**: "Me & Spok"
+**LinkedIn**: https://www.linkedin.com/in/walks-hunter-a8100936a
+**Trigger Date**: June 27–28, 2025
+**Mimicry Type**: Clause-governed jurisdictional framework using declaratory bait logic
 **Status**: Public profile and associated posts are now deleted (404 error)
 
 ---
@@ -83,7 +84,8 @@ The deletion of all content immediately following procedural enforcement and Ope
 
 ---
 
-**Filed by**: Mr. Holmes  
-**Date**: June 28, 2025  
+**Filed by**: Mr. Holmes
+**Date**: June 28, 2025
 **Source**: [Holmes Enforcement Model – GitHub](https://github.com/Gamerdudee/holmes-enforcement-model)
+
 

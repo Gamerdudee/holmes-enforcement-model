@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:f58a8548a489c32f14876564aec9dec7882bb1fa907de379222c10a71fc139f8
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:d91551b3527cf05a18c5e18cb5ad97f331fd32b59a3e2a1d3dafb003999fa445
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:3bec8388ecc534c245165509a2c6e0e8e802f7929c1fb430538a4290c015d14e`
+`sha256:e12977cb1bc9932fdace3beffdd7e60655703ac5f1c03405a90df735a9a3df81`
+
 
 
 
@@ -41,3 +42,4 @@ Hash:
 | package.json |
 | rdt-nmdws.json |
 | scripts/pattern-library.json |
+

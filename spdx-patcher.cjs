@@ -1,7 +1,7 @@
 
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:17ba1fb38724a1184be539e601d56d07dfd6a901de821b54d0f5c45ae96a601a
+// Hash: sha256:bbb9d627eb03128d6040e5300950f930a6583451b8e3c47ff5ec27f35f519bd0
 // 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
 // 🧠 Author: Mr. Holmes
 // 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
@@ -43,11 +43,11 @@ const trackedExtensions = {
   '.xml': '<!-- SPDX-License-Identifier: Declaratory-Royalty -->',
 
   '.md': `<!--
-SPDX-License-Identifier: Declaratory-Royalty  
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->`,
 
   '.css': '/* SPDX-License-Identifier: Declaratory-Royalty */',
@@ -123,3 +123,4 @@ function scanDir(dir = '.') {
 
 scanDir();
 console.log('\n✅ SPDX + SHA patching complete.');
+

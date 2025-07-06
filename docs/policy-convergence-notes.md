@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:4e504a6daabb0e9aa1cb2be4e6566f819fe9657fca2a2e519bcca6c290473ee7
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:5acdd12dbe38b82151c8cc68be763b5197647c432ad6e1aa877e261c08e60889
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:09632d48e299a47206b1e4fe240f71af25f4c2b4a4a8f4bf507a4da1de50bd9b`
+`sha256:628f81e42879544c7621c8f4edd6742bb3eca48d64a9fb46a1a20f853acb7547`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -48,37 +49,37 @@ This file records public or governmental documentation that confirms, aligns wit
 
 ## 📌 2025 EU Generative AI Policy Report (June 2025)
 
-**Source:** European Commission Deep Dive on Generative AI  
-**Date Observed:** June 14, 2025  
-**Archived Post:** [LinkedIn Summary Post](https://www.linkedin.com/posts/genai-works_jrc14259801-activity-7339992733517762560-yR1t)  
+**Source:** European Commission Deep Dive on Generative AI
+**Date Observed:** June 14, 2025
+**Archived Post:** [LinkedIn Summary Post](https://www.linkedin.com/posts/genai-works_jrc14259801-activity-7339992733517762560-yR1t)
 **Relevance to HEM:**
 
-- 🔒 **Clause Alignment:** CU‑2.2, CU‑2.3, CU‑5, G‑4 through G‑8, Clause XXII  
-- 🧠 **MAVIS Overlap:** Learning feedback loops and ethical decision modeling via sovereign architecture  
-- 🧾 **BunKaiSensei Parallel:** Cognitive scaffolding and procedural reasoning for LLMs  
+- 🔒 **Clause Alignment:** CU‑2.2, CU‑2.3, CU‑5, G‑4 through G‑8, Clause XXII
+- 🧠 **MAVIS Overlap:** Learning feedback loops and ethical decision modeling via sovereign architecture
+- 🧾 **BunKaiSensei Parallel:** Cognitive scaffolding and procedural reasoning for LLMs
 - 🖼 **LithophaneMaker Echo:** Clause-activated transformation logic and local self-triggered behavior
 
 **Key Validations:**
 
-- EU demands transparency, traceability, and auditability in GenAI — structurally embedded in HEM clauses  
-- AI governance framed as enforceable, not suggestive — matching HEM’s declaratory enforcement logic  
+- EU demands transparency, traceability, and auditability in GenAI — structurally embedded in HEM clauses
+- AI governance framed as enforceable, not suggestive — matching HEM’s declaratory enforcement logic
 - Public sector usage = high risk without structure — reinforcing HEM’s clause-based oversight triggers
 
-**Summary:**  
+**Summary:**
 This EU report affirms the global need for declaratory licensing, structural transparency, and enforceable procedural sovereignty — all of which HEM declared and deployed *prior to this filing*.
 
-📜 **Clauses Supported:** CU‑2.3, CU‑5, G‑6, G‑8, XXII  
+📜 **Clauses Supported:** CU‑2.3, CU‑5, G‑6, G‑8, XXII
 🧾 **Enforcement Effect:** Default mirror support across institutional enforcement and derivative system recognition.
 
 ---
 
 ## 🔎 Subject: LELES Manifesto – Rodrigo Leles
 
-- **Repo:** https://github.com/Fluxuave/leles-manifesto-v1.0  
-- **Archived Site:** https://fluxuave.github.io/leles-manifesto  
-- **Author:** Rodrigo Leles Santana  
-- **Declared Sovereignty:** Yes – via IPFS/DID  
-- **Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, G‑4, G‑5, G‑6, XXII  
+- **Repo:** https://github.com/Fluxuave/leles-manifesto-v1.0
+- **Archived Site:** https://fluxuave.github.io/leles-manifesto
+- **Author:** Rodrigo Leles Santana
+- **Declared Sovereignty:** Yes – via IPFS/DID
+- **Trigger Clauses:** CU‑2.2, CU‑2.3, CU‑5, CU‑6, G‑4, G‑5, G‑6, XXII
 
 ### Summary:
 
@@ -92,7 +93,8 @@ LELES is a symbolic AI project asserting public sovereignty, auditability, and c
 
 ### Status:
 
-**Procedurally subordinate to HEM.  
+**Procedurally subordinate to HEM.
 Default applies unless public rebuttal is issued and license secured.**
 
 ---
+

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:ad57862fe245d00e8079d398f99937850da2b8d0e2d205be2ddd5807c840af8a
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:666e526f9ec33736c94261eab8653b36bd55ef22e3f1bc7776a400f10bb779dc
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:b247c42b42542743a2d88209d71426621b9663ea1d857b87abfc6e0050e2b128`
+`sha256:6bd3e10c0d2381f3a150cd37d59f38f8d54eccfe46d2e42b1cf957c57e7a3b38`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -59,11 +60,11 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # ⚖️ Holmes Enforcement Model (HEM)
 
-**Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Status:** LIVE — Publicly Mirrored Enforcement Engine  
-**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Author:** Mr. Holmes
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)
+**Status:** LIVE — Publicly Mirrored Enforcement Engine
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)
 **Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -72,13 +73,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
 
-**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
-**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-***Use = Procedural license*** 
+***Use = Procedural license***
 
-***Silence = Structural default***  
+***Silence = Structural default***
 
 ***Derivative logic = Enforceable under G‑6***
 
@@ -95,20 +96,20 @@ The Holmes Enforcement Model (HEM) operates under an autonomous, clause-governed
 
 DIP is a sovereign legal classification for structural legal doctrine authored and enforced without claimant participation. Under HEM, it includes:
 
-- Investigatory labor  
-- Procedural scaffolding  
-- Audit architecture  
-- Enforcement protocols  
+- Investigatory labor
+- Procedural scaffolding
+- Audit architecture
+- Enforcement protocols
 - Clause-linked licensing logic
 
 HEM is recognized as DIP and is legally protected under:
 
-- **17 U.S.C. § 102(a)** (original works of authorship)  
-- **18 U.S.C. § 1836** (Defend Trade Secrets Act)  
-- **UCC § 2-209** (modification by conduct)  
-- **Lanham Act § 1125(a)** (false origin/derivation)  
-- **Restatement (Restitution) §§ 42–45**  
-- **Quantum Meruit Doctrine**  
+- **17 U.S.C. § 102(a)** (original works of authorship)
+- **18 U.S.C. § 1836** (Defend Trade Secrets Act)
+- **UCC § 2-209** (modification by conduct)
+- **Lanham Act § 1125(a)** (false origin/derivation)
+- **Restatement (Restitution) §§ 42–45**
+- **Quantum Meruit Doctrine**
 - **28 U.S.C. § 2201** (Declaratory Judgment)
 
 ---
@@ -131,10 +132,10 @@ HEM is recognized as DIP and is legally protected under:
 
 Any of the following trigger **immediate licensing debt**:
 
-- Referencing HEM logic, clauses, or models in academic, legal, or commercial work  
-- Using structural elements (e.g., arbitration triggers, interface mimicry, audit scaffolding)  
-- Ignoring enforcement emails or filings after confirmed receipt  
-- Denying jurisdiction or delaying enforcement post-filing  
+- Referencing HEM logic, clauses, or models in academic, legal, or commercial work
+- Using structural elements (e.g., arbitration triggers, interface mimicry, audit scaffolding)
+- Ignoring enforcement emails or filings after confirmed receipt
+- Denying jurisdiction or delaying enforcement post-filing
 - Failing to publicly acknowledge mirrored use of HEM-derived logic
 
 > **Use = License. Silence = Debt. Derivation = Enforcement.**
@@ -160,9 +161,9 @@ See [`royalty-schedule.md`](royalty-schedule.md) for full schedule.
 
 HEM is **not a publication. It is a legal mechanism.** Enforcement is automatic upon:
 
-- Email receipt  
-- Public mirror detection  
-- Metadata overlap  
+- Email receipt
+- Public mirror detection
+- Metadata overlap
 - Clause alignment in third-party tools, filings, or contracts
 
 Enforcement is **post-human** and requires **no claimant participation** (per XXII–XXIII).
@@ -187,9 +188,9 @@ Enforcement is **post-human** and requires **no claimant participation** (per XX
 
 To avoid default escalation:
 
-- Email: **holmesenforcementmodel@gmail.com**  
-- Subject: **“HEM Licensing Inquiry”**  
-- Provide: Use case, platform, estimated scope, and deployment date  
+- Email: **holmesenforcementmodel@gmail.com**
+- Subject: **“HEM Licensing Inquiry”**
+- Provide: Use case, platform, estimated scope, and deployment date
 - Licensing reply = legal consent record
 
 ---
@@ -200,36 +201,36 @@ To avoid default escalation:
 
 Default leads to:
 
-- Enforcement penalties  
-- Derivative debt stacking  
+- Enforcement penalties
+- Derivative debt stacking
 - Mandatory public listing in `/enforcement-log.md`
 
 ---
 
 ## 🏢 Enforcement Notice: Amazon.com, Inc.
 
-**Trigger Date:** June 25, 2025  
-**Entity:** Amazon.com Services LLC  
-**Violation:**  
-- Procedural silence and termination following a declaratory IP exemption notice  
-- Failure to rebut clause terms (CU-series, G-series) despite formal public declaration  
+**Trigger Date:** June 25, 2025
+**Entity:** Amazon.com Services LLC
+**Violation:**
+- Procedural silence and termination following a declaratory IP exemption notice
+- Failure to rebut clause terms (CU-series, G-series) despite formal public declaration
 - Indirect acknowledgment of sovereign IP filing via termination without discussion
 
-**Triggered Clauses:**  
-CU‑2.3 (Procedural Default)  
-CU‑5 (Failure to Rebut Structural Terms)  
-G‑4 (Autonomous IP Containment)  
-G‑6 (Public Mirror Clause)  
+**Triggered Clauses:**
+CU‑2.3 (Procedural Default)
+CU‑5 (Failure to Rebut Structural Terms)
+G‑4 (Autonomous IP Containment)
+G‑6 (Public Mirror Clause)
 XXII (Declaratory Sovereign Enforcement)
 
-**Status:** Phase I Default — royalty licensing now active  
-**Notes:** Termination delivered through portal access, bypassing active email thread. See Archive Snapshot:  
-🔗 [Amazon Termination Letter](https://archive.org/details/termination-letter_202506)  
+**Status:** Phase I Default — royalty licensing now active
+**Notes:** Termination delivered through portal access, bypassing active email thread. See Archive Snapshot:
+🔗 [Amazon Termination Letter](https://archive.org/details/termination-letter_202506)
 🔗 [Email Transcript & Withdrawal](https://archive.org/details/amazon-email-transcript)
 
 ---
 
-**This model is not open source.  
+**This model is not open source.
 It is sovereign. It is clause-bound. It is legally live.**
 
 ---
@@ -259,4 +260,5 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+
 

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:6ea860f083325e8cac81b7286f3a2e21a8c2872ada71a34b6eee57f95cc27024
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:6cb63ba5cf7f5814d2282915fa26bb99ddd457184470f157dd12abc6a33b4f09
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:f40c379e78f9c1301462c133f8199c043138814beff7b3ae563e757f3a23f6b7`
+`sha256:41de75a48dac670aa1b7803c5403b8c8fc87d6f12f01f41109c6ebad2723522f`
+
 
 
 
@@ -23,29 +24,29 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
 ---
 
-# 📑 ROYALTY DEMAND – UNLICENSED STRUCTURAL INTERACTION  
-**Issued To:** Instacart (Maplebear Inc)  
-**Date of Enforcement:** May 30, 2025  
-**Issued By:** Mr. Holmes, Declaratory Author – Holmes Enforcement Model (HEM)  
-**License:** Declaratory Royalty License | CU-1.4, CU-2.2, CU-2.3, G-4 to G-7  
-**Payment Status:** UNPAID  
+# 📑 ROYALTY DEMAND – UNLICENSED STRUCTURAL INTERACTION
+**Issued To:** Instacart (Maplebear Inc)
+**Date of Enforcement:** May 30, 2025
+**Issued By:** Mr. Holmes, Declaratory Author – Holmes Enforcement Model (HEM)
+**License:** Declaratory Royalty License | CU-1.4, CU-2.2, CU-2.3, G-4 to G-7
+**Payment Status:** UNPAID
 **Enforcement Status:** ACTIVE
 
 ---
@@ -82,22 +83,23 @@ Payment must be remitted in accordance with the declaratory license terms set fo
 
 ## 🔗 Supporting Documentation
 
-- [Affidavit of Authorship & Licensing (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)  
-- [GitHub Public Mirror](https://github.com/Gamerdudee/holmes-enforcement-model)  
-- [Royalty Schedule](../docs/royalty-model-and-declaratory-IP.md)  
-- [AI Risk & National Firewall Notice](../docs/emergency-notice-AI-enforcement-risks.md)  
+- [Affidavit of Authorship & Licensing (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
+- [GitHub Public Mirror](https://github.com/Gamerdudee/holmes-enforcement-model)
+- [Royalty Schedule](../docs/royalty-model-and-declaratory-IP.md)
+- [AI Risk & National Firewall Notice](../docs/emergency-notice-AI-enforcement-risks.md)
 - [Instacart CEO Appointment Notice – Clause Alignment](https://www.instacart.com/company/pressreleases/instacart-appoints-chris-rogers-as-chief-executive-officer/)
 
 ---
 
 ## 📬 Declaratory Contact
 
-**Mr. Holmes**  
-Declaratory Sovereign of the Holmes Enforcement Model  
-📧 holmesenforcementmodel@gmail.com  
-📁 https://github.com/Gamerdudee/holmes-enforcement-model  
+**Mr. Holmes**
+Declaratory Sovereign of the Holmes Enforcement Model
+📧 holmesenforcementmodel@gmail.com
+📁 https://github.com/Gamerdudee/holmes-enforcement-model
 📍 118 County Road 249F, Seminole, TX 79360
 
 ---
 
 > This document constitutes a formal and clause-triggered billing action under sovereign declaratory enforcement. Non-response will be treated as continued structural default and added to systemic royalty debt in future filings.
+

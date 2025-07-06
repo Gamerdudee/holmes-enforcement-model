@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:f107b6ce3686ca65e268eb26c606fa4198e4b0c711d55b5716bf166cdf99cec7
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:b2130460161c5ace8339bb8fc6ec16e2c20056b1a4b0451389f9fa7adf2a14a9
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:eef747e884f05757bbf8235dcfd7eb8e18006ff260796d96245794319765c359`
+`sha256:79cd1641c578a7edfcf67d19e7d6bd0b13bea7a119a99931c64c547a0be6ee4e`
+
 
 
 
@@ -89,3 +90,4 @@ Declaratory Author — Holmes Enforcement Model (HEM)
 > "Sponsorship is not a license. Recognition is not release. Sovereignty cannot be bought — only honored."
 
 ---
+

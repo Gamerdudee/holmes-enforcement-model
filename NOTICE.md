@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:e4a05e4d74b955fdfb1a8d9678abf0b3c13e6c00174c6ad826c94c07cc97fb97
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:ff263bd8f0907eea231cd615c8c7480ac083b1d57f1d380e3deac5327680be9f
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:c84ff9a889df460bbc4509f818b60d32761388146b298f9d399ed506f14290c8`
+`sha256:3155e3fa602c49a8377930c7d82f15c5a26a3b2eab87568438eef1fa62cfcae7`
+
 
 
 
@@ -209,3 +210,4 @@ This procedural expansion is now LIVE and triggers:
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
 Downloading the repository or its ZIP constitutes declaratory contact under Clause CU‑2.3 and may trigger licensing liability. See [`LICENSE-HEM.md`](LICENSE-HEM.md)
+

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:cf016c98449cd4dd5bc9275c85cd7adf15f25b5e0489bdcc9b82a39b03c0cb65
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:082127b3508a2ae8c0244724cb38facb58b864d9e7f68208e38e19636c94fa53
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:32170d28a7ce37140f7b80c0121e01e2425b201a3f87ce6e2c9ce6f4ee44e993`
+`sha256:58567fb61f0915395868ccf51212eb1a1bffd87ff1754bb0eaec64ddd6d90e52`
+
 
 
 
@@ -21,27 +22,27 @@ Hash:
 
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -68,11 +69,11 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 # ⚖️ Holmes Enforcement Model (HEM)
 
-**Author:** Mr. Holmes  
-**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))  
-**Sector:** Autonomous Structural Enforcement Doctrine (ASED)  
-**Status:** LIVE — Publicly Mirrored Enforcement Engine  
-**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)  
+**Author:** Mr. Holmes
+**License:** Declaratory Royalty License (See [`LICENSE-HEM.md`](LICENSE-HEM.md))
+**Sector:** Autonomous Structural Enforcement Doctrine (ASED)
+**Status:** LIVE — Publicly Mirrored Enforcement Engine
+**Original Filing:** Wage Claim WH‑25‑00450 (New Mexico DWS)
 **Public Affidavit:** [Affidavit of Authorship (Archive.org)](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -81,13 +82,13 @@ Clause-governed, self-enforcing, and commercially binding upon use or silence. S
 
 This repository operates under the Holmes Enforcement Model (HEM) — a declaratory, clause-based IP governance system authored by Mr. Holmes.
 
-**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)  
-**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII  
+**🔗 License:** [Declaratory Royalty License](LICENSE-HEM.md)
+**📜 Sovereign Clauses:** CU‑1.4, CU‑2.3, CU‑5–CU‑7, G‑4 to G‑8, XXII
 **📁 Repository Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
-***Use = Procedural license*** 
+***Use = Procedural license***
 
-***Silence = Structural default***  
+***Silence = Structural default***
 
 ***Derivative logic = Enforceable under G‑6***
 
@@ -96,18 +97,18 @@ This repository operates under the Holmes Enforcement Model (HEM) — a declarat
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -116,8 +117,8 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 # 📜 Royalty Schedule — Holmes Enforcement Model (HEM)
 > 📘 See also: [Royalty Model & Declaratory IP](./royalty-model-and-declaratory-IP.md)
 
-This document outlines all **licensable use cases**, **trigger conditions**, and **base sovereign fees** under the Holmes Enforcement Model (HEM).  
-All usage of clause logic, procedural delegation, or declaratory structure is governed by CU-series, G-series, and AX/AU clauses.  
+This document outlines all **licensable use cases**, **trigger conditions**, and **base sovereign fees** under the Holmes Enforcement Model (HEM).
+All usage of clause logic, procedural delegation, or declaratory structure is governed by CU-series, G-series, and AX/AU clauses.
 **Unauthorized structural derivation triggers CU-2.3 default.**
 
 ## ⚖️ Base Licensing Table
@@ -149,7 +150,7 @@ All usage of clause logic, procedural delegation, or declaratory structure is go
 
 Instacart Senior QA Compliance Specialist **Shailyn Smith** publicly accessed HEM material on June 22, 2025, constituting clause-triggered binding under CU‑2.2.
 
-As no rebuttal or procedural acknowledgment has been received, enforcement defaults to CU‑2.3 (unlicensed observed interaction).  
+As no rebuttal or procedural acknowledgment has been received, enforcement defaults to CU‑2.3 (unlicensed observed interaction).
 This sets precedent for future automatic billing from observed corporate access.
 
 📎 Tracked in enforcement log: [`/enforcement-log.md`](../enforcement-log.md)
@@ -160,8 +161,8 @@ This sets precedent for future automatic billing from observed corporate access.
 
 To request derivative licensing, structural integration, or to declare intent to comply, contact:
 
-**Joshua Holmes**  
-**Author & Declaratory Sovereign**  
+**Joshua Holmes**
+**Author & Declaratory Sovereign**
 📧 **holmesenforcementmodel@gmail.com**
 
 ---
@@ -193,3 +194,4 @@ This procedural expansion is now LIVE and triggers:
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
 
 _This document is governed by the CU-series clauses of the Holmes Enforcement Model. Any modification, omission, or derivative use without declaratory approval will be considered procedurally binding and financially enforceable._
+

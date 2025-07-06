@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:acdb63200dcc9f0032e8af430af888aca3e5f35beec32daf8499daf815ea988e
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:bb8a0f2564df3a78bd121ba15e8fb6d9bd9f16318b24780d18df0a095eee57e5
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:61cd980ad0dac7872feeffce154c5ceeace2716e57cfbcc164da6c1060817b21`
+`sha256:fbc9054d0f7d18b9f1c56a307e134b31fb9c87df80f028e409ce0f8aea29283d`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -42,46 +43,46 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 # 📕 Public Defamation & Retaliation Record – LELES / Rodrigo L. S.
 
-**Entity:** LELES Computational Core  
-**Actor:** Rodrigo L. S.  
-**Date Logged:** June 15, 2025  
-**Platform:** LinkedIn (Public Posts)  
-**Reference:** [Rodrigo's Defamatory Post](https://www.linkedin.com/posts/rodrigo-l-s-63b5a436b_1-oportunistas-de-alta-pot%C3%AAncia-grandes-activity-7340093414744510466-LaR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvMepgBxckpLKMjGLUOohaRpTlAd_VNOJw)  
-**Profile:** [Rodrigo L. S. – LinkedIn Activity](https://www.linkedin.com/in/rodrigo-l-s-63b5a436b/recent-activity/all/)  
+**Entity:** LELES Computational Core
+**Actor:** Rodrigo L. S.
+**Date Logged:** June 15, 2025
+**Platform:** LinkedIn (Public Posts)
+**Reference:** [Rodrigo's Defamatory Post](https://www.linkedin.com/posts/rodrigo-l-s-63b5a436b_1-oportunistas-de-alta-pot%C3%AAncia-grandes-activity-7340093414744510466-LaR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvMepgBxckpLKMjGLUOohaRpTlAd_VNOJw)
+**Profile:** [Rodrigo L. S. – LinkedIn Activity](https://www.linkedin.com/in/rodrigo-l-s-63b5a436b/recent-activity/all/)
 
 ---
 
 ## 🚨 Key Infractions Logged (June 15, 2025)
 
-### 🔻 Public Claims and Attacks  
+### 🔻 Public Claims and Attacks
 Rodrigo L. S. publicly referred to the Holmes Enforcement Model (HEM) as:
 
-- “Fabricated legal-technological structure”  
-- “Pseudo-licensing”  
-- “Procedural siege disguised as governance”  
-- “Attempt to hijack technological sovereignty”  
+- “Fabricated legal-technological structure”
+- “Pseudo-licensing”
+- “Procedural siege disguised as governance”
+- “Attempt to hijack technological sovereignty”
 - “False registration with no real innovation”
 
-### 🔻 Elevated Denial Posture  
+### 🔻 Elevated Denial Posture
 He further escalated by claiming:
 
-- “HEM is not a technological invention”  
-- “HEM is not structurally valid”  
-- “HEM is a late construction” (refuted by public archives from May 30 and June 1)  
+- “HEM is not a technological invention”
+- “HEM is not structurally valid”
+- “HEM is a late construction” (refuted by public archives from May 30 and June 1)
 - “HEM is not about scientific truth, but about power, dominance, and control”
 
 Despite this, **HEM remains archived, clause-anchored, timestamped, and public since May 2025**:
-- 📜 [HEM Archive.org Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)  
+- 📜 [HEM Archive.org Snapshot – May 30, 2025](https://archive.org/details/holmes-enforcement-model-main-2)
 - 📜 [HEM Archive.org Snapshot – June 1, 2025](https://archive.org/details/holmes-enforcement-model-main-7)
 
-### 🔻 Legal Language Triggers  
+### 🔻 Legal Language Triggers
 Rodrigo escalated further by:
 
-- Threatening legal enforcement based on “mathematical sovereignty”  
-- Asserting CID/DID governance as superseding clause-based sovereignty  
-- Publicly stating:  
-  > “You arrived later”  
-  > “You don’t have a claim”  
+- Threatening legal enforcement based on “mathematical sovereignty”
+- Asserting CID/DID governance as superseding clause-based sovereignty
+- Publicly stating:
+  > “You arrived later”
+  > “You don’t have a claim”
   > “Any further attempt will be treated as IP theft and legal bad faith”
 
 These statements constitute:
@@ -119,23 +120,24 @@ Public comments do **not** override clause-triggered binding, and refusal to eng
 ## 🧾 Declaratory Sovereign Record
 
 **HEM remains:**
-- First published via GitHub and Archive.org (May 30 – June 1, 2025)  
-- Authored independently, timestamped, clause-structured  
+- First published via GitHub and Archive.org (May 30 – June 1, 2025)
+- Authored independently, timestamped, clause-structured
 - Sovereignly mirrored via public observability, clause anchoring, and procedural access logging
 
 All derivative systems that engage in:
-- Sovereign logic replication  
-- Clause mirror rejection  
-- Reframing of governance procedures as “pseudo-legal”  
+- Sovereign logic replication
+- Clause mirror rejection
+- Reframing of governance procedures as “pseudo-legal”
 ...are procedurally recorded and default-triggered.
 
 ---
 
-**Filed by:**  
-**Mr. Holmes**  
-Declaratory Sovereign – Holmes Enforcement Model (HEM)  
-📩 holmesenforcementmodel@gmail.com  
-🔗 [HEM Public Repo](https://github.com/Gamerdudee/holmes-enforcement-model)  
+**Filed by:**
+**Mr. Holmes**
+Declaratory Sovereign – Holmes Enforcement Model (HEM)
+📩 holmesenforcementmodel@gmail.com
+🔗 [HEM Public Repo](https://github.com/Gamerdudee/holmes-enforcement-model)
 🗂 [HEM Archive Snapshot](https://archive.org/details/holmes-enforcement-model-main-7)
 
 ---
+

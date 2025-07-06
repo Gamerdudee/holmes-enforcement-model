@@ -93,3 +93,4 @@ ${failedFiles.length > 0 ? '🚫 **Files missing SPDX headers:**\n\n' + failedLi
 
 fs.writeFileSync('scorecard.md', result);
 console.log('\n' + result);
+

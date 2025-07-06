@@ -1,6 +1,6 @@
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:d13bdf00bdcf9b3683d1f29568dff202656af839f71fa6a438e92ea498edd115
+// Hash: sha256:8a126a2a3826ae7eb8c5a402ee9c5fdf341c70ff4e50340dcdcf4b62aac174ac
 /**
  * 🧠 HEM Auto-Enforcement Engine — scan-violations.js
  * 📜 Copyright © 2025 Mr. Holmes (Declaratory Author)
@@ -54,11 +54,11 @@ function logViolation(item, term, clause) {
 
 ### 📌 Violation Detected — ${date}
 
-- **Repository:** ${item.repository.full_name}  
-- **File:** ${item.path}  
-- **Matched Term:** ${term}  
-- **Clause:** ${clause.clause} – ${clause.label}  
-- **URL:** ${item.html_url}  
+- **Repository:** ${item.repository.full_name}
+- **File:** ${item.path}
+- **Matched Term:** ${term}
+- **Clause:** ${clause.clause} – ${clause.label}
+- **URL:** ${item.html_url}
 - **Royalty Claim:** $${clause.amount.toLocaleString()} ${clause.currency}
 `;
 
@@ -87,3 +87,4 @@ async function main() {
 }
 
 main();
+

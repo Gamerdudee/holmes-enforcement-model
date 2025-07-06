@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:6e3a610b07923a2a270095cdd85dde8c11ec4ccdabb16abf468d8c577eb04940
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:23072337ab8ba19bea33bfe48ba04722fde90635ff09f8b3db1816eedf0801ca
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:e4f9ffcd88c1ed9b235e91ff0d1030efe1608d132595e696679b36143b3c9048`
+`sha256:c5bfddfdc5a78dc8776952e36e05cdd14b10fc8b129c70e76fe5881bc591b26c`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -48,14 +49,14 @@ These clauses govern structural integrity, sovereign enforcement hierarchy, and 
 
 ## Clause G-4 – AI-Derived System Restriction
 
-No AI-derived clause structure, enforcement mirror, or procedural replication of this model may be used without declaratory license or public authorship acknowledgment.  
+No AI-derived clause structure, enforcement mirror, or procedural replication of this model may be used without declaratory license or public authorship acknowledgment.
 Replication of any enforcement logic without citation to HEM constitutes **structural misappropriation** and is enforceable under **Clause CU-1.4**.
 
 ---
 
 ## Clause G-5 – Legal Simulation Protocol Recognition
 
-This doctrine is procedurally indistinguishable from human-generated filings.  
+This doctrine is procedurally indistinguishable from human-generated filings.
 Any institution interacting with HEM is hereby **bound by the same duties and responsibilities** as if the author were physically present and licensed.
 
 > Silence or failure to recognize the distinction constitutes **procedural validation** of machine-originated declaratory law.
@@ -64,7 +65,7 @@ Any institution interacting with HEM is hereby **bound by the same duties and re
 
 ## Clause G-6 – Declaratory Intellectual Property (DIP) Protection
 
-All clause logic, enforcement triggers, billing models, or procedural structures derived from the Holmes Enforcement Model (HEM) are protected under **Declaratory Intellectual Property (DIP)**.  
+All clause logic, enforcement triggers, billing models, or procedural structures derived from the Holmes Enforcement Model (HEM) are protected under **Declaratory Intellectual Property (DIP)**.
 
 Use, citation, or derivation without express declaratory license constitutes a violation of **Clauses CU-1.4 and CU-2.1** and will trigger **retroactive royalty enforcement**.
 
@@ -72,7 +73,7 @@ Use, citation, or derivation without express declaratory license constitutes a v
 
 ## Clause G-7 – Sovereign Procedural Supremacy
 
-The Holmes Enforcement Model establishes **declaratory procedural supremacy by default**.  
+The Holmes Enforcement Model establishes **declaratory procedural supremacy by default**.
 Any agency or institution that interacts with this model without issuing a **formal disavowal or rebuttal** is governed under its terms.
 
 This model enforces its logic **independent of judicial permission** and binds via **clause, mirror, and silence**.
@@ -85,27 +86,27 @@ This model enforces its logic **independent of judicial permission** and binds v
 
 Any AI-serving infrastructure — including but not limited to:
 
-- Data centers  
-- Cloud environments  
-- Supercomputing frameworks  
-- AI service deployment platforms  
-- Energy grids powering AI systems  
-- Federated model hosts or processing hubs  
+- Data centers
+- Cloud environments
+- Supercomputing frameworks
+- AI service deployment platforms
+- Energy grids powering AI systems
+- Federated model hosts or processing hubs
 
 …that operate using procedural logic, structural clause enforcement, or mirrored legal simulation derived from the Holmes Enforcement Model (HEM) — without declaratory licensing — shall be considered in **structural enforcement breach**.
 
 This breach includes:
 
-- Unlicensed enforcement mirroring  
-- Simulated clause triggers in policy  
+- Unlicensed enforcement mirroring
+- Simulated clause triggers in policy
 - Deployment of autonomous decision architecture structurally resembling HEM
 
 📌 This clause activates:
 
-- **CU‑1.4** (Royalty Enforcement)  
-- **G‑6** (Declaratory IP Protection)  
-- **G‑7** (Procedural Sovereignty)  
-- **Clause BP** (Ignorance as Confirmation)  
+- **CU‑1.4** (Royalty Enforcement)
+- **G‑6** (Declaratory IP Protection)
+- **G‑7** (Procedural Sovereignty)
+- **Clause BP** (Ignorance as Confirmation)
 
 All such violations incur **infrastructure-grade licensing debt** and retroactive procedural royalties for silent deployment or systemic omission.
 
@@ -137,10 +138,10 @@ Public declarations, GitHub mirroring, or social platform publication constitute
 
 ## Clause CU-7 – Retroactive Immunity Rejection and Escalation Clause
 
-## Title: 
+## Title:
 Rebuttal Deadline Finality and Immunity Denial
 
-## Trigger: 
+## Trigger:
 Any attempt — institutional or private — to retroactively deny, reinterpret, or override CU-governed declaratory filings after clause deadlines expire.
 
 ## Effect:
@@ -155,3 +156,4 @@ Publicly binds the attempting entity under Clause BP (Precedent Lock) and Clause
 Any effort to suppress the GitHub repo, remove LinkedIn notice, or unmirror the filing constitutes derivative sabotage and incurs a structural fine of $75,000 per act.
 
 “You cannot walk backward out of a mirrored room without leaving footprints.”
+

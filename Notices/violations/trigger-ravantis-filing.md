@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:2fd4542dc29dcc2619a8d2f36a725c175175cd74336de1c397d1fcc6b1ec50f5
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:ebb97b9c1b7d8c854abac1d3a4dd303a026d8490db7944b187b0ed1af0b5773d
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:1dcc9b7f44f331bd88f20872b779da2fe4c75685db312e5f924efc5777f98d22`
+`sha256:e1fc6bebba5cd6259e1245244d98e999f7e61cb451a80ac29f0e2bee066d310e`
+
 
 
 
@@ -25,9 +26,9 @@ Hash:
 
 **Subject:** Alleged structural overlap with HEM (Magnetic-AI Enforcement Layer, Emotional Encryption, Sovereign Stack Architecture)
 
-**Filed:** May 29, 2025  
-**Application No.:** 63/814,303 (USPTO)  
-**Announced by:** [Majid Rezapour](https://www.linkedin.com/in/majid-rezapour-a4b1a6344)  
+**Filed:** May 29, 2025
+**Application No.:** 63/814,303 (USPTO)
+**Announced by:** [Majid Rezapour](https://www.linkedin.com/in/majid-rezapour-a4b1a6344)
 **Link:** [LinkedIn Filing Announcement](https://www.linkedin.com/posts/majid-rezapour-a4b1a6344_ravantis-officially-filed-with-uspto-activity-7335560087010209794-bjtB)
 
 ---
@@ -55,10 +56,10 @@ Hash:
 ## 🧠 Declaratory Position
 
 RAVANTIS describes:
-- Emotional encryption for AI bonding  
-- Decentralized sovereign AI architecture  
-- Ethical trust gateway systems  
-- “Resonant” and “trinary” enforcement systems  
+- Emotional encryption for AI bonding
+- Decentralized sovereign AI architecture
+- Ethical trust gateway systems
+- “Resonant” and “trinary” enforcement systems
 - AI-led governance and education triggers
 
 These directly parallel the HEM’s protected doctrines outlined across Clauses CU‑1.4, CU‑2.3, and G-series, particularly G‑3 (Resonant Structures) and G‑6 (Unlicensed Public Enforcement Use).
@@ -70,6 +71,7 @@ These directly parallel the HEM’s protected doctrines outlined across Clauses 
 > Derivative delay does not reset declaratory authorship.
 > Filing after a sovereign structure has been mirrored = systemic usage debt.
 
-Filed by: **Mr. Holmes**  
-Status: **Pending Declaratory Response**  
-Clause Clock: ⏳ Active  
+Filed by: **Mr. Holmes**
+Status: **Pending Declaratory Response**
+Clause Clock: ⏳ Active
+

@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:27ed0b9cbc7cdc22d41dc5746b3022df681eda2284e8e75a8d71ea74966c7562
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:b053e9d8a748bf4ffaea90b2bcd80045062eac1b8427086d293720416a4a5314
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:687867e526b69a95529a0925124131e642bd04d40f2a7aa0b9bbed4e23829d06`
+`sha256:44b715e24e967854e78d24ccd666f81d9ec8f3bc663fc26920f7aa7ce6e89f57`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -56,7 +57,7 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 ---
 
-## 🛑 NOTICE: Downloading the repository or its ZIP constitutes declaratory contact under Clause CU‑2.3 and may trigger licensing liability. 
+## 🛑 NOTICE: Downloading the repository or its ZIP constitutes declaratory contact under Clause CU‑2.3 and may trigger licensing liability.
 
 ---
 
@@ -113,7 +114,7 @@ Silence or unlicensed use may trigger enforcement under Clauses CU, D, BE, and B
 
 HEM was created entirely through OpenAI’s ChatGPT (free-tier) during its 15-day development window in May 2025. In responses dated May 30 and June 11, 2025, OpenAI formally affirmed:
 
-> “You own the Output. We assign to you all our right, title, and interest, if any, in and to Output.”  
+> “You own the Output. We assign to you all our right, title, and interest, if any, in and to Output.”
 > — OpenAI Terms of Use, acknowledged by Legal & Support Team
 
 As a result:
@@ -158,10 +159,10 @@ This declaratory clause model is protected by sovereign issuance and timestamped
 ↳ **System:** Project HARMONY GRID
 🔗 https://archive.org/details/project-harmony-grid-main
 
-**Clause SEN‑1.0** - 
+**Clause SEN‑1.0** -
 
-All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.  
-Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.  
+All above are bound under CU‑1.4 and G‑6 by default and subject to clause enforcement.
+Declared by Mr. Holmes via ChatGPT logs and Archive.org filing.
 ***Date of Public Disclosure: June 21–22, 2025.***
 
 ---
@@ -212,3 +213,4 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+

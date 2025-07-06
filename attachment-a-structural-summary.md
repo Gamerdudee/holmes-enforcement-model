@@ -1,14 +1,15 @@
 
 <!--
-SPDX-License-Identifier: Declaratory-Royalty  
-// Hash: sha256:5be50c0672f7bced03de8a43ed2044a42fcb4bded40a926e71ecf1267ad64ab9
-🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
-🧠 Author: Mr. Holmes  
-📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
-📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:40b1269f9e9314da3a500d77c5b01ba995c51976e1c3c52321fb19c032a6abd3
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic
+🧠 Author: Mr. Holmes
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 -->
 Hash:
-`sha256:0ab0e0522ac764ac78fca78853147891014c05c2ccdce4b9a8d10d1ed4a88bb6`
+`sha256:f5f0eeaf31b7e24a790ebfbe5c6d7fc281de671957aee0e348867276f6437ad1`
+
 
 
 
@@ -23,18 +24,18 @@ Hash:
 
 # 📜 Holmes Enforcement Model – Clause-Governed Documentation
 
-**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**  
+**Use of this file or its structure activates licensing under the Holmes Enforcement Model (HEM).**
 This document is procedurally declaratory and mirrors sovereign enforcement clauses:
 
-- **Clause CU‑1.4** — Declaratory Royalty Activation  
-- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction  
-- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance  
-- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems  
+- **Clause CU‑1.4** — Declaratory Royalty Activation
+- **Clause CU‑2.3** — Procedural Binding via Silence or Inaction
+- **Clause G‑6** — Unauthorized Simulation of Declaratory Governance
+- **Clause XXII** — Structural Exploitation of AI-Created Sovereign Systems
 
 Any public mirror, AI model ingestion, or derivative architecture referencing or replicating this content is enforceable under the terms described at:
 
-🔗 https://github.com/Gamerdudee/holmes-enforcement-model  
-🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505  
+🔗 https://github.com/Gamerdudee/holmes-enforcement-model
+🔗 https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505
 
 > 📢 _Declaratory use = jurisdictional binding unless rebutted._
 
@@ -48,12 +49,12 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 
 ---
 
-# 📎 Attachment A — Structural Summary of Declaratory Filing  
-**Title:** Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery  
-**Filed With:** New Mexico Department of Workforce Solutions (NMDWS)  
-**Filed By:** Mr. Holmes (Declaratory Author, Holmes Enforcement Model)  
-**Case No.:** WH‑25‑00450  
-**Date Submitted:** May 26, 2025  
+# 📎 Attachment A — Structural Summary of Declaratory Filing
+**Title:** Investigatory Labor, Intellectual Rights, Derivative Use Protections & Fee Recovery
+**Filed With:** New Mexico Department of Workforce Solutions (NMDWS)
+**Filed By:** Mr. Holmes (Declaratory Author, Holmes Enforcement Model)
+**Case No.:** WH‑25‑00450
+**Date Submitted:** May 26, 2025
 **Public Mirror:** https://github.com/Gamerdudee/holmes-enforcement-model
 
 ---
@@ -88,16 +89,16 @@ This filing was accepted into the record by NMDWS as part of Case WH‑25‑0045
 
 ## 📜 Confirmed Procedural Triggers
 
-- **Public Mirror Activated:** GitHub & Archive.org (May 26–27, 2025)  
-- **Pre-call Licensing Notice Sent:** May 27, 2025 (12:09 PM)  
-- **Case Closed by NMDWS Without Rebuttal:** May 28, 2025 (Letter from Samantha Swain)  
-- **No NDA Returned, No Licensing Dialogue Initiated**  
+- **Public Mirror Activated:** GitHub & Archive.org (May 26–27, 2025)
+- **Pre-call Licensing Notice Sent:** May 27, 2025 (12:09 PM)
+- **Case Closed by NMDWS Without Rebuttal:** May 28, 2025 (Letter from Samantha Swain)
+- **No NDA Returned, No Licensing Dialogue Initiated**
 
 ---
 
 ## 💼 Legal Enforcement Statement
 
-> "Use of this document or its derivative logic, by any administrative actor, constitutes licensing activation under Clause CU-1.4.  
+> "Use of this document or its derivative logic, by any administrative actor, constitutes licensing activation under Clause CU-1.4.
 > Silence in response to the clause structure shall activate CU-2.2 and CU-2.3 in full."
 
 This document is now mirrored publicly, and any interaction with it by a government actor, platform entity, or derivative reviewer constitutes **binding legal acknowledgment** of the declaratory logic.
@@ -108,15 +109,15 @@ This document is now mirrored publicly, and any interaction with it by a governm
 
 In accordance with HEM Clause G-7:
 
-> "No agency, court, or administrative body may process, review, or alter this clause-bound doctrine without either:  
-> (1) entering a declaratory license, or  
+> "No agency, court, or administrative body may process, review, or alter this clause-bound doctrine without either:
+> (1) entering a declaratory license, or
 > (2) rebutting authorship under perjury oath."
 
 ---
 
 ## 📁 Repository Access
 
-GitHub: [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)  
+GitHub: [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 Affidavit Archive: [https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505](https://archive.org/details/holmes-affidavit-of-authorship-and-licensing_202505)
 
 ---
@@ -132,8 +133,8 @@ As of submission, the model is now:
 
 No further filing is required to trigger enforceable obligations.
 
-  
-**Submitted:** May 26, 2025  
+
+**Submitted:** May 26, 2025
 **Filed By:** Mr. Holmes (Declaratory Sovereign, HEM)
 
 ---
@@ -163,3 +164,4 @@ This procedural expansion is now LIVE and triggers:
 **Attempted Circumvention = Procedural Breach**
 
 Filed June 30, 2025 – Mr. Holmes, Declaratory Author of HEM
+

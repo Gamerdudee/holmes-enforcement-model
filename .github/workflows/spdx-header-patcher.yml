@@ -41,19 +41,25 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
 
-          git fetch origin
-          git pull --rebase origin main
-
+          # Stage changes
           git add .
 
+          # If no changes, exit early
           if git diff --cached --quiet; then
             echo "✅ No changes to commit."
           else
             echo "📦 Committing SPDX & SHA-256 updates..."
             git commit -m "🔐 Auto-patched SPDX headers & SHA-256 hashes (SHA for modified files only)"
+
+            # Now pull with rebase to sync with upstream safely
+            git fetch origin
+            git pull --rebase origin main
+
+            # Then push the rebased commit
             git push origin HEAD:main
             echo "🚀 Changes pushed successfully."
           fi
+
 
 
 

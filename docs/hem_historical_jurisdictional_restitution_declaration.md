@@ -1,3 +1,6 @@
+**🧾 Hash Reference (Integrity Binding):**
+`sha256:0e0105623c4d3b6284ccd96b6806d639831dab3f9b0d894d299188d2b53665a5`
+
 <!--
 SPDX-License-Identifier: Declaratory-Royalty  
 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  

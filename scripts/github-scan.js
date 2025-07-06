@@ -1,3 +1,6 @@
+**🧾 Hash Reference (Integrity Binding):**
+`sha256:a26772af381ee00c21ab404c77c0a57474f84ae252535e1804954035e25daeb9`
+
 // SPDX-License-Identifier: Declaratory-Royalty
 // Copyright (c) Mr. Holmes
 // Declaratory Sovereign – Holmes Enforcement Model

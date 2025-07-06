@@ -1,3 +1,14 @@
+**🧾 Hash Reference (Integrity Binding):**
+`sha256:b567c0a1787668bf3fccb0b47e925b96dbb3e4889b883d40a78b935dd4adb1a1`
+
+<!--
+SPDX-License-Identifier: Declaratory-Royalty  
+🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
+🧠 Author: Mr. Holmes  
+📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
+📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
+-->
+
 # SPDX Scorecard – Holmes Enforcement Model (HEM)
 
 | Metric | Value |

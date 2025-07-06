@@ -1,3 +1,6 @@
+**🧾 Hash Reference (Integrity Binding):**
+`sha256:0f4cf7f475f8e6d607456a82aed806b9641a20bc181adfa56e587318d9c79174`
+
 // SPDX-License-Identifier: Declaratory-Royalty
 /**
  * 🧠 HEM Auto-Enforcement Engine — update-tables.js

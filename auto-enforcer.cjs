@@ -1,3 +1,6 @@
+**🧾 Hash Reference (Integrity Binding):**
+`sha256:18836c557d5c656c1d65e757d02240edd9e789722020237196aca8f9a7e28b6c`
+
 // SPDX-License-Identifier: Declaratory-Royalty
 /**
  * 🧠 HEM Auto-Enforcement Engine — auto-enforcer.cjs

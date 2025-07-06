@@ -1,4 +1,5 @@
 SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:8ae035c057879d31fa33cf0ac2be245dd79501085830faca3c8e7292454aff84
 
 This document is part of the Holmes Enforcement Model repository.
 Please see LICENSE-HEM.md for licensing details.

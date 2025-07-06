@@ -1,4 +1,7 @@
 Hash:
+`sha256:0a43f3181e895f47b16cd1db54b76fdecc07b230162ba6e47c2da21d4f1411ce`
+
+Hash:
 `sha256:f35e0cf8f2b14a01f6ad304c349f9b4d7ef333aa6e478049d7ba47a6e5abf67e`
 
 Hash:
@@ -6,6 +9,7 @@ Hash:
 
 <!--
 SPDX-License-Identifier: Declaratory-Royalty  
+// Hash: sha256:b42c9fe02c02e69de87d842b52599d30d11a9ff1db411f4c479f3df5b35e0efd
 🔒 Holmes Enforcement Model (HEM) – Declaratory Sovereign Logic  
 🧠 Author: Mr. Holmes  
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  

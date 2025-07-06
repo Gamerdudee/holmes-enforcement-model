@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: Declaratory-Royalty
 // Hash: sha256:53ee640d5acf28f07445b129a4ef88a7b540f39045d6dab25b842725f09df80c
 
+// SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:6d6b4f8e46a47bc21ae243a50fc80d9c35d2bc038d0e548c2eced6e839f9c0fc
+
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
@@ -8,13 +11,6 @@ const { execSync } = require('child_process');
 
 const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
 const skipExtensions = ['.json', '.png', '.jpg', '.jpeg', '.svg'];
-
-const filteredFiles = files.filter(file => {
-  const ext = path.extname(file);
-  const inSkipDir = skipDirs.some(dir => file.startsWith(`${dir}/`) || file.includes(`/${dir}/`));
-  const hasSkipExt = skipExtensions.includes(ext);
-  return !inSkipDir && !hasSkipExt;
-});
 
 function computeHash(filePath) {
   const fileBuffer = fs.readFileSync(filePath);
@@ -32,7 +28,6 @@ function getChangedFiles() {
   }
   return [];
 }
-
 
 function patchHash(filePath, hash) {
   const content = fs.readFileSync(filePath, 'utf8');
@@ -57,7 +52,18 @@ function patchHash(filePath, hash) {
 
 console.log('🔍 Scanning modified files...');
 
+// Step 1: Get changed files from Git
 const files = getChangedFiles();
+
+// Step 2: Filter out skipped directories and extensions
+const filteredFiles = files.filter(file => {
+  const ext = path.extname(file);
+  const inSkipDir = skipDirs.some(dir => file.startsWith(`${dir}/`) || file.includes(`/${dir}/`));
+  const hasSkipExt = skipExtensions.includes(ext);
+  return !inSkipDir && !hasSkipExt;
+});
+
+// Step 3: Apply hashing and patch
 const summary = [];
 
 filteredFiles.forEach(file => {
@@ -70,5 +76,6 @@ filteredFiles.forEach(file => {
   }
 });
 
+// Step 4: Write hash summary
 fs.writeFileSync('HEM-hash-summary.txt', summary.join('\n'), 'utf8');
 console.log('\n📄 Summary saved to: HEM-hash-summary.txt');

@@ -15,16 +15,17 @@ function computeHash(filePath) {
 }
 
 function getChangedFiles() {
-  const output = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' });
-  return output
-    .split('\n')
-    .filter(file => file.trim() !== '')
-    .filter(file => fs.existsSync(file))
-    .filter(file => {
-      const ext = path.extname(file);
-      return !skipExtensions.includes(ext) && !skipDirs.some(dir => file.startsWith(dir + '/'));
-    });
+  try {
+    const diff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' }).trim();
+    if (diff) return diff.split('\n');
+  } catch {
+    // Fallback: get modified files in working tree (first commit or detached HEAD)
+    const modified = execSync('git ls-files -m', { encoding: 'utf8' }).trim();
+    if (modified) return modified.split('\n');
+  }
+  return [];
 }
+
 
 function patchHash(filePath, hash) {
   const content = fs.readFileSync(filePath, 'utf8');

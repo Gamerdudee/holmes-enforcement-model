@@ -1,4 +1,4 @@
-name: SPDX Header Auto-Patcher
+name: SPDX Header & Sha-256 Hash Auto-Patcher
 
 permissions:
   contents: write

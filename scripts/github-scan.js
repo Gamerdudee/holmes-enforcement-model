@@ -1,5 +1,5 @@
-**🧾 Hash Reference (Integrity Binding):**
-`sha256:a26772af381ee00c21ab404c77c0a57474f84ae252535e1804954035e25daeb9`
+Hash:
+`sha256:68ac443af63d37d560a2813e78239331cd9754917db52e84c77a0e17de9f07c6`
 
 // SPDX-License-Identifier: Declaratory-Royalty
 // Copyright (c) Mr. Holmes

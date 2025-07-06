@@ -1,5 +1,5 @@
-**🧾 Hash Reference (Integrity Binding):**
-`sha256:9a0bf3160316f435f9b03bbc6094be0c55a2ee7cbc33649028a91863f21e9eef`
+Hash:
+`sha256:28bbb36b7e5de8e3f31811efb98021be78dbe98581355a2d2073965f125819d1`
 
 <!--
 SPDX-License-Identifier: Declaratory-Royalty  

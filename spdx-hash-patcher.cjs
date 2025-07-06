@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: Declaratory-Royalty
 // Hash: sha256:9a173bdb6d05480d052399038eb9c09c7b40831df94e1f86e67fd2196accf5a1
+// SPDX-License-Identifier: Declaratory-Royalty
+// Hash: sha256:<initial_hash_placeholder>
 
 const fs = require('fs');
 const path = require('path');
@@ -14,47 +16,78 @@ function getChangedFiles() {
     const diff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' }).trim();
     if (diff) return diff.split('\n');
   } catch {
-    const modified = execSync('git ls-files -m', { encoding: 'utf8' }).trim();
-    if (modified) return modified.split('\n');
+    try {
+      const modified = execSync('git ls-files -m', { encoding: 'utf8' }).trim();
+      if (modified) return modified.split('\n');
+    } catch {
+      // fallback empty list
+    }
   }
   return [];
 }
 
-function computeContentHashWithoutHashLine(filePath) {
-  const content = fs.readFileSync(filePath, 'utf8');
-  const lines = content.split('\n');
+// Normalize content: LF endings, trim trailing whitespace on each line
+function normalizeContent(text) {
+  return text
+    .replace(/\r\n/g, '\n')         // Convert CRLF to LF
+    .split('\n')
+    .map(line => line.replace(/\s+$/g, '')) // Trim trailing spaces
+    .join('\n');
+}
 
-  const cleaned = lines.filter(line => !/^\s*\/\/\s*Hash:\s*sha256:[a-fA-F0-9]{64}/.test(line));
-  const cleanedContent = cleaned.join('\n');
+function computeContentHashWithoutHashLine(filePath) {
+  const contentRaw = fs.readFileSync(filePath, 'utf8');
+
+  // Normalize line endings and trailing whitespace BEFORE removing hash line
+  const contentNormalized = normalizeContent(contentRaw);
+
+  const lines = contentNormalized.split('\n');
+
+  // Remove existing hash line(s)
+  const filteredLines = lines.filter(line => !/^\s*\/\/\s*Hash:\s*sha256:[a-fA-F0-9]{64}/.test(line));
+
+  const cleanedContent = filteredLines.join('\n');
+
+  const hash = crypto.createHash('sha256').update(cleanedContent).digest('hex');
 
   return {
-    hash: crypto.createHash('sha256').update(cleanedContent).digest('hex'),
-    cleanedLines: cleaned,
-    originalLines: lines
+    hash,
+    cleanedLines: filteredLines,
+    originalLines: lines,
+    originalContentRaw: contentRaw,
+    contentNormalized,
   };
 }
 
 function patchHash(filePath) {
-  const { hash, cleanedLines, originalLines } = computeContentHashWithoutHashLine(filePath);
+  const {
+    hash: newHash,
+    cleanedLines,
+    originalLines,
+    originalContentRaw,
+    contentNormalized
+  } = computeContentHashWithoutHashLine(filePath);
 
+  // Find existing hash line
   const existingHashLine = originalLines.find(line =>
     line.match(/^\s*\/\/\s*Hash:\s*sha256:[a-fA-F0-9]{64}/)
   );
 
   const currentHash = existingHashLine?.match(/sha256:([a-fA-F0-9]{64})/)?.[1];
 
-  // If hash is the same, no need to rewrite
-  if (currentHash === hash) {
-    console.log(`⏭️  Skipped (unchanged): ${filePath}`);
+  if (currentHash === newHash) {
+    console.log(`⏭️  Skipped (hash matches): ${filePath}`);
     return false;
   }
 
+  // Detect SPDX-License line index
   const SPDX_INDEX = originalLines.findIndex(line =>
     line.includes('SPDX-License-Identifier')
   );
 
+  // Insert hash line after SPDX line or at top if not found
   const newLines = [...cleanedLines];
-  const hashLine = `// Hash: sha256:${hash}`;
+  const hashLine = `// Hash: sha256:${newHash}`;
 
   if (SPDX_INDEX !== -1) {
     newLines.splice(SPDX_INDEX + 1, 0, hashLine);
@@ -62,8 +95,26 @@ function patchHash(filePath) {
     newLines.unshift(hashLine);
   }
 
-  fs.writeFileSync(filePath, newLines.join('\n'), 'utf8');
+  // Prepare final content with normalized LF endings and no trailing spaces
+  const finalContent = newLines.join('\n') + '\n';  // Add trailing newline for POSIX compliance
+
+  // Compare current file content (normalized) to final content
+  const normalizedFinalContent = normalizeContent(finalContent);
+
+  if (contentNormalized === normalizedFinalContent) {
+    console.log(`⏭️  Skipped (content identical after normalization): ${filePath}`);
+    return false;
+  }
+
+  // Debug logging for diffs (optional)
+  // You can install 'diff' npm package for better diffs, or just print lengths for now
+  console.log(`📝 Updating hash line in: ${filePath}`);
+  console.log(` - Old hash: ${currentHash}`);
+  console.log(` - New hash: ${newHash}`);
+
+  fs.writeFileSync(filePath, finalContent, 'utf8');
   console.log(`✅ Patched: ${filePath}`);
+
   return true;
 }
 

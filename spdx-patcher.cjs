@@ -6,6 +6,10 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
+
+const skipDirs = ['node_modules', 'mnt/data', '.git', '.github'];
+const HASH_LABEL = '**🧾 Hash Reference (Integrity Binding):**';
 
 const trackedExtensions = {
   '.js': '// SPDX-License-Identifier: Declaratory-Royalty',
@@ -29,7 +33,6 @@ const trackedExtensions = {
   '.c': '// SPDX-License-Identifier: Declaratory-Royalty',
   '.h': '// SPDX-License-Identifier: Declaratory-Royalty',
   '.hpp': '// SPDX-License-Identifier: Declaratory-Royalty',
-
   '.cs': '// SPDX-License-Identifier: Declaratory-Royalty',
 
   '.html': '<!-- SPDX-License-Identifier: Declaratory-Royalty -->',
@@ -42,9 +45,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 🧠 Author: Mr. Holmes  
 📜 License: Declaratory Royalty License (see LICENSE-HEM.md)  
 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model  
--->
-
-`,
+-->`,
 
   '.css': '/* SPDX-License-Identifier: Declaratory-Royalty */',
   '.scss': '/* SPDX-License-Identifier: Declaratory-Royalty */',
@@ -52,20 +53,42 @@ SPDX-License-Identifier: Declaratory-Royalty
 
   '.yml': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.yaml': '# SPDX-License-Identifier: Declaratory-Royalty',
-  //'.json': '// SPDX-License-Identifier: Declaratory-Royalty',
   '.toml': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.ini': '# SPDX-License-Identifier: Declaratory-Royalty',
   '.env': '# SPDX-License-Identifier: Declaratory-Royalty',
 };
 
-function insertHeaderIfMissing(filePath, header) {
-  const content = fs.readFileSync(filePath, 'utf-8');
+function computeSHA256(content) {
+  return crypto.createHash('sha256').update(content).digest('hex');
+}
 
-  // Avoid injecting into binary or already-compliant files
-  if (content.includes('SPDX-License-Identifier')) return;
+function patchFile(fullPath, ext) {
+  let content = fs.readFileSync(fullPath, 'utf8');
+  let original = content;
 
-  console.log(`🛠️ Inserting SPDX header into: ${filePath}`);
-  fs.writeFileSync(filePath, `${header}\n${content}`);
+  // Insert SPDX header if missing
+  const spdxHeader = trackedExtensions[ext];
+  if (!content.includes('SPDX-License-Identifier')) {
+    console.log(`🛠️ Inserting SPDX header: ${fullPath}`);
+    content = `${spdxHeader}\n\n${content}`;
+  }
+
+  // Generate SHA
+  const hash = computeSHA256(content);
+  const hashBlock = `${HASH_LABEL}\n\`sha256:${hash}\``;
+  const hashRegex = new RegExp(`\\*\\*🧾 Hash Reference.*?\\n\`sha256:.*?\``, 'i');
+
+  if (hashRegex.test(content)) {
+    content = content.replace(hashRegex, hashBlock);
+  } else {
+    content = `${hashBlock}\n\n${content}`;
+  }
+
+  // Only write if changed
+  if (content !== original) {
+    fs.writeFileSync(fullPath, content, 'utf8');
+    console.log(`✅ Patched SPDX + SHA: ${fullPath}`);
+  }
 }
 
 function scanDir(dir = '.') {
@@ -73,15 +96,12 @@ function scanDir(dir = '.') {
     const fullPath = path.join(dir, entry.name);
 
     if (entry.isDirectory()) {
-      if (!skipDirs.includes(entry.name)) {
-        scanDir(fullPath);
-      }
+      if (!skipDirs.includes(entry.name)) scanDir(fullPath);
     } else {
-      const ext = path.extname(entry.name);
-      const header = trackedExtensions[ext];
-      if (header) {
+      const ext = path.extname(entry.name).toLowerCase();
+      if (trackedExtensions[ext]) {
         try {
-          insertHeaderIfMissing(fullPath, header);
+          patchFile(fullPath, ext);
         } catch (err) {
           console.warn(`⚠️ Skipped ${fullPath}: ${err.message}`);
         }
@@ -90,7 +110,5 @@ function scanDir(dir = '.') {
   });
 }
 
-const skipDirs = ['node_modules', 'mnt/data', '.git', '.github'];
 scanDir();
-console.log('\n✅ SPDX header patching complete.');
-
+console.log('\n✅ SPDX + SHA patching complete.');

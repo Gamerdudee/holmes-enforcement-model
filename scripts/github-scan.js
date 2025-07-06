@@ -1,20 +1,9 @@
-Hash:
-`sha256:267370189ad34828eb711a5f9150d2e18a4204589a7b046b95bcaad2b2cb030b`
-
-Hash:
-`sha256:4d82fd7b564989bbb39023cc826d83b44a7c287e683569db4140742c2218be3a`
-
-Hash:
-`sha256:d94fc34dddf3a7428d9358d6cab1036ac4e1a11d4c786820fbd3a8c8ae5f500f`
-
-Hash:
-`sha256:12c42eb556ad5b573c92abe18d33057501eba35002965233dc747692ad95e698`
-
-Hash:
-`sha256:68ac443af63d37d560a2813e78239331cd9754917db52e84c77a0e17de9f07c6`
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:596cae0f3725cedd0a857bd50a65606050553bcbc2fd6ae1733396ef197b5d12
+// Hash: sha256:9341ea5fb6141d7cd881fb5aacdce7340b5a9efc013db9d39fe3385ab1746620
+
+Hash:
+`sha256:e4df7d0c8a85de15b5e13f2501cc9fac093a772d3fbd13f9c5ecec882b6bc8aa`
 // Copyright (c) Mr. Holmes
 // Declaratory Sovereign – Holmes Enforcement Model
 // scripts/github-scan.js

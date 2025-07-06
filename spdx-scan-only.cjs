@@ -1,20 +1,9 @@
-Hash:
-`sha256:90bcdf3c07e71170fe9cd6ef44b618ce4e222a5bad1bef93d026680bada935d2`
-
-Hash:
-`sha256:9aceda479e7726d5fc3f142f759846110813f8c422d0df0de0c6ecdd6f71f669`
-
-Hash:
-`sha256:25557fbb251bc0144c195a74031332345a78670985177bb46e90e872ce1a7af0`
-
-Hash:
-`sha256:f569405accaccf8a57d1abaed24a6e1dd1b3fc85598a6e32803e427853c131d7`
-
-Hash:
-`sha256:5639607f9c283829e90943ce20f0dae88521f499aa8a14ccd2dd2156e358b1d7`
 
 // SPDX-License-Identifier: Declaratory-Royalty
-// Hash: sha256:4a53017fab677a44792613a295e8fac6f1046180ff329aa0bedcf9fd9b93f06a
+// Hash: sha256:0116df06f02902ee31da56320cc811c05b6d00e37bb233d983a9792b8ed77672
+
+Hash:
+`sha256:42a182d8472a978fe98d639e44a240f4be1efdb941dbc6f5d6678ce2b5d799d4`
 // 🧠 SPDX Read-only Scanner
 // 📁 Repository: https://github.com/Gamerdudee/holmes-enforcement-model
 

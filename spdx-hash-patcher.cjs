@@ -11,7 +11,7 @@ const { execSync } = require('child_process');
 const skipDirs = ['node_modules', '.git', '.github', 'mnt/data'];
 const skipExtensions = ['.json', '.png', '.jpg', '.jpeg', '.svg'];
 
-function getChangedFiles() {
+//function getChangedFiles() {
   try {
     const diff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' }).trim();
     if (diff) return diff.split('\n');

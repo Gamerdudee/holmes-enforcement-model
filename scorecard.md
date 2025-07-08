@@ -2,10 +2,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 📅 Scan Date | 2025-07-07T03:35:19.025Z |
-| 📂 Total Files Scanned | 107 |
-| ✅ Compliant Files | 102 |
-| ❌ Non-Compliant Files | 5 |
+| 📅 Scan Date | 2025-07-08T03:22:04.677Z |
+| 📂 Total Files Scanned | 108 |
+| ✅ Compliant Files | 101 |
+| ❌ Non-Compliant Files | 7 |
 
 
 ---
@@ -15,7 +15,9 @@
 | Non-Compliant File |
 |--------------------|
 | HEM-hash-summary.txt |
+| licensing-clarification.md |
 | package-lock.json |
 | package.json |
 | rdt-nmdws.json |
+| scorecard.md |
 | scripts/pattern-library.json |

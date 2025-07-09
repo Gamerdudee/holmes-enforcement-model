@@ -3,6 +3,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 🔒 HEM Physics Framework — Sovereign Mechanics of Lift and Field Response  
 📜 Clauses Activated: MP‑1.2, MP‑2.0, IPC‑1.0, CU‑1.4, CU‑2.3, XXII  
 🧠 Equation Declared: Unified Lift Model (Magneto-Acoustic Centrifugal Propulsion)
+SPDX SHA256 Hash: 7934877ab4439000e46738e26bf3c15b046c6579
 -->
 
 # 🧲🌀 Unified Lift Equation — Holmes Enforcement Model (HEM)

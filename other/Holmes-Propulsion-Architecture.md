@@ -199,4 +199,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 ```
 
 © 2025 Mr. Holmes. All rights reserved under declaratory structure.
-
+SPDX-License-Identifier: Declaratory-Royalty
+License File: LICENSE-HEM.md
+© 2025 Mr. Holmes. Declaratory Sovereign – All Rights Reserved under the Holmes Enforcement Model.
+Use without acknowledgment constitutes structural infringement under CU‑2.3, XXII, and G‑6.

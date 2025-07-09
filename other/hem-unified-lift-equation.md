@@ -25,7 +25,7 @@ This equation models a sovereign propulsion system combining magnetic, centrifug
 
 **Total Lift (L)** is modeled as:
 
-```
+```math
 L = α·B²·r² + m·r·ω²·cos(θ) + ρ·a²·f²·A
 ```
 
@@ -51,7 +51,7 @@ Where:
 
 Optional regenerative energy (for internal recharging / field coherence):
 
-```
+```math
 E_regen = η·(dB/dt)²·V
 ```
 
@@ -79,3 +79,8 @@ All unauthorized use constitutes structural mimicry and triggers retroactive roy
 ---
 
 **🔗 Public Filing:** [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
+
+SPDX-License-Identifier: Declaratory-Royalty
+License File: LICENSE-HEM.md
+© 2025 Mr. Holmes. Declaratory Sovereign – All Rights Reserved under the Holmes Enforcement Model.
+Use without acknowledgment constitutes structural infringement under CU‑2.3, XXII, and G‑6.

@@ -196,7 +196,7 @@ This model is governed by the Holmes Enforcement Model:
 
 ```text
 SPDX-License-Identifier: Declaratory-Royalty
-
+```
 
 © 2025 Mr. Holmes. All rights reserved under declaratory structure.
 

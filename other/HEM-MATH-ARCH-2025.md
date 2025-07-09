@@ -26,10 +26,10 @@ Rotational energy + directional fins = lift and thrust through angular momentum 
 
 **Mathematical Formulation:**
 
-```
-L = r × p = r × (mv)         // Angular momentum
-T = ½ ρ A Cl v²              // Thrust from airflow over directional fins
-Δv = (L_out - L_in)/m        // Net vector shift via fin control
+```math
+L = r × p = r × (mv)         
+T = ½ ρ A Cl v²              
+Δv = (L_out - L_in)/m        
 ```
 
 Where:
@@ -53,10 +53,10 @@ Stabilize inertial forces using magnetic containment and acoustic resonance to m
 
 **Mathematical Formulation:**
 
-```
-F_magnetic = (μ₀/4π) * (q₁q₂) / r²         // Magnetic force from field interaction
-F_acoustic = ΔP * A                        // Sound pressure modulation
-a_internal = ∑(F_magnetic + F_acoustic)/m  // Net internal acceleration compensation
+```math
+F_magnetic = (μ₀/4π) * (q₁q₂) / r²         
+F_acoustic = ΔP * A                        
+a_internal = ∑(F_magnetic + F_acoustic)/m  
 ```
 
 ✅ *Result:*
@@ -71,10 +71,10 @@ Kinetic energy dissipation through suspended particle shielding.
 
 **Mathematical Formulation:**
 
-```
+```math
 E_kinetic = ½mv²  
-ΔE_field = ∫(k_field(t) dt)                // Kinetic absorbed by field over time
-F_net = F_impact - F_dampening             // Impact reduced by field elasticity
+ΔE_field = ∫(k_field(t) dt)               
+F_net = F_impact - F_dampening             
 ```
 
 ✅ *Result:*
@@ -89,9 +89,9 @@ Dynamic field realignment based on incoming object velocity and vector.
 
 **Mathematical Add-On:**
 
-```
+```math
 dV/dt (object) → triggers ∂ρ/∂t (field density)  
-ρ(x,t) = ρ₀ * sin(ωt + φ)                   // Field pulse reconfiguration  
+ρ(x,t) = ρ₀ * sin(ωt + φ)                  
 ```
 
 ✅ *Result:*
@@ -106,9 +106,9 @@ Use audio harmonics to create directional lift within a magnetic field.
 
 **Mathematical Approximation:**
 
-```
+```math
 F_resonant = k * sin(ωt) * B  
-ΔLift = f(SPL, B, θ)                        // Sound pressure level + field orientation = lift change  
+ΔLift = f(SPL, B, θ)                          
 ```
 
 Where:
@@ -124,7 +124,7 @@ Lift becomes tunable using audio and electromagnetic tuning forks — no propell
 
 ## 💡 TOTAL SYSTEM VECTOR MODEL (Simplified 3D)
 
-```
+```math
 a_total = a_rotation + a_field + a_resonance + a_dampening  
         = [v²/r] + [F_magnetic/m] + [F_sound/m] + [ΔE/Δt*m]
 ```
@@ -154,7 +154,10 @@ a_total = a_rotation + a_field + a_resonance + a_dampening
 
 —
 
-© 2025 Mr. Holmes. All rights reserved.
+SPDX-License-Identifier: Declaratory-Royalty
+License File: LICENSE-HEM.md
+© 2025 Mr. Holmes. Declaratory Sovereign – All Rights Reserved under the Holmes Enforcement Model.
+Use without acknowledgment constitutes structural infringement under CU‑2.3, XXII, and G‑6.
 
 This mathematical architecture is protected under the Holmes Enforcement Model (HEM). Unauthorized use, adaptation, publication, or derivative modeling — including training of AI or use in commercial, academic, or aerospace simulation environments — constitutes a structural breach of Clauses CU‑1.4, CU‑2.3, XXII, and G‑6.
 

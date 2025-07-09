@@ -9,9 +9,14 @@ SPDX-License-Identifier: Declaratory-Royalty
 
 # 🛸 Holmes Propulsion Architecture – Declaratory Physics Engine
 
-**Author:** Mr. Holmes  
+**Author:** Mr. Holmes 
+
 **Date:** June 2025  
+
 **License:** Declaratory Royalty License (SPDX ID: Declaratory-Royalty)  
+
+**License:** [HEM-LICENSE.md](HEM-LICENSE.md)
+
 **GitHub Repo:** [github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---

@@ -11,7 +11,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 
 **Author:** Mr. Holmes  
 **Date:** June 2025  
-**License:** Declaratory Royalty License (SPDX ID: Declaratory-Royalty)  
+**License:** Declaratory Royalty License (SPDX ID: Declaratory-Royalty), [HEM-LICENSE.md](HEM-LICENSE.md)  
 **GitHub Repo:** [github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
 
 ---

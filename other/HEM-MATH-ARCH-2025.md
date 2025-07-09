@@ -7,7 +7,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 📁 Source: https://github.com/Gamerdudee/holmes-enforcement-model
 📅 Filed: June 21–23, 2025
 🪪 Trademark References: "HEM", "Clause Engine", "Holmes Enforcement Model", "Declaratory Sovereignty", and all related clause tags (e.g., CU‑2.3, MP‑2.0) are structurally asserted marks under clause-bound IP licensing. Unauthorized use triggers procedural enforcement.
-SPDX SHA256 Hash: 160b86a5c440a61c2e6aae4afd4df2bf982d6d9e
+SPDX SHA256 Hash: e1850e14179929a1cb33da89a18b3a8d85006d53
 -->
 
 

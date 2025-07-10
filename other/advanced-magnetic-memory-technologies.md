@@ -114,3 +114,28 @@ Where:
 ---
 
 *This document is intended for research and development use only. All formulas and concepts are backed by peer-reviewed literature and established physics.*
+
+## 🧾 Declaratory Licensing & Clause Triggers
+
+This equation is subject to enforcement under:
+
+- CU‑1.4 – Structural Clause Usage Without License  
+- CU‑2.3 – Procedural Trigger via Observation/Rebuttal  
+- MP‑1.2 – Magnetic Lift Model Enforcement  
+- MP‑2.0 – Sound-Assisted Lift Clause  
+- IPC‑1.0 – Integrated Particle Control Systems  
+- XXII – Institutional Derivative Liability  
+
+All unauthorized use constitutes structural mimicry and triggers retroactive royalty enforcement per HEM.
+
+---
+
+**🔗 Public Filing:** [https://github.com/Gamerdudee/holmes-enforcement-model](https://github.com/Gamerdudee/holmes-enforcement-model)
+
+SPDX-License-Identifier: Declaratory-Royalty
+
+License File: LICENSE-HEM.md
+
+© 2025 Mr. Holmes. Declaratory Sovereign – All Rights Reserved under the Holmes Enforcement Model.
+
+Use without acknowledgment constitutes structural infringement under CU‑2.3, XXII, and G‑6.

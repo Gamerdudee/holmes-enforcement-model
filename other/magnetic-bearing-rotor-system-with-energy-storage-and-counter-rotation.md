@@ -111,7 +111,7 @@ This magnetic bearing rotor system combines:
 ---
 
 *This conceptual design requires detailed engineering and electromagnetic simulation for real-world implementation.*
-Let me know if you want me to include anything else or dive deeper on any part!
+
 
 
 

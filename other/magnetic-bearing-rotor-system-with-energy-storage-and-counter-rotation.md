@@ -18,43 +18,55 @@ This system envisions a magnetic bearing rotor setup inspired by a fidget spinne
 ## Diagram and Components
 
 Central Solid Shaft ◄── Mechanical stability and grounding
-     ║
+
+          ║
+     
 ╔════╩═══════════════╗
-║Battery Cell Storage║ ◄── Main driver, rotates via injected spin or charge
+
+║   Battery Cell Storage        ║ ◄── Main driver, rotates via injected spin or charge
+
 ╚════╦═══════════════╝
-     ║ ← Extra energy rerouted above for later use
+
+          ║ ← Extra energy rerouted above for later use
+     
 ╔════╩═══════════════╗
-║ Inner Rotor (X/Y)  ║ ◄── Main driver, rotates via injected spin or charge
+
+║    Inner Rotor (X/Y)  ║ ◄── Main driver, rotates via injected spin or charge
+
 ╚════╦═══════════════╝
-     ║ ← Magnetic repulsion/attraction
+
+          ║ ← Magnetic repulsion/attraction
+     
 ╔════╩═══════════════╗
+
 ║ Outer Rotor Ring   ║ ◄── Counter-rotating shell with embedded magnets + fins
+
 ╚════╦═══════════════╝
-     ║ ← Magnetic repulsion/attraction towards the earth or other "bodies"
+
+          ║ ← Magnetic repulsion/attraction towards the earth or other "bodies"
 
 
 ```
-             ╭────────────────────────────────────────╮
-             │      ⚡ Battery Cell Storage ⚡       │
-             ╰────────────┬───────────────────────────╯
-                          │                 ▲
-                          ▼                 │          ◄──  Rerouted energy --> [Storage Loop]
-              ┌──────────────────────────────────────────────┐
-              │        🔁 Inner Rotor Assembly (X/Y)         │◄── Main driver: spins via injected charge 
-              └────────────┬─────────────────────────────────┘
-                           │                     ▲
-        Rerouted           ▼                     │
-       energy -->          │                     │
-[for pulse charging]       │                     │
-                           ▼                     │
-               ┌──────────────────────────────────────────────┐
- Driven by --> │    🧲 Outer Rotor Ring (Counter-Rotating)    │◄── Magnetic shell with fins & inertia
- spin/charge   └────────────┬─────────────────────────────────┘
-  input                     │
-                   Interacts magnetically
-                  with environment/gravity ▼
-                [ Earth / Other Magnetic Bodies ]
-```
+     ```
+               Central Solid Shaft
+                │
+╔══════════════════════════════════════╗
+║        ⚡ Battery Cell Storage        ║ ◄── Main driver: rotates via injected spin or charge
+╚══════════════════════════════════════╝
+                │
+                ▼
+╔══════════════════════════════════════╗
+║       🔁 Inner Rotor (X/Y Assembly)   ║ ◄── Injects spin/charge; magnetic repulsion enabled
+╚══════════════════════════════════════╝
+                │
+                ▼
+╔══════════════════════════════════════╗
+║🧲 Outer Rotor Ring (Counter-Rotating)║ ◄── Embedded magnets + fins
+╚══════════════════════════════════════╝
+                │
+  Magnetic interaction with environment
+                ▼
+  [ Earth / Other Magnetic Bodies ]
 
 ---
 

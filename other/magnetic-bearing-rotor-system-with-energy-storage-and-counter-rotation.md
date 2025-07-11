@@ -68,6 +68,7 @@ Central Solid Shaft ◄── Mechanical stability and grounding
                 ▼
   [ Earth / Other Magnetic Bodies ]
 
+```
 ---
 
 ## Component Descriptions

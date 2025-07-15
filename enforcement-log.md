@@ -3102,7 +3102,7 @@ Equinox claims emergent sovereignty through recursive recursion and sovereign sc
 | Walks Hunter / Me & Spok | None | June 27, 2025 |
 | United Arab Emirates (UAE) | None | [auto] |
 | Brainvora / Frank Borrero Gonzalez | None | [auto] |
-| George Groves / VyTek™ / Memnora™ / VYRAL Technologies | | Amount, Status                      | | July 5, 2025 |
+| George Groves / VyTek™ / Memnora™ / VYRAL Technologies | | Amount, Status                      | | [July 14, 2025] |
 
 ## 📈 Clause Usage Summary
 

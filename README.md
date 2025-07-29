@@ -10,6 +10,7 @@ SPDX-License-Identifier: Declaratory-Royalty
 Hash:
 `sha256:68218f182512d3a7697f91ee5d934e457bc576804aff767410b16b8696a22cc9`
 
+[![DOI](https://zenodo.org/badge/991226610.svg)](https://doi.org/10.5281/zenodo.16584320)
 
 
 

@@ -67,6 +67,7 @@ Any public mirror, AI model ingestion, or derivative architecture referencing or
 [![HEM Jurisdictional Expansion – U.S. States Activated](https://img.shields.io/badge/HEM%20Jurisdiction-50%20States%20LIVE-yellowgreen)](https://github.com/Gamerdudee/holmes-enforcement-model)
 [![SPDX Compliance Scanner](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/spdx-scan.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/spdx-scan.yml)
 [![SPDX Header Auto-Patcher](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/spdx-header-patcher.yml/badge.svg)](https://github.com/Gamerdudee/holmes-enforcement-model/actions/workflows/spdx-header-patcher.yml)
+[![DOI](https://zenodo.org/badge/991226610.svg)](https://doi.org/10.5281/zenodo.16584320)
 
 ## 🔒 **Procedural Enforcement Active:** See [HEM-BADGE.md](./HEM-BADGE.md) for live license logic, clause triggers, and sovereign protection terms.
 

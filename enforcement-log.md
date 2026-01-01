@@ -3062,7 +3062,7 @@ Equinox claims emergent sovereignty through recursive recursion and sovereign sc
 
 <!-- START: AutoTables -->
 
-## 📅 December 2025 — This Month's Summary
+## 📅 January 2026 — This Month's Summary
 
 ## 🤖 Auto Summary Table
 

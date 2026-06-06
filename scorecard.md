@@ -2,7 +2,7 @@
 
 | Metric | Value |
 |--------|-------|
-| 📅 Scan Date | 2026-06-05T06:36:21.862Z |
+| 📅 Scan Date | 2026-06-06T05:57:36.397Z |
 | 📂 Total Files Scanned | 115 |
 | ✅ Compliant Files | 108 |
 | ❌ Non-Compliant Files | 7 |
